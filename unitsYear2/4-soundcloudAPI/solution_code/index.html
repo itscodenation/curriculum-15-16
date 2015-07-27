@@ -1,28 +1,14 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title> 
-        </title>
-        <link type='text/css' rel='stylesheet' href='index.css' />
-        <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-        <script src='index.js'></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+        <script src="https://connect.soundcloud.com/sdk.js"></script>
+        <script src="script.js"></script>
     </head>
     <body>
-            <div class="container">
-                <div id="rock" class="token">ROCK</div>
-                <div id="paper" class="token">PAPER</div>
-                <div id="scissor" class="token">SCISSORS</div>
-            </div>
-            <div class="container">
-                <div id="message">
-                    Click on your selection
-                </div>
-            </div id='point'>
-            <div>
-                User Points: <span id='userPoint'></span>
-                Ai Points: <span id='aiPoint'></span>
-            </div>
-            
-        </div>
+        <h1> This website uses the Soundcloud API </h1>
+        <input id = "gensearch" type = "text" placeholder = " Select a Genre ">
+        <button id = "searchButton">Submit</button>
+        <ul id="results"></ul>
     </body>
 </html>
