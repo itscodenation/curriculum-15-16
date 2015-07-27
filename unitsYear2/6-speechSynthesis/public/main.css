@@ -1,0 +1,9 @@
+body form * {
+    display: block;
+    margin: 10px;
+}
+
+textarea {
+    height: 60px;
+    width: 300px;
+}

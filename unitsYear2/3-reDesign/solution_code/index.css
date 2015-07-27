@@ -1,0 +1,24 @@
+.container { 
+    width: 800px;
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.token { 
+    width: 32%; 
+    border: 1px solid blue; 
+    margin-left: 1px;
+    float:left;
+    text-align: center;
+    padding: 50px 0px 50px 0px;
+    font-size: x-large;
+}
+#message {
+    text-align: center;
+}
+#point {
+    text-align: center;
+    width: 100%;
+}
