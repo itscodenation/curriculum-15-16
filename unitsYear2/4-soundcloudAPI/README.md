@@ -5,7 +5,8 @@
 Begin this session by completing the [Do Now](doNow.md) activity.
 
 ##Scope
-You have just been contracted by Old Games, New Programs LLC. They have asked you to make a webapp for Rock, Paper, Scissors. This project was originally contracted to an intern that did not finish the project. Your manager has given you one week to take the former intern's starter code and make a fully functioning game.  
+You have just been hired by APIs R US inc. This company relies entirely on using API for the many webapps. As a first project they have asked you to make a simple site that calls on the SOundCloud API to test your skills.  
+Since this is your first project, your manager has provided you with some helpful tools to get started. 
 
 ##Project Criteria
 Your Manager has laid out the following requirements for the project: 

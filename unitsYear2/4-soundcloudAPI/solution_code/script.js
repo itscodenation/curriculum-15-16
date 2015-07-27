@@ -5,7 +5,7 @@ SC.initialize({
 $(document).ready(function() {
   var search =$("#searchButton");
   search.click(function(){
-  var userChoice = $("#gensearch").val();
+  var userChoice = $("#genreSearch").val();
 
   SC.get('/tracks', {genres: userChoice}, function(tracks) {
     $(tracks).each(function(index, track) {
