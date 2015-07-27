@@ -80,7 +80,7 @@ Your Manager has offered a stipend a $500 for each of the bonus requirements lis
 ***
 
 ##Grading Criteria
-Your manager will be grading your capibility on this project based on [this rubric](/assessment.md)
+Your manager will be grading your capibility on this project based on [this rubric](assessment.md)
 
 ##How to Submit
 This project must be pushed back up to your repo on GitHub. Then you will share your link with the instructor
