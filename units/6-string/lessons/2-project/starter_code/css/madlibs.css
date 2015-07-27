@@ -1,0 +1,12 @@
+.container
+{
+	max-width: 768px;
+}
+
+#run-btn
+{
+	margin-top: 10px;
+	width: 100px;
+}
+
+
