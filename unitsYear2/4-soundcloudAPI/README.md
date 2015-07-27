@@ -40,26 +40,12 @@ By the end of this project the employee will be able to...
 ***
 ##Instructions
 
-You are given Starter Code for this project which you must clone into your own workspace.
-You will notice that there are comments inside the script.js file that provide instructions for how components of this project should be made.  
+You are not given any Starter Code for this project. However, your manager has provided you with some useful direction to complete this project. Follow the step-by-step instructions below. 
 
-####In order to make Rock, Paper, Scissors functional you will need to complete the three tasks below:
+Although these directions to not provide all the answers for this project they do provide you with the guidance you will need to make this project.
 
-###1) Clone this repo into your own Cloud9 account workspace
-1. Copy the "clone URL" from this repo
-2. In your Cloud9 dashboard click on the green "Create New Workspace" button and select "Clone from URL"
-
-Once the workspace has been processed check to be sure it is up to date by running ` git status ` in the terminal. You should receive a messege telling you that your branch is up to date.   
-![Imgur](http://i.imgur.com/RKdsduL.png)
-
-**NOTE: It is common practice to push you changes to your GitHub repository often. It is recommended you make a push after every major change. Through the course of completing this project you should make 7-10 pushes to GitHub. Your manager will be grading you on this.**
-
-To push to GitHub run the following commands in your terminal:  
-`git status`  
-`git add .`  
-`git commit -m "example comment"`  
-`git push origin master`
-
+###1) Crate a GitHub repo and C9 workspace for this project
+This should have already been completed during the [Do Now](doNow.md).
 
 ###2) index.html
 The HTML file in this repo is not fully complete as of right now. Follow the comments within the file before moving on to the script.js file.

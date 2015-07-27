@@ -15,8 +15,8 @@ This webpage must also include the following:
 * Three ```script``` tags linked to the following:
  	1. jQuery
  	2. [SoundCloud's JavaScript SDK](developers.soundcloud.com/blog/introducing-javascript-sdk-version-2)  
- 	3. your ```script.js``` file
- 		
+ 	3. Your ```script.js``` file
+ 	  		
 * Your input field must be assigned the id "genreSearch"
-* Your Button must be assigned the id "searchButton"
-* Below the button there must be an unordered list with the id "results"
+* Your button must be assigned the id "searchButton"
+* Below the button must be an empty unordered list with the id "results"
