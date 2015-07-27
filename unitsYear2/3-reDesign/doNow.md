@@ -1,24 +1,9 @@
 #[Do Now] Project 2  - Rock, Paper, Scissors
 
-The do now activity for this session is to write out the rules and conditions for Rock, Paper, Scissors on a piece of paper.
+The do now activity for this session is to visit the homepage for [Weather.com](www.weatehr.com). Once you are on that page answer the following questions on a piece of paper:
 
-**Step one:** complete the chart below on your piece of paper.
+* Do you like the layout of this homepage? (Yes/No)
+* What do you like or not like about it? (list three things)
+* How can this homepage be improved?
 
-| Player1  |  Player2 |  Winner |
-|----------|----------|---------|
-| Rock     | Rock     |         |
-| Rock     | Paper    |         |
-| Rock     | Scissors |         |
-| Paper    | Rock     |         |
-| Paper    | Paper    |         |
-| Paper    | Scissors |         |
-| Scissors | Rock     |         |
-| Scissors | Paper    |         |
-| Scissors | Scissors |         |
-
-
-
-**Step two:** On that same piece of paper with the column chart, write out the basic rules to the game of Rock, Paper, Scissors
-
-
-**NOTE:** If you don't know how to play, play a few games with a teacher or someone next to you.
+After you have answered the questions above make a sketch of how you think this homepage should look. The sketch doe snot have to be detailed but it should layout the different components the site offers.
