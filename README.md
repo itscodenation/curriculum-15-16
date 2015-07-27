@@ -34,7 +34,7 @@ Second year students will be completing their final projects using Cloud9 IDE. T
 | Unit  | Project Number | Skills | Project | API | 
 |-------|:-------:|------|--------------|---------|
 | [1. Scavenger Hunt](unitsYear2/1-JShunt)| 1 | Variables, Functions, Strings, Conditionals, Loops, jQuery | Scavenger hunt of many short programs (<10 lines each) | N/A |
-| [2. Rock, Paper, Scissors](unitsYear2/2-RPS)| 2 | math.random, JQuery, conditionals | A fully fonctional game (user vs. bot) | N/A
+| [2. Rock, Paper, Scissors](https://github.com/ScriptEdcurriculum/rockPaperScissors_Adv)| 2 | math.random, JQuery, conditionals | A fully fonctional game (user vs. bot) | N/A
 | [3. Website ReBranding](unitsYear2/3-reDesign)| 3 | Wireframing, Bootstrap, Paired programming | Redesign a company homepage | N/A
 | [4. Playing Cards](unitsYear2/4-playingCards)|  |  |  | 
 | [5. SoundMood](unitsYear2/5-soundMood) |  |  |  | [SoundCloud](developers.soundcloud.com/docs/api/guide) | 
