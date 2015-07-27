@@ -11,32 +11,31 @@ Since this is your first project, your manager has provided you with some helpfu
 ##Project Criteria
 Your Manager has laid out the following requirements for the project: 
 
-* The game will be a 1 player game (user vs. bot).
-* The bot must randomly choose a throw.
-* The game must keep score.
-* The game must display the winner to the user.
+* The webapp will display the Track Title, Genre and URL for songs tagged with the genre the user inputs.
+* CSS is not a necessary feature for this project 
+
 
 ##Learning Objectives
 By the end of this project the employee will be able to...
 
-* Clone and push a GitHub repository
-* Implement Math.random
-* Use conditions to evaluate a function
-* Use an incrementor
+* Obtain a Client ID by registering their application with SoundCloud
+* Initializa their application using SC.initialize
+* Get information from an API using SC.get
+* Use jQuery to append text to an HTML page
 
 ##References/Tools
 * [Script Tag](http://javascript.crockford.com/script.html)
-* [How Jquery Works](http://learn.jquery.com/about-jquery/how-jquery-works/)
-* [JQuery Events](http://api.jquery.com/category/events/)
-* [Math.random](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random)
+* [SoundCloud Developers Guide](developers.soundcloud.com/docs/api/guide)
+* [HTTP Method explained](http://www.w3schools.com/tags/ref_httpmethods.asp)
+* []()
  
 ##Vocabulary
 
-* Random
-* Function
-* Conditional
-* Evaluate 
-* Return 
+* Client
+* Server
+* API
+* Get 
+* Initialize 
 
 ***
 ##Instructions
