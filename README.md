@@ -36,7 +36,7 @@ Second year students will be completing their final projects using Cloud9 IDE. T
 | [1. Scavenger Hunt](unitsYear2/1-JShunt)| 1 | Variables, Functions, Strings, Conditionals, Loops, jQuery | Scavenger hunt of many short programs (<10 lines each) | N/A |
 | [2. Rock, Paper, Scissors](https://github.com/ScriptEdcurriculum/rockPaperScissors_Adv)| 2 | math.random, JQuery, conditionals | A fully fonctional game (user vs. bot) | N/A
 | [3. Website ReBranding](unitsYear2/3-reDesign)| 3 | Wireframing, Bootstrap, Paired programming | Redesign a company homepage | N/A
-| [4. SoundCloud API](unitsYear2/4-soundcloudAPI)|  |  |  | 
+| [4. SoundCloud API Project](unitsYear2/4-soundcloudAPI)| 4 | API initialization | A site that displays relevant song information based by genre | [SoundCloud](developers.soundcloud.com/docs/api/guide)
 | [5. SoundMood](unitsYear2/5-soundMood) |  |  |  | [SoundCloud](developers.soundcloud.com/docs/api/guide) | 
 | [6. Speech Synthesis](unitsYear2/6-speechSynthesis) |   | Form, API, Responsive Design, http calling, JQuery |  | [Speech Synthesis](http://updates.html5rocks.com/2014/01/Web-apps-that-talk---Introduction-to-the-Speech-Synthesis-API)  [Azure Microsoft Translator](http://msdn.microsoft.com/en-us/library/dd576287.aspx)  [Web Speech]
 | [7. NYC Data Map](unitsYear2/7-dataMap) |   | Big Data, Data Visualization, API, Client Server  | HeatMap of various data pulled from 311 | 
