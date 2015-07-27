@@ -44,14 +44,21 @@ You are not given any Starter Code for this project. However, your manager has p
 
 Although these directions to not provide all the answers for this project they do provide you with the guidance you will need to make this project.
 
-###1) Crate a GitHub repo and C9 workspace for this project
+###1) Create a GitHub repo and C9 workspace for this project
 This should have already been completed during the [Do Now](doNow.md).
 
-###2) index.html
-The HTML file in this repo is not fully complete as of right now. Follow the comments within the file before moving on to the script.js file.
+**Before moving on to step two, ensure your HTML is correct by having an instructor confirm you are ready to move on.** 
 
-###3) script.js
-Use the comments within the script.js file to help you complete the missing components of this game. Luckily, the former intern left very detailed comments that are easy to follow.
+###2) Obtain a Client ID
+In order to use a company's API you must request access and have them send you an API key. SoundCloud asks you to do this by registering your app on the [SoundCloud Developers Guide](developers.soundcloud.com/docs/api/guide) page.
+
+Sign in or create a SoundCloud account to receive you Client ID. After your Client ID has been emailed to you use ```SC.initialize``` to begin using the SoundCloud API.
+
+
+###3) Ready the document
+[jQuery ready function](learn.jquery.com/using-jquery-core/document-ready/)
+set variable to a button click to trigger a function that gets the **value**  of the user input
+4 lines
 
 ###Bonus) 
 Your Manager has offered a stipend a $500 for each of the bonus requirements listed below: 
