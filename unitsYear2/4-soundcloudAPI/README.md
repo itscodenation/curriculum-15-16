@@ -73,7 +73,7 @@ Create a Function called SC.get and have it take in 3 parameters. The three para
 2. An object with the key "genres" and value "userInput"  
 3. A function with the parameter "tracks"  
 
-After theSC.get function has been created you must use the .each function of jQuery to then append text within the resluts id.
+After the SC.get function has been created you must use the .each function of jQuery to then append text within the resluts id.
 
 
 ###6) Display content
