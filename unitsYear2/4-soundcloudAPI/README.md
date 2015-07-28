@@ -83,8 +83,10 @@ You are finally ready to start placing text in your HTML page! Use the [SoundClo
 Your Manager has offered a stipend of $500 for each of the bonus requirements listed below:  
 
 * Display information about the user next to information about the track. Use the [SoundCloud Developers Guide](developers.soundcloud.com/docs/api/guide) for this documentation.
-* Stream a song matching the genre selected. Use the [SoundCloud Developers Guide](developers.soundcloud.com/docs/api/guide) for this documentation.
+* Stream a song matching the genre selected. Use the [SoundCloud Developers Guide](developers.soundcloud.com/docs/api/guide) for this documentation.  
+
 ***
+
 ##Grading Criteria
 Your manager will be grading your capibility on this project based on [this rubric](/assessment.md)
 
