@@ -13,7 +13,8 @@ $(document).ready(function() {
       .text(
       'Track Title: ' + track.title + ' || ' +
       ' Genre: ' + track.genre + ' || ' +
-      ' Listen: ' + track.permalink_url));
+      ' Listen: ' + track.permalink_url
+          ));
        });
     });
   });

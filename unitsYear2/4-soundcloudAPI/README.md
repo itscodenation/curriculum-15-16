@@ -55,18 +55,30 @@ In order to use a company's API you must request access and have them send you a
 Sign in or create a SoundCloud account to receive you Client ID. After your Client ID has been emailed to you use ```SC.initialize``` to begin using the SoundCloud API.
 
 
-###3) Ready the document
-[jQuery ready function](learn.jquery.com/using-jquery-core/document-ready/)
-set variable to a button click to trigger a function that gets the **value**  of the user input
-4 lines
+###3) Ready the Document
+Now that you have initialized the yourwebapp it is time to "ready" the document. For information on how to do this, research the [jQuery ready function](learn.jquery.com/using-jquery-core/document-ready/).  
+*Hint: all of the remaining code for this project will fall inside of this ready function.*
 
-###Bonus) 
-Your Manager has offered a stipend a $500 for each of the bonus requirements listed below: 
 
-* Add CSS to this project using Bootstrap. Give it it's own theme
-* Create a game with more variety in throwing opitons. Example: [Rock-Paper-Scissors-Lizard-Spock](http://en.wikipedia.org/wiki/Rock-paper-scissors-lizard-Spock) 
-***
+###4) Interpret User Input
+Now that the document is ready you must store the user's response in a variable.  
 
+In order to achieve this set a variable equal to the id of your button. Then use the ```.click``` function to set the **value**  of the user input to a new variable called ```userChoice```.     
+*Hint: this can be accomplished in 3 lines of code. before moving on to step 5 check this code is working by logging userChoice to the console.*  
+
+###5) SC.get
+Now that you have stored the value of the user input it is time to use it with the SoundCloud API.  
+Create a Function called SC.get and have it take in 3 parameters. The three parameters you will pass are..  
+1. /tracks
+2. An object with the key "genres" and value "userInput"  
+3. A function with the parameter "tracks"  
+
+After theSC.get function has been created you must use the .each function of jQuery to then append text within the resluts id.
+
+
+###6) Display content
+You are finally ready to start placing text in your HTML page! Use the [SoundCloud API reference](https://developers.soundcloud.com/docs/api/reference#tracks) to do this. You may choose any three properties to display on your page for each song.
+_______
 ##Grading Criteria
 Your manager will be grading your capibility on this project based on [this rubric](/assessment.md)
 
