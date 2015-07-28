@@ -10,19 +10,25 @@ While completing the units below, the students are working towards becoming extr
 
 For unit 2, students must set up an account with GitHub and Cloud9 account. [This guide](resources/c9) serves as a tutorial for creating an account with each. 
 
-| Unit  | Lessons | Topics | Project 	| 
-|-------|:-------:|------	|--------------|
-| [**1. Introduction**](units/1-introduction/)| 1 | Computing processes, Algorithms |   N/A |
-| [**2. HTML**](units/2-HTML/)| 5 | Webpage structure, Simple Styles, Site Layout |[Social Media Webpage](units/2-HTML/lessons/5-project/README.md)   |
-| [**3. CSS**](units/3-CSS/)| 5 | Site Mapping, Div tags,  | [About Me](units/3-CSS/lessons/2-pagesStyles),   [About Me with Bootstrap](units/3-CSS/lessons/project-part-b)  | 
-| [**4. Programming with Scratch**] (units/4-scratch/) | 4 | Algorithms, `if`/`else`, comparison operators  | [Ol Mc'Donald MadLibs](units/4-scratch/lessons/4-project) w/ `if`/`else` statement | 
-| [**5. JavaScript**] (units/5-javascript/) | 4 | Variables, functions, random number generation, pseudo-code, comments | [Calculator](units/5-javascript/lessons/4-project/) | 
-| [**6. Strings**] (units/6-string/) | 2  | Functions, casting, comparison | [Madlibs](units/6-string/lessons/2-project) | 
-| [**7. Conditionals**](units/7-conditional/) | 2  | Boolean values, `if`/`else`, comparison operators, logical operators | [High low](units/7-conditional/lessons/2-project) | 
-| [**8. Arrays & Loops**](units/8-array-loop/) | 3  | Arrays, `while` / `for` loops. | [Movie search engine](units/8-array-loop/lessons/3-project) | 
-| [**9. Hashes**](units/9-hash) | 2  | Hashes, key-value pairs, `for-in` loops  | [Address book](units/9-hash/lessons/2-project) | 
-| [**10. jQuery**] (units/10-jquery)| 2 | Selectors, click handlers | [Facebook wall](units/10-jquery/lessons/2-project) |
-| [**11. Command line & version control**](units/11-commandline-versioncontrol) | 2  | CRUD operations in terminal, Git, Github, `clone`, `push`,`pull` | *N/A* |
+| Unit  | Lessons | Topics/Skills | Project 1	| Project 2	| 
+|-------|:-------:|------	|--------------|--------------|
+| [**1. Introduction**](units/1-introduction/)| 1 | Computing processes, Algorithms, Github & JS Bin  |   N/A | N/A|
+| [**2. HTML (introduction)**](units/2-HTML1/)|  | HTML page structure, Basic tags |[NYT Remix]()   | [About me]()
+| [**3. CSS (Introduction)**](units/3-CSS1/)|  | Wireframing, Basic Styles  | [About You]() | [ScriptEd Zen Garden]()| 
+| [**4. HTML,CSS & JS**](units/3-CSS1/)  produced by General Assembly| 1 | link tag, script tag, header, media query, simple jQuery | [GA Dash Project #2]() | N/A| 
+| [**Optional Unit. Scratch**](units/opt-scratch/) | 4 | Algorithms, variables, conditionals  | [Ol Mc'Donald MadLibs](units/o-scratch/lessons/4-project) with conditional statement | 
+| [**5. JavaScript 1.1**](units/5-javascript1_1/) |  | Variables, functions | [Calculator]() | [Tiny Turtle]()|
+| [**6. JavaScript 1.2**](units/6-javascript1_2/) |   | Strings, Conditionals, Comments| [Password Guesser]() | [Grading App]() | 
+| [**IDE Tutorial: Cloud9**](units/c9_setup/) | 1  | Dashboard, Workspace, Sharing, GitHub intergration | [Sign Up for Cloud 9](units/c9_setup/README.md) | 
+| [**7. Command line**](units/7-commandline) |   | CRUD operations | [File Structure]() | [Terminus]() |
+| [**8. Version Control with GitHub**](units/8-versionControl) |   |  Git, Github, `status`, `clone`,`commit`, `push` | [Mr. Potato Head]()| N/A|
+| [**9. HTML (Advanced)**](units/9-HTML2/) |   | Linking pages, a tag, forms | [Portfolio Page]() | | 
+| [**10. HTML/CSS (Advanced)**](units/10-HTML_CSS2) |  | Div, id, class, float, transitions & animations | [GA Dash Project #4]() | [CSS Zen Garden]() |
+| [**11. Bootstrap**](units/11-bootstrap)|  | CDN, wireframing, grid system | [Fictional Character Website]() |
+| [**12. JavaScript 2.1**](units/12-javascript2_1)|  | Arrays, Loops | [99 Bottles]() | [Color Changer]()|
+| [**13. JavaScript 2.2**](units/13-javascript2_2)|  | Objects (hashes) | [Animal noises]() | [World Capitals]()|
+| [**14. jQuery**](units/14-jQuery)|  | Selectors, Attributes, Handlers | [Facebook Wall]() | [The jQuery Site]()|
+
   
  
 ---
@@ -36,7 +42,7 @@ Second year students will be completing their final projects using Cloud9 IDE. T
 | [1. Scavenger Hunt](unitsYear2/1-JShunt)| 1 | Variables, Functions, Strings, Conditionals, Loops, jQuery | Scavenger hunt of many short programs (<10 lines each) | N/A |
 | [2. Rock, Paper, Scissors](https://github.com/ScriptEdcurriculum/rockPaperScissors_Adv)| 2 | math.random, JQuery, conditionals | A fully fonctional game (user vs. bot) | N/A
 | [3. Website ReBranding](unitsYear2/3-reDesign)| 3 | Wireframing, Bootstrap, Paired programming | Redesign a company homepage | N/A
-| [4. SoundCloud API Project](unitsYear2/4-soundcloudAPI)| 4 | API initialization | A site that displays relevant song information based by genre | [SoundCloud](developers.soundcloud.com/docs/api/guide)
+| [4. SoundCloud API Project](unitsYear2/4-soundcloudAPI)| 4 | API, HTTP Method | A site that displays relevant song information based by genre | [SoundCloud](developers.soundcloud.com/docs/api/guide)
 | [5. SoundMood](unitsYear2/5-soundMood) |  |  |  | [SoundCloud](developers.soundcloud.com/docs/api/guide) | 
 | [6. Speech Synthesis](unitsYear2/6-speechSynthesis) |   | Form, API, Responsive Design, http calling, JQuery |  | [Speech Synthesis](http://updates.html5rocks.com/2014/01/Web-apps-that-talk---Introduction-to-the-Speech-Synthesis-API)  [Azure Microsoft Translator](http://msdn.microsoft.com/en-us/library/dd576287.aspx)  [Web Speech]
 | [7. NYC Data Map](unitsYear2/7-dataMap) |   | Big Data, Data Visualization, API, Client Server  | HeatMap of various data pulled from 311 | 
