@@ -43,7 +43,7 @@ Second year students will be completing their final projects using Cloud9 IDE. T
 | [2. Rock, Paper, Scissors](https://github.com/ScriptEdcurriculum/rockPaperScissors_Adv)| 2 | math.random, JQuery, conditionals | A fully fonctional game (user vs. bot) | N/A
 | [3. Website ReBranding](unitsYear2/3-reDesign)| 3 | Wireframing, Bootstrap, Paired programming | Redesign a company homepage | N/A
 | [4. SoundCloud API Project](unitsYear2/4-soundcloudAPI)| 4 | API, HTTP Method | A site that displays relevant song information based by genre | [SoundCloud](developers.soundcloud.com/docs/api/guide)
-| [5. SoundMood](unitsYear2/5-soundMood) |  |  |  | [SoundCloud](developers.soundcloud.com/docs/api/guide) | 
+| [5. Instagram API Project](unitsYear2/5-soundMood) | API, HTTP Method | A site that searches instagram for images tagged with key words entered by the user |  | [SoundCloud](developers.soundcloud.com/docs/api/guide) | 
 | [6. Speech Synthesis](unitsYear2/6-speechSynthesis) |   | Form, API, Responsive Design, http calling, JQuery |  | [Speech Synthesis](http://updates.html5rocks.com/2014/01/Web-apps-that-talk---Introduction-to-the-Speech-Synthesis-API)  [Azure Microsoft Translator](http://msdn.microsoft.com/en-us/library/dd576287.aspx)  [Web Speech]
 | [7. NYC Data Map](unitsYear2/7-dataMap) |   | Big Data, Data Visualization, API, Client Server  | HeatMap of various data pulled from 311 | 
 | [8. Learningpod Test Prep](unitsYear2/8-learningPod)|   | API, Client Server | Studyguide for various tests |[Learningpod](http://www.learningpod.com/developer) | 
