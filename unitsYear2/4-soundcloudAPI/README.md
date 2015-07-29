@@ -78,7 +78,7 @@ After the SC.get function has been created you must use the .each function of jQ
 
 
 ###6) Display content
-You are finally ready to start placing text in your HTML page! Use the [SoundCloud API reference](https://developers.soundcloud.com/docs/api/reference#tracks) to do this. You may choose any three properties to display on your page for each song.
+You are finally ready to start placing text in the form of API references in your HTML page! Use the [SoundCloud API reference](https://developers.soundcloud.com/docs/api/reference#tracks) to do this. The example completed code uses track, genre and permalink_url but you may choose any three properties to display on your page for each song. 
 
 ####Bonus) 
 Your Manager has offered a stipend of $500 for each of the bonus requirements listed below:  
