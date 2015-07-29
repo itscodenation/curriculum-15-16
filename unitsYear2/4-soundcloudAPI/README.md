@@ -5,7 +5,7 @@
 Begin this session by completing the [Do Now](doNow.md) activity.
 
 ##Scope
-You have just been hired by APIs R US inc. This company relies entirely on using API for the many webapps. As a first project they have asked you to make a simple site that calls on the SOundCloud API to test your skills.  
+You have just been hired by APIs R US inc. This company relies entirely on using API for the many webapps. As a first project they have asked you to make a simple site that calls on the SoundCloud API to test your skills.  
 Since this is your first project, your manager has provided you with some helpful tools to get started. 
 
 ##Project Criteria
@@ -27,7 +27,7 @@ By the end of this project the employee will be able to...
 * [Script Tag](http://javascript.crockford.com/script.html)
 * [SoundCloud Developers Guide](developers.soundcloud.com/docs/api/guide)
 * [HTTP Method explained](http://www.w3schools.com/tags/ref_httpmethods.asp)
-* []()
+
  
 ##Vocabulary
 
@@ -35,7 +35,8 @@ By the end of this project the employee will be able to...
 * Server
 * API
 * Get 
-* Initialize 
+* Initialize
+* Callback 
 
 ***
 ##Instructions
@@ -68,12 +69,12 @@ In order to achieve this set a variable equal to the id of your button. Then use
 
 ###5) SC.get
 Now that you have stored the value of the user input it is time to use it with the SoundCloud API.  
-Create a Function called SC.get and have it take in 3 parameters. The three parameters you will pass are..  
-1. /tracks
-2. An object with the key "genres" and value "userInput"  
-3. A function with the parameter "tracks"  
+Now that you have initialized the document and you are ready to interpret user input from the html file you are now ready to call the SoundCloud API to **get** data.  
 
-After the SC.get function has been created you must use the .each function of jQuery to then append text within the resluts id.
+Call on the SC.get function to get tracks by the genre selected by the userInput.  
+If you are having an issue with the syntax of this function check out the [Basic Use](https://developers.soundcloud.com/docs/api/sdks#basic) section of the SoundCloud API Documentation.
+
+After the SC.get function has been created you must use the .each function of jQuery to then append text within the results id.
 
 
 ###6) Display content
