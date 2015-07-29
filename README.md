@@ -12,7 +12,7 @@ For unit 2, students must set up an account with GitHub and Cloud9 account. [Thi
 
 | Unit  | Lessons | Topics/Skills | Project 1	| Project 2	| 
 |-------|:-------:|------	|--------------|--------------|
-| [**1. Introduction**](units/1-introduction/)| 1 | Computing processes, Algorithms, Github & JS Bin  |   N/A | N/A|
+| [**1. Introduction**](units/1-introduction/)| 1 | Computational thinking, Github & JS Bin  | [Sign Up for GitHub & JS Bin]()| N/A|
 | [**2. HTML (introduction)**](units/2-HTML1/)|  | HTML page structure, Basic tags |[NYT Remix]()   | [About me]()
 | [**3. CSS (Introduction)**](units/3-CSS1/)|  | Wireframing, Basic Styles  | [About You]() | [ScriptEd Zen Garden]()| 
 | [**4. HTML,CSS & JS**](units/3-CSS1/)  produced by General Assembly| 1 | link tag, script tag, header, media query, simple jQuery | [GA Dash Project #2]() | N/A| 
