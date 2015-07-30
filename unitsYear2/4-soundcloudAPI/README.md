@@ -72,7 +72,8 @@ Now that you have stored the value of the user input it is time to use it with t
 Now that you have initialized the document and you are ready to interpret user input from the html file you are now ready to call the SoundCloud API to **get** data.  
 
 Call on the SC.get function to get tracks by the genre selected by the userInput.  
-If you are having an issue with the syntax of this function check out the [Basic Use](https://developers.soundcloud.com/docs/api/sdks#basic) section of the SoundCloud API Documentation.
+If you are having an issue with this check out the [Basic Use](https://developers.soundcloud.com/docs/api/sdks#basic) section of the SoundCloud API Documentation. Also see the documentation on the SC.get method [here](https://developers.soundcloud.com/docs/api/sdks#methods).    
+
 
 After the SC.get function has been created you must use the .each function of jQuery to then append text within the results id.
 
