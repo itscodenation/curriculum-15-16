@@ -45,7 +45,7 @@ Second year students will be completing their final projects using Cloud9 IDE. T
 | [4. SoundCloud API Project](unitsYear2/4-soundcloudAPI)| 4 | API, HTTP Method | A site that displays relevant song information based by genre | [SoundCloud](https://developers.soundcloud.com/docs/api/guide)
 | [5. Instagram API Project](https://github.com/ScriptEdcurriculum/instagramAPI_Adv) | 5 | API, HTTP Method | A site that searches instagram for images tagged with key words entered by the user | [Instagram](https://instagram.com/developer/) | 
 | [6. Giphy API](unitsYear2/6-giphyAPI) | 6 | API, HTTP Method | A site that searches Giphy for images tagged with key words entered by the user | 
-| [7.jQuery Battle ]() | 7 |  | | 
+| [7.jQuery Battle ](unitsYear2/7-jqueryBattle) | 7 |  | | 
 | [8. Yo Mama!]()| 8 |  |  | | 
 | [9. SoundMood]()| 8 |  |  | | 
 | [10.API Hackathon](9) |  |  |  |
