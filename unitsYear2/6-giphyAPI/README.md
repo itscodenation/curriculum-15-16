@@ -10,7 +10,8 @@ You have just been hired by Holy GIF-amoly! LLC. For your first project you have
 ##Project Criteria
 Your Manager has laid out the following requirements for the project: 
 
-* The webapp must use the Giphy API (see references)
+* All source code for this app must be in your own GitHub repository.
+* The webapp must use the Giphy API (see references).
 * The webapp must consist of an input field, a submit button and a reset button.
 * When the user clicks the submit button, three relevant gifs will appear on the page.
 * When the user cliks the reset button, the system shall clear the gifss and search bar of any text.
@@ -19,73 +20,30 @@ Your Manager has laid out the following requirements for the project:
 ##Learning Objectives
 By the end of this project the employee will be able to...
 
-* Create a fully functioning API WEbapp from scratch
-* Initializa their application using SC.initialize
-* Get information from an API using SC.get
-* Use jQuery to append text to an HTML page
+* Create a fully functioning API webapp from scratch.
+
 
 ##References/Tools
-* [Script Tag](http://javascript.crockford.com/script.html)
-* [SoundCloud Developers Guide](developers.soundcloud.com/docs/api/guide)
-* [HTTP Method explained](http://www.w3schools.com/tags/ref_httpmethods.asp)
+* [Giphy API Documentation](https://github.com/Giphy/GiphyAPI)
 
  
 ##Vocabulary
 
-* Client
+* Beta
 * Server
 * API
-* Get 
-* Initialize
-* Callback 
+* Get
 
 ***
 ##Instructions
 
-You are not given any Starter Code for this project. However, your manager has provided you with some useful direction to complete this project. Follow the step-by-step instructions below. 
+Your Manager is impressed with the past work you have completed at your last jobs. You are not given any Starter Code. For information on how to build this webapp look at the project criteria portion of this page.
 
-Although these directions to not provide all the answers for this project they do provide you with the guidance you will need to make this project.
-
-###1) Create a GitHub repo and C9 workspace for this project
-This should have already been completed during the [Do Now](doNow.md).
-
-**Before moving on to step two, ensure your HTML is correct by having an instructor confirm you are ready to move on.** 
-
-###2) Obtain a Client ID
-In order to use a company's API you must request access and have them send you an API key. SoundCloud asks you to do this by registering your app on the [SoundCloud Developers Guide](developers.soundcloud.com/docs/api/guide) page.
-
-Sign in or create a SoundCloud account to receive you Client ID. After your Client ID has been emailed to you use ```SC.initialize``` to begin using the SoundCloud API.
-
-
-###3) Ready the Document
-Now that you have initialized the yourwebapp it is time to "ready" the document. For information on how to do this, research the [jQuery ready function](learn.jquery.com/using-jquery-core/document-ready/).  
-*Hint: all of the remaining code for this project will fall inside of this ready function.*
-
-
-###4) Interpret User Input
-Now that the document is ready you must store the user's response in a variable.  
-
-In order to achieve this set a variable equal to the id of your button. Then use the ```.click``` function to set the **value**  of the user input to a new variable called ```userChoice```.     
-*Hint: this can be accomplished in 3 lines of code. before moving on to step 5 check this code is working by logging userChoice to the console.*  
-
-###5) SC.get
-Now that you have stored the value of the user input it is time to use it with the SoundCloud API.  
-Now that you have initialized the document and you are ready to interpret user input from the html file you are now ready to call the SoundCloud API to **get** data.  
-
-Call on the SC.get function to get tracks by the genre selected by the userInput.  
-If you are having an issue with the syntax of this function check out the [Basic Use](https://developers.soundcloud.com/docs/api/sdks#basic) section of the SoundCloud API Documentation.
-
-After the SC.get function has been created you must use the .each function of jQuery to then append text within the results id.
-
-
-###6) Display content
-You are finally ready to start placing text in the form of API references in your HTML page! Use the [SoundCloud API reference](https://developers.soundcloud.com/docs/api/reference#tracks) to do this. The example completed code uses track, genre and permalink_url but you may choose any three properties to display on your page for each song. 
-
-####Bonus) 
+##Bonus Criteria 
 Your Manager has offered a stipend of $500 for each of the bonus requirements listed below:  
 
-* Display information about the user next to information about the track. Use the [SoundCloud Developers Guide](developers.soundcloud.com/docs/api/guide) for this documentation.
-* Stream a song matching the genre selected. Use the [SoundCloud Developers Guide](developers.soundcloud.com/docs/api/guide) for this documentation.  
+* Instead of displaying the most relevant gifs to the search topic each shoud shall display three random gifs tagged with the search topic.
+* Add a random button to your page to display a random topic of gifs. 
 
 ***
 
