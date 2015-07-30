@@ -1,24 +1,25 @@
-#Project 4 - Giphy API
+#Project 6 - Giphy API
 ![Imgur](http://i.imgur.com/MVvBjhT.png)
 
 ##Do Now 
 Begin this session by completing the [Do Now](doNow.md) activity.
 
 ##Scope
-You have just been hired by Holy GIF-amoly! LLC. This company relies entirely on using API for the many webapps. As a first project they have asked you to make a simple site that calls on the SoundCloud API to test your skills.  
-Since this is your first project, your manager has provided you with some helpful tools to get started. 
+You have just been hired by Holy GIF-amoly! LLC. For your first project you have been asked to make a webapp that displays gifs to the user based on a topic they type in. You have been given one week for this project.
 
 ##Project Criteria
 Your Manager has laid out the following requirements for the project: 
 
-* The webapp will display the Track Title, Genre and URL for songs tagged with the genre the user inputs.
-* CSS is not a necessary feature for this project 
+* The webapp must use the Giphy API (see references)
+* The webapp must consist of an input field, a submit button and a reset button.
+* When the user clicks the submit button, three relevant gifs will appear on the page.
+* When the user cliks the reset button, the system shall clear the gifss and search bar of any text.
 
 
 ##Learning Objectives
 By the end of this project the employee will be able to...
 
-* Obtain a Client ID by registering their application with SoundCloud
+* Create a fully functioning API WEbapp from scratch
 * Initializa their application using SC.initialize
 * Get information from an API using SC.get
 * Use jQuery to append text to an HTML page

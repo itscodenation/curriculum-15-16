@@ -44,9 +44,10 @@ Second year students will be completing their final projects using Cloud9 IDE. T
 | [3. Website ReBranding](unitsYear2/3-reDesign)| 3 | Wireframing, Bootstrap, Paired programming | Redesign a company homepage | N/A
 | [4. SoundCloud API Project](unitsYear2/4-soundcloudAPI)| 4 | API, HTTP Method | A site that displays relevant song information based by genre | [SoundCloud](https://developers.soundcloud.com/docs/api/guide)
 | [5. Instagram API Project](https://github.com/ScriptEdcurriculum/instagramAPI_Adv) | 5 | A site that searches instagram for images tagged with key words entered by the user | API, HTTP Method | [Instagram](https://instagram.com/developer/) | 
-| [6. Giphy API]() |   | Form, API, Responsive Design, http calling, JQuery |  | [Speech Synthesis](http://updates.html5rocks.com/2014/01/Web-apps-that-talk---Introduction-to-the-Speech-Synthesis-API)  [Azure Microsoft Translator](http://msdn.microsoft.com/en-us/library/dd576287.aspx)  [Web Speech]
-| [7. NYC Data Map](unitsYear2/7-dataMap) |   | Big Data, Data Visualization, API, Client Server  | HeatMap of various data pulled from 311 | 
-| [8. Learningpod Test Prep](unitsYear2/8-learningPod)|   | API, Client Server | Studyguide for various tests |[Learningpod](http://www.learningpod.com/developer) | 
-| **10. Entrepreneurism** |  |  |  |
-| **11. ** |   | | 
+| [6. Giphy API](unitsYear2/6-giphyAPI) | 6 |  |  | 
+| [7.jQuery Battle ]() | 7 |  | | 
+| [8. Yo Mama!]()| 8 |  |  | | 
+| [9. SoundMood]()| 8 |  |  | | 
+| [10.API Hackathon](9) |  |  |  |
+| [11.Entrepreneurialism](10)|   | | 
 
