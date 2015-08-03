@@ -44,9 +44,9 @@ Second year students will be completing their final projects using Cloud9 IDE. T
 | [3. Website ReBranding](unitsYear2/3-reDesign)| 3 | Wireframing, Bootstrap, Paired programming | Redesign a company homepage | N/A
 | [4. SoundCloud API Project](unitsYear2/4-soundcloudAPI)| 4 | API, HTTP Method | A site that displays relevant song information based by genre | [SoundCloud](https://developers.soundcloud.com/docs/api/guide)
 | [5. Instagram API Project](https://github.com/ScriptEdcurriculum/instagramAPI_Adv) | 5 | API, HTTP Method | A site that searches instagram for images tagged with key words entered by the user | [Instagram](https://instagram.com/developer/) | 
-| [6. Giphy API](unitsYear2/6-giphyAPI) | 6 | API, HTTP Method | A site that searches Giphy for images tagged with key words entered by the user | 
-| [7.jQuery Battle ](unitsYear2/7-jqueryBattle) | 7 |  | | 
-| [8. Yo Mama!]()| 8 |  |  | | 
+| [6. Giphy API](unitsYear2/6-giphyAPI) | 6 | API, HTTP Method | A site that searches Giphy for images tagged with key words entered by the user | [Giphy](https://github.com/Giphy/GiphyAPI)
+| [7.jQuery Battle ](unitsYear2/7-jqueryBattle) | 7 | jQuery, Collision, Key Binding | Game that uses keybindings to move character | N/A
+| [8. Yo Mama!](https://github.com/ScriptEdcurriculum/yoMama_Adv)| 8 | APIs, Get, Post, JSON, Client/Server Interaction | Insult Generating voice game | Custom API made on [mockable.io](mockable.io)| 
 | [9. SoundMood]()| 8 |  |  | | 
 | [10.API Hackathon](9) |  |  |  |
 | [11.Entrepreneurialism](10)|   | | 
