@@ -1,6 +1,10 @@
 #Project 1 - Scavenger Hunt
 ![Image](http://i.imgur.com/N7dzgjo.png)
-##Project Description
+
+##Do Now 
+Begin this session by completing the [Do Now](doNow.md) activity.
+
+##Scope
 It has been a whole summer since you last were in a ScriptEd course. You have just been contracted for a new postion at Short Programs LLC. For your training they have tasked you with an online Scavenger Hunt. You will have to complete as many of the programs in the [Clues Worksheet](clues/README.md) as possible. You may complete these programs in any order. 
 
 
