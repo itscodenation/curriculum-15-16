@@ -43,7 +43,7 @@ By the end of this project the employee will be able to...
 
 You are not given any Starter Code for this project. However, your manager has provided you with some useful direction to complete this project. Follow the step-by-step instructions below. 
 
-Although these directions to not provide all the answers for this project they do provide you with the guidance you will need to make this project.
+Although these directions do not provide all the answers for this project they do provide you with the guidance you will need to make this project.
 
 ###1) Create a GitHub repo and C9 workspace for this project
 This should have already been completed during the [Do Now](doNow.md).
