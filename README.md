@@ -49,5 +49,5 @@ Second year students will be completing their final projects using Cloud9 IDE. T
 | [8. Yo Mama!](https://github.com/ScriptEdcurriculum/yoMama_Adv)| 8 | APIs, Get, Post, JSON, Client/Server Interaction | Insult Generating voice game | Custom API made on [mockable.io](mockable.io)| 
 | [9. SoundMood](https://github.com/ScriptEdcurriculum/SoundMood_Adv)| 9 | APIs, Get, Post, JSON, Client/Server Interaction | Music streaming app that plays songs based on user emotion | [SoundCloud](https://developers.soundcloud.com/docs/api/guide)| 
 | [10.Portfolio](unitsYear2/10-portfolio) | 10 | GitHub Pages | Personal Portfolio page |N/A|
-| [11.Entrepreneurialism](unitsYear2/11-portfolio)| 11  | Project management, Paired Programming, Self Motivation| A fully functional WebApp | N/A | 
+| [11.Entrepreneurialism](unitsYear2/11-Entrepreneurialism)| 11  | Project management, Paired Programming, Self Motivation| A fully functional WebApp | N/A | 
 
