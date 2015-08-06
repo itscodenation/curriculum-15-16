@@ -21,7 +21,9 @@ If you have a side project you have been wokring on consider developing that out
 ###1) What are you going to make?
 There options are endless! You could make any number of things anything from an app that helps keep you organized to a game that lines up various types of candy that people play for hours on end.
 
-When thinking of creating a new WebApp think about a problem you or someone in your neighborhood has that can be solved with technology.
+When thinking of creating a new WebApp think about a problem you or someone in your neighborhood has that can be solved with technology. Will you use an API? Will you make your own API? You can do anything!!
+
+There is only one rule: **Do not spend time thinking about the business model!!** Make the product first. The money comes second.
 
 ###2) Wireframe your WebApp
 What will it look like?   
