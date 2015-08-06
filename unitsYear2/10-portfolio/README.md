@@ -18,11 +18,11 @@ You have decided to go with GitHub pages as a medium for this portfolio. Go to p
 ##Instructions
 Create a personal portfolio site that includes all projects you have ever made.. Including any personal projects you may have.
 
+* It is recommended that you add a `message me` button.
+* Try adding some CSS animations to your project.
+
 ##How to Submit
-Link this portfolio to you Linkedin and GitHub. Also email  a link to the instructors
+Link this portfolio to you Linkedin and GitHub. Also email a link to the instructors
 
 ##Homework
 Instructor will assign homework based on progress in class.
-
-
-
