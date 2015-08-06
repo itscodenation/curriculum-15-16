@@ -47,7 +47,7 @@ Second year students will be completing their final projects using Cloud9 IDE. T
 | [6. Giphy API](unitsYear2/6-giphyAPI) | 6 | API, HTTP Method | A site that searches Giphy for images tagged with key words entered by the user | [Giphy](https://github.com/Giphy/GiphyAPI)
 | [7.jQuery Battle ](unitsYear2/7-jqueryBattle) | 7 | jQuery, Collision, Key Binding | Game that uses keybindings to move character | N/A
 | [8. Yo Mama!](https://github.com/ScriptEdcurriculum/yoMama_Adv)| 8 | APIs, Get, Post, JSON, Client/Server Interaction | Insult Generating voice game | Custom API made on [mockable.io](mockable.io)| 
-| [9. SoundMood]()| 8 |  |  | | 
-| [10.API Hackathon](9) |  |  |  |
+| [9. SoundMood](https://github.com/ScriptEdcurriculum/SoundMood_Adv)| 9 | APIs, Get, Post, JSON, Client/Server Interaction | Music streaming app that plays songs based on user emotion | [SoundCloud](https://developers.soundcloud.com/docs/api/guide)| 
+| [10.Portfolio](9) |  |  |  |
 | [11.Entrepreneurialism](10)|   | | 
 
