@@ -1,4 +1,4 @@
-#Unit 11 - Command line
+#Unit 7 - Command line
 
 ##Synopsis
 This unit touches upon the basic CRUD (create, read, update, delete) commands in the terminal. 
