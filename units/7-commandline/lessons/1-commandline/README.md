@@ -6,19 +6,18 @@
 
 ### Objective
 
-Students will understand the basic CRUD (create, read, update, and delete) commands in the terminal. 
+Students will be able to use the basic CRUD (create, read, update, and delete) commands in the terminal. 
 
 ### Key points
 
 * A terminal is a way to talk to a computer using commands.
 * Commands specify the action you want the computer to do for you.
 * Folders can contain folders and/or files. Taken in total, this forms a file hierarchy.
-* Commands are like functions: they take in parameters as input and sometimes return something as output.
 
 ### Assessment
 
-1. Write do-now based off of [assessments from previous lesson](../../../10-jquery/lessons/1-jquery/assessments/).
-2. Write exit-ticket based off [assessments from current lesson](assessments/).
+1. Complete the [do now](assessments/do_now.md) activity 
+2. Complete the [exit-ticket](assessments/exit_ticket.md)
 
 Students will show progress toward reaching the objective based on their performance on the exit-ticket quiz.
 
@@ -28,22 +27,24 @@ Students will show progress toward reaching the objective based on their perform
 * Command
 * Path / directory
 * Directory structure / hierarchy
+* GUI (Graphical User Interface)
 
 ### References
 
+
+* [Presentation Slides](https://docs.google.com/presentation/d/1B1waYai67ysg7eqhc9Mm1O6fG7XO_WIPkCZxOiwyhj4/edit?usp=sharing)
 * http://lifehacker.com/5633909/who-needs-a-mouse-learn-to-use-the-command-line-for-almost-anything
 
 ## During class
 
 ### Do-now
 
-1. Attendance: Teacher takes student attendance at www.kinvolved.com
-2. Return graded do-now and exit ticket from previous class
-3. Do-now quiz
+1. Attendance: Teacher takes student attendance
+2. Students are logging into their Cloud 9 account and creating the file structure on slide one of the [Presentation Slides](https://docs.google.com/presentation/d/1B1waYai67ysg7eqhc9Mm1O6fG7XO_WIPkCZxOiwyhj4/edit?usp=sharing)
 
 ### Opening
 
-Today we will learn about the command line. This is important because the command line enables us to work in an environment without a visual interface. 
+Today we will learn about the command line. This is important because the command line enables us to work in an environment without a visual interface. Before computers had the fancy interface or GUIs you are use to they were just terminals. 
 
 What are files? What are folders? How do I view them in Windows? How about Mac? How do I go about copying a file? How about a folder? When I copy a folder, what happens to everything inside of it? How about if I want to rename a file? And delete a file?
 
@@ -55,13 +56,15 @@ When we perform any of the above operations in Windows or Mac, the operating sys
 
 The **terminal** is a place where we talk to a computer. In the terminal, we issue **commands** to the computer. These commands are instructions that we would like the computer to do for us. Typically, if the command was executed successfully, the computer will not respond with anything.
 
+The Basics are covered in slides 2-6 of the [Presentation Slides](https://docs.google.com/presentation/d/1B1waYai67ysg7eqhc9Mm1O6fG7XO_WIPkCZxOiwyhj4/edit?usp=sharing)
+
 ##### Directory
 
 When I open Cloud9 and click on Window->New Terminal, I see something like:
 
 ![image](http://i.imgur.com/qDJZEpS.jpg)
 
-Let's ignore the part in green and focus on the blue. It says:
+Let's focus on the blue text. It says:
 
 ```
 /home/ubuntu/workspace
@@ -106,128 +109,25 @@ The `cp` command copies a file. Notice that two filenames were supplied to the c
 
 The second `ls` command was used to verify that the file was indeed copied.
 
-#### Remove a file
-
-How do we remove a file?
-
-```
-dopeboy@demo:/home/ubuntu/workspace $ ls
-README.md*  duplicate_hello.js  hello-world.html  hello.js
-dopeboy@demo:/home/ubuntu/workspace $ rm duplicate_hello.js 
-dopeboy@demo:/home/ubuntu/workspace $ ls
-README.md*  hello-world.html  hello.js
-dopeboy@demo:/home/ubuntu/workspace $ 
-```
-The `rm` command can take in one parameter: the name of the file you wish to remove.
-
-#### Create a folder
-
-How do we create a folder?
-
-```
-dopeboy@demo:/home/ubuntu/workspace $ mkdir pikachu
-dopeboy@demo:/home/ubuntu/workspace $ ls
-README.md*  hello-world.html  hello.js  pikachu/
-dopeboy@demo:/home/ubuntu/workspace $ 
-```
-The `mkdir` command can take in one parameter: the name of the folder you wish to create.
-
-Notice that when we run the `ls` command, "pikachu" has a forward slash (/) at the end of it. This is the terminal's way of telling us that "pikachu" is a folder, not a file.
-
-#### Change directory (or folder)
-
-How do we change the directory we are in to a different one?
-
-```
-dopeboy@demo:/home/ubuntu/workspace $ ls
-README.md*  hello-world.html  hello.js  pikachu/
-dopeboy@demo:/home/ubuntu/workspace $ cd pikachu/
-dopeboy@demo:/home/ubuntu/workspace/pikachu $ pwd
-/home/ubuntu/workspace/pikachu
-dopeboy@demo:/home/ubuntu/workspace/pikachu $ 
-```
-The `cd` command takes in one parameter: the name of the directory you wish to go in. The `pwd` command checks that we did indeed change to another directory.
-
-#### Move a file
-
-How do we move a file from one directory to another?
-
-```
-dopeboy@demo:/home/ubuntu/workspace $ ls
-README.md*  hello-world.html  hello.js  hello_duplicate.js  pikachu/
-dopeboy@demo:/home/ubuntu/workspace $ mv hello_duplicate.js pikachu/
-dopeboy@demo:/home/ubuntu/workspace $ cd pikachu/
-dopeboy@demo:/home/ubuntu/workspace/pikachu $ ls
-hello_duplicate.js
-dopeboy@demo:/home/ubuntu/workspace/pikachu $ 
-```
-The `mv` command can take in two parameters: the file you wish to move and the directory to which you wish to move it to. Here, we moved "hello_duplicate.js" to the "pikachu" folder.
-
-#### Rename a file
-
-How do we rename a file?
-
-```
-dopeboy@demo:/home/ubuntu/workspace/pikachu $ ls
-hello_duplicate.js
-dopeboy@demo:/home/ubuntu/workspace/pikachu $ mv hello_duplicate.js duplicate.js
-dopeboy@demo:/home/ubuntu/workspace/pikachu $ ls
-duplicate.js
-dopeboy@demo:/home/ubuntu/workspace/pikachu $ 
-```
-Here, we reused the `mv` command. The first parameter is the file we wish to rename and the second is the new name we want it to have.
-
-#### Tab completion
-
-Suppose I have a file with a long name:
-
-```
-dopeboy@demo:/home/ubuntu/workspace $ ls
-README.md*  hello-world.html  hello.js  pikachu/  supercalifragilisticexpialidocious.js
-```
-Then suppose I want to move "supercalifragilisticexpialidocious.js" to the "pikachu" folder. I'd begin typing:
-
-```
-mv supercali...
-```
-and realize that it'd take forever to type the filename. 
-
-Luckily, the terminal gives us a keyboard shortcut to type long files easy. If I type in
-
-```
-mv s
-```
-and hit the Tab key, the terminal will auto-complete the rest of the filename for me to
-
-```
-mv supercalifragilisticexpialidocious.js
-```
-Then I can proceed with my `mv` command as usual. 
+Notice how the copied file now appears in the file structure on in the top-left of the Cloud9 window. You just created this using the terminal
 
 ### Guided practice ("We do")
 
-Let's login into our Cloud9 and go to the terminal. If there isn't atleast one file present in the workspace, let's create one by clicking on File->New file. Let's call this file "guinea_pig.js".
+Let's take some time to complete the file directory you created in the Do Now. What we would like to do is turn the original file structure on the left and turn it into the file structure on the right. The only catch is you cannot use a mouse.
+**This activity can be found on slide 7 of the [Presentation Slides](https://docs.google.com/presentation/d/1B1waYai67ysg7eqhc9Mm1O6fG7XO_WIPkCZxOiwyhj4/edit?usp=sharing)** 
 
-1. Let's print out the current directory.
-2. Let's list all the files and folders.
-3. Let's copy "guinea_pig.js". Let's call the new file "lab_rat.js".
-4. Let's delete "lab_rat.js".
-5. Let's create a new directory called "pen".
-6. Let's move "guinea_pig.js" to the "pen" folder.
+![Imgur](http://i.imgur.com/3o2ThUY.png)
 
 ### Independent practice ("You do")
 
-In Cloud9, open up a new workspace. If there isn't atleast one file present in the workspace, create one by clicking on File->New file. Let's call this file "tomato.js".
+![Imgur](http://i.imgur.com/y88cMJC.png)
 
-1. Let's print out the current directory.
-2. Let's list all the files and folders.
-3. Let's copy "tomato.js". Let's call the new file "strawberry.js".
-5. Let's create two new directories: "fruits" and "vegetables".
-6. Move "tomato.js" and "strawberry.js" to the appropriate folders.
+This information can also be found in slide 8 of the [Presentation Slides](https://docs.google.com/presentation/d/1B1waYai67ysg7eqhc9Mm1O6fG7XO_WIPkCZxOiwyhj4/edit?usp=sharing). 
+
 
 #### Exit ticket
 
-Give exit-ticket quiz.
+Give [exit-ticket]() quiz.
 
 ### Closing
 
@@ -239,5 +139,5 @@ There is no homework for this lesson.
 
 ## After class
 
-* Grade do-now & exit-ticket. Record in class spreadsheet.
+* Grade exit-tickets. 
 * Prepare for next lesson / hand off to next volunteer in rotation.
