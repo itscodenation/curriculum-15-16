@@ -131,11 +131,11 @@ Give [exit-ticket]() quiz.
 
 ### Closing
 
-Today you learned about the command line. This is important because the command line lets us talk to the computer in a defined and quick way. Next, we'll look at version control and running `git` commands in the terminal.
+Today you learned about the command line. This is important because the command line lets us talk to the computer in a defined and quick way. Also the command line has not changed in decades and shows no signs of changing in the future.
 
 #### Homework
 
-There is no homework for this lesson.
+There is no homework for this lesson. However, it is at the discretion of the teacher to assign the [next lesson](../2-terminus/README.md) for homework if they would like.
 
 ## After class
 

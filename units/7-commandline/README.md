@@ -1,12 +1,11 @@
-#Unit 11 - Command line & version control
+#Unit 11 - Command line
 
 ##Synopsis
-This unit touches upon the basic CRUD (create, read, update, delete) commands in the terminal. It also introduces version control. Students will learn how to `clone`, `push`, and `pull` using Git. There is no project for this unit.
-
+This unit touches upon the basic CRUD (create, read, update, delete) commands in the terminal. 
 ##Lessons
 
 1. [Command line](lessons/1-commandline)
-1. [Git](lessons/2-git)
+2. [Terminus](lessons/2-terminus)
 
 ##Standards
 

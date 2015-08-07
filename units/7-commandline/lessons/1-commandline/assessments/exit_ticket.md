@@ -1,3 +1,3 @@
-1. What is a terminal?
-2. What command can you use to see your file path?
-3. If you want to select all of the .png files in a folder what would you type in?
+List 5 commands you used in Terminus today. Also describe what each command does.
+
+Ex: PWD: Shows the user's current file path
