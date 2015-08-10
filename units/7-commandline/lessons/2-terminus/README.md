@@ -10,7 +10,7 @@ Students will be able to navigate the Terminus game while building their skills 
 ### Key points
 
 * The commands used in Terminus are the same commands used in the terminal.
-* 
+* There is an end to the game. It takes a VERY long time to beat but there is an end.
 
 ### Assessment
 
@@ -26,6 +26,7 @@ Students will show progress toward reaching the objective based on their perform
 * Less
 * Touch
 * Backtrack
+* Gamification
 
 ### References
 
@@ -44,34 +45,30 @@ Students will show progress toward reaching the objective based on their perform
 
 ### Opening
 
-Today we are going to fortify our terminal skills by playing a video game. This video game was made by MIT students who were trying to create an interesting way to learn how to use the command line.
-
+Today we are going to fortify our terminal skills by playing a video game. This video game was made by MIT students who were trying to create an interesting way to teach the command line. These MIT students are using a process called gamification to make learning a fun activity.
 
 
 ### Introduction of new material ("I do")
-
+The lead teacher will bring up the [Terminus Game](http://www.mprat.org/Terminus/) for the whole class to see. Read, or have a student read the directions on the first screen.
 
 ### Guided practice ("We do")
-
-
+Walk through the first 2-3 commands with the whole class so they can get a feel for how this game is played.
 
 ### Independent practice ("You do")
+Students can spend the remainder of class playing through the Terminus game. Teachers can circulate and attempt to help when a student is stuck. Teachers are also encouraged to play through the game themselves.  
 
-
-
+Be sure to leave 5 minutes at the end of class for the closing and the exit ticket.
 #### Exit ticket
 
 Give exit-ticket quiz.
 
 ### Closing
 
-Today you learned about
+Today you used a process of gamification to help learn new command line skills. Do you think gamification is an effective way to learn? Would you like to see gamification in other classes?
 
 #### Homework
 
-[Link to homework](homework/)
-
-Remind students when homework is due and how it will be collected.
+Students are encouraged to continue playing this game outside of class. If they complete the game they should take a sceenshot and will inevitably have untold bragging rights.
 
 ## After class
 
