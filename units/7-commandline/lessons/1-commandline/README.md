@@ -127,7 +127,7 @@ This information can also be found in slide 8 of the [Presentation Slides](https
 
 #### Exit ticket
 
-Give [exit-ticket]() quiz.
+Give [exit-ticket](assessments/exit_ticket.md) quiz.
 
 ### Closing
 
