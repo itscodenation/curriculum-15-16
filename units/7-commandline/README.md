@@ -9,6 +9,8 @@ This unit touches upon the basic CRUD (create, read, update, delete) commands in
 
 ##Standards
 
-###CPP.L2-05 I - Event-Driven Behavior
-1. Student	can stage	files	for	commit,	write	commit	messages	and	push	their	code	to	a	remote	repository; student	can	use git to	collaborate	and	can	resolve	merge	conflicts.
-2. Student	can	explain	the	difference	between	git	and	applications	that	use	git	(for	example,	GitHub).
+###CCSS.MATH.CONTENT.HSF.BF.A.1
+1. Student	can use terminal commands as functions and actions as parameters.
+
+###CCSS.MATH.CONTENT.HSS.IC.A.1 - Evaluating processes
+1. Students	can use parameters to manipulate and navigate their way through the terminal.
