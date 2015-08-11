@@ -77,6 +77,7 @@ We are going to make a simple yet responsive webpage that consists of three pict
 Make a webpage called `meme.html` linked in the same first-bootstrap-site workspace.
 
 Your page must include the following:
+
 1. 9 of your favorite memes in a Bootstrap grid.
 2. When this page is brought up on a computer the grid will be 3x3.
 3. When this page is brought up on a phone the grid will be 1x9.
