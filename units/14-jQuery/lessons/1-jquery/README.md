@@ -1,6 +1,6 @@
-#Lesson 1 - jQuery
+#Lesson 1 - jQuery Selectors
 
-![image](http://i.imgur.com/UNTTbXt.jpg)
+![Imgur](http://i.imgur.com/KwaFtIP.png)
 
 ## Before class
 
@@ -15,8 +15,8 @@ Students will be able to create, read, update, and delete HTML elements using jQ
 
 ### Assessment
 
-1. Write do-now based off of [assessments from previous lesson](../../../9-hash/lessons/1-hash/assessments/).
-2. Write exit-ticket based off [assessments from current lesson](assessments/).
+1. Write do-now based off of [assessments from previous lesson](assessments/do_now.md).
+2. Write exit-ticket based off [assessments from current lesson](assessments/exit_ticket.md).
 
 Students will show progress toward reaching the objective based on their performance on the exit-ticket quiz.
 
@@ -47,9 +47,8 @@ Students will show progress toward reaching the objective based on their perform
 
 ### Opening
 
-Today we will learn about jQuery. This is important because jQuery enables us to interact with our page in a dynamic way. It connects to what we've previously learned because we will able to access, add, remove, or change HTML and CSS. 
+Today we will learn about jQuery. jQuery is one of the most popular javascript libraries avaible. jQuery enables us to interact with our page in a dynamic way. It connects to what we've previously learned because we will able to access, add, remove, or change HTML and CSS. It is also a quick and easy way to see our JavaScript code appear on our webpage.
 
-Let's review HTML & CSS first. What is HTML used for? What's a tag? Give me an example of some. What's an attribute? Give me an example. Let's review CSS now. What is it used for? Give me example of some CSS properties.
 
 ### Introduction of new material ("I do")
 
@@ -59,39 +58,31 @@ Let's review HTML & CSS first. What is HTML used for? What's a tag? Give me an e
 
 jQuery is a software library. It is a body of code that others have written so that we programmers could reuse it. 
 
-Because it is a library, we need to import it into our own work before we can make use of it. jQuery is written in JavaScript and is contained in one file. To bring it into our own project, we have to use the same tag we would use when we want to bring in our own JavaScript file: the ``link`` tag.  
+Because it is a library, we need to import it into our own work before we can make use of it. jQuery is written in JavaScript and is contained in one file.  To bring jQuery into our project we link the CDN in a``<script>`` tag in the ``<head>...</head>`` section of our page. Since I can't remember the jQuery CDN I am going to do a Google search for jQuery CDN. 
 
 Copy the code below and paste it between the ``<head>...</head>`` tags in your HTML file: 
 
 ```
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 ```
+**Note: the jQuery script tag must be above the script tag the links to your .js file or else the jQuery won't load properly**
 
-##### Installation (2)
 
-To use jQuery, you must write JavaScript. Typically this JavaScript is stored in its own file. Suppose this file is called ``project.js``. We first create this file and then link it in our HTML page using the ``<script>`` tag. **This latter tag must be included after the jQuery ``<script>`` tag**. 
+##### Ready the document
 
-Thus, after the inclusion of both files, the ``<head>..</head>`` section of your page would have:
-
-```
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-<script src="project.js"></script>
-```
-
-The ``project.js`` inclusion must be done after the jQuery inclusion because the browser loads scripts in order. Because ``project.js`` makes use of jQuery, it must be loaded after it.
-
-##### Starter template
-
-Copy the code below and paste it into your own JavaScript file (``project.js`` if you are continuing from above):
+In order to tell your website it is ready to start using 
 
 ```
 $( document ).ready(function() 
 {
-
+	//All of your code gets put inside this function
 });
 ```
 
 Do not worry about understanding this code. Just know that (1) any code that you write using jQuery must be included between the braces above and (2) the code is executed when the page loads.
+
+#### Calling jQuery
+In jquery there is a "magical" that is key. that symbol is $. Think of $ as a phone number for jQuery. You call jQuery by dialing $ and jQuery answers by allowing you to use the code in its library.
 
 #### Selectors
 
@@ -106,17 +97,11 @@ A **selector** allows you to find and manipulate HTML elements. Sound familar? I
 
 The above CSS code instructs the browser to find all elements that have an ID of "box" and then change their background color. 
 
-jQuery has selectors too. To instruct it to find all elements that have an ID of "box", write:
+jQuery has selectors too. To instruct it to find all elements that have an ID of "main", write:
 
 ```
-$("#box");
+$("#main");
 ```
-
-Notice the syntax: a dollar sign followed by parentheses. Inside the parentheses is a string which contains the identifier. Remember that a pound sign (`#`) represents an ID and a period (`.`) represents a class.
-
-Note that the above code doesn't do anything after it has selected all the found items. Let's look at a more interesting case.
-
-##### Read `div`  
 
 Suppose our HTML looks like so:
 
@@ -137,31 +122,13 @@ This will show the following in the browser:
 Pikachu I choose you!
 ```
 
-If we want to read the contents of the `div` with an ID `main` and then print it out to the console, we can call the `text()` function on the `div` element like so:
+
+##### Edit using jQuery
+
+If we want to change the contents of the `div` above so that it contains different text, we can do so by selcting the ID:
 
 ```
-console.log($("#box").text());
-```
-
-##### Edit `div`
-
-Suppose our HTML looks like:
-
-```
-<html>
-  <head>...</head>
-  <body>
-    <div id="main">
-      Pikachu I choose you!
-    </div>
-  </body>
-</html>
-```
-
-If we want to change the contents of the `div` above so that it contains different text, we can do so:
-
-```
-$("#box").text("Bulbasaur I choose you!");
+$("#main").text("Bulbasaur I choose you!");
 ```
 
 This page will now show:
@@ -170,7 +137,9 @@ This page will now show:
 Bulbasaur I choose you!
 ```
 
-##### Create `div`
+We have just altered the text of our page by using jQuery **NOT** with HTML.
+
+##### add with append
 
 Suppose our HTML looks like:
 
@@ -198,36 +167,6 @@ Pikachu I choose you!
 Gotta catch em all!
 ```
 
-##### Remove `div`
-
-Suppose our HTML looks like:
-
-```
-<html>
-  <head>...</head>
-  <body>
-    <div id="main">
-      Pikachu I choose you!
-    </div>
-    <div id="other">
-      Jigglypuff
-    </div>
-  </body>
-</html>
-```
-
-If we want to remove the first `div` with an ID of `main`, we can use the ``remove()`` function:
-
-```
-$("#main").remove();
-```
-
-This page will now show:
-
-```
-Jigglypuff
-```
-
 ##### Edit attribute
 
 Suppose our HTML looks like:
@@ -245,7 +184,7 @@ In the browser, this page looks like:
 
 ![image](http://i.imgur.com/iWFGbVq.jpg)
 
-Suppose we want to change the image. We could delete the `img` tag and make a new one with the right `src` URL. But we're lazy programmers so we try to do things that take the least amount of effort. Instead, we can edit the `src` attribute by using the ``attr()`` function:
+Suppose we want to change the image. We could delete the `img` tag and make a new one with the right `src` URL. But we don't want to delete anything. Instead, we can edit the `src` attribute by using the ``attr()`` function:
 
 ```
 $("img").attr("src", "http://i.imgur.com/fkKkNX5.png")
@@ -257,121 +196,40 @@ In the browser, the page now looks like:
 
 ![image](http://i.imgur.com/fkKkNX5.png)
 
-##### Edit CSS
-
-Suppose our HTML looks like:
-
-```
-<html>
-  <head>...</head>
-  <body>
-    <div id="main">
-      Pikachu I choose you!
-    </div>
-  </body>
-</html>
-```
-
-If we want to change the background color of our div, we can use the ``css()`` function:
-
-```
-$("#main").css("background-color", "yellow");
-```
-
-Just like the ``attr()`` function above, the ``css()`` function takes two parameters: the property you wish to add (or change) and the value you want to set it to. The above code will change the background color of the `div` to yellow.
-
-#### Handlers
-
-A **handler** is a piece of code that runs after an event has occured. Example of events include a key press on a keyboard and the scroll on a mouse. 
-
-##### Click handler
-
-A common kind of handler is a mouse click handler which runs after the mouse has been clicked over a certain element. Let's suppose we had HTML code like so:
-
-```
-<html>
-  <head>...</head>
-  <body>
-    <button class=".btn">Team rocket</button>
-  </body>
-</html>
-```
-Clicking on the button will not do anything. Let's add a click handler to change that:
-
-```
-$(".btn").click(function()
-{
-  alert("Prepare for trouble. Make it double.");
-});
-```
-
-Clicking on the button will now trigger a pop-up window (or alert) with the following text: "Prepare for trouble. Make it double."
-
 ### Guided practice ("We do")
 
-Now we're going to practice jQuery together. Suppose we have an HTML file with the following code:
+Now we're going to practice jQuery together. Let's open the JS Bin page found at **http://jsbin.com/qehara/edit?html,js,output**
 
-```
-<html>
-  <head>
-  </head>
-  <body>
-  </body>
-</html>
-```
-Suppose we do not have any other files.
+Complete the following tasks by using jQuery only:
 
-1. How do I include jQuery into our project?
-2. Let's create an empty JavaScript file. How do I include it in my HTML file?
-3. What starter code do I put in the empty JavaScript file so that I can use jQuery?
-4. How do I create two new empty ``div``'s with a class of "pokemon" and IDs of "first" and "second" respectively?
-5. How do I put the text "Garchomp" in the first ``div`` and "Mew" in the second? 
-6. How do I print the text in each ``div`` to the console?
-7. How do I italicize the text in both ``div``'s using only one line?
-8. How do I add borders to both ``div``'s?
-9. How do I swap the IDs of the `div`'s?
-10. How do I attach a click handler to both ``div``'s so that clicking on one prints out the text of the clicked ``div`` to the console?
+1. Inside the first div add the text "Game of Thrones"
+2. Add a new div using .append with the ID "tv2". Put any tv show of your choice in that div.
+3. using .attr change the text in ID "what" to a third tv show.
+
+Export this JS Bin as a Gist so you can reference it for later.
+
 
 ### Independent practice ("You do")
 
-Suppose we have an HTML file with the following code:
+Create a new GitHub repo called jQuery-practice and clone it to a new Cloud9 workspace with the same name.
 
-```
-<html>
-  <head>
-  </head>
-  <body>
-  </body>
-</html>
-```
-Suppose we do not have any other files.
-
-1. Include jQuery into our project.
-2. Create an empty JavaScript file. Include it in your HTML file.
-3. What starter code do you put in the empty JavaScript file so that you can use jQuery?
-4. Create two new empty ``div``'s with a class of "animal" and IDs of "shark" and "turtle" respectively.
-5. Put the text "Great white" in the first ``div`` and "Box turtle" in the second.
-6. Print the text in each ``div`` to the console.
-7. Bold the text in both ``div``'s using only one line.
-8. Add dotted borders to both `div`'s.
-9. Swap the IDs of the `div`'s.
-10. Attach a click handler to both ``div``'s so that clicking on one prints out the text of the clicked ``div`` to the console.
-
+1. Create an index.html and script.js file
+2. In the body of the index.html file Create two new empty div's with the IDs "div1" and "div2". 
+2. Create the rest of the webpage below using only jquery.  
+	Note: You may use any image you would like.
+	
+![Imgur](http://i.imgur.com/VWhVeyz.png)
 #### Exit ticket
 
 Give exit-ticket quiz.
 
 ### Closing
 
-Today you learned about jQuery. This is important because jQuery enables us to dynamically interact with our HTML and CSS. Next, we will do a jQuery project.
+Today you learned about jQuery. This is important because jQuery enables us to dynamically interact with our HTML and CSS. Next, we will learn about interacting with jQuery project.
 
 #### Homework
 
-[Link to homework](homework/)
-
-[Link to homework solution (private)](https://github.com/ScriptEdcurriculum/solutions/tree/master/units/10-jquery/lessons/1-jquery/homework/solution_code)
-
-Remind students when homework is due and how it will be collected.
+There is no homework for today's session.
 
 ## After class
 

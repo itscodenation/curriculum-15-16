@@ -1,4 +1,4 @@
-#Unit 10 - jQuery
+#Unit 12 - jQuery
 
 ##Synopsis
 This unit makes an introduction to jQuery. Students will learn about selectors and then be able to create, read, update, and delete HTML elements. They will also learn about click handlers.
