@@ -121,8 +121,10 @@ Bootstrap has many styles for controlling the appearance of text. Let's Explore 
 
 ### Independent practice ("You do")
 
-Make your own webpage using Bootstrap. Your Webpage will be about four colleges you would like to apply to.  
+Make your own webpage using Bootstrap. Your Webpage will be about four colleges you would like to apply to. This page will be called `college.html` and wlll be in your first-bootstrap-site workspace.    
+
 Your page must include the following:
+
 1. A table with each of the four colleges, the college's location, tuition and desired major.
 2. Below the table is a button for each school that links directly to the college's website.
 3. Text that descibes what the site is about. 

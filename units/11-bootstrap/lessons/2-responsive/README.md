@@ -1,4 +1,4 @@
-#Lesson 1 - Responsive Webpages
+#Lesson 2 - Responsive Webpages
 
 ![Imgur](http://i.imgur.com/hwLWyaBm.png)
 
@@ -60,33 +60,27 @@ Consider the following code:
         <div class="col-xs-12 col-md-6">World</div>
 </div> 
 ````
-  
+
+In this example, a medium screen would show the words `Hello` and `World` next to each other. However, an extra-small screen would show the two words ontop of eachother.
+   
 ### Guided practice ("We do")
-####Text
+We are going to make a simple yet responsive webpage that consists of three pictures.
 
-Bootstrap has many styles for controlling the appearance of text. Let's Explore the "Alignment Classes" Bootstrap has to offer.  You'll notice by adding a specific type of class to a piece of text you change how the text will appear on the page.  
-
-```
-<html>
-  <head>
-    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
-    <title>Hello world!</title>
-  </head>
-  <body>
-    <p class="text-left">Left aligned text.</p>
-	<p class="text-center">Center aligned text.</p>
-	<p class="text-right">Right aligned text.</p>
-  </body>
-</html>
-```
+1. Open your "first-bootstrap-site" project from last session.
+2. Add a page called `3shirts.html` 
+3. Find three pictures online of shirts.
+4. Place these images on your page using img tags
+5. Use the Bootstrap grid system to have these images stack ontop of each other if someone viewed this page on their smartphone.   
 
 ### Independent practice ("You do")
 
-Make your own webpage using Bootstrap. Your Webpage will be about four colleges you would like to apply to.  
+Make a webpage called `meme.html` linked in the same first-bootstrap-site workspace.
+
 Your page must include the following:
-1. A table with each of the four colleges, the college's location, tuition and desired major.
-2. Below the table is a button for each school that links directly to the college's website.
-3. Text that descibes what the site is about. 
+1. 9 of your favorite memes in a Bootstrap grid.
+2. When this page is brought up on a computer the grid will be 3x3.
+3. When this page is brought up on a phone the grid will be 1x9.
+4. Two of the images will be emphasized on a computer screen by being inside of a larger cell than the other 7 images. 
 
 #### Exit ticket
 
@@ -94,7 +88,7 @@ Give exit-ticket quiz.
 
 ### Closing
 
-Today you learned about Twitter bootstrap. This is important because Bootstrap allows us to create clean and elegant HTML without writing additional CSS
+Today you learned how to make pages responsive. This is an increasingly important feature for websites as more and more people access the web via smartphones and tablets.
 
 #### Homework
 
