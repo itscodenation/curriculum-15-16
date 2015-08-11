@@ -5,7 +5,8 @@ This unit makes an introduction to jQuery. Students will learn about selectors a
 
 ##Lessons
 
-1. [jQuery](lessons/1-jquery)
+1. [Selectors](lessons/1-selectors)
+2. [Events](lessons/2-events)
 2. [Project](lessons/2-project)
 
 ##Standards
