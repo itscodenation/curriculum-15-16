@@ -19,7 +19,7 @@ Students will be able to use the basics of Bootstrap's CSS offerings.
 
 1. Write exit-ticket based off [assessments from current lesson](assessments/exit_ticket.md).
 
-Students will show progress toward reaching the objective based on their performance on the exit-ticket quiz.
+Students will show progress toward reaching the objective based on their performance on the exit-ticket.
 
 ### Vocabulary
 
@@ -38,8 +38,8 @@ Students will show progress toward reaching the objective based on their perform
 ### Do-now
 
 1. Attendance
-2. Return graded do-now and exit ticket from previous class
-3. Do-now quiz
+2. Return graded exit ticket from previous class
+3. [Do-now](assessments/do_now.md)
 
 ### Opening
 
@@ -100,25 +100,6 @@ Our HTML code should look something like this:
 The button is just one example to what bootstrap can do. There are many other things bootstrap can do that are all time-saving and have a modern look.
 
 
-Click [here](http://jsbin.com/quxeg/1/) to see what this code looks like. Using the Chrome browser, right click on the button and click on "Inspect element". Look at the right side of the new screen. It should look something like:
-
-![image](http://i.imgur.com/Aq8CQOp.jpg)
-
-These are all the styles being applied to that button. But wait. We don't have a CSS file in our project. We haven't written any styles for our button so where are these styles coming from? These styles are coming from the browser. Every browser has its default styles. 
-
-Let's now insert bootstrap into our code above. Consider the following code:
-
-```
-<html>
-  <head>
-    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
-    <title>Hello world!</title>
-  </head>
-  <body>
-    <button type="button" class="btn btn-default">Click me</button>
-  </body>
-</html>
-```
 ### Guided practice ("We do")
 ####Text
 
@@ -160,6 +141,6 @@ There is no homework for this lesson. Point students to the project instead.
 
 ## After class
 
-* Grade do-now & exit-ticket. Record in class spreadsheet.
+* Grade exit-ticket.
 * Prepare for next lesson / hand off to next volunteer in rotation.
 
