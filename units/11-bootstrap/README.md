@@ -6,7 +6,7 @@ This unit focuses on the styling of websites using the BootStrap framework. The 
 ##Lessons
 
 1. [What is Bootstrap?](lessons/1-whatIsBootstrap)
-2. [Multiple Pages & External Style Sheets **Project 3A**](lessons/2-pagesStyles)
+2. [Responsive Webpages](lessons/2-responsive)
 3. [Div Tags & Div Classes](lessons/3-div)
 4. [Twitter bootstrap](lessons/4-bootstrap)
 5. [About Me with bootstrap](lessons/project-part-b)
