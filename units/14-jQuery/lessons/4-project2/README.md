@@ -4,7 +4,7 @@
 
 ##Scope
 
-This project involves creating a simple Facebook-like wall. The objective of this project is for students to practice their jQuery skills. Unlike previous projects, this is the first time students are presented with minimal scaffolding.
+This project involves creating a simple Facebook-like wall. The objective of this project is for students to practice their jQuery skills. Unlike previous projects, students are presented with minimal scaffolding.
  
 ##Before Class
 
@@ -17,7 +17,7 @@ See [here](starter_code/) for code and [here](https://rawgit.com/ScriptEdcurricu
 
 ### Solution code
 
-See [here](https://github.com/ScriptEdcurriculum/solutions/tree/master/units/10-jquery/lessons/2-project/solution_code) for code (private).
+See [here]() for code (private).
 
 ### Assessment
 
@@ -45,7 +45,7 @@ You are going to build a simple Facebook Wall. Your instructions:
 
 You must fill out `js/wall.js`. Unlike previous projects, there is very little starter code given. This is on purpose. 
 
-For the poster picture, use http://i.imgur.com/87kIXSN.jpg. 
+For the poster picture (image of a blank face), use http://i.imgur.com/87kIXSN.jpg. 
 
 #### 2. Test
 
@@ -70,6 +70,6 @@ Select students to present their work to the class.
 Teachers should keep track of student success while they are presenting to the class.
 
 ###How to Submit
-The teacher must ask students to share the link to their project on your school's [Project Submission Form.](https://docs.google.com/a/scripted.org/spreadsheets/d/1kaVH9hmkDCbBul19583UMPxl6IJ3-4pHgBQ2BU6TKDk/edit#gid=0)
+The teacher must ask students to share the link to their project on your school's 
 
-Also remind students to add a link to their project on their About Me page.
+Also remind students to push this code back up to their GitHub repo. 
