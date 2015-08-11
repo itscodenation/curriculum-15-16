@@ -133,11 +133,11 @@ Give exit-ticket quiz.
 
 ### Closing
 
-Today you learned about Twitter bootstrap. This is important because Bootstrap allows us to create clean and elegant HTML without writing additional CSS>
+Today you learned about Twitter bootstrap. This is important because Bootstrap allows us to create clean and elegant HTML without writing additional CSS
 
 #### Homework
 
-There is no homework for this lesson. Point students to the project instead.
+There is no homework for this lesson.
 
 ## After class
 
