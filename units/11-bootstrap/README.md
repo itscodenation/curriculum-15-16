@@ -1,15 +1,36 @@
-#Unit 10 - jQuery
+#Unit 11 - Bootstrap
 
 ##Synopsis
-This unit makes an introduction to jQuery. Students will learn about selectors and then be able to create, read, update, and delete HTML elements. They will also learn about click handlers.
-
+This unit focuses on the styling of websites using the BootStrap framework. The student will pull from the Bootstrap framework to design websites that are medorn and responsive. 
+ 
 ##Lessons
 
-1. [jQuery](lessons/1-jquery)
-2. [Project](lessons/2-project)
+1. [Header, Styles & Buttons](lessons/1-headerStyleButton)
+2. [Multiple Pages & External Style Sheets **Project 3A**](lessons/2-pagesStyles)
+3. [Div Tags & Div Classes](lessons/3-div)
+4. [Twitter bootstrap](lessons/4-bootstrap)
+5. [About Me with bootstrap](lessons/project-part-b)
 
 ##Standards
 
-###CPP.L2-05 I - Event-Driven Behavior
-1. Student	can	use	"onclick"	events	to	trigger	JavaScript	behavior	from	user	interaction.
-2. Student	can modify	page	contents	from	JavaScript.
+####English Standards
+**CCSS.ELA-Literacy.L9.-10.1**  
+[CCSS.ELA-LITERACY.L9-10.1](http://www.corestandards.org/ELA-Literacy/L/9-10/1/)
+
+Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.
+
+[CCSS.ELA-LITERACY.L.9-10.1.A](http://www.corestandards.org/ELA-Literacy/L/9-10/1/a/)  
+Use parallel structure
+
+[CCSS.ELA-LITERACY.L.9-10.1.B](http://www.corestandards.org/ELA-Literacy/L/9-10/1/b/)  
+Use various types of phrases (noun, verb, adjectival, adverbial, participial, prepositional, absolute) and clauses (independent, dependent; noun, relative, adverbial) to convey specific meanings and add variety and interest to writing or presentations.
+
+####CSTA Standards
+
+###CT.L2-03
+Define an algorithm as a sequence of instructions that can be processed by a computer. 
+
+###CT.L2-04
+Evaluate ways that different algorithms may be used to solve the same problem. 
+
+
