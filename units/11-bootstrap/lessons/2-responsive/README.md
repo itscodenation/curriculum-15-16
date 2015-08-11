@@ -84,7 +84,7 @@ Your page must include the following:
 
 #### Exit ticket
 
-Give exit-ticket quiz.
+Give [exit ticket](assessments/exit_ticket.md).
 
 ### Closing
 
