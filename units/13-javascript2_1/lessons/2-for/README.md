@@ -206,7 +206,7 @@ Today you learned about for loops. This is important because loops can be used t
 
 #### Homework
 
-There is no homework for this session.
+Homework can be found [here](homework/) 
 
 ## After class
 
