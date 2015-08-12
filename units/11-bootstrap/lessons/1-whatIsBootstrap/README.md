@@ -59,7 +59,7 @@ For this unit, we will only look at the CSS aspects of Bootstrap.
 
 #####Installation
 
-We first need to bring Bootstrap into our project. We do this by bringing the CDN to a link tag in the head ``<link>`` tag in the ``<head>...</head>`` section of our page. Since I can't remember the Bootstrap CDN I am going to do a Google search for Bootstrap CDN.
+We first need to bring Bootstrap into our project. We do this by bringing the CDN to a link tag in a ``<link>`` tag in the ``<head>...</head>`` section of our page. Since I can't remember the Bootstrap CDN I am going to do a Google search for Bootstrap CDN.
 
 ![Imgur](http://i.imgur.com/MgMIGZz.png)
 
@@ -135,7 +135,7 @@ Give exit-ticket quiz.
 
 ### Closing
 
-Today you learned about Twitter bootstrap. This is important because Bootstrap allows us to create clean and elegant HTML without writing additional CSS
+Today you learned about Bootstrap. This is important because Bootstrap allows us to create clean and elegant HTML without writing additional CSS
 
 #### Homework
 
