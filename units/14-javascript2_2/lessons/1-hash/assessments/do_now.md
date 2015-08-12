@@ -1,0 +1,1 @@
+Create an array with 6 countries in it.

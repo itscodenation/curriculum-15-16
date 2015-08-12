@@ -1,0 +1,1 @@
+Why are hashes more dynamic than arrays? What can a hash do that an array cannot?
