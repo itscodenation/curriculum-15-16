@@ -1,2 +1,1 @@
-1. Provide an example of an infinite loop.
-2. Provide an example of a exit condition.
+Why is a for loop preferred over a while loop in JavaScript?

@@ -17,8 +17,8 @@ Students will be able to create ``while`` loops, take repeatable tasks and conve
 
 ### Assessment
 
-1. Do-now activity 
-2. Write exit-ticket based off [assessments from current lesson](assessments/).
+1. [Do-now](assessments/do_now.md) activity 
+2. Write exit-ticket based off [assessments from current lesson](assessments/exit_ticket.md).
 
 Students will show progress toward reaching the objective based on their performance on the exit-ticket quiz.
 
@@ -127,7 +127,7 @@ Now we're going to work with loops together. We can do this prototyping in JS Bi
 
 
 ### Independent practice ("You do")
-Create a GitHub repository called loops and clone it to a new Cloud9 workspace with the same name.
+Create a GitHub repository called "loops" and clone it to a new Cloud9 workspace with the same name.
 
 1. Create two files, `while.html` and `script.js`
 2. Add the jQuery CDN and have a single empty div in the html file.
