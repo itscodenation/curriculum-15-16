@@ -27,7 +27,7 @@ See [here](https://githubrb.com/ScriptEdcurriculum/solutions/tree/master/units/9
 
 ###Do Now
 
-1. Attendance: Teacher takes student attendance at www.kinvolved.com
+1. Attendance: 
 2. Return graded do-now and exit ticket from previous class
 3. Do-now quiz
 
