@@ -1,4 +1,6 @@
-# World Countries Information
+# Around the World
+
+![Imgur](http://i.imgur.com/St9vbtbm.png)
 
 This project will be created in the process of completing [lesson 1](1-hash/README.md) & [lesson 2](2-hashes/README.md) of this unit.
 
