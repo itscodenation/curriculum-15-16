@@ -1,1 +1,0 @@
-What is the advantage of adding, changing or removing something on an html page with jQuery and not with html code?
