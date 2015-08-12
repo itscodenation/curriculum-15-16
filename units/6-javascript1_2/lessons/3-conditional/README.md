@@ -13,8 +13,6 @@ Students will be able to use booleans, conditionals, and logical operators.
 * Boolean values are either true or false.
 * `if`/`else` statements let us set a condition and execute different code based on whether the condition is met.
 * Comparison operators let us test for equality or difference..
-* Logical operators let us test for complex conditions.
-* We can put conditionals inside other conditionals; this is called nesting.
 
 ### Assessment
 
@@ -174,7 +172,7 @@ Write two boolean variables and initialize them to `false`. Name the variables "
 2. Create a quick statement that prompts the user the question "What is your favorite ice cream flavor?"
 3. If the user responds "chocolate" respond "Yay! I love chocolate too"
 4. If the user responds "vanilla" respond "Boo! Chocolate is better"
-5. 4. If the user responds with any other flavor respond "Eww! Try a real flavor, like chocolate"
+5. If the user responds with any other flavor respond "Eww! Try a real flavor, like chocolate"
 
 Before leaving remember to save snapshot and export as gist when you are done.
 

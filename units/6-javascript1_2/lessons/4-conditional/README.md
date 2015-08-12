@@ -1,6 +1,6 @@
-#Lesson 1 - Conditionals
+#Lesson 4 - More Conditionals! 
 
-![image](http://i.imgur.com/ZRo5Z6j.jpg)
+![Imgur](http://i.imgur.com/ooLA9O6.png)
 
 ## Before class
 
@@ -10,23 +10,18 @@ Students will be able to use booleans, conditionals, and logical operators.
 
 ### Key points
 
-* Boolean values are either true or false.
-* `if`/`else` statements let us set a condition and execute different code based on whether the condition is met.
-* Comparison operators let us test for equality or difference..
 * Logical operators let us test for complex conditions.
 * We can put conditionals inside other conditionals; this is called nesting.
 
 ### Assessment
 
-1. [Do now](assessments/do_now) riddle
+1. [Do now](assessments/do_now) activity
 2. Write exit-ticket based off [assessments from current lesson](assessments/).
 
 Students will show progress toward reaching the objective based on their performance on the exit-ticket quiz.
 
 ### Vocabulary
 
-* Boolean
-* Condition
 * Comparison operator
 * Logical operator
 * Nesting
@@ -47,117 +42,13 @@ Students will show progress toward reaching the objective based on their perform
 
 ### Opening
 
-Today we will learn about boolean values, `if`/`else` statements, comparison operators, and logical operators. This is important because these concepts will allow us to write sophiscated programs that will run in different ways based upon what we input. It connects to what we've previously learned because we will be able test the values of variables we've created in the past and derive a boolean value.
+Last class we discovered how to use operators to compare two things. But what if we want to compare things with multiple conditional?
 
-Someone give me an example of a use of if/else logic in the real world. If there is milk left in the carton, then you will drink milk. Or else, you will need to go to the store to get milk. If you take a shower, then you will smell good. Or else, you will smell bad.
+Example: **If** it is raining **and** you don't have an umbrella, then you will get wet.
 
-Let's talk about an example involving a machine.How does a metro station work? If the remaining amount of money on your metro card is less than the fare, then you will see "INSUFFICIENT FARE" printed on the display and the turnstile will stay locked. Or else, the machine will subtract the fare amount from your balance, display it, and unlock the turnstile.
+What other sentances did you come up with in the do now?
 
 ### Introduction of new material ("I do")
-
-####Create, initialize, and change a boolean variable
-
-```
-var hungry = true;
-var full = false;
-```
-
-This is an example of two boolean typed variables. **Boolean** variables can only be set to one of two values: true or false. Let's print these variables:
-
-```
-console.log(hungry);
-console.log(full);
-```
-
-prints:
-
-```
-true
-false
-```
-
-####Conditionals with comparison operators
-
-##### True `if`
-
-**Conditionals** let us set a criteria and run different code based upon whether the criteria is met or not. Let's look at an example:
-
-```
-if (1 == 1)
-{
-  console.log("1 equals 1!");
-}
-```
-
-Let's break this down line-by-line. On the first line, we check for equality by using the ``==`` **comparison operator**. This operator checks if the left side is equal to the right side. Because 1 is equal to 1, this condition is true. Therefore, the body of the `if` statement is executed. 
-
-Thus, we see the following printed:
-
-```
-1 equals 1!
-```
-
-##### False `if`
-
-What if the condition in the `if` statement were false? Something like:
-
-```
-if (1 == 2)
-{
-  console.log("1 equals 2!");
-}
-```
-
-In this case, 1 is not equal to 2. The condition in the `if` statement is false. Therefore, the body of the `if` statement is never executed and **we see nothing printed!**
-
-##### `if` `else`
-
-What if we want to do one thing if our condition is true or another thing if our condition is false? We could:
-
-```
-if (1 == 2)
-{
-  console.log("1 equals 2!");
-}
-
-else
-{
-  console.log("1 does not equal 2!");
-}
-```
-
-In this case, 1 is not equal to 2. The condition in the `if` statement is false. Therefore, the body of the `else` statement runs.
-
-Thus, we see the following printed:
-
-```
-1 does not equal 2!
-```
-
-##### `else if`
-
-What if we wanted to do one thing if it met a certain condition or another thing if it met a separate condition? We could:
-
-```
-if (1 == 2)
-{
-  console.log("1 equals 2!");
-}
-
-else if (3 == 3)
-{
-  console.log("3 equals 3!");
-}
-```
-
-In this case, the `if` statement's condition is false. Therefore, we check the `else if` condition. Because 3 does equal 3, we see the following printed:
-
-```
-3 equals 3!
-```
-
-##### More comparison operators
-
 To see the full list of comparison operators, go [here](http://www.w3schools.com/js/js_comparisons.asp).
 
 ####Conditionals with logical operators
@@ -275,19 +166,6 @@ Here, we first ask the user's gender. Based on the gender, we ask different ques
 
 ### Guided practice ("We do")
 
-Write two boolean variables and initialize them to `false`. Name the variables "elephant" and "mouse."
-
-1. How do I print out the values of both variables?
-2. How do I change the value of the `elephant` variable to `true`?
-3. How do I print out "I am an elephant" if the value of `elephant` is `true`?
-4. How do I print out "I am not a mouse" if the value of `mouse` is `false`?
-5. How do I print out "I might be an elephant or a mouse" if either `elephant` or `mouse` is true?
-6. How do I change the value of `mouse` to true?
-7. How do I print out "I have a tail" if both `elephant` and `mouse` are true?
-8. Suppose we're building a website for Nemo, Dory, (both fishes) and Bruce (shark). We want to find out who of those three is using our website. We first need to ask them whether they are a fish. If they are a fish, we need to ask them what color they are. How do I write code that does this and prints out who they are?
-
-### Independent practice ("You do")
-
 Write two boolean variables and initialize them to `false`. Name the variables "woody" and "buzz."
 
 1. Print out the values of both variables.
@@ -299,19 +177,26 @@ Write two boolean variables and initialize them to `false`. Name the variables "
 7. Print out "I am Andy's favorite" if both `woody` and `buzz` are true.
 8. Suppose you're building a website for Ken, Barbie, & Big Baby. You want to find out who of those three is using your website. We first need to ask them whether they are an adult. If they are an adult, we need to ask them their gender. Write code that does this and prints out who they are.
 
+### Independent practice ("You do")
+
+1. Open a new JS Bin file.
+2. Create a quick statement that prompts the user two separate questions "How old are you?" and "Do you have a driver's license"
+3. If the user is 16 or older and has a drivers license then tell them to go drive a car. If not, tell them they better not drive a car.
+
+Before leaving remember to save snapshot and export as gist when you are done.
 #### Exit ticket
 
 Give exit-ticket quiz.
 
 ### Closing
 
-Today you learned about booleans, conditionals, logical, and comparison operators. This is important because these tools enable us to write sophiscated code that can run in different ways based upon the criteria we set. Next, we will learn about hashes and functions. 
+Today you learned how to use the and, or and nested functions of conditionals. Next we are going to make a program that uses these properties. 
 
 #### Homework
 
 [Link to homework](homework/)
 
-[Link to homework solution (private)](https://github.com/ScriptEdcurriculum/solutions/tree/master/units/7-conditional/lessons/1-conditional/homework/solution_code)
+[Link to homework solution (private)]()
 
 Remind students when homework is due and how it will be collected.
 
