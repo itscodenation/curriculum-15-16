@@ -8,6 +8,8 @@ This unit introduces arrays and loops to our students. Students will learn how t
 1. [While Loops](lessons/1-while)
 2. [For Loops](lessons/2-for)
 3. [99 bottles Project](lessons/3-project)
+4. [Arrays](lessons/4-array)
+5. [Color Changer](lessons/5-project)
 
 ##Standards
 
