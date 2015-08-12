@@ -1,4 +1,4 @@
-#Lesson 2 - Loops
+#Lesson 1 - While Loops
 
 ![image](http://i.imgur.com/VxptVvS.jpg)
 
@@ -6,7 +6,7 @@
 
 ### Objective
 
-Students will be able to create ``while`` and ``for`` loops, take repeatable tasks and convert them to loops, and iterate through an array using loops.
+Students will be able to create ``while`` loops, take repeatable tasks and convert them to loops, and iterate through an array using loops.
 
 ### Key points
 
@@ -17,7 +17,7 @@ Students will be able to create ``while`` and ``for`` loops, take repeatable tas
 
 ### Assessment
 
-1. Write do-now based off of [assessments from previous lesson](../1-array/assessments/).
+1. Do-now activity 
 2. Write exit-ticket based off [assessments from current lesson](assessments/).
 
 Students will show progress toward reaching the objective based on their performance on the exit-ticket quiz.
@@ -34,13 +34,12 @@ Students will show progress toward reaching the objective based on their perform
 ### References
 
 * http://www.w3schools.com/js/js_loop_while.asp
-* http://www.w3schools.com/js/js_loop_for.asp
 
 ## During class
 
 ### Do-now
 
-1. Attendance: Teacher takes student attendance at www.kinvolved.com
+1. Attendance
 2. Return graded do-now and exit ticket from previous class
 3. Do-now quiz
 
