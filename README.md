@@ -25,7 +25,7 @@ For unit 2, students must set up an account with GitHub and Cloud9 account. [Thi
 | [**9. HTML (Advanced)**](units/9-HTML2/) |   | Linking pages, a tag, forms | [Portfolio Page]() | N/A | 
 | [**10. HTML/CSS (Advanced)**](units/10-HTML_CSS2) |  | Div, id, class, float, transitions & animations | [GA Dash Project #4]() | [CSS Zen Garden]() |
 | [**11. Bootstrap**](units/11-bootstrap)|  | CDN, wireframing, grid system | [Fictional Character Website]() | N/A |
-| [**12. jQuery**](units/12-jQuery/lessons/3-project1)|  | Selectors, Attributes, Handlers | [The jQuery Site](units/12-jQuery/) | [Facebook Wall](https://github.com/ScriptEdcurriculum/facebook_wall)|
+| [**12. jQuery**](units/12-jQuery)|  | Selectors, Attributes, Handlers | [The jQuery Site](units/12-jQuery/lessons/3-project1) | [Facebook Wall](https://github.com/ScriptEdcurriculum/facebook_wall)|
 | [**13. JavaScript 2.1**](units/12-javascript2_1)|  | Arrays, Loops | [99 Bottles]() | [Color Changer]()|
 | [**14. JavaScript 2.2**](units/13-javascript2_2)|  | Objects (hashes) | [Animal noises]() | [World Capitals]()|
 
