@@ -1,6 +1,6 @@
 #Lesson 1 - Hashes
 
-![image](http://i.imgur.com/FWOuXvf.jpg)
+![Imgur](http://i.imgur.com/Yugqw7pm.jpg)
 
 ## Before class
 

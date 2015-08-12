@@ -1,4 +1,4 @@
-#Lesson 1 - Hashes
+#Lesson 2 - Hash-ception (hashes inside of hashes)
 
 ![image](http://i.imgur.com/FWOuXvf.jpg)
 
