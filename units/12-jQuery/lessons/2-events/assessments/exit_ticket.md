@@ -1,0 +1,1 @@
+How does someone interact with a webpage using jQuery?
