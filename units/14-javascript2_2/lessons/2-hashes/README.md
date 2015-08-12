@@ -16,7 +16,7 @@ Students will be able to create, initialize, access, manipulate, and iterate thr
 
 ### Assessment
 
-2. Exit-ticket based off [assessments from current lesson](assessments/).
+2. Exit-ticket based off [assessments from current lesson](assessments/exit_ticket).
 
 Students will show progress toward reaching the objective based on their performance on the exit-ticket quiz.
 
