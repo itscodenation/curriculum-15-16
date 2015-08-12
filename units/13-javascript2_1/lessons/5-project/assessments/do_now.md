@@ -1,0 +1,1 @@
+Create an array of 6 colors with the varible name "colors"

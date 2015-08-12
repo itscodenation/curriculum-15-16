@@ -1,4 +1,4 @@
-#Lesson 1 - Arrays
+#Lesson 4 - Arrays
 
 ![image](http://i.imgur.com/64dLS3B.jpg)
 
