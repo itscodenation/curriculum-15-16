@@ -1,75 +1,57 @@
-# High low
+# Madlibs
 
-![image](http://i.imgur.com/pQ1BCwf.jpg)
+![image](http://i.imgur.com/7HUunNK.jpg)
 
 ##Scope
 
-This project involves implementing the core functionality for a simple high low game. The objective of this project is for students to practice conditional logic using `if/else` statements.
+This project involves implementing the core functionality for a simple mad libs game. The objective of this project is for students to practice their string manipulation skills. 
  
 ##Before Class
 
 ### Prerequisites
-Students should only start this project after they have completed the other lessons in the unit.
+Students should only start this project after they have completed the strings lesson.
 
 ### Starter code
 
-See [here](starter_code/) for code and [here](https://rawgit.com/ScriptEdcurriculum/curriculum/master/units/7-conditional/lessons/2-project/starter_code/index.html) to view.
+See [here](http://jsbin.com/qorisi/edit?html,js,output) for code. 
 
 ### Solution code
 
-See [here](https://github.com/ScriptEdcurriculum/solutions/tree/master/units/7-conditional/lessons/2-project/solution_code) for code (private).
-
-### Assessment
-
-1. Write do-now based off of [assessments from previous lesson](../../../7-conditional/lessons/1-conditional/assessments/).
+See [here]() for code (private).
 
 ##During Class
 
 ###Do Now
 
-1. Attendance: Teacher takes student attendance at www.kinvolved.com
+1. Attendance
 2. Return graded do-now and exit ticket from previous class
-3. Do-now quiz
+3. [Do-now](assessment/do_now) activity
 
 ###Opening
 
-Let's play high low together as a class. I'm going to select a random number between 1 and 10 in my head. Your job is to guess the number. I can only say "too high", "too low", or "correct".
+What is madlibs? Let's play a game together [here](http://www.madglibs.com/showglib.php?glibid=180).
 
 ###Lecture
-You are going to build the guts of a high low game. You will be given starter code. Your instructions are:
+You are going to build a madlibs game that any user can play. Starter code is provided to you. Much of the code will not make sense right now and that is okay. The important thing for right now is to add a minimum of 10 parts of speech for the user to input.
 
-#### 1. `generateRandomNumber()`
+ 
+#### 1. Clone the Starter Code
 
-Modify the following function in the `js/guts.js` file:
+Open the Starter code link at http://jsbin.com/qorisi/edit?html,js,output  
 
-```
-function generateRandomNumber() { }
-```
+Once you are looking at the code go to File > Clone to create a new workspace for yourself.  
+![Imgur](http://i.imgur.com/Wt5iMBpm.png)
 
-This function must generate a random number between 1 and 10 and then return it.
+#### 2. Create a story with ten parts of speech
 
-#### 2. `checkGuess(guess, generatedRandomNumber) `
+In order to add more parts of speech you will need to to three things:
 
-Modify the following function in the `js/guts.js` file:
+1. In the HTML copy the line of code that begins with `input type`. You will also need to make a custom ID for each item.
+2. In the JavaScript, increase the length of `var story`
+3. In the JavaScript, copy more `var inputValue` lines.
 
-```
-function checkGuess(guess, generatedRandomNumber) {}
-```
-The function receives two parameters: `guess` which contains the number guessed by the user and `generatedRandomNumber` which contains the result from `generateRandomNumber()`. Use `console.log()` to check the parameter values.
+Two of the parts of speech are already there for you. You will need to add 8 more. Get creative!
 
-This function contains two variables:
-
-* statusCode: this variable must be set to 0 if the user guessed correctly, 1 if the user guessed too high, and 2 if the user guessed too low.
-* statusMessage: this variable must be set to a message based upon which of the three scenarios the user falls in.
-
-Be sure not to change any code that is already there.
-
-###Brainstorming
-Before you start coding, identify the list of steps you need to do to finish this project. Here's a start:
-
-1. What kind of conditional logic will you need? Write pseudo-code on paper using `if` and `else` statements.
-2. Bring the starter code into your own environment.
-3. Solve for just the success scenario first. Get that working before moving on to the other two scenarios.
 
 ###Build Time
 Students will work alone on this project. The teacher's role will be to walk around the room helping students with any questions they have. Students are encouraged to look at previous lessons for reference.
@@ -78,10 +60,8 @@ Students will work alone on this project. The teacher's role will be to walk aro
 Students who complete the project at hand early may attempt to improve their project by including the following:  
 
 * Added CSS for visual customization
-* Create a counter that only allows the user 4 guesses before the program terminates.
-* Create a system where the user is awarded a certain number of points based on the amount of guesses it took to find the random number. 
-* Create a "Reset random number" button.
-* Prompt the user to choose a difficulty (Easy, Medium, Hard). Difficulty can be increased by making the range of numbers to choose from larger.
+* A second MadLibs story
+* Create a site in which the user is first prompted to choose between 2 or more MadLibs stories to fill in.
 
 ##Closing
 Select students to present their work to the class.
@@ -90,6 +70,8 @@ Select students to present their work to the class.
 Teachers should keep track of student success while they are presenting to the class.
 
 ###How to Submit
-The teacher must ask students to share the link to their project on your school's [Project Submission Form.](https://docs.google.com/a/scripted.org/spreadsheets/d/1kaVH9hmkDCbBul19583UMPxl6IJ3-4pHgBQ2BU6TKDk/edit#gid=0)
+The students must Export this project as a Gist.   
+File > Export as Gist  
 
-Also remind students to add a link to their project on their About Me page.
+The teacher must ask students to share the link to their project
+
