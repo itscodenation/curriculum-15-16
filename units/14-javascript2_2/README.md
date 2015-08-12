@@ -7,7 +7,8 @@ This unit introduces hashes. Students will learn how to initialize, store, and r
 
 1. [Hashes](lessons/1-hash)
 2. [Hashes Inside Hashes](lessons/2-hashes)
-2. [Project](lessons/2-project)
+3. [Around the World](lessons/3-project)
+4. [Address Book](lessons/4-project)
 
 ##Standards
 
