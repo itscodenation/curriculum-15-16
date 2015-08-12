@@ -17,11 +17,8 @@ See [here](starter_code/) for code and [here](https://rawgit.com/ScriptEdcurricu
 
 ### Solution code
 
-See [here](https://githubrb.com/ScriptEdcurriculum/solutions/tree/master/units/9-hash/lessons/2-project/solution_code) for code (private).
+See [here]() for code (private).
 
-### Assessment
-
-1. Write do-now based off of [assessments from previous lesson](../../../9-hash/lessons/1-hash/assessments/).
 
 ##During Class
 
