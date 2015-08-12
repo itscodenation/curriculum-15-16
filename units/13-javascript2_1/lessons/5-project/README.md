@@ -1,23 +1,40 @@
 #Arrays Project: Color Changer
 ![Imgur](http://i.imgur.com/nYnda41l.jpg)
 
-
-##Do Now 
-Begin this session by completing the [Do Now](doNow.md) activity.
-
 ##Scope
-Every website on the internet was designed and wireframed by a developer of a team of developers. The website for the company you are at is no exception. Your manager has tasked you to Re-Brand the company's homepage. They believe the current homepage is dated and it is time for a new look. You have been given 1 week to complete this rebranding project.
+This project involves creating a simple site that allows the user to click a button to change the background color of the page. The objective of this project is for students to practice their skills with arrays and jQuery. 
 
-##Project Criteria
-Your Manager has laid out the following requirements for the project: 
+##Before Class
 
-* You will be paired programming with another intern on this project. You may choose who you would like to work with now.
-* A proper [wireframe](https://en.wikipedia.org/wiki/Website_wireframe) must be approved by an instructor before code is written.
-* The page must be styled with Bootstrap
-* The code for this page must be stored on GitHub
+### Prerequisites
+Students should only start this project after they have completed the other lessons in the unit and have completed jQuery.
+
+### Starter code
+
+There is no Starter Code for this project.
+
+### Solution code
+
+See [here]() for code (private).
 
 
+##During Class
 
+###Do Now
+
+1. Attendance
+2. Return graded do-now and exit ticket from previous class
+3. [Do Now](doNow.md) activity
+
+###Opening
+
+Sometimes a simple webpage can be difficult to create.
+
+Let's take a look at a simple page we will be creating today. Lead teacher show demonstration of solution code.
+
+###Lecture
+
+You are going to build a simple Facebook Wall. Your instructions:
 ##Learning Objectives
 By the end of this project the employee will be able to...
 
@@ -33,7 +50,7 @@ By the end of this project the employee will be able to...
 
 ##Vocabulary
 
-* Wireframing
+* CSS Selector
 * Paired Programming
 * Bootstrap 
 
