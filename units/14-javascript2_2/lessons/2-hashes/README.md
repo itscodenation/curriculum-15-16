@@ -22,9 +22,7 @@ Students will show progress toward reaching the objective based on their perform
 
 ### Vocabulary
 
-* Curly brace
-* Key-value pair
-* For-in loop
+* Hash hierarchy
 
 ### References
 
@@ -40,132 +38,67 @@ Students will show progress toward reaching the objective based on their perform
 
 ### Opening
 
-Today we will learn about hashes. This is important because hashes are a tool that programmers use to store a large set of unordered data. It connects to what we've previously learned because we will be able to perform array like operations with hashes. 
-
-Lets say I want to specify the capital of each of the countries listed in the array you made for the Do Now. How can I do that? You can do that using a hash.
+Last time we met we learned about hashes. Can someone tell me what a hash is and what they do?
 
 **Note: in JavaScript some people will refer to this as a hash and others will call it an object.**
 
 ### Introduction of new material ("I do")
 
-####Create and initialize a hash
+Let's refresh our memories here a bit. If I have the hash below How can I print the sound a dog makes to the console?
 
 ```
 var animalSounds = {"cow": "Moo", "cat": "Meow", "dog": "Woof"};
 ```
-
-Let's break this down right to left. Note the **open curly brace** (`{`) and **close curly brace** (`}`). These braces specify the beginning and end of the hash. This particular hash has three **key-value** pairs. Note that each key-value pair is separated by a comma. We then take this hash and store in a variable called `animalSounds`.
-
-Let's talk about the key-value pairs more. In this hash, `cow`, `cat`, and `dog` represent keys. `"Moo"`, `"Meow"`, and `"Woof"` represent those keys' respective values. These values happen to be strings.
-
-####Access and print an element of a hash
-
-```
-console.log(animalSounds["cat"]);
-```
-
-This prints out `Meow`. Here, `cat` is the key. Whereas with arrays we use indices to access elements, with hashes we use keys.
-
-What if we want to access and print the value corresponding to the `dog` key of our hash?
+Correct! To print the **value** of the **key** dog you can use...
 
 ```
 console.log(animalSounds["dog"]);
 ``` 
-
-This prints out `Woof`. 
-
-And how about the value corresponding to the `cow` key?
+Let's add another key-value pair to this hash. The new Pair will be bird and chirp. Your code should now look like this:
 
 ```
-console.log(console.log(animalSounds["cow"]);
+var animalSounds = {"cow": "Moo", "cat": "Meow", "dog": "Woof" "Bird", "chirp"};
 ```
 
-This prints out `Moo`. 
+####Hash in a hash
 
-
-####Change the value of a key-value pair in a hash
-
-Let's change `cat`'s value:
-
-```
-animalSounds["cat"] = "Purr";
-console.log(animalSounds["cat"]);
-```
-
-This prints out `Purr`.
-
-####Add a key-value pair to the hash
-
-What if we want to add another animal-sound pair to our hash? We can:
+But wait! Not all birds make the same noise. Is there a way we can specify the type of bird?
+ 
+Like Matryoshka dolls (see picture at top), we can store hashes inside of other hashes:
 
 ```
-animalSounds["snake"] = "Hiss";
-console.log(animalSounds["snake"]);
+var animalSounds = 
+{
+  "cow": "Moo", 
+  "cat": "Meow", 
+  "dog": "Woof",
+  "bird": {robin: "Chirp", swan: "Cry"}
+};
+
+var birdSounds = animalSounds["bird"]
+
+console.log(birdSounds["swan"]); 
 ```
 
-This prints out `Hiss`. 
+Here, the `bird` key has a value that is a hash. So we first unload that hash into its own variable. Then we access it like any other hash.
 
-####Iterate
-
-What if we want to print every element in our hash? We can:
-
-```
-var animalSounds = {"cow": "Moo", "cat": "Meow", "dog": "Woof"};
-
-for (key in animalSounds) 
-{ 
-  console.log("key: " + key + ", value: " + animalSounds[key]); 
-}
-```
-
-This is an example of a **for-in** loop. It will print each key-value pair in the hash. The above prints:
-
-```
-key: cow, value: Moo
-key: cat, value: Meow
-key: dog, value: Woof
-```
-
-####Remove key-value pair
-
-What if we want to remove a key-value pair from our cash? We can:
-
-```
-var animalSounds = {"cow": "Moo", "cat": "Meow", "dog": "Woof"};
-
-delete animalSounds["dog"];
-
-for (key in animalSounds) 
-{ 
-  console.log("key: " + key + ", value: " + animalSounds[key]); 
-}
-```
-
-prints:
-
-```
-key: cow, value: Moo
-key: cat, value: Meow
-```
-
+Think about why we used a hash inside a hash here. We could have just added two more key-value pairs to the `animalSounds` hash. But we didn't because we want to use the keys in that hash to represent *types* of animals, not specific kinds.
 
 ### Guided practice ("We do")
 
-Now we're going to work with hashes together. Find the capitals to each of the countries you used in the Do Now. 
+Now lets take a look at your project from last session. Right now the user can type in a country and see the capital.
 
-``var worldCapitals = {"United States" : "Washington D.C.", "United Kingdom": "London", "China" : "Beijing", "Bangladesh" : "Dhaka"}``
+Lets make this more interesting by adding the following information to each country using hashes inside the hash you have made.
 
-1. How do I print out China's capital?
-2. How do I change the United States' capital?
-3. How do I add one country-capital pair to the hash?
-4. How do I remove Bangladesh's key-value pair?
-5. How do I print each capital in our hash without having to access each one individually?
+Along with the capital also list:
+
+* National Animal
+* National Language
+* Population 
 
 ### Independent practice ("You do")
 
-Create a new GitHub repo called Hash-unit and clone a Cloud9 repo with the same name.
-
-Create a page that displays the capital of country typed in by the user on a simple HTML page. This can be done either through an alert box or a 
+Use jQuery to display all the data of a country of the user's choice on your HTML page the same way you did this with the capital. 
 
 #### Exit ticket
 
@@ -173,17 +106,13 @@ Give exit-ticket quiz.
 
 ### Closing
 
-Today you learned about hashes. This is important because hashes are used to represent unordered list. Next, we will learn about jQuery.
+Today you learned about placing hashes inside of hashes. This is especially useful when it is necessary to display multiple points about a single item.
 
 #### Homework
 
-[Link to homework](homework/)
-
-[Link to homework solution (private)]()
-
-Remind students when homework is due and how it will be collected.
+Students are encouraged to improve their project by adding more features to their site. 
 
 ## After class
 
-* Grade do-now & exit-ticket. Record in class spreadsheet.
+* Grade do-now & exit-ticket. 
 * Prepare for next lesson / hand off to next volunteer in rotation.
