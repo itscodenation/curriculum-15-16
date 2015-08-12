@@ -21,7 +21,7 @@ For unit 2, students must set up an account with GitHub and Cloud9 account. [Thi
 | [**6. JavaScript 1.2**](units/6-javascript1_2/) |   | Strings, Conditionals, Comments| [Password Guesser]() | [Grading App]() | 
 | [**IDE Tutorial: Cloud9**](units/c9_setup/) | 1  | Dashboard, Workspace, Sharing, GitHub intergration | [Sign Up for Cloud 9](units/c9_setup/README.md) | N/A |
 | [**7. Command line**](units/7-commandline) |   | CRUD operations | [File Structure]() | [Terminus]() |
-| [**8. Version Control with GitHub**](units/8-versionControl) |   |  Git, Github, `status`, `clone`,`commit`, `push` | [Mr. Potato Head]()| N/A|
+| [**8. Git & GitHub**](units/8-git) |   |  Git, Github, `status`, `clone`,`commit`, `push` | [Mr. Potato Head]()| N/A|
 | [**9. HTML (Advanced)**](units/9-HTML2/) |   | Linking pages, a tag, forms | [Portfolio Page]() | N/A | 
 | [**10. HTML/CSS (Advanced)**](units/10-HTML_CSS2) |  | Div, id, class, float, transitions & animations | [GA Dash Project #4]() | [CSS Zen Garden]() |
 | [**11. Bootstrap**](units/11-bootstrap)|  | CDN, wireframing, grid system | [Fictional Character Website]() | N/A |
