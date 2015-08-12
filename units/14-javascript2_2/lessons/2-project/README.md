@@ -1,10 +1,10 @@
-# Facebook wall
+# Address book
 
-![image](http://i.imgur.com/K1Cw63B.jpg)
+![image](http://i.imgur.com/HHyng59.jpg)
 
 ##Scope
 
-This project involves creating a simple Facebook-like wall. The objective of this project is for students to practice their jQuery skills. Unlike previous projects, this is the first time students are presented with minimal scaffolding.
+This project inolves implementing the core functionality of a simple client side address book. The objective of this project is for students to practice their skills with hashes and strings.
  
 ##Before Class
 
@@ -13,15 +13,15 @@ Students should only start this project after they have completed the other less
 
 ### Starter code
 
-See [here](starter_code/) for code and [here](https://rawgit.com/ScriptEdcurriculum/curriculum/master/units/10-jquery/lessons/2-project/starter_code/index.html) to view.
+See [here](starter_code/) for code and [here](https://rawgit.com/ScriptEdcurriculum/curriculum/master/units/9-hash/lessons/2-project/starter_code/index.html) to view.
 
 ### Solution code
 
-See [here](https://github.com/ScriptEdcurriculum/solutions/tree/master/units/10-jquery/lessons/2-project/solution_code) for code (private).
+See [here](https://githubrb.com/ScriptEdcurriculum/solutions/tree/master/units/9-hash/lessons/2-project/solution_code) for code (private).
 
 ### Assessment
 
-1. Write do-now based off of [assessments from previous lesson](../../../10-jquery/lessons/1-jquery/assessments/).
+1. Write do-now based off of [assessments from previous lesson](../../../9-hash/lessons/1-hash/assessments/).
 
 ##During Class
 
@@ -33,32 +33,35 @@ See [here](https://github.com/ScriptEdcurriculum/solutions/tree/master/units/10-
 
 ###Opening
 
-What is the Facebook wall? How does it work? 
-
-Let's login to my Facebook and do a live demonstration.
+What is an address book? What do we use address books for? What kind of information does an address book store?
 
 ###Lecture
 
-You are going to build a simple Facebook Wall. Your instructions:
+You are going to build the guts of a basic address book. This address book will contain your contacts. Here are your instructions:
 
-#### 1. Fill out `wall.js`
+#### 1. `addContacts()`
 
-You must fill out `js/wall.js`. Unlike previous projects, there is very little starter code given. This is on purpose. 
+Modify `js/guts.js` and create a function called `addContacts()`. This function will not take in any parameters. It will return a hash. The hash shall be structed as follows:
 
-For the poster picture, use http://i.imgur.com/87kIXSN.jpg. 
+* The key of the hash must be your contact's name in string form.
+* The value of the hash must be another hash. 
+	* This second hash must contain three key-value pairs. The keys must be called: location, picture, and email. The values for each of these keys will be a string.
 
-#### 2. Test
+Populate this hash with 5 contacts. For the picture value, supply a link to the picture in the form of a string. Use image hosting services such as [imgur](http://imgur.com) if you need to.
 
-To test if your Wall works as expected, post the following messages in order: "First message", "Second message", "Third message". Afterwards, your Wall should look like:
+#### 2. `searchContacts(contacts, query)`
 
-![image](http://i.imgur.com/2yz4k1Z.png)
+Modify `js/guts.js` and create a function called `searchContacts(contacts, query)`. This function will take in two parameters: `contacts` which is a hash containing the contacts from `addContacts()` and `query` which is the search query of the user. Use `console.log()` to verify that these statements are true.
+
+This function should return a hash containing all the contacts that match the user's search query. You should check the query against every key-value pair. In other words, the user should be able to search for a contact by name, location, or email.
 
 ###Brainstorming
 Before you start coding, identify the list of steps you need to do to finish this project. Here's a start:
 
-1. Read `index.html`. Pay attention to the IDs of the text box, button, and `div` at the bottom.
-2. How will you detect the click on the "Post" button?
-3. What should happen once the "Post" button is clicked? Will you need to generate HTML? 
+1. Write down your contacts in a separate file. Get their names, locations, emails, and pictures ready.
+2. Think about the structure of the hash for `addContacts()`. Review what a hash in a hash looks like from the previous lesson if you need to.
+3. Think about how to scan through a hash for `searchContacts()`. 
+4. Bring the starter code into your own environment.
 
 ###Build Time
 Students will work alone on this project. The teacher's role will be to walk around the room helping students with any questions they have. Students are encouraged to look at previous lessons for reference.
