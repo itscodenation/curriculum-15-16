@@ -202,18 +202,13 @@ Give exit-ticket quiz.
 
 ### Closing
 
-Today you learned about loops. This is important because loops can be used to repeat an operation. They can also be used to iterate through an array. Next, we will work on a project that connects our knowledge of arrays and loops together.
+Today you learned about for loops. This is important because loops can be used to repeat an operation. They can also be used to iterate through an array. Next, we will work on a project that connects our knowledge of arrays and loops together.
 
 #### Homework
 
-[Link to homework](homework/)
-
-[Link to homework solution (private)](https://github.com/ScriptEdcurriculum/solutions/tree/master/units/8-array-loop/lessons/2-loop/homework/solution_code)
-
-
-Remind students when homework is due and how it will be collected.
+There is no homework for this session.
 
 ## After class
 
-* Grade do-now & exit-ticket. Record in class spreadsheet.
+* Grade do-now & exit-ticket. 
 * Prepare for next lesson / hand off to next volunteer in rotation.

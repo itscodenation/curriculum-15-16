@@ -147,5 +147,5 @@ There is no homework for this session.
 
 ## After class
 
-* Grade do-now & exit-ticket. Record in class spreadsheet.
+* Grade do-now & exit-ticket. 
 * Prepare for next lesson / hand off to next volunteer in rotation.
