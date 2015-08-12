@@ -165,7 +165,7 @@ Now we're going to work with hashes together. Find the capitals to each of the c
 
 Create a new GitHub repo called Hash-unit and clone a Cloud9 repo with the same name.
 
-Create a page that displays the capital of country typed in by the user on a simple HTML page. This can be done either through an alert box or a 
+Create a page that displays the capital of country typed in by the user on a simple HTML page. This can be done either through an alert box or a form on your HTML page.
 
 #### Exit ticket
 
@@ -173,7 +173,7 @@ Give exit-ticket quiz.
 
 ### Closing
 
-Today you learned about hashes. This is important because hashes are used to represent unordered list. Next, we will learn about jQuery.
+Today you learned about hashes. This is important because hashes are used to represent unordered list and connect items through key-value pairs. 
 
 #### Homework
 
@@ -185,5 +185,5 @@ Remind students when homework is due and how it will be collected.
 
 ## After class
 
-* Grade do-now & exit-ticket. Record in class spreadsheet.
+* Grade do-now & exit-ticket. 
 * Prepare for next lesson / hand off to next volunteer in rotation.
