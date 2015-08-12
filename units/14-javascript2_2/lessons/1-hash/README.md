@@ -16,8 +16,7 @@ Students will be able to create, initialize, access, manipulate, and iterate thr
 
 ### Assessment
 
-1. Write do-now based off of [assessments from previous lesson](../../../8-array-loop/lessons/2-loop/assessments/).
-2. Write exit-ticket based off [assessments from current lesson](assessments/).
+2. Exit-ticket based off [assessments from current lesson](assessments/).
 
 Students will show progress toward reaching the objective based on their performance on the exit-ticket quiz.
 
@@ -35,15 +34,17 @@ Students will show progress toward reaching the objective based on their perform
 
 ### Do-now
 
-1. Attendance: Teacher takes student attendance at www.kinvolved.com
+1. Attendance
 2. Return graded do-now and exit ticket from previous class
-3. Do-now quiz
+3. [Do-now](do_now/) activity
 
 ### Opening
 
 Today we will learn about hashes. This is important because hashes are a tool that programmers use to store a large set of unordered data. It connects to what we've previously learned because we will be able to perform array like operations with hashes. 
 
-Someone give me an example of an ordered list in real life. A recipe is an example. An instruction manual is another. Now give me an example of an unordered list in real life. A grocery list is one. A classroom contains a list of chairs in no particular order. Let's talk how about how we can represent these kind of lists in JavaScript.
+Lets say I want to specify the capital of each of the countries listed in the array you made for the Do Now. How can I do that? You can do that using a hash.
+
+**Note: in JavaScript some people will refer to this as a hash and others will call it an object.**
 
 ### Introduction of new material ("I do")
 
@@ -147,31 +148,10 @@ key: cow, value: Moo
 key: cat, value: Meow
 ```
 
-####Hash in a hash
-
-Like Matryoshka dolls (see picture at top), we can store hashes inside of other hashes:
-
-```
-var animalSounds = 
-{
-  "cow": "Moo", 
-  "cat": "Meow", 
-  "dog": "Woof",
-  "bird": {robin: "Chirp", swan: "Cry"}
-};
-
-var birdSounds = animalSounds["bird"]
-
-console.log(birdSounds["swan"]); 
-```
-
-Here, the `bird` key has a value that is a hash. So we first unload that hash into its own variable. Then we access it like any other hash.
-
-Think about why we used a hash inside a hash here. We could have just added two more key-value pairs to the `animalSounds` hash. But we didn't because we want to use the keys in that hash to represent *types* of animals, not specific kinds.
 
 ### Guided practice ("We do")
 
-Now we're going to work with hashes together. 
+Now we're going to work with hashes together. Find the capitals to each of the countries you used in the Do Now. 
 
 ``var worldCapitals = {"United States" : "Washington D.C.", "United Kingdom": "London", "China" : "Beijing", "Bangladesh" : "Dhaka"}``
 
@@ -183,13 +163,9 @@ Now we're going to work with hashes together.
 
 ### Independent practice ("You do")
 
-Create a hash that has five key-value pairs. The hash can represent anything.
+Create a new GitHub repo called Hash-unit and clone a Cloud9 repo with the same name.
 
-1. Print out each value without using a loop.
-2. Change two of the values.
-3. Add a key-value pair to your hash.
-4. Remove a key-value pair from your hash (cannot be the one you added in step 3).
-5. Print each key and value using a loop.
+Create a page that display the Country and the capital of any key-value pair in your hash on a simple HTML page.
 
 #### Exit ticket
 
