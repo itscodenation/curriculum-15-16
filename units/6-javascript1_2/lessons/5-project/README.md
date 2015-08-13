@@ -1,10 +1,10 @@
-# High low
+# Grading App
 
-![image](http://i.imgur.com/pQ1BCwf.jpg)
+![Imgur](http://i.imgur.com/NOJFDtBl.jpg)
 
 ##Scope
 
-This project involves implementing the core functionality for a simple high low game. The objective of this project is for students to practice conditional logic using `if/else` statements.
+This project involves implementing the core functionality for a simple grading app. The objective of this project is for students to practice conditional logic using `if/else` statements.
  
 ##Before Class
 
@@ -13,63 +13,70 @@ Students should only start this project after they have completed the other less
 
 ### Starter code
 
-See [here](starter_code/) for code and [here](https://rawgit.com/ScriptEdcurriculum/curriculum/master/units/7-conditional/lessons/2-project/starter_code/index.html) to view.
+See [here](http://jsbin.com/vucobo/edit?html,js,output) for code
 
 ### Solution code
 
-See [here](https://github.com/ScriptEdcurriculum/solutions/tree/master/units/7-conditional/lessons/2-project/solution_code) for code (private).
+See [here]() for code (private).
 
 ### Assessment
 
-1. Write do-now based off of [assessments from previous lesson](../../../7-conditional/lessons/1-conditional/assessments/).
+1. Students will be assed based on their performance on this project
 
 ##During Class
 
 ###Do Now
 
-1. Attendance: Teacher takes student attendance at www.kinvolved.com
+1. Attendance
 2. Return graded do-now and exit ticket from previous class
-3. Do-now quiz
+3. [Do-now](do_now.md) activity
 
 ###Opening
 
-Let's play high low together as a class. I'm going to select a random number between 1 and 10 in my head. Your job is to guess the number. I can only say "too high", "too low", or "correct".
+If I got a 74 on the last test what is my letter grade?
+What is the minumum value I must get on a test to pass?
+
+How are you, the human, able to detect this? How can we create a program that does the same thing?
+
+Answer: With conditionals!
 
 ###Lecture
-You are going to build the guts of a high low game. You will be given starter code. Your instructions are:
+You are going to create a program in which the user can type in a number grade and the program will tell them their grade.
 
-#### 1. `generateRandomNumber()`
+#### 1. Clone the starter code
 
-Modify the following function in the `js/guts.js` file:
+Open the Starter code link at http://jsbin.com/vucobo/edit?html,js,output
 
-```
-function generateRandomNumber() { }
-```
+Once you are looking at the code go to File > Clone to create a new workspace for yourself.  
+![Imgur](http://i.imgur.com/Wt5iMBpm.png)
 
-This function must generate a random number between 1 and 10 and then return it.
+**Clearly instruct students not to alter the starter code**
 
-#### 2. `checkGuess(guess, generatedRandomNumber) `
+#### 2. Pass condition
 
-Modify the following function in the `js/guts.js` file:
+Before telling the user number grade they received lets start with simply letting them know if they passed or failed. 
 
-```
-function checkGuess(guess, generatedRandomNumber) {}
-```
-The function receives two parameters: `guess` which contains the number guessed by the user and `generatedRandomNumber` which contains the result from `generateRandomNumber()`. Use `console.log()` to check the parameter values.
+In the JavaScript file, create an if/else statement that alerts that alerts a message to the user that reads..
 
-This function contains two variables:
+`You got a [number > 65]. Therefore you passed!`
+or
+`You got a [number < 65]. Therefore you failed`
 
-* statusCode: this variable must be set to 0 if the user guessed correctly, 1 if the user guessed too high, and 2 if the user guessed too low.
-* statusMessage: this variable must be set to a message based upon which of the three scenarios the user falls in.
+If the student is unable to create an alert box they should be instructed to Google "javascript alert box"
 
-Be sure not to change any code that is already there.
+![Imgur](http://i.imgur.com/lc6gBmWl.png)
+
+#### 2. Letter Grades
+
+After the pass condition is complete the student smust make a conditional statement that alerts the user with the letter grade they received. `A, B, C, D or F` in a string. 
+ 
+Example: `You got a 94. Therefore you got an A!`
 
 ###Brainstorming
 Before you start coding, identify the list of steps you need to do to finish this project. Here's a start:
 
 1. What kind of conditional logic will you need? Write pseudo-code on paper using `if` and `else` statements.
-2. Bring the starter code into your own environment.
-3. Solve for just the success scenario first. Get that working before moving on to the other two scenarios.
+
 
 ###Build Time
 Students will work alone on this project. The teacher's role will be to walk around the room helping students with any questions they have. Students are encouraged to look at previous lessons for reference.
@@ -78,10 +85,10 @@ Students will work alone on this project. The teacher's role will be to walk aro
 Students who complete the project at hand early may attempt to improve their project by including the following:  
 
 * Added CSS for visual customization
-* Create a counter that only allows the user 4 guesses before the program terminates.
-* Create a system where the user is awarded a certain number of points based on the amount of guesses it took to find the random number. 
-* Create a "Reset random number" button.
-* Prompt the user to choose a difficulty (Easy, Medium, Hard). Difficulty can be increased by making the range of numbers to choose from larger.
+* instead of alerting the user with their result, place the text below the input field.
+
+Students who are eager for another project using conditionals are encouraged to create a [High-Low Game](http://www.funbrain.com/cgi-bin/gn.cgi?A1=s&A2=10&A3=1).
+
 
 ##Closing
 Select students to present their work to the class.
@@ -90,6 +97,7 @@ Select students to present their work to the class.
 Teachers should keep track of student success while they are presenting to the class.
 
 ###How to Submit
-The teacher must ask students to share the link to their project on your school's [Project Submission Form.](https://docs.google.com/a/scripted.org/spreadsheets/d/1kaVH9hmkDCbBul19583UMPxl6IJ3-4pHgBQ2BU6TKDk/edit#gid=0)
+The students must Export this project as a Gist.
+File > Export as Gist
 
-Also remind students to add a link to their project on their About Me page.
+The teacher must ask students to share the link to their project

@@ -1,0 +1,1 @@
+On a piece of paper, create a sentance that can test if someone has passed a test based on the grade they received. 
