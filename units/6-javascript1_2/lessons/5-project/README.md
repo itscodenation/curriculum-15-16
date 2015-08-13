@@ -13,11 +13,11 @@ Students should only start this project after they have completed the other less
 
 ### Starter code
 
-See [here](http://jsbin.com/vucobo/edit?html,js,output) for code
+See [here](http://jsbin.com/wutibe/edit?html,js,output) for code
 
 ### Solution code
 
-See [here]() for code (private).
+See [here](http://jsbin.com/vucobo/edit?html,js,output) for code (private).
 
 ### Assessment
 
