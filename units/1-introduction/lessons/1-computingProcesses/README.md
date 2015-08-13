@@ -1,13 +1,12 @@
 #Lesson 1 - Computing Thought Processes
 
-![image](http://i.imgur.com/n9QNhUG.png)
+![image](http://oi58.tinypic.com/2d94oli.jpg)
 
 ## Before class
 ---
 ###Teacher Preperation
-* Must have copies of [syllabus](Syllabus.docx) printed
+* Must have copies of [syllabus](https://www.dropbox.com/s/maienun209adcy7/ScriptEd%20Year%201%20Syllabus.docx?dl=0) printed
 * Two blank pieces of paper ready to be either taped or tacked to the back wall
-* Ensure “What Most Schools Don’t Teach” video can play in classroom (see references).
 
 
 ### Daily Objective
@@ -36,33 +35,36 @@ Students will be able to demonstrate the ability to use computing thought proces
 
 ### References
 
-* [What Most Schools Don't Teach -- Youtube](https://www.youtube.com/watch?v=nKIu9yen5nc)
-* [What Most Schools Don't Teach -- Web Restriction Friendly](https://www.dropbox.com/s/fdnfaia4zculthf/What%20Most%20Schools%20Don_t%20Teach.mp4)
+* The [syllabus](https://www.dropbox.com/s/maienun209adcy7/ScriptEd%20Year%201%20Syllabus.docx?dl=0)
+
 
 ## During class
 
-### Do-now
+### Do-now (5 minutes)
 
-1. Attendance: Teacher takes student attendance at www.kinvolved.com
-2. Hand each student a syllabus as they walk in.
-3. Introduce yourself to every student
-
+1. Volunteer takes attendance in classroom doc found [here]
+2. Introduce yourself to every student
 
 
-## Opening
 
-“Welcome to ScriptEd! I am **_________** and I work at ** _________** as a _______.” Introduce yourself to the students. Tell them a little about your background -- students love to hear about you! ”Let’s everyone please read over the course syllabus.” Allow student volunteers to read the syllabus aloud. Emphasize the following main points:
+### Opening
+
+“Welcome to ScriptEd! I am **_________** and I work at ** _________** as a _______.” Re-introduce yourself to the students. Tell them a little about your background -- students love to hear about you! 
+
+Remind students of the course syllabus. Emphasize the following main points:
 
 * Classes will be held twice a week.
 * Students will learn the fundamentals of HTML, CSS, and Javascript
-* The point of the club is to prepare students for internships with technology firms over the summer.
-* Feel free to email Tom (tom@scripted.org) for any questions especially when concerning attendance. 
+* The point of the club is to prepare students for internships with technology firms over the summer. Think of this as a long form job interview.
+* Students will go on field trips to great cool tech companies.
+* Students will participate in ScriptEd wide hackathons for great prizes.  
+* Feel free to email (**Program Manager Name**) (**program manager name**@scripted.org) for any questions especially when concerning attendance. 
 
-## Switching Gears: Why are we here?
+## Icebreaker
 
-Ask students if they have ever taken a computer science course. Do they think it is an important skill that they wish they could have more exposure to?  
-* Play video “What Most Schools Don’t Teach” (see references)  
-* Wrap up video with a short discussion. Reflect on their thoughts.
+Go around the room and have students share their name, grade, and a fun fact about themselves many people may not know. (Give examples like: traveled to a foreign country, plays an instrument, speak multiple languages, beat a game with an impressive score, makes crafts in their spare time, etc.)
+
+
 
 ## Introduction of new material (“I Do”)
 
