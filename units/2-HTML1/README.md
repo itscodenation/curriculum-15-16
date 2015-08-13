@@ -1,15 +1,16 @@
 #Unit 2 - HTML
 
 ##Synopsis
-This unit introduces the student to the fundamentals of web design using HTML and simple CSS styles. It asssumes no background knowledge in HTML at all. By the end of the unit every student is expected to have webpage consisting of text, images, lists, tables and styles. 
+This unit introduces the student to the fundamentals of web design using HTML. It asssumes no background knowledge in HTML at all. By the end of the unit every student is expected to have webpage consisting of text and lists. 
 
 ##Lessons
 
 1. [Your First Webpage: Basic Tags](lessons/1-BasicTags)
-2. [Images and Basic Styles](lessons/2-ImageStyles)
-3. [Lists and Tables](lessons/3-listTable)
-4. [Page Layout](lessons/4-layout)
-5. [Project: Social Media webpage](lessons/5-project)
+2. [Your First Webpage: Continued](lessons/2-BasicTags2)
+3. [Lists](lessons/3-listTable)
+4. [Images and Basic Styles](lessons/4-ImageStyles)
+
+
   
 #Standards
 
@@ -29,11 +30,11 @@ Understand that a function is a rule that assigns to each input exactly one outp
 
 **CPP.L2-03 & CPP.L3A-01: HTML pages**  
 * Student can employ HTML body / head tags  
-* Student can create sections and groups in HTML and can style accordingly using CSS.      
+* Student can create sections and groups in HTML.      
 * Student can identify and explain the separation of structure and style in the creation of web pages.
 
 **CPP.L2-03 & CPP.L3A-01: Page Content**  
-* Student can use appropriate tags to display text, images, titles, tables and links on a webpage.  
+* Student can use appropriate tags to display text, titles, tables and lists on a webpage.  
 * Student can use the nesting structure of web pages to group elements and control page flow.
 
 **CPP.L2-03 & CPP.L3A-01: Wire Framing**  
