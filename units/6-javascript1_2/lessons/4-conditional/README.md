@@ -180,7 +180,7 @@ Write two boolean variables and initialize them to `false`. Name the variables "
 ### Independent practice ("You do")
 
 1. Open a new JS Bin file.
-2. Create a quick statement that prompts the user two separate questions "How old are you?" and "Do you have a driver's license"
+2. Create a quick statement that prompts the user two separate questions. "How old are you?" and "Do you have a driver's license"
 3. If the user is 16 or older and has a drivers license then tell them to go drive a car. If not, tell them they better not drive a car.
 
 Before leaving remember to save snapshot and export as gist when you are done.
