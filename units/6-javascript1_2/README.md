@@ -1,30 +1,26 @@
-#Unit 5 - JavaScript
+#Unit 6 - JavaScript 1.2
 
 ##Synopsis
-This unit starts with an introduction to variables. Students will learn how to create, instantiate, and edit variables. Next they will learn how to call and create functions. They will also be exposed to functions helpful for debugging. They will learn how to generate a random number. Next, they will learn what pseudo-code is and receive light practice with transforming it to actual JavaScript. Students will also learn how to properly document their code using comments.
+This unit starts with an introduction to strings. After becoming comfortable with strings students are creating their own MadLibs game. After mastering strings, students are introduced to conditional statements. ONce the student learns coditions they are about to start interacting with the user based on questions they can answer.
 
 ##Lessons
 
-1. [Variables](lessons/1-variable)
-2. [Functions](lessons/2-function)
-3. [Pseudo-code & comments](lessons/3-pseudocode)
-4. [Project](lessons/4-project)
+1. [Strings](lessons/1-string)
+2. [Project: MadLibs](lessons/2-project)
+3. [Contitionals: If/Else](lessons/3-conditionals)
+4. [Contitionals: Or/And](lessons/4-conditionals)
+5. [Project: Grading app](lessons/5-project)
 
 ##Standards
 
-###CPP.L2-05 I - Variables
-1. Student	can	create,	name,	and	assign	values	to	variables.
-2. Student	understands	and	can	explain	variable	creation,	reassignment,	and	scope.
+###CPP.L2-05 I - Strings
+1. Student can	use	string functions to	find the length	of a string, split a string, concatenate a	string,	cast	a	string	to	a	number, find	the	index	of	a	character,	and	make	strings	uppercase	and	lowercase.
+2. Student	can	compare	strings,	accounting	for	case	and	whitespace,	and	use	the	results	in	conditional	statements.
+3. Student	can	find	all	the	instances	of	a	character	in	a	string.
 
-###CPP.L2-05 I - Math operators
-1.	Student	can	employ	math	functions	such	as	``pow``,	``rand``,	``ceiling``,	and	``floor``	to	manipulate	numbers.
-2.	Student	understands	JavaScript	operator	precedence	and	can	use	it	to	predict	the	effect	of	an	expression.	
-3.	Student	can	recognize	augmented	assignment	operators	(``i+=1``)	and	can	decompose	them	to	simpler	syntax.	
-4.	Student	can	generate	random	numbers	and	control	their	range	to	produce	complex	behavior	in	interactive	pages.	
-5.	Student	can	handle	``null``,	``NaN``	or	``undefined``	inputs	to	calculations	when	solving	programming	problems.
+##Standards
 
-###CL.L3B-03, CL.L2-04, CL.L3B-01
-1.	Student	can	plan	a	project	with	teammates	(using	wire	frames,	specifications	/ requirements,	and	pseudocode).
-2.	Student	can	maintain	a	design	by	contract	relationship	with	other	team	members;	student	can	write	clear	code;	student	can	explain	code	by	including	clarifying	comments	in	their	code.
-
-
+###CPP.L2-05 I - Boolean / Comparisons
+1. Student	can	name	and	appropriately	use	Boolean	values	to	solve	programming	problems.	
+2. Student	can	employ	conditional	statements	(“if”,	“else”,	“else	if”)	to	solve	programming	problems.	
+3. Student	can	use	logical	operators	(&&	and	||	and	!)	within	“if”	statements.
