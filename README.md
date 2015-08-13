@@ -15,19 +15,19 @@ For unit 2, students must set up an account with GitHub and Cloud9 account. [Thi
 | [**1. Introduction**](units/1-introduction/)| 1 | Computational thinking, Github & JS Bin  | [Sign Up for GitHub & JS Bin]()| N/A|
 | [**2. HTML (introduction)**](units/2-HTML1/)|  | HTML page structure, Basic tags |[NYT Remix]()   | [About me]()
 | [**3. CSS (Introduction)**](units/3-CSS1/)|  | Wireframing, Basic Styles  | [About You]() | [ScriptEd Zen Garden]()| 
-| [**4. HTML,CSS & JS**](units/3-CSS1/)  produced by General Assembly| 1 | link tag, script tag, header, media query, jQuery events | [GA Dash Project #2]() | N/A| 
+| [**4. HTML,CSS & jQuery**](units/3-CSS1/)  produced by General Assembly| 1 | link tag, script tag, header, media query, jQuery events | [GA Dash Project #2]() | N/A| 
 | [**Optional Unit. Scratch**](units/opt-scratch/) | 4 | Algorithms, variables, conditionals  | [Ol Mc'Donald MadLibs](units/o-scratch/lessons/4-project) with conditional statement | N/A|
 | [**5. JavaScript 1.1**](units/5-javascript1_1/) |  | Variables, functions | [Calculator]() | [Tiny Turtle]()|
-| [**6. JavaScript 1.2**](units/6-javascript1_2/) |   | Strings, Conditionals, Comments| [Password Guesser]() | [Grading App]() | 
+| [**6. JavaScript 1.2**](units/6-javascript1_2/) |  5 | Strings, Conditionals, Comments| [MadLibs](units/6-javascript1_2/2-project) | [Grading App]() | 
 | [**IDE Tutorial: Cloud9**](units/c9_setup/) | 1  | Dashboard, Workspace, Sharing, GitHub intergration | [Sign Up for Cloud 9](units/c9_setup/README.md) | N/A |
-| [**7. Command line**](units/7-commandline) |   | CRUD operations | [File Structure]() | [Terminus]() |
-| [**8. Git & GitHub**](units/8-git) |   |  Git, Github, `status`, `clone`,`commit`, `push` | [Mr. Potato Head]()| N/A|
+| [**7. Command line**](units/7-commandline) |   | CRUD operations | [File Structure](units/7-commandline/1-commandline) | [Terminus](units/7-commandline/2-terminus) |
+| [**8. Git & GitHub**](units/8-git) |  1 |  Git, Github, `status`, `clone`,`commit`, `push` | [Mr. Potato Head](https://github.com/ScriptEdcurriculum/Mr_Potato_Head)| N/A|
 | [**9. HTML (Advanced)**](units/9-HTML2/) |   | Linking pages, a tag, forms | [Portfolio Page]() | N/A | 
 | [**10. HTML/CSS (Advanced)**](units/10-HTML_CSS2) |  | Div, id, class, float, transitions & animations | [GA Dash Project #4]() | [CSS Zen Garden]() |
-| [**11. Bootstrap**](units/11-bootstrap)|  | CDN, wireframing, grid system | [Fictional Character Website]() | N/A |
+| [**11. Bootstrap**](units/11-bootstrap)| 3 | CDN, wireframing, grid system | [Fictional Character Website](units/11-bootstrap/project-character) | N/A |
 | [**12. jQuery**](units/12-jQuery)|  | Selectors, Attributes, Handlers | [The jQuery Site](units/12-jQuery/lessons/3-project1) | [Facebook Wall](https://github.com/ScriptEdcurriculum/facebook_wall)|
-| [**13. JavaScript 2.1**](units/13-javascript2_1)|  | Arrays, Loops | [99 Bottles]() | [Color Changer]()|
-| [**14. JavaScript 2.2**](units/14-javascript2_2)|  | Objects (hashes) | [Animal noises]() | [World Capitals]()|
+| [**13. JavaScript 2.1**](units/13-javascript2_1)|  | Arrays, Loops | [99 Bottles](units/13-javascript2_1/3-project) | [Color Changer](units/13-javascript2_1/5-project)|
+| [**14. JavaScript 2.2**](units/14-javascript2_2)|  | Objects (hashes) | [Around the World](units/14-javascript2_2/3-project) | [Address Book](units/14-javascript2_2/4-project)|
 
 
   
