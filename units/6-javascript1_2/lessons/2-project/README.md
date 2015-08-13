@@ -17,7 +17,7 @@ See [here](http://jsbin.com/qorisi/edit?html,js,output) for code.
 
 ### Solution code
 
-See [here]() for code (private).
+See [here](https://github.com/ScriptEdcurriculum/solutions2015/tree/master/6-javascript1_2/lessons/2-project) for code (private).
 
 ##During Class
 
