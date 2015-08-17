@@ -17,7 +17,7 @@ See [here](http://jsbin.com/wutibe/edit?html,js,output) for code
 
 ### Solution code
 
-See [here](http://jsbin.com/vucobo/edit?html,js,output) for code (private).
+See [here](https://github.com/ScriptEdcurriculum/solutions2015/tree/master/6-javascript1_2/lessons/5-project) for code (private).
 
 ### Assessment
 
