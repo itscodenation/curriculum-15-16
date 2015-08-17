@@ -13,7 +13,7 @@ Students should only start this project after they have completed the strings le
 
 ### Starter code
 
-See [here](http://jsbin.com/qorisi/edit?html,js,output) for code. 
+See [here](http://jsbin.com/luheqo/edit?html,js,output) for code. 
 
 ### Solution code
 
