@@ -78,10 +78,14 @@ Make a webpage called `meme.html` linked in the same first-bootstrap-site worksp
 
 Your page must include the following:
 
-1. 9 of your favorite memes in a Bootstrap grid.
+1. 8-9 of your favorite memes in a Bootstrap grid.
 2. When this page is brought up on a computer the grid will be 3x3.
 3. When this page is brought up on a phone the grid will be 1x9.
-4. Two of the images will be emphasized on a computer screen by being inside of a larger cell than the other 7 images. 
+4. One of the images will be emphasized on a desktop computer screen by being inside of a larger cell than the other images.
+
+The image below is an example of a finished webpage:
+
+![Imgur](http://i.imgur.com/tRZdo1pm.png)
 
 #### Exit ticket
 
