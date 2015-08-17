@@ -18,7 +18,7 @@ There is no starter code for this project.
 
 ### Solution code
 
-See [here]() for code (private).
+See [here](https://github.com/ScriptEdcurriculum/solutions2015/tree/master/12-jQuery/lessons/3-project1) for code (private).
 
 ### Assessment
 
