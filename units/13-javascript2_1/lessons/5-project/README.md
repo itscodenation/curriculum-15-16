@@ -30,53 +30,31 @@ See [here]() for code (private).
 
 Sometimes a simple webpage can be difficult to create.
 
-Let's take a look at a simple page we will be creating today. Lead teacher show demonstration of solution code.
+Let's take a look at a simple page we will be creating today. 
+
+At this point the teacher should demonstrate a working model of the [solution code](https://github.com/ScriptEdcurriculum/solutions2015/tree/master/13-javascript2_1/lessons/5-project) (private repo) to the class. **Be sure to hide the URL of the solution code when displaying to class.**
 
 ###Lecture
 
 You are going to build a simple Facebook Wall. Your instructions:
-##Learning Objectives
-By the end of this project the employee will be able to...
-
-* Create and push a GitHub repository
-* Wireframe a webpage
-* Use link and implement several bootstrap components in your site
-
-##References/Tools
-* [What is a wireframe?](https://en.wikipedia.org/wiki/Website_wireframe)
-* [Online Wireframing Tool](http://wireframe.cc) (Optional tool)
-* [How to create a GitHub Repository](https://help.github.com/articles/create-a-repo/)
-* [Bootstrap](http://getbootstrap.com/)
-
-##Vocabulary
-
-* CSS Selector
-* Paired Programming
-* Bootstrap 
 
 ***
 ##Instructions
 
 There is no Starter Code for this project. Before beginning to write code you must first wireframe the page you will make. 
 
-###1) Wireframe
-1. You may choose to wireframe this site with pen and paper or with a free online wireframing tool.
-2. Your wireframe must be approved by an instructor before moving onto step 2.
+###1) Setting up your environment
+Create a GitHub repo and clone a Cloud9 workspace for this project.
 
-###2) Create a GitHub Repo
-Before you begin writing the code for this project one member of the group must first create a new repository in GitHub.   
-For information on how to create a new GitHub Repository see [this resource](https://help.github.com/articles/create-a-repo/).
+**Step one:** Create a new GitHub repo called fictional_charater
 
-###3) Clone your new repo into a Cloud9 account workspace
-1. Copy the "clone URL" from your new repository
-2. In your Cloud9 dashboard click on the "Create a New Workspace" button and select "Clone from URL"
-3. Give this workspace an name that is appropriate and be sure it is set to public.
-4. Insert the clone URL from this repo and select a custom template
+**Step two:** Create a new workspace in Cloud9 using that repo.
+
 
 Once the workspace has been processed check to be sure it is up to date by running ` git status ` in the terminal. You should receive a messege telling you that your branch is up to date.   
 ![Imgur](http://i.imgur.com/RKdsduL.png)
 
-**NOTE: It is common practice to push you changes to your GitHub repository often. It is recommended you make a push after every major change. Through the course of completing this project you should make 7-10 pushes to GitHub. Your manager will be grading you on this.**
+**NOTE: It is common practice to push you changes to your GitHub repository often. It is recommended you make a push after every major change. Through the course of completing this project you should make 7-10 pushes to GitHub.**
 
 To push to GitHub run the following commands in your terminal:  
 `git status`  
@@ -84,30 +62,15 @@ To push to GitHub run the following commands in your terminal:
 `git commit -m "example comment"`  
 `git push origin master`
 
-###4) Share your Cloud9 workspace with your partner
-You and your partner can work on the code for this project at the same time using the collaboration feature in CLoud9.
 
-In order to set this up click on the "Share" Button in the top-right hand corner of your workspace
+###Build Time
+Students will work alone or in pairs on this project. The teacher's role will be to walk around the room helping students with any questions they have. Students are encouraged to look at previous lessons for reference.
 
-###Bonus) 
-Your Manager has offered a stipend a $500 for each of the bonus requirements listed below: 
+##Closing
+Select students to present their work to the class.
 
-* Add CSS to this project using Bootstrap. Give it it's own theme
-* Create a game with more variety in throwing opitons. Example: [Rock-Paper-Scissors-Lizard-Spock](http://en.wikipedia.org/wiki/Rock-paper-scissors-lizard-Spock) 
-***
+###Check for Understanding
+Teachers should keep track of student success while they are presenting to the class based on [this rubric](https://docs.google.com/spreadsheets/d/1rSyrqf3E3knsAu-G7bdrI9JrSC5eOpuADYrTD8H4Kfg/edit?usp=sharing).
 
-##Grading Criteria
-Your manager will be grading your capibility on this project based on [this rubric](assessment.md)
-
-##How to Submit
-This project must be pushed back up to your repo on GitHub. Then you will share your link with the instructor
-
-To push to GitHub run the following commands in your terminal:  
-`git status`  
-`git add .`  
-`git commit -m "example comment"`  
-`git push origin master`
-
-##Homework
-Instructor will assign homework based on progress in class.
-
+###How to Submit
+Students must push all final code to their GitHub repository. Students will then share the link to their repo at bit.ly/ScriptEdProjects
