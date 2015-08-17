@@ -55,7 +55,26 @@ Today you are going to create a website for a fictional character of your choice
 Before you start coding, identify the list of steps you need to do to finish this project. Here's a start:
 
 1. Wire frame each of the pages your site will have on paper.
-2. Create a GitHub repo and Cloud9 workspace for this project.
+
+###Setting up your environment
+Create a GitHub repo and clone a Cloud9 workspace for this project.
+
+**Step one:** Create a new GitHub repo called fictional_charater
+
+**Step two:** Create a new workspace in Cloud9 using that repo.
+
+
+Once the workspace has been processed check to be sure it is up to date by running ` git status ` in the terminal. You should receive a messege telling you that your branch is up to date.   
+![Imgur](http://i.imgur.com/RKdsduL.png)
+
+**NOTE: It is common practice to push you changes to your GitHub repository often. It is recommended you make a push after every major change. Through the course of completing this project you should make 7-10 pushes to GitHub.**
+
+To push to GitHub run the following commands in your terminal:  
+`git status`  
+`git add .`  
+`git commit -m "example comment"`  
+`git push origin master`
+
 
 ###Build Time
 Students will work alone or in pairs on this project. The teacher's role will be to walk around the room helping students with any questions they have. Students are encouraged to look at previous lessons for reference.
@@ -67,4 +86,4 @@ Select students to present their work to the class.
 Teachers should keep track of student success while they are presenting to the class based on [this rubric](https://docs.google.com/spreadsheets/d/1rSyrqf3E3knsAu-G7bdrI9JrSC5eOpuADYrTD8H4Kfg/edit?usp=sharing).
 
 ###How to Submit
-The teacher must ask students to share the link to their project
+Students must push all final code to their GitHub repository. Students will then share the link to their repo at bit.ly/ScriptEdProjects
