@@ -41,7 +41,9 @@ How are you, the human, able to detect this? How can we create a program that do
 Answer: With conditionals!
 
 ###Lecture
-You are going to create a program in which the user can type in a number grade and the program will tell them their grade.
+You are going to create a program in which the user can type in a number grade and the program will tell them their grade. 
+
+At this point the teacher should demonstrate a working model of the [solution code](https://github.com/ScriptEdcurriculum/solutions2015/tree/master/6-javascript1_2/lessons/5-project) (private repo) to the class. **Be sure to hide the URL of the solution code when displaying to class.**
 
 #### 1. Clone the starter code
 
@@ -100,4 +102,4 @@ Teachers should keep track of student success while they are presenting to the c
 The students must Export this project as a Gist.
 File > Export as Gist
 
-The teacher must ask students to share the link to their project
+The teacher must ask students to share the link to their project at bit.ly/ScriptEdProjects
