@@ -12,14 +12,14 @@ $(document).ready(function()
 		$("#results .contact-row").remove();
 		$("#results").hide();
 
-		for (key in contacts) 
+		for (key in contacts)
 		{
 			// Create new contact-row
 			if ($("#results .contact-row").length == 0 || $("#results .contact-row").last().children().length == 3)
 			{
 				$("#results").append($('templates .contact-row').clone());
 			}
-	
+
 			// New column
 			if ($("#results.contact-row").last().children().length < 3)
 			{
