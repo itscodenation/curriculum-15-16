@@ -69,5 +69,4 @@ Select students to present their work to the class.
 Teachers should keep track of student success while they are presenting to the class.
 
 ###How to Submit
-###How to Submit
 Students must push all final code to their GitHub repository. Students will then share the link to their repo at bit.ly/ScriptEdProjects
