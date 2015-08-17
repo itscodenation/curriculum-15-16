@@ -23,4 +23,24 @@ See [here](https://github.com/ScriptEdcurriculum/solutions2015/tree/master/12-jQ
 ### Assessment
 
 1. Student's websites will be assessed based on [this rubric](https://docs.google.com/spreadsheets/d/1rSyrqf3E3knsAu-G7bdrI9JrSC5eOpuADYrTD8H4Kfg/edit?usp=sharing).
+ 
+###Build Time
+Students will work alone on this project. The teacher's role will be to walk around the room helping students with any questions they have. Students are encouraged to look at previous lessons for reference.
+
+Be sure to encourage student to push changes to GitHub often using this process:
+
+`git status`  
+`git add .`  
+`git commit -m "example comment"`  
+`git push origin master`
+
+
+##Closing
+Select students to present their work to the class.
+
+###Check for Understanding
+Teachers should keep track of student success while they are presenting to the class based on [this rubric](https://docs.google.com/spreadsheets/d/1rSyrqf3E3knsAu-G7bdrI9JrSC5eOpuADYrTD8H4Kfg/edit?usp=sharing).
+
+###How to Submit
+Students must push all final code to their GitHub repository. Students will then share the link to their repo at bit.ly/ScriptEdProjects
 

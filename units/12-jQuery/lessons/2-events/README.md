@@ -60,7 +60,7 @@ A common kind of handler is a mouse click handler which runs after the mouse has
 <html>
   <head>...</head>
   <body>
-    <button class=".btn">Click me!</button>
+    <button class="btn">Click me!</button>
   </body>
 </html>
 ```
