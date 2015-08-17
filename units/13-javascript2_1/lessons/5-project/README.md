@@ -24,7 +24,7 @@ See [here]() for code (private).
 
 1. Attendance
 2. Return graded do-now and exit ticket from previous class
-3. [Do Now](doNow.md) activity
+3. [Do Now](assessments/doNow.md) activity
 
 ###Opening
 
