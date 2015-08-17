@@ -34,6 +34,7 @@ What is madlibs? Let's play a game together [here](http://www.madglibs.com/showg
 ###Lecture
 You are going to build a madlibs game that any user can play. Starter code is provided to you. Much of the code will not make sense right now and that is okay. The important thing for right now is to add a minimum of 10 parts of speech for the user to input.
 
+At this point the teacher should demonstrate a working model of the [solution code](https://github.com/ScriptEdcurriculum/solutions2015/tree/master/6-javascript1_2/lessons/2-project) (private repo) to the class. **Be sure to hide the URL of the solution code when displaying to class.**
  
 #### 1. Clone the Starter Code
 
@@ -70,8 +71,7 @@ Select students to present their work to the class.
 Teachers should keep track of student success while they are presenting to the class.
 
 ###How to Submit
-The students must Export this project as a Gist.   
+The students must export this project as a Gist.   
 File > Export as Gist  
 
-The teacher must ask students to share the link to their project
-
+The teacher must ask students to share the link to their project at bit.ly/ScriptEdProjects
