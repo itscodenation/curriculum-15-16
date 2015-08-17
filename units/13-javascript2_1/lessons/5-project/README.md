@@ -38,10 +38,7 @@ At this point the teacher should demonstrate a working model of the [solution co
 
 You are going to build a simple Facebook Wall. Your instructions:
 
-***
-##Instructions
-
-There is no Starter Code for this project. Before beginning to write code you must first wireframe the page you will make. 
+There is no Starter Code for this project. Before beginning to write code you must set up your coding environment.
 
 ###1) Setting up your environment
 Create a GitHub repo and clone a Cloud9 workspace for this project.
