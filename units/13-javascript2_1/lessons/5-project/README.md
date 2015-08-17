@@ -15,7 +15,7 @@ There is no Starter Code for this project.
 
 ### Solution code
 
-See [here]() for code (private).
+See [here](https://github.com/ScriptEdcurriculum/solutions2015/tree/master/13-javascript2_1/lessons/5-project) for code (private).
 
 
 ##During Class
