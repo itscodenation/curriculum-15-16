@@ -133,9 +133,14 @@ Give [exit-ticket](assessments/exit_ticket.md) quiz.
 
 Today you learned about the command line. This is important because the command line lets us talk to the computer in a defined and quick way. Also the command line has not changed in decades and shows no signs of changing in the future.
 
+
+###How to Submit
+This project is not required to be submitted as projects in the past have been. Students may save this workspace in their Cloud9 account
+
 #### Homework
 
 There is no homework for this lesson. However, it is at the discretion of the teacher to assign the [next lesson](../2-terminus/README.md) for homework if they would like.
+
 
 ## After class
 
