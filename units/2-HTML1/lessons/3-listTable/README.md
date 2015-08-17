@@ -32,14 +32,14 @@
 * TR: Table Row
 
 ###References
-* <https://c9.io/> 
+* <https://jsbin.com/> 
 
 
 ## During class
 
 ### Do-now
 
-1. Attendance: Teacher takes student attendance at www.kinvolved.com
+1. Volunteer takes attendance. [Procedure found here](https://docs.google.com/document/d/19IIhqykr70vj7wnqyJYuQNTkd9GX56Xgl3omD42IcMk/edit).
 2. Ask students to complete the following on paper:
 	* Create a list of your 3 favorite hobbies.
 	* Create a table of your three favorite hobbies.
@@ -97,7 +97,7 @@ Extension: Create a Tic Tac Toe table
 Students must share their site with the teacher for your review.
 
 ##Homework
-Encourage students to log into their Cloud9 account at home and use w3schools to learn anything they can outside of class.
+Encourage students to log into their JSBin account at home and use w3schools to learn anything they can outside of class.
  
 ## After Class
 * Take a quick look at each webpage project from today. Students who were not able to create the page should be asked to recreate it, with teacher’s help, next class.

@@ -18,8 +18,8 @@ Students will able to create, instantiate, and edit variables in JavaScript.
 
 ### Assessment
 
-1. Write do-now based off of [assessments from previous lesson](../../../4-scratch/lessons/1-algorithms/assessments/).
-2. Write exit-ticket based off [assessments from current lesson](assessments/).
+1. Write do-now based off of [assessments from previous lesson]().
+2. Write exit-ticket based off [assessments from current lesson]().
 
 Students will show progress toward reaching the objective based on their performance on the exit-ticket quiz.
 
@@ -46,9 +46,8 @@ Students will show progress toward reaching the objective based on their perform
 
 ### Do-now
 
-1. Attendance: Teacher takes student attendance at www.kinvolved.com
+1. Volunteer takes attendance. [Procedure found here](https://docs.google.com/document/d/19IIhqykr70vj7wnqyJYuQNTkd9GX56Xgl3omD42IcMk/edit).
 2. Return graded do-now and exit ticket from previous class
-3. Do-now quiz
 
 ### Opening
 
@@ -234,6 +233,9 @@ Remind students when homework is due and how it will be collected.
 
 * Grade do-now & exit-ticket. Record in class spreadsheet.
 * Prepare for next lesson / hand off to next volunteer in rotation.
+
+
+
 
 
 

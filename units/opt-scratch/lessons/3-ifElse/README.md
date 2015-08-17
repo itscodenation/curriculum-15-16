@@ -39,7 +39,7 @@
 
 ### Do-now
 
-1. Attendance: Teacher takes student attendance at www.kinvolved.com
+1. Attendance
 2. Students are instructed to write a sentence using if/else. Any sentence that uses the words **if, then & else.**
 
 ## Opening

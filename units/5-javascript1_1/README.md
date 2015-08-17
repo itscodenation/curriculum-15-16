@@ -1,14 +1,14 @@
-#Unit 5 - JavaScript
+#Unit 5 - JavaScript 1.1
 
 ##Synopsis
-This unit starts with an introduction to variables. Students will learn how to create, instantiate, and edit variables. Next they will learn how to call and create functions. They will also be exposed to functions helpful for debugging. They will learn how to generate a random number. Next, they will learn what pseudo-code is and receive light practice with transforming it to actual JavaScript. Students will also learn how to properly document their code using comments.
+This unit starts with an introduction to variables. Students will learn how to create, instantiate, and edit variables. Next they will learn how to call and create functions. They will also be exposed to functions helpful for debugging. They will learn how to generate a random number. 
 
 ##Lessons
 
 1. [Variables](lessons/1-variable)
 2. [Functions](lessons/2-function)
-3. [Pseudo-code & comments](lessons/3-pseudocode)
-4. [Project](lessons/4-project)
+3. [Project - Tiny Turtle](lessons/3-project - tiny turtle)
+4. [Project - Calculator](lessons/4-project - calculator)
 
 ##Standards
 

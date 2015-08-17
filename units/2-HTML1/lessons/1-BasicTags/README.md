@@ -4,7 +4,7 @@
 ## Before class
 ---
 ###Teacher Preperation
-* Make sure the school’s computers have a basic text editor. **We will be using a text editor only for today’s lesson. In lesson 2 the students will sign up for Cloud9 IDE ** 
+* Make sure the school’s computers have a basic text editor. **We will be using a text editor only for today’s lesson.** 
 * If using a Mac, make sure TextEdit preferences are set to plain text **NOT rich text.** 
 
 
@@ -41,7 +41,7 @@
 
 ### Do-now
 
-1. Attendance: Teacher takes student attendance at www.kinvolved.com
+1. Volunteer takes attendance. [Procedure found here](https://docs.google.com/document/d/19IIhqykr70vj7wnqyJYuQNTkd9GX56Xgl3omD42IcMk/edit).
 2. Starter question to students on the board: How is a website created?
 
 
@@ -82,22 +82,9 @@ Ask students to create the webpage firstpage.html (Seen below) using a text edit
 
 **Extension:** ask students to experiment with h1- h6 and several paragraphs.
 
-## Introduction of new material #3 (“I Do”)
-
-Before starting this section ask students to close their laptops one more time. Provide a very brief lecture on the head tag. There are 2 slides in the Google Presentation to use (see references).
-
-
-## Independent practice #3("You do")
-
-Ask students to change the webpage firstpage.html to include a title (seen below).
-
-![Image](http://i.imgur.com/rCcTWU7.png)
-
-**Extension:** ask students to experiment with h1- h6 and several paragraphs.
-
 
 ## Closing/ Homework
-Wrap up the day with a quick recap on everything that was covered. Ask the students to share their webpages with you for review.
+Wrap up the day with a quick recap on everything that was covered. Ask the students to share their webpages with you for review. Explain they can email the text file to you. 
 
 
 ## After Class

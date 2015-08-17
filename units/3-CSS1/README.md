@@ -1,16 +1,16 @@
 #Unit 3 - Cascading Style Sheets
 
 ##Synopsis
-This unit focuses on the styling of websites using CSS. Through several learning conventions the students will become comfortable with designing a website that includes multiple pages all styled with an external style sheet. Next, they will pull from the Bootstrap framework to design resposive websites.     
+This unit focuses on the styling of websites using CSS. Through several learning conventions the students will become comfortable with designing a website that includes multiple pages all styled with an external style sheet.    
 
 
 ##Lessons
 
-1. [Header, Styles & Buttons](lessons/1-headerStyleButton)
-2. [Multiple Pages & External Style Sheets **Project 3A**](lessons/2-pagesStyles)
-3. [Div Tags & Div Classes](lessons/3-div)
-4. [Twitter bootstrap](lessons/4-bootstrap)
-5. [About Me with bootstrap](lessons/project-part-b)
+1. [Layout](lessons/1-layout)
+2. [Header, Styles & Buttons](lessons/2-headerStyleButton)
+3. [Wireframing](lessons/3-wireframing)
+4. [Project](lessons/4-project)
+
 
 ##Standards
 

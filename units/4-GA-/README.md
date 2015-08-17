@@ -1,30 +1,81 @@
-#Unit 5 - JavaScript
+#Lesson 1 - Div Tags and Div Classes  
+![image](http://2.bp.blogspot.com/-GgOXxpXcf5o/U4CkBzPV03I/AAAAAAAAMyQ/Tpv4Hpy90TE/s1600/thank+you+tag3.jpg)
 
-##Synopsis
-This unit starts with an introduction to variables. Students will learn how to create, instantiate, and edit variables. Next they will learn how to call and create functions. They will also be exposed to functions helpful for debugging. They will learn how to generate a random number. Next, they will learn what pseudo-code is and receive light practice with transforming it to actual JavaScript. Students will also learn how to properly document their code using comments.
+## Before class
+---
+###Teacher Preperation
+* The teacher should become familiar with dash.ga.co project 3, section 1. Walking through this project should take an experienced html user 15 minutes. 
 
-##Lessons
+* Review what was covered last lesson to understand the level of skill students have with HTML. 
 
-1. [Variables](lessons/1-variable)
-2. [Functions](lessons/2-function)
-3. [Pseudo-code & comments](lessons/3-pseudocode)
-4. [Project](lessons/4-project)
+### Daily Objective
 
-##Standards
-
-###CPP.L2-05 I - Variables
-1. Student	can	create,	name,	and	assign	values	to	variables.
-2. Student	understands	and	can	explain	variable	creation,	reassignment,	and	scope.
-
-###CPP.L2-05 I - Math operators
-1.	Student	can	employ	math	functions	such	as	``pow``,	``rand``,	``ceiling``,	and	``floor``	to	manipulate	numbers.
-2.	Student	understands	JavaScript	operator	precedence	and	can	use	it	to	predict	the	effect	of	an	expression.	
-3.	Student	can	recognize	augmented	assignment	operators	(``i+=1``)	and	can	decompose	them	to	simpler	syntax.	
-4.	Student	can	generate	random	numbers	and	control	their	range	to	produce	complex	behavior	in	interactive	pages.	
-5.	Student	can	handle	``null``,	``NaN``	or	``undefined``	inputs	to	calculations	when	solving	programming	problems.
-
-###CL.L3B-03, CL.L2-04, CL.L3B-01
-1.	Student	can	plan	a	project	with	teammates	(using	wire	frames,	specifications	/ requirements,	and	pseudocode).
-2.	Student	can	maintain	a	design	by	contract	relationship	with	other	team	members;	student	can	write	clear	code;	student	can	explain	code	by	including	clarifying	comments	in	their	code.
+* Students will be able to create a webpage that includes classes and styles specific to div tags while working in the General Assembly tutorial environment. 
 
 
+### Key points
+
+* The main reason for working through this project is to give students exposure to div tags. That is why we are only covering section one of project three. Going further improves CSS skills but time will be used more effeciantly in the CSS units later on in the year.
+
+* A div tag allows you to style a group of elements with the same CSS. It is a multi-purpose tag.
+
+
+### Assessment
+
+1. Worksheet to accompany dash.ga.co tutorial (see references)
+
+
+### Vocabulary
+
+* Div
+* Class
+* Non-semantic
+
+###References
+* <http://dash.ga.co>
+* [Project 3 Section 1 walkthrough Worksheet](https://www.dropbox.com/s/n89zby6lpkwd7ny/GeneralAssemblyWorkSheetP3.docx) **Teacher must print a copy for each student**
+
+## During class
+
+### Do-now
+
+1. Volunteer takes attendance. [Procedure found here](https://docs.google.com/document/d/19IIhqykr70vj7wnqyJYuQNTkd9GX56Xgl3omD42IcMk/edit).
+2. Give each student a General Assembly walkthrough worksheet (see references). Do not allow students to log onto the tutorial yet.
+
+## Opening
+
+"Today we are going to hop back on general assembly quickly to learn about a new tag. It's called a div tag. A div tag allows you to style a group of elements with the same CSS. It is a multi-purpose tag. It saves developers time when creating a site."
+
+## Introduction of new material (“I Do”)
+On the screen, the teacher will view the HTML for a website that uses div tags (So, just about any site online will do.)  
+ Ask the students what they think a div tag is used for after you edit and delte some from the webpage. The conversation should lead to the fact that div tags groups parts of a webpage.  
+
+
+
+## Guided Practice (“We Do”)
+
+Have students log into their accounts on dash.ga.co. Remind them a bit of the interface and some best practices they should be using. 
+
+## Independent practice ("You do")
+
+•	Students should use the rest of class to complete project 3, section 1.
+
+During this time teachers will circulate to help students with technical issues. If a majority of the class is struggling with the same issue you may consider demonstrating the solution on the board.  
+
+Students who complete project 3, section 1 are encouraged to move further in project 3 assuming they completed the worksheet as well.
+
+## Closing
+
+## Check for understanding
+Leave about 5 minutes at the end of class for there to be a discussion about what was learned today by completing a tutorial on General Assembly.
+
+##Homework
+Students who are not complete with the tutorial and/or the worksheet by the end of class should complete it at home for homework.
+
+Students are also encourage to work through the rest of the dash.ga.co site on their own time to improve their skill past what is taught in class.
+ 
+## After Class
+
+* Teachers must provide a grade for the tutorial worksheet. It is crutial to provide this feedback so that students will see the value of their work.
+
+* Prepare for next lesson / hand off to next volunteer in rotation.

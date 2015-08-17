@@ -43,7 +43,7 @@ Students will be able to construct an algorithm in Scratch that moves a sprite a
 
 ### Do-now
 
-1. Attendance: Teacher takes student attendance at www.kinvolved.com
+1. Attendance
 2. Tell students to form their own opinion on the foloowing quote: "Computers are incredibly fast, accuarate and stupid; humans are incredibly slow, inaccuarate and brilliant; together they are powerful beyond imagination."
 
 

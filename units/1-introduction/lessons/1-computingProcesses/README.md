@@ -42,7 +42,7 @@ Students will be able to demonstrate the ability to use computing thought proces
 
 ### Do-now (5 minutes)
 
-1. Volunteer takes attendance in classroom doc found [here]
+1. Volunteer takes attendance. [Procedure found here](https://docs.google.com/document/d/19IIhqykr70vj7wnqyJYuQNTkd9GX56Xgl3omD42IcMk/edit).
 2. Introduce yourself to every student
 
 

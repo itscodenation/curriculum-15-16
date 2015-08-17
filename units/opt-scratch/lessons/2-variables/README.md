@@ -39,7 +39,7 @@
 
 ### Do-now
 
-1. Attendance: Teacher takes student attendance at www.kinvolved.com
+1. Attendance
 2. Students will be asked to answer the question below on paper  
 		![Image](http://i.imgur.com/uappLM8.png)
 
