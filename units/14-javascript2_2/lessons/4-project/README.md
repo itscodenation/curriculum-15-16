@@ -26,7 +26,6 @@ See [here]() for code (private).
 
 1. Attendance: 
 2. Return graded do-now and exit ticket from previous class
-3. Do-now quiz
 
 ###Opening
 
@@ -70,6 +69,5 @@ Select students to present their work to the class.
 Teachers should keep track of student success while they are presenting to the class.
 
 ###How to Submit
-The teacher must ask students to share the link to their project on your school's [Project Submission Form.](https://docs.google.com/a/scripted.org/spreadsheets/d/1kaVH9hmkDCbBul19583UMPxl6IJ3-4pHgBQ2BU6TKDk/edit#gid=0)
-
-Also remind students to add a link to their project on their About Me page.
+###How to Submit
+Students must push all final code to their GitHub repository. Students will then share the link to their repo at bit.ly/ScriptEdProjects
