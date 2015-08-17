@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<link href="vendor/foundation.css" rel="stylesheet">
+<link href="vendor/codemirror/codemirror.css" rel="stylesheet">
+<link href="base.css" rel="stylesheet">
+<link href="lab.codemirror.css" rel="stylesheet">
+<style>
+.CodeMirror {
+  width: 100%;
+  height: auto;
+  font-family: Menlo, Monaco, "Lucida Console", monospace;
+  font-size: smaller;
+  background: #f0f0f0;
+}
+
+.CodeMirror-scroll {
+  overflow-y: hidden;
+}
+</style>
+<title>Export to HTML</title>
+<h1>Export to HTML</h1>
+<p>
+  Here is the HTML for your creation. Copy and paste it into a
+  site like <a href="https://thimble.webmaker.org/">Thimble</a>,
+  <a href="http://jsbin.com/">jsbin</a>, or your favorite
+  text editor.
+</p>
+<textarea id="code" spellcheck="false"></textarea>
+
+<script src="vendor/codemirror/codemirror.js"></script>
+<script src="vendor/codemirror/javascript.js"></script>
+<script src="vendor/codemirror/xml.js"></script>
+<script src="vendor/codemirror/css.js"></script>
+<script src="vendor/codemirror/htmlmixed.js"></script>
+<script>
+var CLOSE_SCRIPT = '</' + 'script>';
+var code = decodeURIComponent(location.search.match(/code=([^&]*)/)[1]);
+var codeArea = document.getElementById('code');
+var lines = [
+  '<!DOCTYPE html>',
+  '<meta charset="utf-8">',
+  '<title>My TinyTurtle Creation</title>',
+  '<canvas width="250" height="250"></canvas>',
+  '<script src="' + absPath('../tiny-turtle.js') + '">' + CLOSE_SCRIPT,
+  '<script>',
+  'TinyTurtle.apply(window);',
+  '',
+  code,
+  CLOSE_SCRIPT
+];
+
+function absPath(url) {
+  var a = document.createElement('a');
+  a.setAttribute('href', url);
+  return a.href;
+}
+
+codeArea.value = lines.join('\n');
+
+CodeMirror.fromTextArea(codeArea, {
+  theme: 'lab',
+  mode: 'htmlmixed'
+});
+</script>

@@ -1,0 +1,62 @@
+.lab * {
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;  
+}
+
+.lab {
+  position: relative;
+  height: 280px;
+}
+
+.lab .canvas {
+  position: absolute;
+  top: 0;
+  right: 0;
+  border: 1px dotted gray;
+}
+
+.lab .code:focus {
+  outline: 0;
+}
+
+.lab .code {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: -webkit-calc(100% - 260px);
+  width: -moz-calc(100% - 260px);
+  width: calc(100% - 260px);
+  height: 250px;
+  resize: none;
+  border: none;
+  background: #f0f0f0;
+  font-family: Menlo, Monaco, "Lucida Console", monospace;
+  font-size: small;
+}
+
+.lab textarea.code {
+  padding: 4px;
+}
+
+.lab .error {
+  position: absolute;
+  top: 252px;
+  left: 0;
+  right: 0;
+  color: red;
+  /* Errors can take some time to fade in b/c we don't want to
+   * needlessly distract the user. */
+  transition: opacity 1s 0.25s;
+  -moz-transition: opacity 1s 0.25s;
+  -webkit-transition: opacity 1s 0.25s;
+}
+
+.lab .error:not(.shown) {
+  opacity: 0;
+  /* Errors should disappear instantaneously to let the user know
+   * everything is okay now. */
+  transition: opacity 0.25s 0.01s;
+  -moz-transition: opacity 0.25s 0.01s;
+  -webkit-transition: opacity 0.25s 0.01s;
+}

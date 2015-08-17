@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<title>TinyTurtle Lab</title>
+<link href="lab/vendor/foundation.css" rel="stylesheet">
+<link href="lab/vendor/codemirror/codemirror.css" rel="stylesheet">
+<link href="lab/base.css" rel="stylesheet">
+<link href="lab/lab.css" rel="stylesheet">
+<link href="lab/lab.codemirror.css" rel="stylesheet">
+<h1>TinyTurtle Lab</h1>
+<div id="labs"></div>
+<footer>
+  [ <a href="http://github.com/toolness/tiny-turtle" target="_blank">GitHub</a>
+    | <a href="tutorial/">Tutorial</a>
+    | <a id="togetherjs" href="#">Invite a Friend</a>
+  ]
+</footer>
+<script id="sample" type="javascript/sample-code">
+function box(length) {
+  for (var i = 0; i < 4; i++) {
+    forward(length);
+    right(90);
+  }
+}
+
+penStyle = 'purple';
+box(90);
+left(10);
+box(80);
+left(10);
+box(70);
+stamp();
+</script>
+<script src="tiny-turtle.js"></script>
+<script src="lab/vendor/png-baker.js"></script>
+<script src="lab/vendor/codemirror/codemirror.js"></script>
+<script src="lab/vendor/codemirror/javascript.js"></script>
+<script src="lab/vendor/codemirror/matchbrackets.js"></script>
+<script src="lab/lab.js"></script>
+<script src="lab/lab.codemirror.js"></script>
+<script src="lab/lab.png-baker.js"></script>
+<script>
+var $ = document.querySelector.bind(document);
+
+function initLab(id, defaultContent) {
+  var lab = Lab();
+
+  lab.code.value = sessionStorage[id] || defaultContent;
+  lab.setAttribute('id', id);
+  $('#labs').appendChild(lab);
+  lab.render();
+  window.addEventListener('unload', function() {
+    sessionStorage[id] = lab.code.value;
+  }, false);
+}
+
+function initLabs() {
+  var panes = parseInt((location.search.match(/panes=([1-9])/) || [0,1])[1]);
+  var sampleCode = $("#sample").textContent.trim();
+
+  for (var i = 0; i < panes; i++)
+    initLab('tinyturtle-lab-' + i, i == 0 ? sampleCode : '');
+}
+
+$("#togetherjs").addEventListener('click', function(e) {
+  e.preventDefault();
+  TogetherJS(this);
+}, false);
+
+initLabs();
+</script>
+<script async src="https://togetherjs.com/togetherjs-min.js"></script>

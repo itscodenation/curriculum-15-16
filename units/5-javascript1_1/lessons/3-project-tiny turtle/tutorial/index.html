@@ -1,0 +1,321 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<link rel="stylesheet" href="../lab/vendor/foundation.css">
+<link rel="stylesheet" href="../lab/vendor/codemirror/codemirror.css">
+<link rel="stylesheet" href="../lab/base.css">
+<link rel="stylesheet" href="../lab/lab.css">
+<link rel="stylesheet" href="../lab/lab.codemirror.css">
+<link rel="stylesheet" href="highlight.css">
+<title>TinyTurtle Tutorial</title>
+<h1>TinyTurtle Tutorial</h1>
+
+<p>
+  Before embarking on this journey, you may want to check out
+  <a href="http://jsforcats.com">JavaScript For Cats</a> or
+  <a href="http://eloquentjavascript.net/">Eloquent JavaScript</a> to 
+  understand the basics of the language. Or you can just start hacking
+  and learn things from the <a href="glossary.html">glossary</a> as you go.
+</p>
+
+<aside class="panel">
+  <h3><a id="tips" href="#tips">Tinkering Tips</a></h3>
+
+  <blockquote>
+    Programmers care more about making it work <em>eventually</em> rather
+    than trying to make it work the very first time. The best way to
+    learn is by making mistakes!
+    <cite><a href="https://twitter.com/maxogden">@maxogden</a>,
+      JavaScript for Cats</cite>
+  </blockquote>
+
+  <p>
+    <strong>Fear not.</strong> Nothing you type on this page will damage
+    your computer in any way. Programming is all about tinkering, with
+    curiosity guiding your path.
+  </p>
+
+  <p>
+    <strong>Play around.</strong> If you don't understand what a piece
+    of code is doing, try changing it. What happens when you remove the
+    code? Or when you change a number in it? Or when you copy and paste
+    it somewhere else? 
+  </p>
+
+  <p>
+    <strong>Ask for help.</strong> If you're stumped, you can always
+    <a onclick="TogetherJS(this);">invite a friend</a> to help you out.
+  </p>
+</aside>
+
+<h2><a id="square" href="#square">I. Square</a></h2>
+
+<blockquote>
+  Turtle geometry is a different style of doing geometry, just as Euclid’s 
+  axiomatic style and Descartes’s analytic style are different from one
+  another. Euclid’s is a <em>logical</em> style. Descartes’s is an
+  <em>algebraic</em> style. Turtle geometry is a <em>computational</em>
+  style of geometry.
+  <cite data-page="55">Seymour Papert, <em>Mindstorms</em></cite>
+</blockquote>
+
+<p>
+  The TinyTurtle <a href="glossary.html#api">API</a> makes it easy to
+  experiment with Turtle geometry.
+</p>
+
+<p>
+  The <code>forward</code> function tells the Turtle to move forward by
+  some number of pixels.
+</p>
+
+<p>
+  The <code>right</code> function tells it to turn right by 
+  some number of degrees.
+</p>
+
+<p>
+  The <code>stamp</code> function tells it to draw its current
+  <em>state</em>: that is, its position and orientation. This is
+  visualized as a small, pointy triangle.
+</p>
+
+<p>
+  Can you add to the code below to make the Turtle draw a square 
+  100 pixels wide and end with the same state that it started?
+</p>
+
+<script data-role="lab" type="javascript/lab">
+forward(100);
+right(90);
+
+stamp();
+</script>
+
+<script data-role="solution" type="javascript/lab" data-text="See Atul's solution">
+// Here is Atul's solution to the square problem.
+forward(100);
+right(90);
+forward(100);
+right(90);
+forward(100);
+right(90);
+forward(100);
+right(90);
+
+stamp();
+</script>
+
+<aside class="panel">
+  <strong>Hint:</strong> If you're having trouble, try to "play Turtle."
+  Stand up and move your body as the Turtle on the screen must move in
+  order to make the pattern you want.
+</aside>
+
+<h2><a id="squares" href="#squares">II. Squares</a></h2>
+
+<p>
+  If we encapsulate our square-drawing code into a
+  <a href="glossary.html#function">function</a> that takes an
+  argument specifying the size of square to draw, we can use it as a building 
+  block for more interesting things.
+</p>
+
+<p>
+  Can you complete the code below?
+</p>
+
+<script data-role="lab" type="javascript/lab">
+function square(width) {
+  // Fill in this function!
+}
+
+square(100);
+right(20);
+square(80);
+right(20);
+square(60);
+
+stamp();
+</script>
+
+<script data-role="solution" type="javascript/lab" data-text="See Atul's solution">
+// Here is Atul's solution to the squares problem.
+function square(width) {
+  for (var i = 0; i < 4; i++) {
+    forward(width);
+    right(90);
+  }
+}
+
+square(100);
+right(20);
+square(80);
+right(20);
+square(60);
+
+stamp();
+</script>
+
+<aside class="panel">
+
+<h3><a id="refactoring" href="#refactoring">Code Is For People</a></h3>
+
+<blockquote>
+  Programs must be written for people to read, and only incidentally for machines to execute.
+  <cite>Hal Abelson &amp; Gerald Sussman,
+    Structure and Interpretation of Computer Programs</cite>
+</blockquote>
+
+<blockquote>
+  See, all my procedures are mind-size bites.
+  <cite data-page="103">Robert, a seventh grader, <em>Mindstorms</em></cite>
+</blockquote>
+
+<p>
+  Writing functions keeps our code compartmentalized
+  into mind-size bites that are easy for humans to understand. Whenever
+  you're having trouble understanding your own code&mdash;and
+  <em>especially</em> when you notice yourself copying-and-pasting lots of 
+  chunks of it&mdash;consider splitting it up into functions to make it
+  more concise and easier to grasp. This process is called
+  <em>refactoring</em> and it's a useful practice that even professional
+  programmers struggle to do regularly.
+</p>
+</aside>
+
+<h2><a id="triangle" href="#triangle">III. Triangle</a></h2>
+
+<p>One of the principles of Turtle geometry is called the <strong>Total
+  Turtle Trip Theorem</strong>:
+</p>
+
+<blockquote>
+  If a Turtle takes a trip around the boundary of any area and ends up in
+  the state in which it started, then the sum of all turns will be
+  360 degrees.
+  <cite data-page="76">Seymour Papert, Mindstorms</cite>
+</blockquote>
+
+<p>
+  Can you use this theorem to fix the code below, which is trying to
+  draw an equilateral triangle and finish with the Turtle in the same
+  state that it started? You just need to replace <code>SOMETHING</code>
+  with an actual number.
+</p>
+
+<script data-role="lab" type="javascript/lab">
+for (var i = 0; i < 3; i++) {
+  forward(100);
+  right(SOMETHING);
+}
+
+stamp();
+</script>
+
+<script data-role="solution" type="javascript/lab" data-text="See Atul's solution">
+// Here is Atul's solution to the triangle problem.
+for (var i = 0; i < 3; i++) {
+  forward(100);
+  // The turtle needs to make 3 identical turns to draw a triangle, and
+  // since they all need to add up to 360, that means each turn should be
+  // 360 divided by 3, or 120 degrees.
+  right(120);
+}
+
+stamp();
+</script>
+
+<h2><a id="circle" href="#circle">IV. Circle</a></h2>
+
+<p>
+  Can you use the Turtle Total Trip Theorem to finish this function that
+  draws a circle based on a given circumference, and returns with the
+  Turtle in its original state?
+</p>
+
+<script data-role="lab" type="javascript/lab">
+function circle(circumference) {
+  // Draw a circle here.
+}
+
+circle(300);
+stamp();
+</script>
+
+<script data-role="solution" type="javascript/lab" data-text="See Atul's solution">
+// Here is Atul's solution to the circle problem.
+
+function circle(circumference) {
+  // When we walk in a circle, we move forward a tiny bit and turn right
+  // a tiny bit. By the end, we will have traveled circumference distance
+  // and rotated 360 degrees.
+  for (var i = 0; i < 360; i++) {
+    forward(circumference / 360);
+    right(1);
+  }
+}
+
+circle(300);
+stamp();
+</script>
+
+<aside class="panel">
+  <strong>Hint:</strong> It may help conceptually to think
+  of the circumference as the total distance the Turtle must travel
+  before it returns to its original state. Also, play Turtle!
+</aside>
+
+<h2><a id="going-further" href="#going-further">Going Further</a></h2>
+
+<p>
+  Playing with Turtle Graphics in this tutorial is nice, but you might
+  be wondering how to put your design into a real webpage. See the
+  <a href="https://github.com/toolness/tiny-turtle#readme">TinyTurtle
+  documentation</a> for instructions on how to do this.
+</p>
+
+<p>
+  You might also want to take a look at the TinyTurtle source code,
+  <a href="https://github.com/toolness/tiny-turtle/blob/gh-pages/tiny-turtle.js">tiny-turtle.js</a>, to see how it works. It's pretty short, and reading other
+  people's code&mdash;especially code you use yourself&mdash;is one of the
+  best ways to learn. If you find bugs, you can even
+  <a href="https://github.com/toolness/tiny-turtle/issues">file an
+  issue</a> and fix it.
+</p>
+
+<p>
+  Finally, consider reading <a href="http://www.amazon.com/Mindstorms-Children-Computers-Powerful-Ideas/dp/0465046746">Mindstorms</a> by Seymour Papert, which
+  explains the pedagogy behind Turtle graphics, among many other
+  revolutionary ideas about education.
+</p>
+
+<script src="../tiny-turtle.js"></script>
+<script src="../lab/vendor/png-baker.js"></script>
+<script src="../lab/vendor/codemirror/codemirror.js"></script>
+<script src="../lab/vendor/codemirror/javascript.js"></script>
+<script src="../lab/vendor/codemirror/matchbrackets.js"></script>
+<script src="../lab/lab.js"></script>
+<script src="../lab/lab.codemirror.js"></script>
+<script src="../lab/lab.png-baker.js"></script>
+<script src="highlight.js"></script>
+<script async src="https://togetherjs.com/togetherjs-min.js"></script>
+<script>
+(function activateSolutions() {
+  var solutions = document.querySelectorAll('[data-role="solution"]');
+
+  [].slice.call(solutions).forEach(function(script) {
+    var btn = document.createElement('button');
+    btn.classList.add('tiny');
+    btn.classList.add('button');
+    btn.classList.add('secondary');
+    btn.textContent = script.getAttribute('data-text');
+    btn.onclick = function() {
+      var lab = Lab();
+      lab.code.value = script.textContent.trim();
+      btn.parentNode.replaceChild(lab, btn);
+      lab.render();
+    };
+    script.parentNode.replaceChild(btn, script);
+  });
+})();
+</script>

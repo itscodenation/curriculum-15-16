@@ -1,0 +1,27 @@
+@media (max-width: 900px) {
+  body {
+    margin: 0 10px;
+  }
+}
+
+@media (min-width: 900px) {
+  body {
+    width: 880px;
+    margin: 0 auto;
+  }
+}
+
+a {
+  color: inherit;
+  text-decoration: underline;
+}
+
+a:hover {
+  color: inherit;
+  background: yellow;
+}
+
+footer {
+  text-align: center;
+  font-size: smaller;
+}

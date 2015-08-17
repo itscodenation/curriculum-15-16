@@ -1,0 +1,18 @@
+/* This is based on the elegant theme that ships with CodeMirror. */
+
+.cm-s-lab span.cm-number, .cm-s-lab span.cm-string, .cm-s-lab span.cm-atom {color: #762;}
+.cm-s-lab span.cm-comment {color: #262; font-style: italic; line-height: 1em;}
+.cm-s-lab span.cm-meta {color: #555; font-style: italic; line-height: 1em;}
+.cm-s-lab span.cm-variable {color: black;}
+.cm-s-lab span.cm-variable-2 {color: #b11;}
+.cm-s-lab span.cm-qualifier {color: #555;}
+.cm-s-lab span.cm-keyword {color: #730;}
+.cm-s-lab span.cm-builtin {color: #30a;}
+.cm-s-lab span.cm-link {color: #762;}
+.cm-s-lab span.cm-error {background-color: #fdd;}
+
+.cm-s-lab .CodeMirror-activeline-background {background: #e8f2ff !important;}
+.cm-s-lab .CodeMirror-matchingbracket {
+  text-decoration: underline;
+  color: black !important;
+}
