@@ -214,11 +214,13 @@ Export this JS Bin as a Gist so you can reference it for later.
 Create a new GitHub repo called jQuery-practice and clone it to a new Cloud9 workspace with the same name.
 
 1. Create an index.html and script.js file
-2. In the body of the index.html file Create two new empty div's with the IDs "div1" and "div2". 
-2. Create the rest of the webpage below using only jquery.  
+2. In the body of the index.html file create the following:
+	A. Two empty `div` tags with the IDs "div1" and "div2".
+	B. one  empty `img`  
+3. Create the rest of the webpage below using only jquery.  
 	Note: You may use any image you would like.
 	
-![Imgur](http://i.imgur.com/VWhVeyz.png)
+![Imgur](http://i.imgur.com/VWRFZa2.png)
 #### Exit ticket
 
 Give exit-ticket quiz.

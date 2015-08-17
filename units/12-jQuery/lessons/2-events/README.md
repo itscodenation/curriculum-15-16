@@ -88,9 +88,13 @@ Create a new page in your workspace called day2.html
 
 1. Using html place 1 button, an image and some text on your site.
 2. Place a click handler on the button that displays an alert box when clicked. 
-3. Use a mouseover event to change the image when someone hovers their mouse over the image.
-4. Use a scroll event to change the text when someone scrolls over the image.
+3. Use a mouseover event to change the image when someone hovers their mouse over the image.  
+
+Bonus: Use a scroll event to change the text when someone scrolls over the image.
+
+**Note: Tags from the index page may need to be changed or added in order to not affect the layout og day2.html** 
 	
+
 #### Exit ticket
 
 Give exit-ticket quiz.
