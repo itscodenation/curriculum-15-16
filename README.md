@@ -15,7 +15,7 @@ For unit 2, students must set up an account with GitHub and Cloud9 account. [Thi
 | [**0. ScriptEd**](units/0-Infosession/)| 1 | Routines and Expectations | N/A| N/A|
 | [**1. Intro to CS**](units/1-introduction/)| 1 | Computational thinking | [Sign Up for GitHub & JS Bin](resources/c9/README.md)| N/A|
 | [**2. HTML (Introduction**](units/2-HTML1/)| 3 | HTML page structure, Basic tags |[NYT Remix]()   | [About me]()
-| [**3. CSS (Introduction)**](units/3-CSS1/)| 4 | Wireframing, Basic Styling  | [About Who?](units/css1/lessons/4-projects) | [ScriptEd Zen Garden]()| 
+| [**3. CSS (Introduction)**](units/3-CSS1/)| 3 | Wireframing, Basic Styling  | [About Who?](units/css1/lessons/4-projects) | [ScriptEd Zen Garden]()| 
 | [**4. HTML,CSS & jQuery**](units/4-GA-/)  produced by General Assembly| 1 | link tag, script tag, header, media query, jQuery events | [GA Dash Project #2](units/4-GA-/) | N/A| 
 | [**Optional Unit. Scratch**](units/opt-scratch/) | 4 | Algorithms, variables, conditionals  | [Ol Mc'Donald MadLibs](units/opt-scratch/lessons/4-project) with conditional statement | N/A|
 | [**5. JavaScript 1.1**](units/5-javascript1_1/) |  | Variables, functions | [Calculator]() | [Tiny Turtle]()|
