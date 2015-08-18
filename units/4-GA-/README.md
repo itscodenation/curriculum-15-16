@@ -1,118 +1,94 @@
-#Lesson 2 & Project 3A  
-##Linking Pages and StyleSheets
-![image](http://i.imgur.com/lQblSYV.jpg)
-
+#Lesson 2 - Headers, Styles and Buttons  
+![image](http://i.imgur.com/73WZUvo.png)
 
 ## Before class
 ---
 ###Teacher Preperation
-* The teacher should have the html from project 2 on dash.ga.co uploaded to Cloud9
-
+* The teacher should become familiar with dash.ga.co project 2. Walking through this project should take an experienced html user 20-30 minutes. 
+* Pay close attention to the JS like buttons in this project. They will not function outside of the General Assembly site.
+* Review what was covered last lesson to understand the level of skill students have with HTML. 
 
 ### Daily Objective
 
-* Students will be able to create an About Me website that includes four webpages and a stylesheet.  
+* Students will be able to create a webpage that includes a header section, several styles and JavaScript buttons while working in the General Assembly tutorial environment. 
 
 
 ### Key points
 
-* Page hierarchy and organization
-* linking a stylesheet to your site allows for easy style changes
+* head, header and h1 tags sound similar but are completely different things.
+* JavaScript is the language used to make webpages interactive.
+* A media query is a useful tool for making a website mobile friendly.
 
 
 ### Assessment
 
-1. Full, 4-page "About Me" website made in Cloud9 IDE.
+1. Worksheet to accompany dash.ga.co tutorial (see references)
+2. Site made in Cloud9 IDE after completing walkthrough. (to be completed in the following lesson)
+
 
 
 ### Vocabulary
 
-* IDE (Integrated Development Environment)
-* Stylesheet
-* Hierarchy
-* Linking
-
+* Header
+* Media Query
+* JavaScript
+* a href tag
+* margin
+* padding
 
 ###References
-* <https://c9.io/>
+* <https://jsbin.com/>
 * <http://w3schools.com>
 * <http://dash.ga.co>
-* [Google Presentation Slides](https://docs.google.com/presentation/d/1UrFnBtRbk9eC1E2MLhRjkpvi4-4tREXmK3v2ps_kVqc/edit?usp=sharing)
+* [Project 2 walkthrough Worksheet](https://www.dropbox.com/s/x7kyti0jt6easj0/GeneralAssemblyPacketJeffBlog.docx ) **Teacher must print a copy for each student**
 
 ## During class
 
 ### Do-now
 
 1. Volunteer takes attendance. [Procedure found here](https://docs.google.com/document/d/19IIhqykr70vj7wnqyJYuQNTkd9GX56Xgl3omD42IcMk/edit).
-2. Place the starter question on the board. The starter question can be found in slide 2 of the Google presentation (see references).
+2. Give each student a General Assembly walkthrough worksheet (see references).
+3. Have students log onto dash.ga.co to set up a free account.
 
 
 ## Opening
 
-“Today we are going to add multiple pages to the website you made in dash.ga.co last class. Can anyone tell me why we asked you to create this diagram at the start of class?" At this point the teacher should explain to students that pages on a website are linked similarly to the structure of people in a company. Except a website starts with an index, not an owner.
-
-**Note:** The website we will be making in class will have an index, three linked pages and a stylesheet.  
+“Now that everyone has set up a General Assembly account, let’s see what we are going to do with this site.” As a class, read the directions at the top of the General Assembly worksheet.
 
 ## Introduction of new material (“I Do”)
-"Last class we made a single page that could almost link to other pages using ![Image](http://i.imgur.com/LXrS0lM.png). Can someone tell me where the placeholder is in this line of HTML?"  
-Students should arrive to the # symbol needs to be replaced with a file path.  
-![Image](http://i.imgur.com/aH6koIL.png)
-In order for this new file path to link to another page we need to create that page.
+On the screen, open up the General Assembly site and provide a quick explanation as to why it is a useful tool for learning. Consider playing the 1 minute intro video on the site.
+
+
 
 ## Guided Practice (“We Do”)
-Have all students open their computers log onto their Cloud9 account. If studnets do no already have a CLoud9 account they may use [this guide.](resources/c9)  
-Have students create a new workspace called AboutMe. Also have the teacher's workspace open on the front board. "All together let's create proper organization for this workspace." Create the following workspace as students follow along.  
-![Image](http://i.imgur.com/6abqxzm.png)  
-At this point teachers should give a quick check for understanding to make sure all students have an organized workspace.  
 
-Now that we have our workspace organzied let's copy and paste project 2 (Jeff's Blog) to all four pages on our site and start manipulating index.html to be a personlized About Me home page.   
+Walk through the first 4-5 slides with he students on the board to show how the tutorial tells you what to type BUT also becomes less helpful as the tutorial progresses. Be sure to also point out the importance of answering the questions on the worksheet as you complete the tutorial.
 
 ## Independent practice ("You do")
 
-Take some time to change this site to reflect yourself AND make sure all links work properly. 
+•	Students should use the rest of class to complete sections 1, 2 & 3 of project 2. **There is no need for the average student to work through project 1!** However it could be useful for a student who is falling behind to complete this project first.
 
-During this time the teacher should circulate to assist students with their webpage. **Be prepared to get questions on linking!** The students will need to be taught the difference between / and ../ as this has not yet been covered. The teacher may choose to do this one-to-one with each student or use slide 5 in the [Google Presentation Slides](https://docs.google.com/presentation/d/1UrFnBtRbk9eC1E2MLhRjkpvi4-4tREXmK3v2ps_kVqc/edit?usp=sharing).  
+During this time teachers will circulate to help students with technical issues. If a majority of the class is struggling with the same issue you may consider demonstrating the solution on the board.  
 
-Be sure to tell students there will be a simple way to style all pages at once that we will be learning in a few minutes.
+**Note:** This is a long period of time for a teenager to be completing a single task. Some may need an occasional break from time-to-time. Feel free to have a quick off-topic conversation with a student if you see them struggling to focus.
 
-## Introduction of new material #2 (“I Do”)
-Ask students to close their laptops and give 100% attention to the board. "Do you notice how if you change the style on one page of your site you tend to mak that same cahnge to the other four pages? This is because most sites online keep the same style for all pages. We can simplify this process by linking a style.css page to our site."
+## Closing
+After completing sections 1, 2 & 3 students should begin working on the Activity at the bottom of the Walkthrough worksheet; which reads: 
 
-## Guided Practice #2 (“We Do”)
-Have all students open their computers and follow along as you demonstrate creating a style.css sheet on the board. While the teacher is creating and linking this sheet they should also be explaining the process in great detail. An example speech is below.  
+![Image](http://i.imgur.com/tZmFR5b.png)
 
-**Example speech for creating a style.css sheet**
-"You will notice the ![Image](http://i.imgur.com/dQ9BH9i.png) line inside the head tag. It is telling us to link to a page called style.css to find our page styles. There is one problem, we do not have a style.css sheet and all our styles are listed right on the page."  
-
-"To fix this we will create a new file called style.css and place it in the AboutMe folder. We will now take all of the information in our style tag from our orignal pages and move it to style.css. Notice how this page is nothing but css styles."  
-Questions to ask:  
-* Why is it better to use a style.css sheet?
-* What will need to be changed when linking pages other than the index to the stylesheet? **Answer- you need to add ../ to get out of the current folder.** ![Image](http://i.imgur.com/XwV5PlC.png)   
-
-## Independent practice #2 ("You do")
-
-The rest of class can be dedicated to students completing this website using the skills they learned today.  
-
-**Note:** The like buttons will not work using the code from dash.ga.co. Inorder to make the buttons function the code will need to be changed. Slide 6 in [Google Presentation Slides](https://docs.google.com/presentation/d/1UrFnBtRbk9eC1E2MLhRjkpvi4-4tREXmK3v2ps_kVqc/edit?usp=sharing) explains this process. However, you may encourage students to research this answer on their own. 
-
-# Closing
+Although students can get started now, this will be the topic of next class so students should not get too carried away as of right now.
 
 ## Check for understanding
-Leave time at the end of class for students to wrap up and ask teachers any questions they may have.  
-
-
-##How to Submit
-The students must export this project as a Gist.
-File > Export as Gist
-
-The teacher must ask students to share the link to their project at [bit.ly/ScriptEdProjects](bit.ly/ScriptEdProjects)
+Leave about 5 minutes at the end of class for there to be a discussion about what was learned today by completing a tutorial on General Assembly.
 
 ##Homework
-Students who are not complete with their site by the end of class should complete it at home for homework. **Note: This project can take multiple days of class. Adjust schedule as necessary**
+Students who are not complete with the tutorial and/or the worksheet by the end of class should complete it at home for homework.
  
 ## After Class
 
-* Look over each student's website for completion. If most students could benefit from having more time then use next class period to complete this project.
-*  Prepare for next lesson / hand off to next volunteer in rotation.
+* Teachers must provide a grade for the tutorial worksheet. It is crutial to provide this feedback so that students will see the value of their work.
+
+* Prepare for next lesson / hand off to next volunteer in rotation.
 
 
