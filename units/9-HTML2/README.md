@@ -5,7 +5,7 @@ This unit introduces linking pages, creating relative links, images, and creatin
 
 ##Lessons
 
-1. [Images and Basic Styles](lessons/1-ImageStyles)
+1. [Images and Basic Styles](lessons/1-pagesStyles)
 2. [Hashes](lessons/1-hash)
 3. [Project](lessons/2-project)
 
