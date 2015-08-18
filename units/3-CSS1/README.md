@@ -7,9 +7,8 @@ This unit focuses on the styling of websites using CSS. Through several learning
 ##Lessons
 
 1. [Layout](lessons/1-layout)
-2. [Header, Styles & Buttons](lessons/2-headerStyleButton)
-3. [Wireframing](lessons/3-wireframing)
-4. [Project](lessons/4-project)
+2. [Wireframing](lessons/3-wireframing)
+3. [Project](lessons/4-project)
 
 
 ##Standards
