@@ -1,4 +1,4 @@
-#Lesson 2 - Headers, Styles and Buttons  
+Headers, Styles and Buttons  
 ![image](http://i.imgur.com/73WZUvo.png)
 
 ## Before class
