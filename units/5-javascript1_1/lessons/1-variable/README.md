@@ -142,7 +142,7 @@ Remember PEMDAS:
 
 These are the same order of operations you follow in math class. See link in references for more.
 
-#####Increment / Decrement
+#####Increment
 
 It's your birthday today. You were 16 yesterday and now you are 17 today. Let's represent this in JavaScript:
 

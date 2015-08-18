@@ -16,8 +16,7 @@ Students will be able to use the basic CRUD (create, read, update, and delete) c
 
 ### Assessment
 
-1. Complete the [do now](assessments/do_now.md) activity 
-2. Complete the [exit-ticket](assessments/exit_ticket.md)
+1. Complete the [exit-ticket](assessments/exit_ticket.md)
 
 Students will show progress toward reaching the objective based on their performance on the exit-ticket quiz.
 
