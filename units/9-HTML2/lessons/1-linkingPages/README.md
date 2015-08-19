@@ -10,7 +10,7 @@ Students will be able to create a website with multiple pages using the a tag.
 ### Key points
 
 * Page hierarchy and organization
-* linking a stylesheet to your site allows for easy style changes
+
 
 
 ### Assessment
@@ -60,7 +60,7 @@ You will notice the line of code on page 4 will create hyperlink on the webpage 
 
 You will notice the page structure here invovles a folder called "pages" with three files inside of it.
 
-![Imgur](http://i.imgur.com/JaYctqz.png)
+![Imgur](http://i.imgur.com/gZveY6I.png)
 
 Lets say we are on the index.html page and would like to get to page1.html. How would we do that?
 
@@ -109,6 +109,7 @@ Students must push their code to their GitHub repo using the following commands 
 `git commit -m "example comment"`  
 `git push origin master`
 
+This project does not yet have to be share with the instructors.
 
 ##Homework
 Students who are not complete with their site by the end of class should complete it at home for homework. 
