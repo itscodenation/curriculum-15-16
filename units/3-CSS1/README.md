@@ -8,7 +8,8 @@ This unit focuses on the styling of websites using CSS. Through several learning
 
 1. [Layout](lessons/1-layout)
 2. [Wireframing](lessons/3-wireframing)
-3. [Project](lessons/4-project)
+3. [Project 1](lessons/4-project)
+4. [Project 2](lessons/5-project2)
 
 
 ##Standards
