@@ -6,7 +6,7 @@ This unit makes an introduction to jQuery. Students will learn about selectors a
 ##Lessons
 
 1. [jQuery](lessons/1-jquery)
-2. [Project](lessons/2-project)
+2. [CSS Robot Project](lessons/2-project)
 
 ##Standards
 
