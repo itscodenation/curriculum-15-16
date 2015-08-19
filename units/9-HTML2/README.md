@@ -11,4 +11,3 @@ This unit introduces linking pages, creating relative links, images, and creatin
 
 ##Standards
 
-*N/A*
