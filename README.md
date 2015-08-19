@@ -23,19 +23,19 @@ For unit 2, students must set up an account with GitHub and Cloud9 account. [Thi
 | [**IDE Tutorial: Cloud9**](units/c9_setup/) | 1  | Dashboard, Workspace, Sharing, GitHub intergration | [Sign Up for Cloud 9](units/c9_setup/README.md) | N/A |
 | [**7. Command line**](units/7-commandline) | 2  | CRUD operations | [File Structure](units/7-commandline/1-commandline) | [Terminus](units/7-commandline/2-terminus) |
 | [**8. Git & GitHub**](units/8-git) |  1 |  Git, Github, `status`, `clone`,`commit`, `push` | [Mr. Potato Head](https://github.com/ScriptEdcurriculum/Mr_Potato_Head)| N/A|
-| [**9. HTML (Advanced)**](units/9-HTML2/) |   | Linking pages, a tag, forms | [Portfolio Page]() | N/A | 
+| [**9. HTML (Advanced)**](units/9-HTML2/) |  3 | Linking pages, a tag, forms | [Portfolio Page]() | N/A | 
 | [**10. HTML/CSS (Advanced)**](units/10-HTML_CSS2) |  | Div, id, class, float, transitions & animations | [GA Dash Project #4](https://github.com/ScriptEdcurriculum/curriculum2015/tree/master/units/10-HTML_CSS2/lessons/2-project) | [CSS Zen Garden]() |
 | [**11. Bootstrap**](units/11-bootstrap)| 3 | CDN, wireframing, grid system | [Fictional Character Website](units/11-bootstrap/project-character) | N/A |
-| [**12. jQuery**](units/12-jQuery)|  | Selectors, Attributes, Handlers | [The jQuery Site](units/12-jQuery/lessons/3-project1) | [Facebook Wall](https://github.com/Bijesse/facebook_wall)|
-| [**13. JavaScript 2.1**](units/13-javascript2_1)|  | Arrays, Loops | [99 Bottles](units/13-javascript2_1/3-project) | [Color Changer](units/13-javascript2_1/5-project)|
-| [**14. JavaScript 2.2**](units/14-javascript2_2)|  | Objects (hashes) | [Around the World](units/14-javascript2_2/3-project) | [Address Book](units/14-javascript2_2/4-project)|
+| [**12. jQuery**](units/12-jQuery)| 4 | Selectors, Attributes, Handlers | [The jQuery Site](units/12-jQuery/lessons/3-project1) | [Facebook Wall](https://github.com/Bijesse/facebook_wall)|
+| [**13. JavaScript 2.1**](units/13-javascript2_1)| 5 | Arrays, Loops | [99 Bottles](units/13-javascript2_1/3-project) | [Color Changer](units/13-javascript2_1/5-project)|
+| [**14. JavaScript 2.2**](units/14-javascript2_2)| 4 | Objects (hashes) | [Around the World](units/14-javascript2_2/3-project) | [Address Book](units/14-javascript2_2/4-project)|
 
 
   
  
 ---
 
-Advanced Class
+Advanced Course
 =========================
 Second year students will be completing their final projects using Cloud9 IDE. They will also need to sign in using their GitHub account. [This guide](units/c9_setup) serves as a tutorial for creating an account with each. 
 
