@@ -45,6 +45,14 @@ Be sure to encourage student to push changes to GitHub often using this process:
 `git commit -m "example comment"`  
 `git push origin master`
 
+###Extension Project
+For students who are looking for an extra challenge they can build on this project by...
+
+* Adding images of country data
+* Adding Bootstrap for design
+* Use Key Bindings to allow the user to hit enter
+
+To see an example of a completed extension project navigate to the [solutions repository](https://github.com/ScriptEdcurriculum/solutions2015/tree/master/14-javascript2_2/lessons/3-project) for code (private)
 
 ##Closing
 Select students to present their work to the class.
