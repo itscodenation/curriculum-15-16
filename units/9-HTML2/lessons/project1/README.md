@@ -19,7 +19,7 @@ There is no starter code for this project. To view how this project will be set 
 
 There is no solution code for this project. The Student can be as creative as they would like.
 
-However feel free to show off examples of personal sites like [this](http://annaellenberger.com/)and [this](http://thomasjfrank.com/v2/) for inspiration. (These links are also found in the Do Now)
+However, feel free to show off examples of personal sites like [this](http://annaellenberger.com/)and [this](http://thomasjfrank.com/v2/) for inspiration. (These links are also found in the Do Now)
 
 ### Assessment
 
