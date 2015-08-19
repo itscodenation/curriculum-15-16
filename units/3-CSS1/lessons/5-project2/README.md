@@ -4,7 +4,7 @@
 
 ##Scope
 
-This project involves creating an about me page with html and basic stylings. This project asks the student to create a webpage. The focus here is not to have functioning links or even a functioning page. The focus here is to have a page that resembles something you see on a website. Students will be able to complete this using the skills the have already learned in class.
+Ignore what this says Joliz is still writing it. 
  
 ##Before Class
 
