@@ -1,75 +1,91 @@
-# Facebook wall
+##Animations and Styles  
+![image](http://i.imgur.com/qFWmEba.png)
 
-![image](http://i.imgur.com/K1Cw63B.jpg)
+## Before class
+---
+###Teacher Preperation
+* The teacher should become familiar with dash.ga.co project 4. Walking through this project should take an experienced user 20-30 minutes. 
+* Pay close attention to the JS like buttons in this project. They will not function outside of the General Assembly site.
+* Review what was covered last lesson to understand the level of skill students have with HTML, CSS, and JavaScript. 
 
-##Scope
+### Daily Objective
 
-This project involves creating a simple Facebook-like wall. The objective of this project is for students to practice their jQuery skills. Unlike previous projects, this is the first time students are presented with minimal scaffolding.
- 
-##Before Class
+* Students will be able to create a webpage that includes a creating simple shapes in HTML and CSS, cover border properties, as well as manipulate gradients and background size.
 
-### Prerequisites
-Students should only start this project after they have completed the other lessons in the unit.
 
-### Starter code
+### Key points
 
-See [here](starter_code/) for code and [here](https://rawgit.com/ScriptEdcurriculum/curriculum/master/units/10-jquery/lessons/2-project/starter_code/index.html) to view.
+* The border radius creates circles, ovals, bullet or egg shapes
+* You need to define attributes to make a <div> or border visible.
+* Radial gradients radiate outward in all directions, from a central point
 
-### Solution code
-
-See [here](https://github.com/ScriptEdcurriculum/solutions/tree/master/units/10-jquery/lessons/2-project/solution_code) for code (private).
 
 ### Assessment
 
-1. Write do-now based off of [assessments from previous lesson](../../../10-jquery/lessons/1-jquery/assessments/).
+1. Worksheet to accompany dash.ga.co tutorial (see references)
+2. Site made in Cloud9 IDE after completing walkthrough. (to be completed in the following lesson)
 
-##During Class
 
-###Do Now
 
-1. Attendance: Teacher takes student attendance at www.kinvolved.com
-2. Return graded do-now and exit ticket from previous class
-3. Do-now quiz
+### Vocabulary
 
-###Opening
+* Radial Gradient
+* Variable
+* Function
+* Strings
+* Animation
+* Toggle
+* Keyframes
 
-What is the Facebook wall? How does it work? 
+###References
+* <https://jsbin.com/>
+* <http://w3schools.com>
+* <http://dash.ga.co>
+* [Project 4 walkthrough Worksheet - For Students](https://docs.google.com/a/scripted.org/document/d/1LqsUrYEFPIfy9u0eaQDDD5MKPC6k9aUL5HhpWeTh0LU/edit?usp=sharing) **Teacher must print a copy for each student**
 
-Let's login to my Facebook and do a live demonstration.
+## During class
 
-###Lecture
+### Do-now
 
-You are going to build a simple Facebook Wall. Your instructions:
+1. Volunteer takes attendance. [Procedure found here](https://docs.google.com/document/d/19IIhqykr70vj7wnqyJYuQNTkd9GX56Xgl3omD42IcMk/edit).
+2. Give each student a General Assembly walkthrough worksheet (see references).
+3. Have students log onto dash.ga.co and login to their account.
 
-#### 1. Fill out `wall.js`
 
-You must fill out `js/wall.js`. Unlike previous projects, there is very little starter code given. This is on purpose. 
+## Opening
 
-For the poster picture, use http://i.imgur.com/87kIXSN.jpg. 
+"Today we are going to explore some new concepts using the Dash site we used earlier in the year. Please login to your account and start on Project 4 - The CSS Robot".
 
-#### 2. Test
+## Introduction of new material (“I Do”)
+On the screen, open up the General Assembly site and provide a quick reminder on how to navigate it
 
-To test if your Wall works as expected, post the following messages in order: "First message", "Second message", "Third message". Afterwards, your Wall should look like:
 
-![image](http://i.imgur.com/2yz4k1Z.png)
 
-###Brainstorming
-Before you start coding, identify the list of steps you need to do to finish this project. Here's a start:
+## Guided Practice (“We Do”)
 
-1. Read `index.html`. Pay attention to the IDs of the text box, button, and `div` at the bottom.
-2. How will you detect the click on the "Post" button?
-3. What should happen once the "Post" button is clicked? Will you need to generate HTML? 
+Walk through the first 4-5 slides with he students on the board to show how the tutorial tells you what to type BUT also becomes less helpful as the tutorial progresses. Be sure to also point out the importance of answering the questions on the worksheet as you complete the tutorial.
 
-###Build Time
-Students will work alone on this project. The teacher's role will be to walk around the room helping students with any questions they have. Students are encouraged to look at previous lessons for reference.
+## Independent practice ("You do")
 
-##Closing
-Select students to present their work to the class.
+•	Students should use the rest of class to complete sections 1, 2, 3 & 4 of project 4. **Note** It could be useful for a student who is falling behind to complete this previous projects.
 
-###Check for Understanding
-Teachers should keep track of student success while they are presenting to the class.
+During this time teachers will circulate to help students with technical issues. If a majority of the class is struggling with the same issue you may consider demonstrating the solution on the board.  
 
-###How to Submit
-The teacher must ask students to share the link to their project on your school's [Project Submission Form.](https://docs.google.com/a/scripted.org/spreadsheets/d/1kaVH9hmkDCbBul19583UMPxl6IJ3-4pHgBQ2BU6TKDk/edit#gid=0)
+**Note:** This is a long period of time for a teenager to be completing a single task. Some may need an occasional break from time-to-time. Feel free to have a quick off-topic conversation with a student if you see them struggling to focus.
 
-Also remind students to add a link to their project on their About Me page.
+## Closing
+After completing sections 1, 2, 3 & 4 encourage students to transfer the code onto their Cloud9 accounts
+
+## Check for understanding
+Leave about 5 minutes at the end of class for there to be a discussion about what was learned today by completing a tutorial on General Assembly.
+
+##Homework
+Students who are not complete with the tutorial and/or the worksheet by the end of class should complete it at home for homework.
+ 
+## After Class
+
+* Teachers must provide a grade for the tutorial worksheet. It is crutial to provide this feedback so that students will see the value of their work.
+
+* Prepare for next lesson / hand off to next volunteer in rotation.
+
+
