@@ -10,7 +10,7 @@ While completing the units below, the students are working towards becoming extr
 
 For unit 2, students must set up an account with GitHub and Cloud9 account. [This guide](resources/c9) serves as a tutorial for creating an account with each. 
 
-| Unit  | Lessons | Topics/Skills | Project 1	| Project 2	| 
+| Unit  | Sessions | Topics/Skills | Project 1	| Project 2	| 
 |-------|:-------:|------	|--------------|--------------|
 | [**0. ScriptEd**](units/0-Infosession/)| 1 | Routines and Expectations | N/A| N/A|
 | [**1. Intro to CS**](units/1-introduction/)| 1 | Computational thinking | [Sign Up for GitHub & JS Bin](resources/c9/README.md)| N/A|
@@ -35,21 +35,21 @@ For unit 2, students must set up an account with GitHub and Cloud9 account. [Thi
  
 ---
 
-Year 2
+Advanced Class
 =========================
-Second year students will be completing their final projects using Cloud9 IDE. They will also need to sign in using their GitHub account. [This guide](resources/c9) serves as a tutorial for creating an account with each. 
+Second year students will be completing their final projects using Cloud9 IDE. They will also need to sign in using their GitHub account. [This guide](units/c9_setup) serves as a tutorial for creating an account with each. 
 
-| Unit  | Project Number | Skills | Project | API | 
+| Unit  | Sessions | Skills | Project | API | 
 |-------|:-------:|------|--------------|---------|
-| [1. Scavenger Hunt](unitsYear2/1-JShunt)| 1 | Variables, Functions, Strings, Conditionals, Loops, jQuery | Scavenger hunt of many short programs (<10 lines each) | N/A |
+| [1. Scavenger Hunt](unitsYear2/1-JShunt)| 1-2 | Variables, Functions, Strings, Conditionals, Loops, jQuery | Scavenger hunt of many short programs (<10 lines each) | N/A |
 | [2. Rock, Paper, Scissors](https://github.com/ScriptEdcurriculum/rockPaperScissors_Adv)| 2 | math.random, JQuery, conditionals | A fully fonctional game (user vs. bot) | N/A
-| [3. Website ReBranding](unitsYear2/3-reDesign)| 3 | Wireframing, Bootstrap, Paired programming | Redesign a company homepage | N/A
-| [4. SoundCloud API Project](unitsYear2/4-soundcloudAPI)| 4 | API, HTTP Method | A site that displays relevant song information based by genre | [SoundCloud](https://developers.soundcloud.com/docs/api/guide)
-| [5. Instagram API Project](https://github.com/ScriptEdcurriculum/instagramAPI_Adv) | 5 | API, HTTP Method | A site that searches instagram for images tagged with key words entered by the user | [Instagram](https://instagram.com/developer/) | 
-| [6. Giphy API](unitsYear2/6-giphyAPI) | 6 | API, HTTP Method | A site that searches Giphy for images tagged with key words entered by the user | [Giphy](https://github.com/Giphy/GiphyAPI)
-| [7.jQuery Battle ](unitsYear2/7-jqueryBattle) | 7 | jQuery, Collision, Key Binding | Game that uses keybindings to move character | N/A
-| [8. Yo Mama!](https://github.com/ScriptEdcurriculum/yoMama_Adv)| 8 | APIs, Get, Post, JSON, Client/Server Interaction | Insult Generating voice game | Custom API made on [mockable.io](mockable.io)| 
-| [9. SoundMood](https://github.com/ScriptEdcurriculum/SoundMood_Adv)| 9 | APIs, Get, Post, JSON, Client/Server Interaction | Music streaming app that plays songs based on user emotion | [SoundCloud](https://developers.soundcloud.com/docs/api/guide)| 
-| [10.Portfolio](unitsYear2/10-portfolio) | 10 | GitHub Pages | Personal Portfolio page |N/A|
-| [11.Entrepreneurialism](unitsYear2/11-Entrepreneurialism)| 11  | Project management, Paired Programming, Self Motivation| A fully functional WebApp | N/A | 
+| [3. Website ReBranding](unitsYear2/3-reDesign)| 2 | Wireframing, Bootstrap, Paired programming | Redesign a company homepage | N/A
+| [4. SoundCloud API Project](unitsYear2/4-soundcloudAPI)| 1-2 | API, HTTP Method | A site that displays relevant song information based by genre | [SoundCloud](https://developers.soundcloud.com/docs/api/guide)
+| [5. Instagram API Project](https://github.com/ScriptEdcurriculum/instagramAPI_Adv) | 2-3 | API, HTTP Method | A site that searches instagram for images tagged with key words entered by the user | [Instagram](https://instagram.com/developer/) | 
+| [6. Giphy API](unitsYear2/6-giphyAPI) | 2-3 | API, HTTP Method | A site that searches Giphy for images tagged with key words entered by the user | [Giphy](https://github.com/Giphy/GiphyAPI)
+| [7.jQuery Battle ](unitsYear2/7-jqueryBattle) | 1 | jQuery, Collision, Key Binding | Game that uses keybindings to move character | N/A
+| [8. Yo Mama!](https://github.com/ScriptEdcurriculum/yoMama_Adv)| 3 | APIs, Get, Post, JSON, Client/Server Interaction | Insult Generating voice game | Custom API made on [mockable.io](mockable.io)| 
+| [9. SoundMood](https://github.com/ScriptEdcurriculum/SoundMood_Adv)| 2-3 | APIs, Get, Post, JSON, Client/Server Interaction | Music streaming app that plays songs based on user emotion | [SoundCloud](https://developers.soundcloud.com/docs/api/guide)| 
+| [10.Portfolio](unitsYear2/10-portfolio) | 1-2 | GitHub Pages | Personal Portfolio page |N/A|
+| [11.Entrepreneurialism](unitsYear2/11-Entrepreneurialism)| N/A  | Project management, Paired Programming, Self Motivation| A fully functional WebApp | N/A | 
 
