@@ -53,7 +53,7 @@
 
 ## Introduction of new material (“I Do”)
 
-**Ask students to close computer screens** “We are going to take our firstpage.html project from the first class and add two pictures to it.. later in class we will add some CSS styles too” On the board copy information from a firstpage.html text file and paste into JSBin to show students how it displays the output.
+**Ask students to close computer screens** “We are going to take our firstpage.html project from the last class and add two pictures to it.. later in class we will add some CSS styles too” On the board copy information from a firstpage.html text file and paste into JSBin to show students how it displays the output.
 
 Demonstrate, in front of the class, how to add a picture to an absolute image (an image linked online) to a webpage using  the img src= tag. 
 
