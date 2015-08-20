@@ -1,5 +1,5 @@
 ##The employee will be evaluated based on the following criteria
-#### All skills measured are based on [The ScriptEd Advanced Rubric]()
+#### All skills measured are based on [The ScriptEd Advanced Rubric](https://docs.google.com/spreadsheets/d/1734O8FGmEj5K-OOxvWkcFEQ6AQNlyOoAL97RJfLpCnk/edit?usp=sharing)
 
 | Skill | Requirement met | Requirement not met | 
 |-------|:-------:|------ |
