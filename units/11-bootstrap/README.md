@@ -3,11 +3,11 @@
 ##Synopsis
 This unit focuses on the styling of websites using the BootStrap framework. The student will pull from the Bootstrap framework to design websites that are medorn and responsive. 
  
-##Lessons
+##Sessions
 
-1. [What is Bootstrap?](lessons/1-whatIsBootstrap)
-2. [Responsive Webpages](lessons/2-responsive)
-3. [Character Site](lessons/project-character)
+1. [What is Bootstrap?](sessions/1-whatIsBootstrap)
+2. [Responsive Webpages](sessions/2-responsive)  
+   [Project: Character Site](sessions/project-character)
 
 ##Standards
 
