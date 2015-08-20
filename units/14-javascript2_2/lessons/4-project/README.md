@@ -69,7 +69,7 @@ Select students to present their work to the class.
 Teachers should keep track of student success while they are presenting to the class.
 
 ###How to Submit
-Students must push all final code to their GitHub repository. To push changes in Cloud 9 the following commands must be run in the terminal:
+Students must push all final code to their GitHub repository. To push changes in Cloud 9 the following commands must be ran in the terminal:
 
 `git status`  
 `git add .`  
