@@ -3,12 +3,12 @@
 ##Synopsis
 This unit starts with an introduction to variables. Students will learn how to create, instantiate, and edit variables. Next they will learn how to call and create functions. They will also be exposed to functions helpful for debugging. They will learn how to generate a random number. 
 
-##Lessons
+##Sessions
 
-1. [Variables](lessons/1-variable)
-2. [Functions](lessons/2-function)
-3. [Project - Tiny Turtle](lessons/3-project - tiny turtle)
-4. [Project - Calculator](lessons/4-project - calculator)
+1. [Variables](sessions/1-variable)
+2. [Functions](sessions/2-function)
+3. [Project: Tiny Turtle](sessions/3-project-tinyturtle)
+4. [Project: Calculator](sessions/4-project-calculator)
 
 ##Standards
 
