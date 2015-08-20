@@ -3,12 +3,12 @@
 ##Synopsis
 This unit makes an introduction to jQuery. Students will learn about selectors and then be able to create, read, update, and delete HTML elements. They will also learn about click handlers.
 
-##Lessons
+##Sessions
 
-1. [Selectors](lessons/1-selectors)
-2. [Events](lessons/2-events)
-2. [Project 1](lessons/3-project1)
-3. [Project 2](https://github.com/ScriptEdcurriculum/facebook_wall)
+1. [Selectors](sessions/1-selectors)
+2. [Events](sessions/2-events)  
+   [Project: The jQuery Site](sessions/3-project-jQuerySite)  
+   [Project: The Facebook Wall](https://github.com/ScriptEdcurriculum/facebook_wall)
 
 ##Standards
 
