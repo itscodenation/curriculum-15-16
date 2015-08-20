@@ -2,10 +2,10 @@
 
 ##Synopsis
 This unit touches upon the basic CRUD (create, read, update, delete) commands in the terminal. 
-##Lessons
+##Sessions
 
-1. [Command line](lessons/1-commandline)
-2. [Terminus](lessons/2-terminus)
+1. [Command line](sessions/1-commandline)
+2. [Terminus](sessions/2-terminus)
 
 ##Standards
 
