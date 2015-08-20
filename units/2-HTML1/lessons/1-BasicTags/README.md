@@ -61,27 +61,8 @@
 
 ## Independent practice ("You do")
 
-“Now I want everyone to take the next 3 minutes to change as many things on this webpage as possible.”
-Teacher should now circulate and assist any student who does not understand how to manipulate HTML text. After the 3 minutes are complete encourage students to share what they changed on the site.
-
-## Introduction of new material #2 (“I Do”)
-
-Before starting this section ask students to close their laptops and take notes. The teacher will give a 3-4 minute lecture on tags, tag stucture and FILO (First In Last Out). The teacher may use the Google Presentation provide in the references.
-
-
-## Guided Practice #2(“We Do”)
-
-“Okay everyone open your computers and follow along with me.” Once again on the board open another website. This time a very plain page with little to no CSS (recommendation: use the first site made at Cern.. see references.) All together, find a specific piece of text and manipulate it. 
-
-## Independent practice #2("You do")
-
-Ask students to create the webpage firstpage.html (Seen below) using a text editor. **Student may need to be shown how to open this file in the browser.**
-
-![Image](http://i.imgur.com/B3lovbP.png)
-
-
-**Extension:** ask students to experiment with h1- h6 and several paragraphs.
-
+“Now I want everyone to take the next 5 minutes to change as many things on this webpage as possible.”
+Teacher should now circulate and assist any student who does not understand how to manipulate HTML text. After the 5 minutes are complete encourage students to share what they changed on the site.
 
 ## Closing/ Homework
 Wrap up the day with a quick recap on everything that was covered. Ask the students to share their webpages with you for review. Explain they can email the text file to you. 
