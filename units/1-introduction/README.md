@@ -5,7 +5,7 @@ The main goal of this unit is to have the students think like a computer program
 
 ##Lessons
 
-1. [Human vs. Computing Thought Processes](lessons/1-computingProcesses)
+1. [Human vs. Computing Thought Processes](sessions/1-computingProcesses)
 
 
 ##Standards
