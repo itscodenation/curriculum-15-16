@@ -6,6 +6,7 @@ This unit makes an introduction to jQuery. Students will learn about selectors a
 ##Lessons
 
 1. [CSS Robot Project](lessons/2-project)
+2. [CSS Zen Garden](lessons/3-project)
 
 ##Standards
 
