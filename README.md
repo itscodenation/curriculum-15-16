@@ -15,7 +15,7 @@ For unit 2, students must set up an account with GitHub and Cloud9 account. [Thi
 | [**0. ScriptEd**](units/0-Infosession/)| 1 | Routines and Expectations | N/A| N/A|
 | [**1. Intro to CS**](units/1-introduction/)| 1 | Computational thinking | N/A| N/A|
 | [**2. HTML (Introduction**](units/2-HTML1/)| 5 | HTML page structure, Basic tags |[NYT Remix](units/2-HTML1/sessions/3-project-nytRemix)   | N/A
-| [**3. CSS (Introduction)**](units/3-CSS1/)| 5 | Wireframing, Basic Styling  | [ScriptEd Zen Garden](units/css1/sessions/4-project-garden) |  [About Who?](units/css1/sessions/5-project-who)| 
+| [**3. CSS (Introduction)**](units/3-CSS1/)| 5 | Wireframing, Basic Styling  | [ScriptEd Zen Garden](units/3-css1/sessions/4-project-garden) |  [About Who?](units/3-css1/sessions/5-project-who)| 
 | [**4. HTML,CSS & jQuery**](units/4-GA-/)  produced by General Assembly| 1 | link tag, script tag, header, media query, jQuery events | [GA Dash Project #2](units/4-GA-/) | N/A| 
 | [**Optional Unit. Scratch**](units/opt-scratch/) | 4 | Algorithms, variables, conditionals  | [Ol Mc'Donald MadLibs](units/opt-scratch/lessons/4-project) with conditional statement | N/A|
 | [**5. JavaScript 1.1**](units/5-javascript1_1/) | 4 | Variables, functions | [Tiny Turtle](units/5-javascript1_1/sessions/3-project-tinyturtle)  | [Calculator](units/5-javascript1_1/sessions/4-project-calculator)|
@@ -27,8 +27,8 @@ For unit 2, students must set up an account with GitHub and Cloud9 account. [Thi
 | [**10. HTML/CSS (Advanced)**](units/10-HTML_CSS2) |  | Div, id, class, float, transitions & animations | [GA Dash Project #4](https://github.com/ScriptEdcurriculum/curriculum2015/tree/master/units/10-HTML_CSS2/lessons/2-project) | [CSS Zen Garden]() |
 | [**11. Bootstrap**](units/11-bootstrap)| 3 | CDN, wireframing, grid system | [Fictional Character Website](units/11-bootstrap/sessions/project-character) | N/A |
 | [**12. jQuery**](units/12-jQuery)| 4 | Selectors, Attributes, Handlers | [The jQuery Site](units/12-jQuery/sessions/3-project-jQuerySite) | [Facebook Wall](https://github.com/Bijesse/facebook_wall)|
-| [**13. JavaScript 2.1**](units/13-javascript2_1)| 5 | Arrays, Loops | [99 Bottles](units/13-javascript2_1/sessions/3-project-99bottles) | [Color Changer](units/13-javascript2_1/sessions/5-project-colorChangers)|
-| [**14. JavaScript 2.2**](units/14-javascript2_2)| 4 | Objects (hashes) | [Around the World](units/14-javascript2_2/sessions/3-project/3-project-aroundTheWorld) | [Address Book](units/14-javascript2_2/sessions/4-project-addressBook)|
+| [**13. JavaScript 2.1**](units/13-javascript2_1)| 5 | Arrays, Loops | [99 Bottles](units/13-javascript2_1/sessions/3-project-99bottles) | [Color Changer](units/13-javascript2_1/sessions/5-project-colorChanger)|
+| [**14. JavaScript 2.2**](units/14-javascript2_2)| 4 | Objects (hashes) | [Around the World](units/14-javascript2_2/sessions/3-project-aroundTheWorld) | [Address Book](units/14-javascript2_2/sessions/4-project-addressbook)|
 
 
   
