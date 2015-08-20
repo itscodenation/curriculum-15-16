@@ -13,7 +13,7 @@ Students should only start this project after they have completed the other less
 
 ### Assessment
 
-1. Students will have completed a profile of another student or volunteer in JSBin.
+1. Students will have completed and submitted their project CSS Zan Garden 
 
 ##During Class
 
