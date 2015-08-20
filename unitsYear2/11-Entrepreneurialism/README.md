@@ -38,5 +38,14 @@ Who is going to work on the different aspects of this WebApp?
 ##How to Submit
 Push to your GitHub and promote to friends and family! Also be sure to add this to your portfolio page.
 
+The final code for this project must be pushed back up to your repo on GitHub. **Then share the link to their repo at bit.ly/ScriptEdProjects**
+
+To push to GitHub run the following commands in your terminal:  
+`git status`  
+`git add .`  
+`git commit -m "example comment"`  
+`git push origin master`
+
+
 ##Homework
 You are your own boss! Feel free to work on this outside of ScriptEd as often as you would like.

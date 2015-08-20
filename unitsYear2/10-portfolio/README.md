@@ -22,7 +22,15 @@ Create a personal portfolio site that includes all projects you have ever made..
 * Try adding some CSS animations to your project.
 
 ##How to Submit
-Link this portfolio to you Linkedin and GitHub. Also email a link to the instructors
+The final code for this project must be pushed back up to your repo on GitHub. **Then share the link to their repo at bit.ly/ScriptEdProjects**
+
+To push to GitHub run the following commands in your terminal:  
+`git status`  
+`git add .`  
+`git commit -m "example comment"`  
+`git push origin master` 
+
+Also link this Portfolio to your LinkedIn profile.
 
 ##Homework
 Instructor will assign homework based on progress in class.

@@ -71,7 +71,7 @@ Your Manager has offered a stipend of $500 for each of the bonus requirements li
 Your manager will be grading your capibility on this project based on [this rubric](/assessment.md)
 
 ##How to Submit
-This project must be pushed back up to your repo on GitHub. Then you will share your link with the instructor
+The final code for this project must be pushed back up to your repo on GitHub. **Then share the link to their repo at bit.ly/ScriptEdProjects**
 
 To push to GitHub run the following commands in your terminal:  
 `git status`  
