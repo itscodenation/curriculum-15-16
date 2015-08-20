@@ -3,12 +3,13 @@
 ##Synopsis
 This unit introduces the student to the fundamentals of web design using HTML. It asssumes no background knowledge in HTML at all. By the end of the unit every student is expected to have webpage consisting of text and lists. 
 
-##Lessons
+##Sessions
 
-1. [Your First Webpage: Basic Tags](lessons/1-BasicTags)
-2. [Your First Webpage: Continued](lessons/2-BasicTags2)
-3. [Lists](lessons/3-listTable)
-4. [Images and Basic Styles](lessons/4-ImageStyles)
+1. [Your First Webpage: Basic Tags](sessions/1-BasicTags)
+2. [Your First Webpage: Continued](sessions/2-BasicTags2)  
+   [Project: NYT Remix](sessions/3-project-nytRemix)
+3. [Lists](sessions/4-listTable)
+4. [Images and Basic Styles](sessions/5-ImageStyles)
 
 
   
