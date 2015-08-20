@@ -3,7 +3,7 @@
 ##Synopsis
 This unit introduces the concept of version control. Students will learn how to `clone`, `push`, and `pull` using Git. Work for this unit will completed in the terminal and not with any software created for this process.
 
-##Lessons
+##Sessions
 
 3. [Mr. Potato Head](https://github.com/ScriptEdcurriculum/Mr_Potato_Head)
 
