@@ -24,8 +24,11 @@ By the end of this project the employee will be able to...
 ##Instructions
 You may complete the clues in the [Clues Worksheet](clues/README.md) in any order you would like but recognize that some clues build on a previous clue.  
 
-Clues can be completed in either jsBin or Cloud9. Clues must then be saved to your GitHub. A clue can only be graded if is is in your GitHub account.
+Clues can be completed in either jsBin or Cloud9. Clues completed in JS Bin must then be saved to your GitHub as a gist.
 
+
+To upload a JS Bin file to you GitHub follow these directions:  
+`file > export as gist > open in new tab > fork`
 
 ##Vocabulary
 * String
