@@ -1,0 +1,66 @@
+# CSS ScriptEd Garden
+
+![image](http://i.imgur.com/5g0Chms.png)
+
+##Scope
+
+Ignore what this says Joliz is still writing it. 
+ 
+##Before Class
+
+### Prerequisites
+Students should only start this project after they have completed the other lessons in the unit.
+
+### Assessment
+
+1. Students will have completed a profile of another student or volunteer in JSBin.
+
+##During Class
+
+###Do Now
+
+1. Volunteer takes attendance. [Procedure found here](https://docs.google.com/document/d/19IIhqykr70vj7wnqyJYuQNTkd9GX56Xgl3omD42IcMk/edit).
+
+Ask students to choose someone in the room, either a classmate or volunteer, and interview them using the following questions: 
+
+* What is your name? 
+* What grade are you in? / Where do you work? 
+* What do you like to do for fun? 
+* What is your favorite movie? 
+* Who is your favorite musician/band? 
+* What do you want to be when you grow up? / What do you do for work? 
+
+###Opening
+
+You have learned how to manipulate websites and some basic tags. Now let's see you put that information to use. Using the information you gathered from your peer/volunteer, you will be making a simple website about them using the questions they answered. We are looking for the following: 
+* Headings
+* Photos
+* Lists 
+
+
+###I Do
+To complete this project students are going to be using JSBin. Explain to students that they can login using their GitHub information. If they have forgotten their GitHub password walk them through the password recovery process.  ***They must be logged in to JSBin for their project to save.***
+
+Open up JSBin in the front of the class and focus on only the HTML and CSS tabs. Explain they will be inputing their code into these two fields. They are allowed to go back into their dash project if they need any references or support.
+
+###Build Time
+Students will work alone on this project. The teacher's role will be to walk around the room helping students with any questions they have. Students are encouraged to look at previous lessons for reference.
+
+###Extension Activities
+Students who complete the project at hand early may attempt to improve their project by including the following:  
+
+* Manipulating the layout
+
+##Closing
+Select students to present their work to the class.
+
+###Check for Understanding
+Teachers should keep track of student success while they are presenting to the class.
+
+###How to Submit
+The students must export this project as a Gist.
+File > Export as Gist
+
+The teacher must ask students to share the link to their project at [bit.ly/ScriptEdProjects](bit.ly/ScriptEdProjects)
+
+
