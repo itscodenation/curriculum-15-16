@@ -1,12 +1,11 @@
-#Unit 10 - jQuery
+#Unit 10 - HTML/CSS Advanced
 
 ##Synopsis
 This unit makes an introduction to jQuery. Students will learn about selectors and then be able to create, read, update, and delete HTML elements. They will also learn about click handlers.
 
 ##Lessons
 
-1. [jQuery](lessons/1-jquery)
-2. [CSS Robot Project](lessons/2-project)
+1. [CSS Robot Project](lessons/2-project)
 
 ##Standards
 
