@@ -4,12 +4,13 @@
 This unit focuses on the styling of websites using CSS. Through several learning conventions the students will become comfortable with designing a website that includes multiple pages all styled with an external style sheet.    
 
 
-##Lessons
+##Sessions
 
-1. [Layout](lessons/1-layout)
-2. [Wireframing](lessons/3-wireframing)
-3. [Project 1](lessons/4-project)
-4. [Project 2](lessons/5-project2)
+1. [Layout](sessions/1-firstpage)
+2. [Layout](sessions/2-firstpage)
+3. [Wireframing](sessions/3-wireframing)
+4. [Project: CSS Garden](sessions/4-project-garden)
+5. [Project: About Who?](sessions/5-project-who)
 
 
 ##Standards
