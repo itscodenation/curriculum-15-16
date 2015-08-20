@@ -61,5 +61,12 @@ Select students to present their work to the class.
 Teachers should keep track of student success while they are presenting to the class based on [this rubric](https://docs.google.com/spreadsheets/d/1rSyrqf3E3knsAu-G7bdrI9JrSC5eOpuADYrTD8H4Kfg/edit?usp=sharing).
 
 ###How to Submit
-Students must push all final code to their GitHub repository. Students will then share the link to their repo at bit.ly/ScriptEdProjects
+Students must push all final code to their GitHub repository. To push changes in Cloud 9 the following commands must be run in the terminal:
+
+`git status`  
+`git add .`  
+`git commit -m "example comment"`  
+`git push origin master`  
+ 
+**Students will then share the link to their repo at bit.ly/ScriptEdProjects**
 
