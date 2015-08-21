@@ -7,7 +7,7 @@
 
 ###Teacher Preparation 
 * Familiarize yourself with [CSS Zen Garden](http://www.csszengarden.com/)
-* Decide on how to best distribute starter code to students.
+* Decide on how to best distribute [starter code](starter-code) to students.
 
 
 ### Prerequisites
