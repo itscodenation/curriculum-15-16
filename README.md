@@ -10,8 +10,8 @@ While completing the units below, the students are working towards becoming extr
 
 For unit 2, students must set up an account with GitHub and Cloud9 account. [This guide](resources/c9) serves as a tutorial for creating an account with each. 
 
-| Unit  | Sessions | Topics/Skills | Project 1	| Project 2	| 
-|-------|:-------:|------	|--------------|--------------|
+| Unit  | Sessions | Topics/Skills | Project 1 | Project 2 |
+|-------|:-------:|------|--------------|--------------|
 | [**0. ScriptEd**](units/0-Infosession/)| 1 | Routines and Expectations | N/A| N/A|
 | [**1. Intro to CS**](units/1-introduction/)| 1 | Computational thinking | N/A| N/A|
 | [**2. HTML (Introduction**](units/2-HTML1/)| 5 | HTML page structure, Basic tags |[NYT Remix](units/2-HTML1/sessions/3-project-nytRemix)   | N/A
@@ -42,15 +42,15 @@ Second year students will be completing their final projects using Cloud9 IDE. T
 | Unit  | Sessions | Skills | Project | API | 
 |-------|:-------:|------|--------------|---------|
 | [1. Scavenger Hunt](unitsYear2/1-JShunt)| 1-2 | Variables, Functions, Strings, Conditionals, Loops, jQuery | Scavenger hunt of many short programs (<10 lines each) | N/A |
-| [2. Rock, Paper, Scissors](https://github.com/ScriptEdcurriculum/rockPaperScissors_Adv)| 2 | math.random, JQuery, conditionals | A fully fonctional game (user vs. bot) | N/A
-| [3. Website ReBranding](unitsYear2/3-reDesign)| 2 | Wireframing, Bootstrap, Paired programming | Redesign a company homepage | N/A
-| [4. SoundCloud API Project](unitsYear2/4-soundcloudAPI)| 1-2 | API, HTTP Method | A site that displays relevant song information based by genre | [SoundCloud](https://developers.soundcloud.com/docs/api/guide)
-| [5. Instagram API Project](https://github.com/ScriptEdcurriculum/instagramAPI_Adv) | 2-3 | API, HTTP Method | A site that searches instagram for images tagged with key words entered by the user | [Instagram](https://instagram.com/developer/) | 
-| [6. Giphy API](unitsYear2/6-giphyAPI) | 2-3 | API, HTTP Method | A site that searches Giphy for images tagged with key words entered by the user | [Giphy](https://github.com/Giphy/GiphyAPI)
-| [7.jQuery Battle ](unitsYear2/7-jqueryBattle) | 1 | jQuery, Collision, Key Binding | Game that uses keybindings to move character | N/A
-| [8. Yo Mama!](https://github.com/ScriptEdcurriculum/yoMama_Adv)| 3 | APIs, Get, Post, JSON, Client/Server Interaction | Insult Generating voice game | Custom API made on [mockable.io](mockable.io)| 
-| [9. SoundMood](https://github.com/ScriptEdcurriculum/SoundMood_Adv)| 2-3 | APIs, Get, Post, JSON, Client/Server Interaction | Music streaming app that plays songs based on user emotion | [SoundCloud](https://developers.soundcloud.com/docs/api/guide)| 
+| [2. Rock, Paper, Scissors](https://github.com/ScriptEdcurriculum/rockPaperScissors_Adv)| 2 | Math.random, jQuery, conditionals | A fully fonctional game (user vs. bot) | N/A
+| [3. Website ReBranding](unitsYear2/3-reDesign)| 2 | Wireframing, Bootstrap, Pair programming | Redesign a company homepage | N/A
+| [4. SoundCloud API Project](unitsYear2/4-soundcloudAPI)| 1-2 | APIs | A site that displays relevant song information based by genre | [SoundCloud](https://developers.soundcloud.com/docs/api/guide)
+| [5. Instagram API Project](https://github.com/ScriptEdcurriculum/instagramAPI_Adv) | 2-3 | APIs | A site that searches instagram for images tagged with key words entered by the user | [Instagram](https://instagram.com/developer/) | 
+| [6. Giphy API](unitsYear2/6-giphyAPI) | 2-3 | APIs | A site that searches Giphy for images tagged with key words entered by the user | [Giphy](https://github.com/Giphy/GiphyAPI)
+| [7.jQuery Battle ](unitsYear2/7-jqueryBattle) | 1 | jQuery, Collision Detection, Key Binding | Game that uses keybindings to move character | N/A
+| [8. Yo Mama!](https://github.com/ScriptEdcurriculum/yoMama_Adv)| 3 | APIs, JSON, Client/Server Interaction | Insult Generating voice game | Custom API made on [mockable.io](mockable.io)| 
+| [9. SoundMood](https://github.com/ScriptEdcurriculum/SoundMood_Adv)| 2-3 | APIs, JSON, Client/Server Interaction | Music streaming app that plays songs based on user emotion | [SoundCloud](https://developers.soundcloud.com/docs/api/guide)| 
 | [10.Portfolio](unitsYear2/10-portfolio) | 1-2 | GitHub Pages | Personal Portfolio page |N/A|
-| [11.Entrepreneurialism](unitsYear2/11-Entrepreneurialism)| N/A  | Project management, Paired Programming, Self Motivation| A fully functional WebApp | N/A | 
+| [11.Entrepreneurialism](unitsYear2/11-Entrepreneurialism)| N/A  | Project management, Pair Programming, Self-Motivation| A fully functional WebApp | N/A | 
 
 
