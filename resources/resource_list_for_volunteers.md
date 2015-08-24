@@ -3,11 +3,10 @@
 -----------
 
 ###General Teaching Strategies
--[Khan Academy Design Guidelines](http://cs-blog.khanacademy.org/2013/08/our-design-guidelines-for-teaching.html)
 
--[Interactive Teaching Tips](https://github.com/ScriptEdcurriculum/curriculum/blob/master/resources/interactive_techniques_for_teaching.md)
-
--[Teach like a Champion: 49 Techniques that Put Students on the Path to College: Notes by Manish Sinha](https://drive.google.com/file/d/0B2fF2axUr9M_cWk1My1OaHp4Vy04dTFtcDQ3WXFZbEJnemNN/edit?usp=sharing)
+- [Khan Academy Design Guidelines](http://cs-blog.khanacademy.org/2013/08/our-design-guidelines-for-teaching.html)
+- [Interactive Teaching Tips](https://github.com/ScriptEdcurriculum/curriculum/blob/master/resources/interactive_techniques_for_teaching.md)
+- [Teach like a Champion: 49 Techniques that Put Students on the Path to College: Notes by Manish Sinha](https://drive.google.com/file/d/0B2fF2axUr9M_cWk1My1OaHp4Vy04dTFtcDQ3WXFZbEJnemNN/edit?usp=sharing)
 
 ###HTML and CSS
 
@@ -23,18 +22,18 @@
 - [JS Fiddle](jsfiddle.net)
 - [JSBin](http://jsbin.com/)
 - [Learning JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/) - The best free guide to writing idiomatic JavaScript. Definitely for more advanced students. However, the transition from kludger of snippets to one-with-the-js comes through the road paved with these patterns and idioms.
-- [JavaScript Patterns](http://www.amazon.com/JavaScript-Patterns-Stoyan-Stefanov/dp/0596806752/ref=sr_1_1?ie=UTF8&qid=1376836413&sr=8-1&keywords=javascript+patterns) - One of the best short guides to JavaScript that actually shows how to think in a JS mindset. Since JavaScript is so deconstructed, the patterns of its use are incredibly important. Definitely an advanced resource but one of the most effective ways to learn about / put into words the uses of closures and prototypes. 
+- [JavaScript Patterns](http://www.amazon.com/JavaScript-Patterns-Stoyan-Stefanov/dp/0596806752/ref=sr_1_1?ie=UTF8&qid=1376836413&sr=8-1&keywords=javascript+patterns) - One of the best short guides to JavaScript that actually shows how to think in a JS mindset. Since JavaScript is so deconstructed, the patterns of its use are incredibly important. Definitely an advanced resource but one of the most effective ways to learn about / put into words the uses of closures and prototypes.
 - [Understanding JavaScript Function Invocation and "this"](http://yehudakatz.com/2011/08/11/understanding-javascript-function-invocation-and-this/) - Hands down, this is the right way to learn why 'this' works the way it does in JavaScript. Really, it's one of the most important concepts in JavaScript: that all function invocation is just sugar around the function.call method. This is not something you just want to hand off to students, but it's a great way to frame the discussion if it ever comes up. It's basically required reading for teaching JS.
 - [JSLint](http://www.jslint.com/) - As always, JSLint will make you cry. However, it's an invaluable resource for checking the code you are showing students. Try to avoid doing too many things that JSLint yells at you for. This hedges against showing the students bad, ugly code.
-- [JS Beautifier](http://jsbeautifier.org/) -  A good resource for fixing badly indented, spaced code. 
+- [JS Beautifier](http://jsbeautifier.org/) -  A good resource for fixing badly indented, spaced code.
 - [MDN JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - Encyclopedic reference for all questions about standard library, language specification, etc. Much better than W3Schools. Don't use that trash.
 
 ###Git
 
 - [Git Ready](http://gitready.com/) - The best collection of git tutorials out there. If you can't learn it here, it cannot be learned. I especially recommend the "Branching and Merging", "Pushing and Pulling" and "The Staging Area" lessons.
-- [Git - The Simple Guide](http://rogerdudler.github.io/git-guide/) - Great beginner tutorial. 
+- [Git - The Simple Guide](http://rogerdudler.github.io/git-guide/) - Great beginner tutorial.
 - [Carats and Tildes, Resets and Reverts](https://gist.github.com/esmooov/2789156) - A guide we developed covering two advanced topics in git that are, actually, pretty useful to anyone. How to reset to a relative commit ("Give me the file two versions ago") and how to revert changes ("I wanna to recommit all the changes from one commit on top of my new ones"). Only putting this here because a common beginner git question is "How do I just go back to what I had yesterday".
-- [How to write better commit messages](http://robots.thoughtbot.com/post/48933156625/5-useful-tips-for-a-better-commit-message) - Good to get students in the habit of writing good commit messages even though no one will ever actually do this right. Could be impressive in a job interview though. 
+- [How to write better commit messages](http://robots.thoughtbot.com/post/48933156625/5-useful-tips-for-a-better-commit-message) - Good to get students in the habit of writing good commit messages even though no one will ever actually do this right. Could be impressive in a job interview though.
 
 
 ###Collecting Student Assignments
@@ -73,5 +72,3 @@
 ### Calendars
 
 - [NYC Department of Education School Year Schedule](http://schools.nyc.gov/NR/rdonlyres/13CCC114-2DC8-40F2-B79E-8ED316C3C1F7/0/20142015SchoolYearCalendar.pdff) - New York City Department of Education's calendar for the 2014-2015 year. Plan accordingly!
-
-
