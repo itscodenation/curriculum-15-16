@@ -14,7 +14,7 @@
 
 Students will be able to understand the expectations and commitment of being in the ScriptEd program. ScriptEd will be able to gather demographic data. The ScriptEd Program Manager will be facilitating this lesson.
 
-### Key points
+### Key Points
 
 * What is ScriptEd?
 * What are the expectations of the class?
