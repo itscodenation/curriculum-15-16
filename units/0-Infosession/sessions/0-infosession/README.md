@@ -98,7 +98,7 @@ Explain that JS Bin is a tool for experimenting with web languages. In particula
 * Click on the gray "Login or Register via GitHub" button
 * You're done!
 
-## Closing/ Homework
+## Closing/Homework
 
 Assign students to bring back the completed ScriptEd packet by next class.
 
