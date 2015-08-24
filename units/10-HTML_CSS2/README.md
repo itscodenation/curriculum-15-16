@@ -22,12 +22,12 @@ Use various types of phrases (noun, verb, adjectival, adverbial, participial, pr
 
 ####CSTA Standards
 
-###CT.L2-03
+####CT.L2-03
 Define an algorithm as a sequence of instructions that can be processed by a computer. 
 
-###CT.L2-04
+####CT.L2-04
 Evaluate ways that different algorithms may be used to solve the same problem.
 
-###CPP.L2-03 & CPP.L3A-01: Page Content
+####CPP.L2-03 & CPP.L3A-01: Page Content
 1. Student can use the nesting structure of web pages to group elements and control page flow.
 2. Student can use appropriate tags to display text, images, titles, tables and links on a webpage.
