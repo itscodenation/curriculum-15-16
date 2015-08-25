@@ -1,4 +1,4 @@
-#Session 2 - Your First Webpage (Continued)
+#Lesson 2 - Your First Webpage (Continued)
 ![image](http://i.imgur.com/eqnjBR6.png)
 
 ## Before Class
