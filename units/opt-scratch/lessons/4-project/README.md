@@ -1,4 +1,4 @@
-# Ol' McDonald MadLibs
+# Project: Ol' McDonald MadLibs
 
 ![image](http://i.imgur.com/OLUMwTX.jpg)
 
