@@ -1,7 +1,7 @@
 #Lesson 1 - Linking Pages
 ![image](http://i.imgur.com/lQblSYV.jpg)
 
-## Before class
+## Before Class
 
 ### Daily Objective
 
