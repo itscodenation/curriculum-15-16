@@ -1,7 +1,7 @@
 #Unit 4 - Programming with Scratch
 
 ##Synopsis
-In this unit, the students begin work on Scratch 2.0. Scratch is a block based programming language that allows for visual representation of a computer program without using any syntax. Through three quick activities in Scratch the students will obtain a base knowledge in creating Algorithms, Boolean Logic and Variables. 
+In this unit, students will begin work on Scratch 2.0. Scratch is a block-based programming language that allows for visual representation of a computer program without using any syntax. Through three quick activities in Scratch, students will obtain a basice knowledge of creating Algorithms, Variables, and Boolean Logic. 
 
 ##Lessons
 
