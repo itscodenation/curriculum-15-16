@@ -5,7 +5,7 @@
 
 ### Daily Objective
 
-Students will be able to create a website with multiple pages using the a tag. 
+Students will be able to create a website with multiple pages using the `<a>` tag. 
 
 ### Key Points
 
