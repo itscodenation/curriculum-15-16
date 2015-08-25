@@ -81,7 +81,7 @@ dopeboy@demo:/home/ubuntu/workspace $
 ```
 This command instructed the computer to print the directory that I am in (which is same thing as the text in green). After it finished printing it out, it made a new line in anticipation of my next command.
 
-#### List Files and Folders
+##### List Files and Folders
 
 How do we find all the files and folders in the directory we are in?
 
@@ -92,7 +92,7 @@ dopeboy@demo:/home/ubuntu/workspace $
 ```
 The `ls` command lists all the files and folders in the directory that I am in. In my case, I have three files.
 
-#### Copy a File
+##### Copy a File
 
 How do we copy a file?
 
