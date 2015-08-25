@@ -17,7 +17,7 @@ The main goal of this unit is to have the students think like a computer program
 Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.
 
 [CCSS.ELA-LITERACY.L.9-10.1.A](http://www.corestandards.org/ELA-Literacy/L/9-10/1/a/)  
-Use parallel structure
+Use parallel structure.
 
 [CCSS.ELA-LITERACY.L.9-10.1.B](http://www.corestandards.org/ELA-Literacy/L/9-10/1/b/)  
 Use various types of phrases (noun, verb, adjectival, adverbial, participial, prepositional, absolute) and clauses (independent, dependent; noun, relative, adverbial) to convey specific meanings and add variety and interest to writing or presentations.
