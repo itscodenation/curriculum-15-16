@@ -1,10 +1,10 @@
-# About..who? Page
+# Project: About Who?
 
 ![image](http://i.imgur.com/UfBwSzcl.jpg)
 
-##Scope
+##Overview
 
-This project involves creating an about me page with html and basic stylings. This project asks the student to create a webpage. The focus here is not to have functioning links or even a functioning page. The focus here is to have a page that resembles something you see on a website. Students will be able to complete this using the skills the have already learned in class.
+This project involves creating an 'About Me' page with HTML and basic stylings. This project requires student to create a webpage. The focus here is not to have functioning links or even a functioning page. The focus here is to have a page that resembles something you see on a website. Students will be able to complete this using the skills the have already learned in class.
  
 ##Before Class
 
@@ -33,35 +33,28 @@ Ask students to choose someone in the room, either a classmate or volunteer, and
 ###Opening
 
 You have learned how to manipulate websites and some basic tags. Now let's see you put that information to use. Using the information you gathered from your peer/volunteer, you will be making a simple website about them using the questions they answered. We are looking for the following: 
+
 * Headings
 * Photos
 * Lists 
 
-
-###I Do
-To complete this project students are going to be using JSBin. Explain to students that they can login using their GitHub information. If they have forgotten their GitHub password walk them through the password recovery process.  ***They must be logged in to JSBin for their project to save.***
+###Introduction to New Material (I Do)
+To complete this project, students are going to be using JSBin. Explain to students that they can login using their GitHub information. If they have forgotten their GitHub password, walk them through the password recovery process.  ***They must be logged in to JSBin for their project to save.***
 
 Open up JSBin in the front of the class and focus on only the HTML and CSS tabs. Explain they will be inputing their code into these two fields. They are allowed to go back into their dash project if they need any references or support.
 
-###Build Time
-Students will work alone on this project. The teacher's role will be to walk around the room helping students with any questions they have. Students are encouraged to look at previous lessons for reference.
+###Independent Practice (You Do)
+Its build time! Students will work alone on this project. The teacher's role will be to walk around the room helping students with any questions they have. Students are encouraged to look at previous lessons for reference.
 
-###Extension Activities
-Students who complete the project at hand early may attempt to improve their project by including the following:  
+###Extension Activity
+Students who complete the projectd early may attempt to improve their project by manipulating the layout.
 
-* Manipulating the layout
-
-##Closing
+###Closing
 Select students to present their work to the class.
 
 ###Check for Understanding
 Teachers should keep track of student success while they are presenting to the class.
 
-###How to Submit
-The students must export this project as a Gist.
-File > Export as Gist
-
-The teacher must ask students to share the link to their project at [bit.ly/ScriptEdProjects](bit.ly/ScriptEdProjects)
-
-
-
+###How to Submit Project
+* The students must export this project as a Gist: File > Export as Gist
+* The teacher must ask students to share the link to their project at [bit.ly/ScriptEdProjects](https://bit.ly/ScriptEdProjects).
