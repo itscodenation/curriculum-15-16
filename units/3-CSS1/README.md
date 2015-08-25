@@ -9,8 +9,8 @@ This unit focuses on the styling of websites using CSS. Through several learning
 1. [Layout](sessions/1-firstpage)
 2. [Layout day 2](sessions/2-firstpage)
 3. [Wireframing](sessions/3-wireframing)
-4. [Project: CSS Garden](sessions/5-project-who)
-5. [Project: About Who?](sessions/4-project-garden)
+4. [Project: CSS Garden](sessions/4-project-garden)
+5. [Project: About Who?](sessions/5-project-who)
 
 
 ##Standards
