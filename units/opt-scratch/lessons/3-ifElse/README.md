@@ -2,9 +2,9 @@
 
 ![image](http://i.imgur.com/NIS7eyA.png)
 
-## Before class
----
-###Teacher Preperation
+## Before Class
+
+###Teacher Preparation
 * A further understanding of Scratch. Teacher should be familiar with control, sensing and data blocks.
 * The teacher should create a two variable MadLibs program with a logic condition before entering the classroom.
 
@@ -13,14 +13,13 @@
  
 * Student will be able to implement Boolean logic using an if/else block in a Scratch program. 
 
-### Key points
-
+### Key Points
 
 * If/Else statements let us set a condition and execute different code based on whether the condition is met.
 
 ### Assessment
 
-1. Student created program in Scratch that uses If/Else statements
+1. Students will create a program in Scratch that uses If/Else statements
 
 
 ### Vocabulary
@@ -35,14 +34,14 @@
 * [Printer Friendly MadLibs](http://www.madglibs.com/printglib.php?glibid=185)
 * Final Project [Solution Code](http://scratch.mit.edu/projects/24577972/)
 
-## During class
+## During Class
 
-### Do-now
+### Do Now
 
-1. Attendance
+1. Volunteer takes attendance. [Procedure found here](https://docs.google.com/document/d/19IIhqykr70vj7wnqyJYuQNTkd9GX56Xgl3omD42IcMk/edit).
 2. Students are instructed to write a sentence using if/else. Any sentence that uses the words **if, then & else.**
 
-## Opening
+### Opening
 
 Ask students to share their if/else statements with the class. The teacher should write some sentences on the board. Try to emphasis words with a different color font.
 
