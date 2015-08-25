@@ -14,15 +14,15 @@ Students will be able to create a website with multiple pages using the `<a>` ta
 
 ### Assessment
 
-1. Do Now. (Located in slide 2 of the [Presentation Slides](https://docs.google.com/presentation/d/1UrFnBtRbk9eC1E2MLhRjkpvi4-4tREXmK3v2ps_kVqc/edit?usp=sharing)). 
-2. Write Exit Ticket based off [assessments from current lesson](assessments/exit_ticket.md).
+1. Give the students the Do Now. (Located in slide 2 of the [Presentation Slides](https://docs.google.com/presentation/d/1UrFnBtRbk9eC1E2MLhRjkpvi4-4tREXmK3v2ps_kVqc/edit?usp=sharing)). 
+2. Write an Exit Ticket based off [assessments from current lesson](assessments/exit_ticket.md).
 
 Students will show progress toward reaching the objective based on their performance on the Do Now and Exit Ticket.
 
 
 ### Vocabulary
 
-* A tag (or anchor tag)
+* `<a>` tag (or anchor tag)
 * Hierarchy
 * Linking
 
@@ -32,12 +32,12 @@ Students will show progress toward reaching the objective based on their perform
 * [Presentation Slides](https://docs.google.com/presentation/d/1UrFnBtRbk9eC1E2MLhRjkpvi4-4tREXmK3v2ps_kVqc/edit?usp=sharing)
 * <http://www.w3schools.com/tags/tag_a.asp>
 
-## During class
+## During Class
 
 ### Do Now
 
 1. Volunteer takes attendance. [Procedure found here](https://docs.google.com/document/d/19IIhqykr70vj7wnqyJYuQNTkd9GX56Xgl3omD42IcMk/edit).
-2. Place the do now on the board. The starter question can be found in slide 2 of the [Presentation Slides](https://docs.google.com/presentation/d/1UrFnBtRbk9eC1E2MLhRjkpvi4-4tREXmK3v2ps_kVqc/edit?usp=sharing)
+2. Place the Do Now on the board. The starter question can be found in slide 2 of the [Presentation Slides](https://docs.google.com/presentation/d/1UrFnBtRbk9eC1E2MLhRjkpvi4-4tREXmK3v2ps_kVqc/edit?usp=sharing)
 
 
 ###Opening
@@ -49,13 +49,13 @@ Explain that today they will be learning about the **A tag.** The **A tag** allo
 Until now all of our websites have only been one page. Also, JS Bin has been **linking** the CSS and JS files together for us. We will learn how to solve these issues over the next 2 lessons. 
 
 ### Introduction to New Material (“I Do”)
-#####What is the A tag? (slide 4)
+#####What is the `<a>` Tag? (slide 4)
 
 The **A tag (anchor tag)** is used with a short term `href` (stands for hyper reference) to **link** pages together for the developer.
 
 You will notice the line of code on page 4 will create hyperlink on the webpage with the text "Go to ScriptEd".
 
-#####Linking local pages (slide 5)
+#####Linking Local Pages (slide 5)
 
 You will notice the page structure here invovles a folder called "pages" with three files inside of it.
 
@@ -70,10 +70,11 @@ Let's say we are on the index.html page and would like to get to page1.html. How
 
 ![Imgur](http://i.imgur.com/u4wsu1S.png)
 ## Guided Practice (“We Do”)
-**slide 6**
-We are going to link several pages together using the A tag. to do this we must first clone a GitHub Repo and create a new Cloud 9 workspace from it. 
+#####Setting Up Your Environment (slide 6)
 
-To get starter code: 
+We are going to **link** several pages together using the `<a>` tag. To do this, we must first clone a GitHub Repo and create a new Cloud 9 workspace from it. 
+
+To get the starter code: 
 
 1. Fork the repo found at `bit.ly/unit1starter`
 2. Use the Clone URL to create a new Cloud 9 Workspace called `link-practice'
@@ -82,7 +83,7 @@ Once your environment is open, run `git status` to make sure everything is runni
 
 ## Independent Practice ("You Do")
 
-The workspace you now have has all the pages you need but they are not linked together. To solve this you will need to do the following:
+The workspace you now have has all the pages you need, but they are not linked together. To solve this you will need to do the following:
 
 1. On index.html, create three links: one to each of the files in the pages folder.
 2. On page1.html, create three links: one to the other 2 pages in the pages folder and one to index.html
