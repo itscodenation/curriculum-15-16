@@ -1,4 +1,4 @@
-#Lesson 3 - Lists and Tables 
+#Lesson 4 - Lists and Tables 
 ![image](http://i.imgur.com/ly42IoI.png)
 
 ## Before class
