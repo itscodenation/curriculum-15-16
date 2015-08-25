@@ -10,7 +10,7 @@ While completing the units below, the students are working towards becoming extr
 
 For unit 2, students must set up an account with GitHub and Cloud9 account. [This guide](resources/c9) serves as a tutorial for creating an account with each. 
 
-| Unit  | Sessions | Topics/Skills | Project 1 | Project 2 |
+| Unit  | Lessons | Topics/Skills | Project 1 | Project 2 |
 |-------|:-------:|------|--------------|--------------|
 | [**0. ScriptEd**](units/0-Infosession/)| 1 | Routines and Expectations | N/A| N/A|
 | [**1. Intro to CS**](units/1-introduction/)| 1 | Computational thinking | N/A| N/A|
