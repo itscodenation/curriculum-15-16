@@ -13,7 +13,7 @@
 
 Students will be able to demonstrate the ability to use computing thought processes to complete simple tasks by writing specific instructions a robot could follow.
 
-### Key points
+### Key Points
 
 * Humans and programs take in directions differently.
 * Programs/robots do not assume anything.
@@ -38,9 +38,9 @@ Students will be able to demonstrate the ability to use computing thought proces
 * The [syllabus](https://www.dropbox.com/s/maienun209adcy7/ScriptEd%20Year%201%20Syllabus.docx?dl=0)
 
 
-## During class
+## During Class
 
-### Do-now (5 minutes)
+### Do Now (5 minutes)
 
 1. Volunteer takes attendance. [Procedure found here](https://docs.google.com/document/d/19IIhqykr70vj7wnqyJYuQNTkd9GX56Xgl3omD42IcMk/edit).
 2. Introduce yourself to every student.
@@ -66,7 +66,7 @@ Go around the room and have students share their name, grade, and a fun fact abo
 
 
 
-## Introduction of New Material (“I Do”)
+## Introduction to New Material (“I Do”)
 
 **Ask overarching question:** Who is smarter, a human or a computer?  
 
