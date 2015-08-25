@@ -3,7 +3,7 @@
 ##Synopsis
 This unit introduces students to the fundamentals of web design using HTML. It asssumes no background knowledge in HTML at all. By the end of the unit, every student is expected to have webpage consisting of text and lists. 
 
-##Sessions
+##Lessons
 
 1. [Your First Webpage: Basic Tags](sessions/1-BasicTags)
 2. [Your First Webpage: Continued](sessions/2-BasicTags2)  
