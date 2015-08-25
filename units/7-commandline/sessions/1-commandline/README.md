@@ -6,7 +6,7 @@
 
 ### Daily Objective
 
-Students will be able to use the basic CRUD (create, read, update, and delete) commands in the terminal. 
+Students will be able to use the basic (create, read, update) commands in the terminal. 
 
 ### Key Points
 
