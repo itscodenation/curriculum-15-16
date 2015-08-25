@@ -6,8 +6,8 @@ This unit focuses on the styling of websites using CSS. Through several learning
 
 ##Lessons
 
-1. [Layout](sessions/1-firstpage)
-2. [Layout: Continued](sessions/2-firstpage)
+1. [HTML Layout](sessions/1-firstpage)
+2. [HTML Layout: Continued](sessions/2-firstpage)
 3. [Wireframing](sessions/3-wireframing)
 4. [Project: CSS Garden](sessions/4-project-garden)
 5. [Project: About Who?](sessions/5-project-who)
