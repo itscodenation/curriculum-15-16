@@ -2,7 +2,6 @@
 ![image](http://i.imgur.com/eqnjBR6.png)
 
 ## Before Class
-
 ###Teacher Preparation
 * Make sure the school’s computers have a basic text editor. **We will be using a text editor only for today’s lesson.** 
 * If using a Mac, make sure TextEdit preferences are set to plain text, **NOT rich text.** 
