@@ -78,7 +78,7 @@ Ask students to visit nytimes.com and choose an article. Using the console, ask 
 ![Image](http://i.imgur.com/toR2Csq.png)
 
 
-**Extension:** ask students to experiment with other sites they frequent.
+**Extension:** Ask students to experiment with other sites they use frequently.
 
 
 ### Closing/Homework
