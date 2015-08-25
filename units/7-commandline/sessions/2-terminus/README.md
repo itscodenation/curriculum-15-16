@@ -1,4 +1,4 @@
-#Session 2 - Terminus
+#Lesson 2 - Terminus
 
 ![Imgur](http://i.imgur.com/1RUn77sm.jpg)
 ## Before Class
