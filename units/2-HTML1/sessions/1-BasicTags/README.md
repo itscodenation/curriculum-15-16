@@ -73,3 +73,7 @@ Teacher should now circulate and assist any student who does not understand how 
 
 ## Closing/Homework
 Wrap up the day with a quick recap on everything that was covered. Ask the students to share their webpages with you for review. Explain they can email the text file to you. 
+
+## After Class
+* Take a quick look at each webpage project from today. Students who were not able to create the page should be asked to recreate it, with teacher’s help, next class.
+* Prepare for next lesson / hand off to next volunteer in rotation.
