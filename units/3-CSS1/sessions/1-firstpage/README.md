@@ -105,9 +105,10 @@ Students are now tasked to add tags and manipulate the page created in the "We D
 
 
 ### Closing
-“Today we learned about layout and started planning what our webpages will look like. What is layout and why is it important? What are some HTML tags that help us create a layout?”
+“Today we learned about layout and started planning what our webpages will look like. Ask students to share their sites for your review.
 
-Students must share their site with the teacher for your review.
+### Check for Understanding
+What is layout and why is it important? What are some HTML tags that help us create a layout?”
 
 ###Homework
 Encourage students to log into their JSBin account at home and use w3schools to learn anything they can outside of class.
