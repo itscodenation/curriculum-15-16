@@ -38,12 +38,12 @@ You have learned how to manipulate websites and some basic tags. Now let's see y
 * Photos
 * Lists 
 
-###Introduction to New Material (I Do)
+###Introduction to New Material ("I Do")
 To complete this project, students are going to be using JSBin. Explain to students that they can login using their GitHub information. If they have forgotten their GitHub password, walk them through the password recovery process.  ***They must be logged in to JSBin for their project to save.***
 
 Open up JSBin in the front of the class and focus on only the HTML and CSS tabs. Explain they will be inputing their code into these two fields. They are allowed to go back into their dash project if they need any references or support.
 
-###Independent Practice (You Do)
+###Independent Practice ("You Do")
 Its build time! Students will work alone on this project. The teacher's role will be to walk around the room helping students with any questions they have. Students are encouraged to look at previous lessons for reference.
 
 ###Extension Activity
