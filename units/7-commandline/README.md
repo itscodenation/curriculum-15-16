@@ -2,7 +2,7 @@
 
 ##Synopsis
 This unit introduces the basic CRUD (create, read, update, delete) commands in the terminal. 
-##Sessions
+##Lessons
 
 1. [Command Line Basics](sessions/1-commandline)
 2. [Terminus Game](sessions/2-terminus)
