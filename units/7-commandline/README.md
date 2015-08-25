@@ -11,7 +11,9 @@ This unit introduces the basic CRUD (create, read, update, delete) commands in t
 
 ####Math Standards
 **CCSS.MATH.CONTENT.HSF.BF.A.1**
+
 Student	can use terminal commands as functions and actions as parameters.
 
-**CCSS.MATH.CONTENT.HSS.IC.A.1 - Evaluating processes**
+**CCSS.MATH.CONTENT.HSS.IC.A.1 - Evaluating processes** 
+
 Students	can use parameters to manipulate and navigate their way through the terminal.
