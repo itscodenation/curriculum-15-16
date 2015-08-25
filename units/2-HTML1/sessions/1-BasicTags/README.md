@@ -52,7 +52,7 @@
 
 Students should answer the question and eventually arrive at the fact that HTML is a language used to create webpages. 
 
-## Introduction to New Material (“I Do”)
+### Introduction to New Material (“I Do”)
 
 “So we all know HTML is used to write a webpage, but has anyone ever seen HTML code?” 
 
