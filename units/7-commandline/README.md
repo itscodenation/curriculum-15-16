@@ -1,7 +1,7 @@
 #Unit 7 - Command Line
 
 ##Synopsis
-This unit touches upon the basic CRUD (create, read, update, delete) commands in the terminal. 
+This unit introduces the basic CRUD (create, read, update, delete) commands in the terminal. 
 ##Sessions
 
 1. [Command Line Basics](sessions/1-commandline)
