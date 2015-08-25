@@ -1,4 +1,4 @@
-#Session 1 - Human vs. Computing Thought Processes
+#Lesson 1 - Human vs. Computing Thought Processes
 
 ![image](http://oi58.tinypic.com/2d94oli.jpg)
 
