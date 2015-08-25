@@ -12,7 +12,7 @@ It has been a whole summer since you last were in a ScriptEd course. You have ju
 By the end of this project the employee will be able to...
 
 * feel comfortable with all aspects of the ScriptEd year one curriculum.
-* Navigate necessary tools like jsBin, Cloud9 and GitHub
+* navigate necessary tools like jsBin, Cloud9 and GitHub.
 
 
 ##References
@@ -40,7 +40,7 @@ To upload a JS Bin file to you GitHub follow these directions:
 
 
 ##How to Submit
-Each clue will be checked for accuracy once it has been sent to your GitHub. From there you will receive points on the scoreboard
+Each clue will be checked for accuracy once it has been sent to your GitHub. From there you will receive points on the scoreboard.
 
 ##Homework
-Instructor will assign homework based on progress in class.
+Instructors will assign homework based on progress in class.
