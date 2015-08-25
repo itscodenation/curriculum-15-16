@@ -11,7 +11,7 @@ The main goal of this unit is to have the students think like a computer program
 ##Standards
 
 ####English Standards
-**CCSS.ELA-Literacy.L9.-10.1**  
+
 [CCSS.ELA-LITERACY.L9-10.1](http://www.corestandards.org/ELA-Literacy/L/9-10/1/)
 
 Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.
