@@ -5,8 +5,8 @@
 ## Before Class
 ---
 ###Teacher Preparation
-* Must have copies of [syllabus](https://www.dropbox.com/s/maienun209adcy7/ScriptEd%20Year%201%20Syllabus.docx?dl=0) printed
-* Two blank pieces of paper ready to be either taped or tacked to the back wall
+* Must have copies of [syllabus](https://www.dropbox.com/s/maienun209adcy7/ScriptEd%20Year%201%20Syllabus.docx?dl=0) printed.
+* Two blank pieces of paper ready to be either taped or tacked to the back wall.
 
 
 ### Daily Objective
