@@ -1,4 +1,4 @@
-#Session 0 - ScriptEd Information Session
+#Lesson 0 - ScriptEd Information Session
 
 ![image](http://oi62.tinypic.com/204k90.jpg)
 
