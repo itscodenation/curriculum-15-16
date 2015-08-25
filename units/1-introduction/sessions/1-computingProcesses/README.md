@@ -34,7 +34,7 @@ Students will be able to demonstrate the ability to use computing thought proces
 
 ### References
 
-* The [syllabus](https://www.dropbox.com/s/maienun209adcy7/ScriptEd%20Year%201%20Syllabus.docx?dl=0)
+* [Syllabus](https://www.dropbox.com/s/maienun209adcy7/ScriptEd%20Year%201%20Syllabus.docx?dl=0)
 
 
 ## During Class
