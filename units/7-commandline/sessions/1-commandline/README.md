@@ -1,14 +1,14 @@
-#Session 1 - Command line
+#Session 1 - Command Line
 
 ![image](http://i.imgur.com/FJ5Hsq0.jpg)
 
-## Before class
+## Before Class
 
-### Objective
+### Daily Objective
 
 Students will be able to use the basic CRUD (create, read, update, and delete) commands in the terminal. 
 
-### Key points
+### Key Points
 
 * A terminal is a way to talk to a computer using commands.
 * Commands specify the action you want the computer to do for you.
@@ -34,9 +34,9 @@ Students will show progress toward reaching the objective based on their perform
 * [Presentation Slides](https://docs.google.com/presentation/d/1B1waYai67ysg7eqhc9Mm1O6fG7XO_WIPkCZxOiwyhj4/edit?usp=sharing)
 * http://lifehacker.com/5633909/who-needs-a-mouse-learn-to-use-the-command-line-for-almost-anything
 
-## During class
+## During Class
 
-### Do-now
+### Do Now
 
 1. Attendance: Teacher takes student attendance.
 2. Students are logging into their Cloud 9 account and creating the file structure on slide one of the [Presentation Slides](https://docs.google.com/presentation/d/1B1waYai67ysg7eqhc9Mm1O6fG7XO_WIPkCZxOiwyhj4/edit?usp=sharing).
@@ -49,7 +49,7 @@ What are files? What are folders? How do I view them in Windows? How about Mac? 
 
 When we perform any of the above operations in Windows or Mac, the operating system is translating our actions into command lines. Let's take a deeper look.
 
-### Introduction of new material ("I do")
+### Introduction to New Material ("I Do")
 
 #### Basics
 
@@ -70,7 +70,7 @@ Let's focus on the blue text. It says:
 ```
 This is the current **directory** (or path) that I am in. A directory is a way to locate a file or folder. In this case, I am in the "workspace" folder which is inside the "ubuntu" folder which is inside the "home" folder. 
 
-##### Running a command
+##### Running a Command
 
 I'm going to go back to Cloud9 and type in the command ``pwd``. After this, I press the "Enter" key. 
 
@@ -81,7 +81,7 @@ dopeboy@demo:/home/ubuntu/workspace $
 ```
 This command instructed the computer to print the directory that I am in (which is same thing as the text in green). After it finished printing it out, it made a new line in anticipation of my next command.
 
-#### List files and folders
+#### List Files and Folders
 
 How do we find all the files and folders in the directory we are in?
 
@@ -92,7 +92,7 @@ dopeboy@demo:/home/ubuntu/workspace $
 ```
 The `ls` command lists all the files and folders in the directory that I am in. In my case, I have three files.
 
-#### Copy a file
+#### Copy a File
 
 How do we copy a file?
 
@@ -110,23 +110,23 @@ The second `ls` command was used to verify that the file was indeed copied.
 
 Notice how the copied file now appears in the file structure on in the top-left of the Cloud9 window. You just created this using the terminal.
 
-### Guided practice ("We do")
+### Guided Practice ("We Do")
 
 Let's take some time to complete the file directory you created in the Do Now. What we would like to do is take the original file structure on the left and turn it into the file structure on the right. The only catch is you cannot use a mouse.
 **This activity can be found on slide 7 of the [Presentation Slides](https://docs.google.com/presentation/d/1B1waYai67ysg7eqhc9Mm1O6fG7XO_WIPkCZxOiwyhj4/edit?usp=sharing).** 
 
 ![Imgur](http://i.imgur.com/3o2ThUY.png)
 
-### Independent practice ("You do")
+### Independent Practice ("You Do")
 
 ![Imgur](http://i.imgur.com/y88cMJC.png)
 
 This information can also be found in slide 8 of the [Presentation Slides](https://docs.google.com/presentation/d/1B1waYai67ysg7eqhc9Mm1O6fG7XO_WIPkCZxOiwyhj4/edit?usp=sharing). 
 
 
-#### Exit ticket
+#### Exit Ticket
 
-Give [exit-ticket](assessments/exit_ticket.md) quiz.
+Give [exit ticket](assessments/exit_ticket.md) quiz.
 
 ### Closing
 
@@ -141,8 +141,8 @@ This project is not required to be submitted as projects in the past have been. 
 There is no homework for this session. However, it is at the discretion of the teacher to assign the [next session](../2-terminus/README.md) for homework if they would like.
 
 
-## After class
+## After Class
 
-* Check exit-tickets. 
+* Check the exit tickets. 
 * Prepare for next lesson / hand off to next volunteer in rotation.
 
