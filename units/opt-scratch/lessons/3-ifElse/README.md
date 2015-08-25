@@ -1,4 +1,4 @@
-# Lesson 3 - Logic If/Else
+# Lesson 3 - Boolean Logic
 
 ![image](http://i.imgur.com/NIS7eyA.png)
 
