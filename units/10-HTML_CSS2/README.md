@@ -7,7 +7,7 @@ This unit delves into div, id, class, float, transitions & animations
 
 1. [Divs IDs and Classes](lessons/1-divIdClass)
 2. [CSS Robot Project](lessons/2-project)
-2. [CSS Zen Garden](lessons/3-project)
+2. [CSS Zen Garden](https://github.com/ScriptEdcurriculum/ZenGardenUnit10)
 
 ####English Standards
 **CCSS.ELA-Literacy.L9.-10.1**  
