@@ -103,7 +103,3 @@ Assign students to bring back the completed ScriptEd packet by next class.
 Prepare for next lesson / hand off to next volunteer in rotation.
 
 Assign students to bring back the completed ScriptEd packet by next class.
-
-## After Class
-
-* Prepare for next lesson / hand off to next volunteer in rotation.
