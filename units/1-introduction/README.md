@@ -3,7 +3,7 @@
 ##Synopsis
 The main goal of this unit is to have the students think like a computer programmer for the first time. This is accomplished by asking the students to create algorithmic, step-by-step directions to a mock program.
 
-##Sessions
+##Lessons
 
 1. [Human vs. Computing Thought Processes](sessions/1-computingProcesses)
 
