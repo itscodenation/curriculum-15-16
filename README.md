@@ -8,8 +8,6 @@ Year 1
 ===================
 While completing the units below, the students are working towards becoming extremely qualified at all the skills found in the [ScriptEd Foundations Rubric](https://docs.google.com/a/scripted.org/spreadsheets/d/1i21YAD2TBEn7nYeii5VH_7smUjCV13cvX2qgbhEkeZk/edit#gid=1132597865).
 
-For unit 2, students must set up an account with GitHub and Cloud9 account. [This guide](resources/c9) serves as a tutorial for creating an account with each. 
-
 | Unit  | Lessons | Topics/Skills | Project 1 | Project 2 |
 |-------|:-------:|------|--------------|--------------|
 | [**0. ScriptEd**](units/0-Infosession/)| 1 | Routines and Expectations | N/A| N/A|
@@ -37,7 +35,7 @@ For unit 2, students must set up an account with GitHub and Cloud9 account. [Thi
 
 Advanced Course
 =========================
-Second year students will be completing their final projects using Cloud9 IDE. They will also need to sign in using their GitHub account. [This guide](units/c9_setup) serves as a tutorial for creating an account with each. 
+Students in the advanced course will be completing their final projects using Cloud9 IDE. They will also need to push all of their code to GitHub. 
 
 | Unit  | Sessions | Skills | Project | API | 
 |-------|:-------:|------|--------------|---------|
