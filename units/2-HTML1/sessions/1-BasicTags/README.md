@@ -2,7 +2,6 @@
 ![image](http://i.imgur.com/eqnjBR6.png)
 
 ## Before Class
----
 ###Teacher Preparation
 * Make sure the school’s computers have a basic text editor. **We will be using a text editor only for today’s lesson.** 
 * If using a Mac, make sure TextEdit preferences are set to plain text **NOT rich text.** 
@@ -47,7 +46,7 @@
 
 
 
-## Opening
+### Opening
 
 “Does anyone want to answer the starter question?” 
 
@@ -60,18 +59,18 @@ Students should answer the question and eventually arrive at the fact that HTML 
 The teacher should now open a website students are familiar with on the screen and view the page source. Once here, change some of the text on the webpage. Ask students “How did I know where to look in the HTML?”
 
 
-## Guided Practice (“We Do”)
+### Guided Practice (“We Do”)
 
 “Okay everyone, open your computers and follow along with me.” 
 
 Once again on the board open another website. This time a very plain page with little to no CSS like the first site made at Cern (see references). All together, find a specific piece of text and manipulate it. 
 
-## Independent Practice ("You Do")
+### Independent Practice ("You Do")
 
 “Now I want everyone to take the next 5 minutes to change as many things on this webpage as possible.”
 Teacher should now circulate and assist any student who does not understand how to manipulate HTML text. After the 5 minutes are complete, encourage students to share what they changed on the site.
 
-## Closing/Homework
+### Closing/Homework
 Wrap up the day with a quick recap on everything that was covered. Ask the students to share their webpages with you for review. Explain they can email the text file to you. 
 
 ## After Class
