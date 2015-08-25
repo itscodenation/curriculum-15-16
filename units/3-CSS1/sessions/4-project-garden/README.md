@@ -49,5 +49,6 @@ Teachers should keep track of student success while they are presenting to the c
 
 ###How to Submit Project
 The students must export this project as a Gist.
-**File > Export as Gist
-**The teacher must ask students to share the link to their project at [bit.ly/ScriptEdProjects](https://bit.ly/ScriptEdProjects).
+* File > Export as Gist
+
+* The teacher must ask students to share the link to their project at [bit.ly/ScriptEdProjects](https://bit.ly/ScriptEdProjects).
