@@ -24,7 +24,7 @@ For unit 2, students must set up an account with GitHub and Cloud9 account. [Thi
 | [**7. Command line**](units/7-commandline) | 2  | CRUD operations | [File Structure](units/7-commandline/sessions/1-commandline) | [Terminus](units/7-commandline/sessions/2-terminus) |
 | [**8. Git & GitHub**](units/8-git) |  1 |  Git, Github, `status`, `clone`,`commit`, `push` | [Mr. Potato Head](https://github.com/ScriptEdcurriculum/Mr_Potato_Head)| N/A|
 | [**9. HTML (Advanced)**](units/9-HTML2/) |  3 | Linking pages, a tag, forms | [Portfolio Page](units/9-HTML2/sessions/3-project-aboutMe) | N/A | 
-| [**10. HTML/CSS (Advanced)**](units/10-HTML_CSS2) |  | Div, id, class, float, transitions & animations | [GA Dash Project #4](https://github.com/ScriptEdcurriculum/curriculum2015/tree/master/units/10-HTML_CSS2/lessons/2-project) | [CSS Zen Garden]() |
+| [**10. HTML/CSS (Advanced)**](units/10-HTML_CSS2) | 3 | Div, id, class, float, transitions & animations | [GA Dash Project #4](units/10-HTML_CSS2/sessions/2-project) | [CSS Zen Garden](units/10-HTML_CSS2/sessions/3-project) |
 | [**11. Bootstrap**](units/11-bootstrap)| 3 | CDN, wireframing, grid system | [Fictional Character Website](units/11-bootstrap/sessions/project-character) | N/A |
 | [**12. jQuery**](units/12-jQuery)| 4 | Selectors, Attributes, Handlers | [The jQuery Site](units/12-jQuery/sessions/3-project-jQuerySite) | [Facebook Wall](https://github.com/Bijesse/facebook_wall)|
 | [**13. JavaScript 2.1**](units/13-javascript2_1)| 5 | Arrays, Loops | [99 Bottles](units/13-javascript2_1/sessions/3-project-99bottles) | [Color Changer](units/13-javascript2_1/sessions/5-project-colorChanger)|
