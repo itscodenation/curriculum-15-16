@@ -43,7 +43,7 @@ Students will show progress toward reaching the objective based on their perform
 
 Discuss the answers of the Do Now with the class (slide 2 of the [Presentation Slides](https://docs.google.com/presentation/d/1UrFnBtRbk9eC1E2MLhRjkpvi4-4tREXmK3v2ps_kVqc/edit?usp=sharing)). 
 
-Explain that today they will be learning about the `<a>` tag.** The `<a>` tag allows us to link multiple pages of a website together.
+Explain that today they will be learning about the `<a>` tag. The `<a>` tag allows us to **link** multiple pages of a website together.
 
 Until now, all of our websites have only been one page. Also, JS Bin has been **linking** the CSS and JS files together for us. We will learn how to solve these issues over the next 2 lessons. 
 
