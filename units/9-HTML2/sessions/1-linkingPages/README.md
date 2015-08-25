@@ -1,7 +1,7 @@
 #Lesson 1 - Linking Pages
 ![image](http://i.imgur.com/lQblSYV.jpg)
 
-## Before Class
+## Before class
 
 ### Daily Objective
 
@@ -70,14 +70,13 @@ Let's say we are on the index.html page and would like to get to page1.html. How
 
 ![Imgur](http://i.imgur.com/u4wsu1S.png)
 ## Guided Practice (“We Do”)
-**Slide 6**
-
+**slide 6**
 We are going to link several pages together using the A tag. to do this we must first clone a GitHub Repo and create a new Cloud 9 workspace from it. 
 
 To get starter code: 
 
-1. Fork the repo found at `bit.ly/unit1starter`.
-2. Use the Clone URL to create a new Cloud 9 Workspace called `link-practice'.
+1. Fork the repo found at `bit.ly/unit1starter`
+2. Use the Clone URL to create a new Cloud 9 Workspace called `link-practice'
 
 Once your environment is open, run `git status` to make sure everything is running corectly.
 
