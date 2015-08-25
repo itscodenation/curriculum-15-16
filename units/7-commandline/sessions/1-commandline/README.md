@@ -1,4 +1,4 @@
-#Lessonse 1 - Command Line Basics
+#Lesson 1 - Command Line Basics
 
 ![image](http://i.imgur.com/FJ5Hsq0.jpg)
 
