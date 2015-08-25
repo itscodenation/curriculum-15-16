@@ -3,7 +3,7 @@
 ##Synopsis
 Students will learn what to expect from being a part of the ScriptEd program, fill out an application, sign up for github and jsbin, and do some coding activities.
 
-##Sessions
+##Lessons
 
 1. [Information Session](sessions/0-infosession)
 
