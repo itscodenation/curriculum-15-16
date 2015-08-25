@@ -2,9 +2,9 @@
 
 ![image](http://i.imgur.com/2cxWTe0.png)
 
-## Before class
+## Before Class
 ---
-###Teacher Preperation
+###Teacher Preparation
 * A further understanding of Scratch. Teacher should be familiar with sensing, control, operater and data blocks.
 * The teacher should create a two variable MadLibs program with a logic condition before entering the classroom.
 
@@ -13,16 +13,16 @@
 
 * Students will be able to create and implement a variable in a Scratch program.  
 
-### Key points
+### Key Points
 
-* A variable, like the variables you use in Math class is a placeholder for a changing value.
+* A variable, like the variables you use in math class, is a placeholder for a changing value.
 * Variables are like boxes; they store something.
 * Variables have a name and a value.
 
 
 ### Assessment
 
-1. Student created program in Scratch which can calculate the area of a rectangle.
+1. Students will created a program in Scratch that can calculate the area of a rectangle.
 
 
 ### Vocabulary
@@ -33,31 +33,31 @@
 
 ### References
 
-* <http://scratch.mit.edu> Use the "Create" tab
+* <http://scratch.mit.edu>, use the "Create" tab
 
-## During class
+## During Class
 
-### Do-now
+### Do Now
 
-1. Attendance
-2. Students will be asked to answer the question below on paper  
+1. Volunteer takes attendance. [Procedure found here](https://docs.google.com/document/d/19IIhqykr70vj7wnqyJYuQNTkd9GX56Xgl3omD42IcMk/edit).
+2. Students will be asked to answer the question below on paper:  
 		![Image](http://i.imgur.com/uappLM8.png)
 
-## Opening
+### Opening
 
-"Can someone tell me how ou have used variables in other classes?" Tell the students how using variables in programming is very similar to using variables in math class. Cover the key points of this lesson:
+"Can someone tell me how you have used variables in other classes?" Tell the students how using variables in programming is very similar to using variables in math class. Cover the key points of this lesson:
 
 * A variable, like the variables you use in Math class is a placeholder for a changing value.
 * Variables are like boxes; they store something.
 * Variables have a name and a value.
 
-## Introduction of new material (“I Do”)
+### Introduction to New Material (“I Do”)
 
 Slowly create, while asking questions from student volunteers, a “Hello, Name” program on the board. Students should be watching and answering questions that the teacher is asking during the demonstration.
 
 ![Image](http://i.imgur.com/VF2dAP2.png)
 
-## Guided Practice ("We do")
+### Guided Practice ("We Do")
 
 “We have just created a program that can say hello to you. However we did not use a variable. Let’s remake this program, but this time using a **variable** called ![Image](http://i.imgur.com/DUoOcHr.png.). Just like how we used variables we we wrote out the MadLibs game.
 
@@ -67,8 +67,7 @@ The students should follow along as the following program is created.
 **Hint:** You can create your own variable in the "Data" section of Scratch.
 
 
-
-## Independent practice ("You do")
+### Independent Practice ("You Do")
 Using the knowledge you just learned from creating the hello program, create a program that can calculate the area of a rectangle. Step-by-step instructions are listed below but students are encouraged to create this program on their own if they would like the challenge.
   
 1. The program must first ask the user for the width of the rectangle.
@@ -78,11 +77,11 @@ Using the knowledge you just learned from creating the hello program, create a p
 5. Using the Operators block, set the "area"" variable to the product of ![Image](http://i.imgur.com/m1RPXAq.png)
 6. Now you can use the Say block to have Scratchy tell the user the area of the rectangle. ![Image](http://i.imgur.com/nYjzKNN.png) 
 
-## Closing 
+### Closing 
 
 "Today we covered the basics of using variables when writing your own program."
 
-## Homework
+### Homework
 
 For homework, students will create a program that calculates the area of a circle.
 
