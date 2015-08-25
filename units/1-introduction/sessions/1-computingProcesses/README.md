@@ -34,7 +34,7 @@ Students will be able to demonstrate the ability to use computing thought proces
 
 ### References
 
-* The [syllabus](https://www.dropbox.com/s/maienun209adcy7/ScriptEd%20Year%201%20Syllabus.docx?dl=0)
+* [Syllabus](https://www.dropbox.com/s/maienun209adcy7/ScriptEd%20Year%201%20Syllabus.docx?dl=0)
 
 
 ## During Class
@@ -65,7 +65,7 @@ Go around the room and have students share their name, grade, and a fun fact abo
 
 ### Introduction to New Material (“I Do”)
 
-**Ask overarching question:** Who is smarter, a human or a computer?  
+Ask overarching question: Who is smarter, a human or a computer?  
 
 Students should then be broken up into groups of 3-4 to form their own opinions for 2-3 minutes.   
 
