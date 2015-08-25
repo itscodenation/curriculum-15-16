@@ -57,7 +57,7 @@ Ask student and volunteers to agree or disagree with the quote above. Use the pr
 * Do you ever team with a computer/program?
 
 
-### Introduction of New Material (“I Do”)
+### Introduction to New Material (“I Do”)
 
 Ask students to log onto [scratch.mit.edu](https:scratch.mit.edu). Students should set up a Scratch account using their school email. Once the account is created students will go to the CREATE tab. Once all accounts are set up, the teacher will provide a quick demo (~2 minutes) on how Scratch works.  
 
