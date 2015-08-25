@@ -2,8 +2,7 @@
 
 ![image](http://oi62.tinypic.com/204k90.jpg)
 
-## Before class
----
+## Before Class
 ###Teacher Preparation
 * Must have copies of [ScriptEd Packet](https://drive.google.com/drive/u/0/folders/0B2338t7VZqsoflBPajNZSEtMSXFhM0hMbUlyWW1NcW00c0VEQXc1Rk9yYUhOMXJuSDdUalk) printed
 * Must have copies of school-specific [syllabus](https://www.dropbox.com/s/maienun209adcy7/ScriptEd%20Year%201%20Syllabus.docx?dl=0) printed
@@ -34,7 +33,7 @@ Students will be able to understand the expectations and commitment of being in 
 * [What Most Schools Don't Teach -- Vimeo](https://vimeo.com/60767036)
 * If you expect to run into tech issues at your school site, be sure to download this video beforehand. 
 
-## During class
+## During Class
 
 ### Do Now (5 minutes)
 
@@ -44,7 +43,7 @@ Students will be able to understand the expectations and commitment of being in 
 
 
 
-## Opening
+### Opening
 
 “Welcome to ScriptEd! I am **_________** and I work at ** _________** as a _______.” Introduce yourself to the students. Tell them a little about your background -- students love to hear about you! ”Let’s everyone please read over the course syllabus.” Allow student volunteers to read the syllabus aloud. Emphasize the following main points:
 
@@ -59,7 +58,7 @@ Students will be able to understand the expectations and commitment of being in 
 
 * Go through the packet to explain what each permission form is for. Explain that without this packet filled out they are not fully enrolled in the program and would be ineligible for trips, activities, and internships. 
 
-## Switching Gears: Why are we here?
+### Switching Gears: Why are We Here?
 
 Ask students if they have ever taken a computer science course. Do they think it is an important skill that they wish they could have more exposure to?  
 
@@ -70,7 +69,7 @@ thoughts.
 
 **Key Points**: Computer programming can get you a career in any field, the offices are amazing, and this is a skill that is sought after in the job market.
 
-## What is GitHub (“I Do”)
+### What is GitHub (“I Do”)
 
 Explain that, as a developer, you will be working in online spaces in order to write your code. Github is the industry standard for developers to share the work they have created. 
 
@@ -79,26 +78,23 @@ GitHub is a web based hosting platform. GitHub can be used as a publishing tool,
 Explain: "By signing up for github, you will have automatic access to other online environments that we will be using throughout the school year without having to create multiple accounts."
 
 
-## How to Sign Up for GitHub (“We Do”)
+### How to Sign Up for GitHub (“We Do”)
 
 Bring up the [How To: Sign Up for GitHub](https://docs.google.com/presentation/d/1wnlGwfGGArk0Ubixiwb4YqzgmuYxgxEgGlyJgdv-Us0/edit#slide=id.gc5bb954e0_0_65) slide deck. Ask students to follow along at bit.ly/scriptedgithub. 
 
-
-
-## Signing up for GitHub ("You Do")
+### Signing up for GitHub ("You Do")
 
 With the slide deck as a resource have students sign up for GitHub accounts. Ensure that each student provides their username to the program manager. 
 
-## Signing up for JSBin ("You Do")
+### Signing up for JSBin ("You Do")
 Explain that JS Bin is a tool for experimenting with web languages. In particular HTML, CSS and JavaScript. We will be using this as a space throughout the school year to test out code that we write.
-
 
 * Ask students to go to [jsbin.com](jsbin.com) 
 * Click on the yellow "Login or Register" button
 * Click on the gray "Login or Register via GitHub" button
 * You're done!
 
-## Closing/Homework
+### Closing/Homework
 
 Assign students to bring back the completed ScriptEd packet by next class.
 
