@@ -2,9 +2,9 @@
 
 ![image](http://oi58.tinypic.com/2d94oli.jpg)
 
-## Before class
+## Before Class
 ---
-###Teacher Preperation
+###Teacher Preparation
 * Must have copies of [syllabus](https://www.dropbox.com/s/maienun209adcy7/ScriptEd%20Year%201%20Syllabus.docx?dl=0) printed
 * Two blank pieces of paper ready to be either taped or tacked to the back wall
 
@@ -15,7 +15,7 @@ Students will be able to demonstrate the ability to use computing thought proces
 
 ### Key points
 
-* Humans and Programs take in directions differently.
+* Humans and programs take in directions differently.
 * Programs/robots do not assume anything.
 * What can you do that a robot can’t?
 * What can a robot do that you can’t?
@@ -43,7 +43,7 @@ Students will be able to demonstrate the ability to use computing thought proces
 ### Do-now (5 minutes)
 
 1. Volunteer takes attendance. [Procedure found here](https://docs.google.com/document/d/19IIhqykr70vj7wnqyJYuQNTkd9GX56Xgl3omD42IcMk/edit).
-2. Introduce yourself to every student
+2. Introduce yourself to every student.
 
 
 
@@ -57,16 +57,16 @@ Remind students of the course syllabus. Emphasize the following main points:
 * Students will learn the fundamentals of HTML, CSS, and Javascript
 * The point of the club is to prepare students for internships with technology firms over the summer. Think of this as a long form job interview.
 * Students will go on field trips to great cool tech companies.
-* Students will participate in ScriptEd wide hackathons for great prizes.  
-* Feel free to email (**Program Manager Name**) (**program manager name**@scripted.org) for any questions especially when concerning attendance. 
+* Students will participate in ScriptEd-wide hackathons for great prizes.  
+* Feel free to email (**Program Manager Name**) (**program manager name**@scripted.org) for any questions, especially when concerning attendance. 
 
 ## Icebreaker
 
-Go around the room and have students share their name, grade, and a fun fact about themselves many people may not know. (Give examples like: traveled to a foreign country, plays an instrument, speak multiple languages, beat a game with an impressive score, makes crafts in their spare time, etc.)
+Go around the room and have students share their name, grade, and a fun fact about themselves many people may not know. (Give examples like: traveled to a foreign country, plays an instrument, speak multiple languages, beat a game with an impressive score, makes crafts in their spare time, etc.).
 
 
 
-## Introduction of new material (“I Do”)
+## Introduction of New Material (“I Do”)
 
 **Ask overarching question:** Who is smarter, a human or a computer?  
 
@@ -84,13 +84,13 @@ Teacher asks a student (preferably a student in the front row) to get up and tak
 
 “Now let’s try something different. **I am a robot.** Give me directions to do the same with the other piece of paper on the back wall.” Students will now give directions one at a time in order of where they are sitting. The teacher will follow the directions exactly as they are stated.
 
-For example: If the direction is stated as “Turn right” the teacher should spin in place clockwise until the next student tells them to “Stop.”
+For example: If the direction is stated as “Turn right”, the teacher should spin in place clockwise until the next student tells them to “Stop.”
 
-## Independent practice ("You do")
+## Independent Practice ("You Do")
 
-Students then break up into groups of two’s, one human and one robot. The human in the group will provide directions to the robot, WITHOUT LOOKING, to draw a smiley face. The robot will then draw as it is instructed to. 
+Students then break up into groups of two, one human and one robot. The human in the group will provide directions to the robot, WITHOUT LOOKING, to draw a smiley face. The robot will then draw as it is instructed to. 
 
-## Closing/ Homework
+## Closing/Homework
 
 Today for homework you are going to complete a similar process that will be acted out in class tomorrow. Write directions, for a robot, to fold a paper airplane.
 
