@@ -32,10 +32,10 @@ Students should only start this project after they have completed the other less
 Introduce the [CSS Zen Garden](http://www.csszengarden.com/). Explain that as developers you always want to test your skills and create new things. Be sure to showcase some of the various submissions and highlight how this is all based on the same starter code. Today's project will be our version of the CSS Zen Garden.
 
 
-###Introduction to New Material (I Do)
+###Introduction to New Material ("I Do")
 Walk students through the process of accessing the starter code and pasting it into the appropriate fields on [JSBin](http://jsbin.com). Review some of the styling tags they have learned in the previous lessons. Emphasize that they must keep the text and images since this project is based on design and ***not*** content.
 
-###Independent Practice (You Do)
+###Independent Practice ("You Do")
 It's build time!  Students will work alone on this project. The teacher's role will be to walk around the room helping students with any questions they have. Students are encouraged to look at previous lessons for reference.
 
 ###Extension Activity
