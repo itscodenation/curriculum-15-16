@@ -1,4 +1,4 @@
-#Session 1 - Command Line
+#Lessonse 1 - Command Line Basics
 
 ![image](http://i.imgur.com/FJ5Hsq0.jpg)
 
@@ -126,7 +126,7 @@ This information can also be found in slide 8 of the [Presentation Slides](https
 
 #### Exit Ticket
 
-Give [exit ticket](assessments/exit_ticket.md) quiz.
+Give [exit ticket](assessments/exit_ticket.md).
 
 ### Closing
 
@@ -138,7 +138,7 @@ This project is not required to be submitted as projects in the past have been. 
 
 #### Homework
 
-There is no homework for this session. However, it is at the discretion of the teacher to assign the [next session](../2-terminus/README.md) for homework if they would like.
+There is no homework for this lesson. However, it is at the discretion of the teacher to assign the [next lesson](../2-terminus/README.md) for homework if they would like.
 
 
 ## After Class
