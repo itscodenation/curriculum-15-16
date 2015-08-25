@@ -3,9 +3,9 @@
 ##Synopsis
 This unit introduces linking pages, creating relative links, images, and creating forms.
 
-##Sessions
+##Lessons
 
-1. [Linking using the A tag](sessions/1-pagesStyles)
+1. [Linking Pages](sessions/1-linkingPages)
 2. [Style and Script](sessions/2-styleScript)  
    [Project: About Me](sessions/3-project-aboutMe)
 
