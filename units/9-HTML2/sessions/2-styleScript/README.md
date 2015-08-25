@@ -17,7 +17,7 @@ Students will be able to link style and script sheets to their website.
 ### Assessment
 
 1. Complete the Do Now activity, located in slide 2 of the [Presentation Slides](https://docs.google.com/presentation/d/1Gmr5jvEr1HL0Nh4zy1JYdh244xz2W8o2c5uii_NATcI/edit?usp=sharing) 
-2. Write an Exit Ticket based off [assessments from current lesson](exit_ticket/).
+2. Write an Exit Ticket based off [assessments from current lesson](exit_ticket.md).
 
 Students will show progress toward reaching the objective based on their performance on the Exit Ticket.
 
