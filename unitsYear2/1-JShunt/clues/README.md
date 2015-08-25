@@ -13,7 +13,7 @@ These programs must be completed in either jsBin or cloud9.
 | 3 | img.html | ...has two images stacked on top of each other. Each image must have text under it. | 3 | 
 | 4 | div.html | ...has an image and text. The image must be in a div with the class "image" and the text must be in  a div with the ID "text".| 3 | 
 | 5 | MyFirstWebsite  | ...contains four webpages; index.html, page1.html, page2.html, page3.html. Each webpage must have a title and one line of identifying text. | 5 | 
-| 6 | style.css  | ...Center the text on all four webpages using a link to a stylesheet. | 2 | 
+| 6 | style.css  | ...center the text on all four webpages using a link to a stylesheet. | 2 | 
 | 7 | MySite  | ...has a home page with your picture and text. The site also needs three linked pages with text. | 4 | 
 | 8 | Style it!  | ...improves the site created in clue 7 to include all of the following styles: font-family, font-size, background, color, padding and margin.    | 5 | 
 
@@ -32,7 +32,7 @@ These programs must be completed in either jsBin or cloud9.
 | 7 | madlibs3.js  | ...asks for three parts of speech (ex: noun) then prints out a story using all three items.| 4 |
 | 8| msPotato.js|  ...has a variable called "msPotato" and is set to the string "I'm packing your angry eyes." Print the string.  | 1 |
 | 9a| length |...prints out the length of the string. |2 |
-| 9b | nose  | ...replaces the word shoes with "nose".| 2 |
+| 9b | nose  | ...replaces the word "shoes" with "nose".| 2 |
 | 10 | roman.js  | ...can convert any integer from 1-1000 into a roman numeral.| 10 |  
 
 
@@ -41,8 +41,8 @@ These programs must be completed in either jsBin or cloud9.
 | Clue  | Name | Create a program that... | Points | 
 |-------|:-------:|------|--------------|
 | 1 | scriptEdLove.js | ...asks if you love ScriptEd and responds either "Yay!" or "Boo!" | 2 | 
-| 2 | iceCream.js | ...asks what your favorite ice cream is and responds either "Yay! Chocolate" or "Boo! Vanilla" or "Huh?" | 2 | 
-| 3 | class.js | ...asks a student what grade they are in and responds with "You are a Freshman", Sophomore, Junior or Senior. | 3 |
+| 2 | iceCream.js | ...asks what your favorite ice cream is and responds with either "Yay! Chocolate" or "Boo! Vanilla" or "Huh?" | 2 | 
+| 3 | class.js | ...asks a student what grade they are in and responds with "You are a Freshman", "Sophomore", "Junior" or "Senior". | 3 |
 | 4 | grade.js | ...can convert a test grade (1-100) to a letter grade (A-F). | 10|
 
 ####JavaScript: Loops
@@ -59,7 +59,7 @@ These programs must be completed in either jsBin or cloud9.
 
 | Clue  | Name | Create a program that... | Points | 
 |-------|:-------:|------|--------------|
-| 1 | colors.js | ...has an array called colors and consists of 4 colors. | 2 | 
+| 1 | colors.js | ...has an array called "colors" and consists of 4 colors. | 2 | 
 | 2 | colorPicker.js | ...prints the third color in your array. | 2 | 
 | 3 | colorLoop.js | ...loops through your array one index at a time based on button clicks. | 5 | 
 | 4 | 99bottles.js | ...counts down from 99 to 1 repeating the string "# bottles of milk on the wall, # bottles of milk". | 4 | 
@@ -78,6 +78,6 @@ These programs must be completed in either jsBin or cloud9.
 
 | Clue  | Name | Create a program that... | Points | 
 |-------|:-------:|------|--------------|
-| 1 | Follow | Follow one of the teachers on GitHub | 2 | 
+| 1 | Follow | Follow one of the teachers on GitHub. | 2 | 
 | 2 | Fork | Fork an instructor's repo and add a .txt file with your name in it. | 3 | 
 | 3 | Pull | Send a pull request to the instructor. | 2 |
