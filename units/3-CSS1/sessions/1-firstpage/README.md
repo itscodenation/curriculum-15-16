@@ -3,8 +3,8 @@
 
 
 ## Before class
----
-###Teacher Preperation
+###Teacher Preparation
+
 * Review what was covered last lesson to understand the level of skill students have with HTML. 
 
 
@@ -13,14 +13,14 @@
 * Students will be able to create a page using semantic HTML5 elements. 
 
 
-### Key points
+### Key Points
 
 * There are some special HTML elements used for organizing content (this is called layout).
 * By themselves, these elements don't do much. They need CSS for styling and positioning.
 
 ### Assessment
 
-1. Review each student’s webpage after class 
+1. Review each student’s webpage after class. 
 
 ### Vocabulary
 
@@ -35,15 +35,14 @@
 * <http://learnlayout.com/>
 
 
-## During class
+## During Class
 
-### Do-now
+### Do Now
 
 1. Volunteer takes attendance. [Procedure found here](https://docs.google.com/document/d/19IIhqykr70vj7wnqyJYuQNTkd9GX56Xgl3omD42IcMk/edit).
-2. Ask students to complete the following **on paper**:
-  * Draw a simple layout for a webpage about yourself. This drawing should made exactly as you would see it on a desktop browser.
+2. Ask students to complete the following **on paper**: Draw a simple layout for a webpage about yourself. This drawing should made exactly as you would see it on a desktop browser.
 
-## Opening
+### Opening
 
 "We have asked everyone to draw their website layout on a piece of paper. Now let's compare what everyone came up with." Ask some of the following questions to see how content structure and positioning compared between students.
 
@@ -51,7 +50,7 @@
 * Does your website have a header? A footer?
 * Where is the main content located?
 
-## Introduction of new material (“I Do”)
+### Introduction to New Material (“I Do”)
 
 "Layout means organizing the content on your website into different areas. Many websites use the same sections on their websites: a header, a footer, a main content area, and sometimes a sidebar. HTML has some tags that are used just for these sections."
 
@@ -67,7 +66,7 @@ The Main tag `<main>` is used for the main content on your website. What is your
 **Aside**
 The Aside tag `<aside>` is used for your website's sidebar (if you have one). This might have some additional information that isn't as important as what goes in the Main tag, like fun facts or links to other sites. 
 
-## Guided practice ("We do")
+### Guided Practice ("We Do")
 
 "Now that we've gone over the main HTML tags that you can use to make your webpage layout, let's try making a webpage using these tags." 
 
@@ -100,21 +99,19 @@ Finally create a footer tag and put the date in it.
 
 Now when everyone looks at their webpage, point out that even though we used these tags, they don't have any style or layout. They just appear right on top of each other. That's because we need to add some CSS/styling in order to put these sections where we want them to go, and to make them look like how we want.
 
-## Independent Practice (“You Do”)
+### Independent Practice (“You Do”)
 
 Students are now tasked to add tags and manipulate the page created in the "We Do" for the rest of class. The focus should be challenging the students to use tags learned in previous lessons.
 
 
-## Closing/ Homework
+### Closing
 “Today we learned about layout and started planning what our webpages will look like. What is layout and why is it important? What are some HTML tags that help us create a layout?”
 
-## Check for understanding
 Students must share their site with the teacher for your review.
 
-##Homework
+###Homework
 Encourage students to log into their JSBin account at home and use w3schools to learn anything they can outside of class.
  
 ## After Class
 * Take a quick look at each webpage project from today. Students who were not able to create the page should be asked to recreate it, with teacher’s help, next class.
 * Prepare for next lesson / hand off to next volunteer in rotation.
-
