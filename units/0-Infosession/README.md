@@ -11,11 +11,9 @@ Students will learn what to expect from being a part of the ScriptEd program, fi
 ##Standards
 
 ####English Standards
-**CCSS.ELA-Literacy.L9.-10.1**  
 [CCSS.ELA-LITERACY.L9-10.1](http://www.corestandards.org/ELA-Literacy/L/9-10/1/)
 
 Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.
-
 
 [CCSS.ELA-LITERACY.L.9-10.1.B](http://www.corestandards.org/ELA-Literacy/L/9-10/1/b/)  
 
