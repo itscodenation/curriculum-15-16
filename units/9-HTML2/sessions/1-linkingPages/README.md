@@ -9,8 +9,7 @@ Students will be able to create a website with multiple pages using the `<a>` ta
 
 ### Key Points
 
-* Page hierarchy and organization
-
+* An `<a>` tag links multiple pages of a website together
 
 ### Assessment
 
@@ -44,16 +43,16 @@ Students will show progress toward reaching the objective based on their perform
 
 Discuss the answers of the Do Now with the class (slide 2 of the [Presentation Slides](https://docs.google.com/presentation/d/1UrFnBtRbk9eC1E2MLhRjkpvi4-4tREXmK3v2ps_kVqc/edit?usp=sharing)). 
 
-Explain that today they will be learning about the **A tag.** The **A tag** allows us to link multiple pages of a website together.
+Explain that today they will be learning about the `<a>` tag.** The `<a>` tag allows us to link multiple pages of a website together.
 
-Until now all of our websites have only been one page. Also, JS Bin has been **linking** the CSS and JS files together for us. We will learn how to solve these issues over the next 2 lessons. 
+Until now, all of our websites have only been one page. Also, JS Bin has been **linking** the CSS and JS files together for us. We will learn how to solve these issues over the next 2 lessons. 
 
 ### Introduction to New Material (“I Do”)
 #####What is the `<a>` Tag? (slide 4)
 
-The **A tag (anchor tag)** is used with a short term `href` (stands for hyper reference) to **link** pages together for the developer.
+The `<a>` tag (anchor tag)** is used with a short term `href` (stands for hyper reference) to **link** pages together for the developer.
 
-You will notice the line of code on page 4 will create hyperlink on the webpage with the text "Go to ScriptEd".
+You will notice the line of code on page 4 will create hyperlink on the webpage with the text "Go to ScriptEd."
 
 #####Linking Local Pages (slide 5)
 
@@ -103,7 +102,7 @@ Students must push their code to their GitHub repo using the following commands 
 `git commit -m "example comment"`  
 `git push origin master`
 
-This project does not  have to be share with the instructors yet.
+This project does not  have to be shared with the instructors yet.
 
 
 #### Exit Ticket
