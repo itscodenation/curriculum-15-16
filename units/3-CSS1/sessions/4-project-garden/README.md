@@ -6,7 +6,7 @@
 ##Before Class
 
 ###Teacher Preparation 
-* Familiarize yourself with [CSS Zen Garden](http://www.csszengarden.com/)
+* Familiarize yourself with [CSS Zen Garden](http://www.csszengarden.com/).
 * Decide on how to best distribute [starter code](starter-code) to students.
 
 
@@ -49,6 +49,5 @@ Teachers should keep track of student success while they are presenting to the c
 
 ###How to Submit Project
 The students must export this project as a Gist.
-File > Export as Gist
-
-The teacher must ask students to share the link to their project at [bit.ly/ScriptEdProjects](https://bit.ly/ScriptEdProjects).
+**File > Export as Gist
+**The teacher must ask students to share the link to their project at [bit.ly/ScriptEdProjects](https://bit.ly/ScriptEdProjects).
