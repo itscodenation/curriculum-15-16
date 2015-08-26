@@ -19,7 +19,7 @@
 
 ### Assessment
 
-1. Students will create a program in Scratch that uses If/Else statements
+1. Students will create a program in Scratch that uses If/Else statements.
 
 
 ### Vocabulary
