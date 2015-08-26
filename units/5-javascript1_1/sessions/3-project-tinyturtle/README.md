@@ -1,4 +1,4 @@
-Project 1: Tiny Turtle
+Project #1: Tiny Turtle
 ==========
 ![image](http://i.imgur.com/dFYyMbH.png)
 
