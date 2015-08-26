@@ -119,7 +119,7 @@ Great! The Tiny Turtle can now move in a square but there is only one problem. T
 A function stores information. In the example of the square function, how were we able to save time and confusion by using the function?
 
 ### Homework
-Students are encouraged to take a lcose look at the Tiny Turtle Library and see if they can manipulate any part of it.
+Students are encouraged to take a close look at the Tiny Turtle Library and see if they can manipulate any part of it.
 
 
 ## After Class
