@@ -51,7 +51,7 @@ What's CSS? How is it different than HTML? What's a CSS `class`? How about `id`?
 
 ####Getting Started
 
-**Bootstrap** is a CSS and JavaScript library written by former Twitter employees. A **software library** is a body of code that others have written to make our lives easier. Rather than writing our own CSS which takes time, we can use Bootstrap's styles in our HTML pages. 
+**Bootstrap** is a CSS and JavaScript **library** written by former Twitter employees. A **software library** is a body of code that others have written to make our lives easier. Rather than writing our own CSS which takes time, we can use **Bootstrap**'s styles in our HTML pages. 
 
 Think of **Bootstrap**, or all coding libraries, as a reference table. Someone has already written the code or provided a formula, but it is up to you to use the information properly.
 
@@ -59,7 +59,7 @@ For this unit, we will only look at the CSS aspects of Bootstrap.
 
 ####Installation
 
-First, we need to bring Bootstrap into our project. We do this by copying the Content Delivery Network (or CDN) to a `<link>` tag in the ``<head>...</head>`` section of our page. Since I can't remember the Bootstrap CDN, I am going to do a Google search for Bootstrap CDN.
+First, we need to bring **Bootstrap** into our project. We do this by copying the **Content Delivery Network (or CDN)** to a `<link>` tag in the ``<head>...</head>`` section of our page. Since I can't remember the **Bootstrap CDN**, I am going to do a Google search for **Bootstrap CDN**.
 
 ![Imgur](http://i.imgur.com/MgMIGZz.png)
 
@@ -97,13 +97,13 @@ Our HTML code should look something like this:
 </html>
 ```
 
-The button is just one example to what Bootstrap can do. There are many other things Bootstrap can do that are all time-saving and have a modern look.
+The button is just one example to what **Bootstrap** can do. There are many other things **Bootstrap** can do that are all time-saving and have a modern look.
 
 
 ### Guided Practice ("We Do")
 ####Modifying the Appearance of Text
 
-Bootstrap has many styles for controlling the appearance of text. Let's explore the "Alignment Classes" Bootstrap has to offer.  You'll notice by adding a specific type of `class` to a piece of text you change how the text will appear on the page.  
+**Bootstrap** has many styles for controlling the appearance of text. Let's explore the "Alignment Classes" **Bootstrap** has to offer.  You'll notice by adding a specific type of `class` to a piece of text you change how the text will appear on the page.  
 
 ```
 <html>
@@ -121,21 +121,21 @@ Bootstrap has many styles for controlling the appearance of text. Let's explore 
 
 ### Independent Practice ("You Do")
 
-Make your own webpage using Bootstrap. Your Webpage will be about four colleges you would like to apply to. This page will be called `college.html` and wlll be in your first-bootstrap-site workspace.    
+Make your own webpage using **Bootstrap**. Your Webpage will be about four colleges you would like to apply to. This page will be called `college.html` and wlll be in your first-bootstrap-site workspace.    
 
 Your page must include the following:
 
 1. A table with each of the four colleges, the college's location, tuition and desired major.
-2. Below the table is a button for each school that links directly to the college's website.
-3. Text that descibes what the site is about. 
+2. Below the table, add a button for each school that links directly to the college's website.
+3. Include ext that descibes what the site is about. 
 
-### Exit ticket
+### Exit Ticket
 
 Give the [Exit Ticket](assessments/exit_ticket.md).
 
 ### Closing
 
-Today, you learned about Bootstrap. How is Boostrap connected to previously? Why is this important? [Possible student response: This is important because Bootstrap allows us to create clean and elegant HTML without writing additional CSS.]
+Today, you learned about **Bootstrap.** How is **Boostrap** connected to what you learned previously? Why is this important? [Possible student response: This is important because Bootstrap allows us to create clean and elegant HTML without writing additional CSS.]
 
 ### Homework
 
