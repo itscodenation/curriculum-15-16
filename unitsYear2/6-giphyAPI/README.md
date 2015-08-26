@@ -10,17 +10,17 @@ You have just been hired by Holy GIF-amoly! LLC. For your first project you have
 ##Project Criteria
 Your Manager has laid out the following requirements for the project: 
 
-* All source code for this app must be in your own GitHub repository.
-* The webapp must use the Giphy API (see references).
-* The webapp must consist of an input field, a submit button and a reset button.
-* When the user clicks the submit button, three relevant gifs will appear on the page.
-* When the user cliks the reset button, the system shall clear the gifss and search bar of any text.
+* All source code for this app must be in your own GitHub repository
+* The webapp must use the Giphy API (see references)
+* The webapp must consist of an input field, a submit button and a reset button
+* When the user clicks the submit button, three relevant gifs will appear on the page
+* When the user cliks the reset button, the system shall clear the gifs and search bar of any text
 
 
 ##Learning Objectives
 By the end of this project the employee will be able to...
 
-* Create a fully functioning API webapp from scratch.
+* Create a fully functioning API webapp from scratch
 
 
 ##References/Tools
@@ -40,18 +40,18 @@ By the end of this project the employee will be able to...
 Your Manager is impressed with the past work you have completed at your last jobs. You are not given any Starter Code. For information on how to build this webapp look at the project criteria portion of this page.
 
 ##Bonus Criteria 
-Your Manager has offered a stipend of $500 for each of the bonus requirements listed below:  
+Your manager has offered a stipend of $500 for each of the bonus requirements listed below:  
 
-* Instead of displaying the most relevant gifs to the search topic each shoud shall display three random gifs tagged with the search topic.
+* Instead of displaying the most relevant gifs to the search topic, each should shall display three random gifs tagged with the search topic
 * Add a random button to your page to display a random topic of gifs. 
 
 ***
 
 ##Grading Criteria
-Your manager will be grading your capibility on this project based on [this rubric](assessment.md)
+Your manager will be grading your capability on this project based on [this rubric](assessment.md).
 
 ##How to Submit
-The final code for this project must be pushed back up to your repo on GitHub. **Then share the link to their repo at bit.ly/ScriptEdProjects**
+The final code for this project must be pushed back up to your repo on GitHub. **Then share the link to your repo at bit.ly/ScriptEdProjects**
 
 To push to GitHub run the following commands in your terminal:  
 `git status`  
