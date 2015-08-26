@@ -243,7 +243,7 @@ Write a function that simulates the rolling of a 9 sided die.
 
 ### Exit Ticket
 
-Give [exit-ticket quiz](assessments/2/question).
+Give [exit-ticket quiz](assessments/2/question.md).
 
 ### Closing
 
