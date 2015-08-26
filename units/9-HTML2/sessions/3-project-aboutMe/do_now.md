@@ -1,4 +1,4 @@
-Do now:
+Do Now:
 
 Check out the personal websites of these two college students.
 
