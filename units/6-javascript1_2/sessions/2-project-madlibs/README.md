@@ -1,4 +1,4 @@
-# Madlibs
+# Project #2: Madlibs
 
 ![image](http://i.imgur.com/7HUunNK.jpg)
 
