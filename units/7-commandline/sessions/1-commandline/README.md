@@ -56,7 +56,7 @@ The **terminal** is a place where we talk to a computer. In the terminal, we iss
 
 The Basics are covered in slides 2-6 of the [Presentation Slides](https://docs.google.com/presentation/d/1B1waYai67ysg7eqhc9Mm1O6fG7XO_WIPkCZxOiwyhj4/edit?usp=sharing).
 
-##### Directory
+#### Directory
 
 When I open Cloud9 and click on Window->New Terminal, I see something like:
 
@@ -69,7 +69,7 @@ Let's focus on the blue text. It says:
 ```
 This is the current **directory** (or path) that I am in. A directory is a way to locate a file or folder. In this case, I am in the "workspace" folder which is inside the "ubuntu" folder which is inside the "home" folder. 
 
-##### Running a Command
+#### Running a Command
 
 I'm going to go back to Cloud9 and type in the command ``pwd``. After this, I press the "Enter" key. 
 
@@ -91,7 +91,7 @@ dopeboy@demo:/home/ubuntu/workspace $
 ```
 The `ls` command lists all the files and folders in the directory that I am in. In my case, I have three files.
 
-##### Copy a File
+#### Copy a File
 
 How do we copy a file?
 
@@ -123,7 +123,7 @@ Let's take some time to complete the file directory you created in the Do Now. W
 This information can also be found in slide 8 of the [Presentation Slides](https://docs.google.com/presentation/d/1B1waYai67ysg7eqhc9Mm1O6fG7XO_WIPkCZxOiwyhj4/edit?usp=sharing). 
 
 
-#### Exit Ticket
+### Exit Ticket
 
 Give [exit ticket](assessments/exit_ticket.md).
 
@@ -135,7 +135,7 @@ Today, you learned about the command line. This is important because the command
 ###How to Submit
 This project is not required to be submitted as projects in the past have been. Students may save this workspace in their Cloud9 account.
 
-#### Homework
+### Homework
 
 There is no homework for this lesson. However, it is at the discretion of the teacher to assign the [next lesson](../2-terminus/README.md) for homework if they would like.
 
