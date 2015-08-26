@@ -131,7 +131,7 @@ Students are encouraged to take a lcose look at the Tiny Turtle Library and see 
 ---
 ---
 ---
-##### More Information on Tiny Turtle
+### More Information on Tiny Turtle
 
 **TinyTurtle** is a minimalist [Turtle Graphics][] implementation using
 the [Canvas element][], consisting of about 60 lines of JavaScript code.
