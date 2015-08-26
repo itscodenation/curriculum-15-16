@@ -2,7 +2,7 @@
 ![Imgur](http://i.imgur.com/KHjHAfe.png)
 
 ##Do Now 
-Begin this session by completing the [Do Now](doNow.md) activity.
+Begin this lesson by completing the [Do Now](doNow.md) activity.
 
 ##Scope
 After interning at a bunch of different companies and then landing a great job you've decide you would like to be your own boss.  
@@ -11,7 +11,7 @@ You and your business partners are going to start your own company.
 ##Project Criteria
 You can choose to complete this project by yourself or in a team of up to 3 people.
 
-If you have a side project you have been wokring on consider developing that out farther. If you do not have a side project you will need to think of a company you would liek to start.
+If you have a side project you have been working on consider developing that out farther. If you do not have a side project you will need to think of a company you would like to start.
 
 
 ##References/Tools
@@ -38,7 +38,7 @@ Who is going to work on the different aspects of this WebApp?
 ##How to Submit
 Push to your GitHub and promote to friends and family! Also be sure to add this to your portfolio page.
 
-The final code for this project must be pushed back up to your repo on GitHub. **Then share the link to their repo at bit.ly/ScriptEdProjects**
+The final code for this project must be pushed back up to your repo on GitHub. **Then share the link to your repo at bit.ly/ScriptEdProjects**
 
 To push to GitHub run the following commands in your terminal:  
 `git status`  
