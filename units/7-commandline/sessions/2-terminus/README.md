@@ -14,10 +14,9 @@ Students will be able to navigate the Terminus Game while building their skills 
 
 ### Assessment
 
-1. Complete the [Do Now](assessments/do_now.md). 
-2. Complete the [Exit Ticket](assessments/exit_ticket.md).
-
-Students will show progress toward reaching the objective based on their performance on the Exit Ticket. No project needs to be submitted.
+1. [Do Now](assessments/do_now.md)
+2.[Exit Ticket](assessments/exit_ticket.md)
+3. Students will show progress toward reaching the objective based on their performance on the Exit Ticket. No project needs to be submitted.
 
 ### Vocabulary
 
