@@ -2,13 +2,13 @@
 
 ![image](http://i.imgur.com/hd7SiOs.jpg)
 
-## Before class
+## Before Class
 
-### Objective
+### Daily Objective
 
 Students will able to call and create functions in JavaScript.
 
-### Key points
+### Key Points
 
 * A function is a block of code that performs a task. To use a function, you must call it. 
 * A parameter is a value or variable that is passed into a function. The function uses this variable to help perform its task.
@@ -17,9 +17,6 @@ Students will able to call and create functions in JavaScript.
 
 ### Assessment
 
-1. Write do-now based off of [assessments from previous lesson](../../lessons/1-variable/assessments/).
-2. Write exit-ticket based off [assessments from current lesson](assessments/).
-
 Students will show progress toward reaching the objective based on their performance on the exit-ticket quiz.
 
 ### Vocabulary
@@ -27,8 +24,8 @@ Students will show progress toward reaching the objective based on their perform
 * Function
 * Call
 * Body
-* Open/close parenthesis
-* Open/close curly brace
+* Open/close parentheses
+* Open/close curly braces
 * Parameter
 * Prompt
 * Input
@@ -40,18 +37,16 @@ Students will show progress toward reaching the objective based on their perform
 
 ### References
 
-* https://docs.google.com/presentation/d/1CAMz_T9qWWL6GSNx70ZtxwLm-AAN0sBgPaQMDtJ3ZD0/edit#slide=id.g11014a258_073
-* http://www.w3schools.com/js/js_functions.asp
-* https://developer.chrome.com/devtools/docs/console
-* http://www.w3schools.com/jsref/jsref_obj_math.asp
+* [Variable Slides](https://docs.google.com/presentation/d/1CAMz_T9qWWL6GSNx70ZtxwLm-AAN0sBgPaQMDtJ3ZD0/edit#slide=id.g11014a258_073)
+* Other Resources: http://www.w3schools.com/js/js_functions.asp, https://developer.chrome.com/devtools/docs/console, http://www.w3schools.com/jsref/jsref_obj_math.asp
 
-## During class
+## During Class
 
-### Do-now
+### Do Now
 
 1. Volunteer takes attendance. [Procedure found here](https://docs.google.com/document/d/19IIhqykr70vj7wnqyJYuQNTkd9GX56Xgl3omD42IcMk/edit).
-2. Return graded do-now and exit ticket from previous class
-3. Do-now quiz
+2. Return exit tickets from previous class
+3. Recap learning regarding variables from previous lesson.
 
 ### Opening
 
@@ -61,11 +56,11 @@ What's a function in math? Why do we use them?
 
 What's a washing machine? Why do we use one? Couldn't we just wash our clothes manually everytime they got dirty? What do we have to give to a washing machine in order for it to performs its task? What do we get when it is done?
 
-### Introduction of new material ("I do")
+### Introduction to New Material ("I Do")
 
-####Call an existing function
+Use the Google slides (see references above) to introduce the following material:
 
-#####Alert
+#####Call an Existing Function & Alert
 
 A **function** is a block of code that performs a task. To use a function, you must **call** it. Let's call the `alert` function:
 
@@ -73,7 +68,7 @@ A **function** is a block of code that performs a task. To use a function, you m
 alert("Squirrel!");
 ```
 
-Here, the name of the function is "alert". Notice the **open** and **closed parenthesis**; every call to a function must have both. In this case, we also specified a **parameter** to the function: the string "Squirrel!". A parameter is a variable or value that is passed to a function to help perform its job. The `alert` function takes the parameter and displays a pop-up box with the contents of what was passed to it. We can also call this parameter the **input** to the function because it is going *in* to the function. The pop-up box is the **output** to the function because it is the result of it.
+Here, the name of the function is "alert". Notice the **open** and **closed parentheses**; every call to a function must have both. In this case, we also specified a **parameter** to the function: the string "Squirrel!". A parameter is a variable or value that is passed to a function to help perform its job. The `alert` function takes the parameter and displays a pop-up box with the contents of what was passed to it. We can also call this parameter the **input** to the function because it is going *in* to the function. The pop-up box is the **output** to the function because it is the result of it.
 
 The `alert` function was written by someone else. We don't know how it works and we don't need to. This makes our life easier because everytime we want to make a pop-up box with text in it, we don't have to recreate the wheel. Someone else did the hard work for us. 
 
@@ -105,7 +100,7 @@ console.log(dozen);
 
 Here, the input to the function is a variable. The variable has a number type. This will print out `12` to the console.
 
-#####Random number
+#####Random Number
 
 JavaScript comes with a library of math related functions. One important one is the `random()` function. It enables us to generate a random number. 
 
@@ -141,11 +136,11 @@ To save code, we can actually represent those five lines in one:
 console.log(Math.floor((Math.random() * 6) + 1));
 ```
 
-####Create a function
+#####Create A Function
 
 We know how to call functions that other people wrote. Now we will learn how to write our own functions.Let's look at a simple one:
 
-#####Without parameters
+#####Without Parameters
 
 ```
 function sayHi()
@@ -162,7 +157,7 @@ console.log(sayHi());
 
 Here, we would see `"Hello!"` print in the console. 
 
-#####With parameters
+#####With Parameters
 
 Let's look at a function with a parameter:
 
@@ -182,11 +177,11 @@ console.log(incrementByOne(10));
 
 We would see `11` printed out to the console.
 
-####Scope
+#####Scope
 
 **Scope** refers to where a variable is usable. Let's look at three different scenarios.
 
-#####Global scope
+#####Global Scope
 
 ```
 var x = "Avada Kadavra";
@@ -199,7 +194,7 @@ function castSpell()
 
 Here, the `x` variable is in the global scope. Therefore, a call to the `castSpell` function will print `Avada Kadavra` to the console.
 
-#####Local scope (1)
+#####Local Scope (1)
 
 ```
 var x = "Avada Kadavra";
@@ -213,7 +208,7 @@ function castSpell()
 
 Here, the `x` variable on line 5 is in the local scope. Therefore, a call to the `castSpell` function will print `Expecto Patronum` to the console.
 
-#####Local scope (2)
+#####Local Scope (2)
 
 ```
 var x = "Avada Kadavra";
@@ -228,7 +223,7 @@ castSpell("Expelliarmus");
 
 Here, the `x` variable on line 3 is a parameter and thus, in the local scope. Therefore, a call to the `castSpell` function will print `Expelliarmus` to the console.
 
-### Guided practice ("We do")
+### Guided Practice ("We Do")
 
 I want to write a function that converts meters to feet.
 
@@ -237,7 +232,7 @@ I want to write a function that converts meters to feet.
 3. What's an appropriate name for our function?
 4. We've completed the prep work. Let's write the function together.
 
-### Independent practice ("You do")
+### Independent Practice ("You Do")
 
 Write a function that simulates the rolling of a 9 sided die.
 
@@ -246,26 +241,16 @@ Write a function that simulates the rolling of a 9 sided die.
 3. What's an appropriate name for your function?
 4. You've completed the prep work. Write the function in JavaScript. Call it a couple times to ensure it works correctly.
 
-#### Exit ticket
+### Exit Ticket
 
-Give exit-ticket quiz.
+Give [exit-ticket quiz](assessments/2/question).
 
 ### Closing
 
 Today you learned about how to call and create functions in JavaScript. This is important because functions let us package code that we can reuse over and over again. Others have written functions that we can use in our programs. We can also create functions to reuse in our own programs. Next, we will learn about pseudo-code and code commenting.
 
-#### Homework
 
-[Link to homework](homework/)
+## After Class
 
-[Link to homework solution (private)](https://github.com/ScriptEdcurriculum/solutions/tree/master/units/5-javascript/lessons/2-function/homework/solution_code)
-
-Remind students when homework is due and how it will be collected.
-
-## After class
-
-* Grade do-now & exit-ticket. Record in class spreadsheet.
+* Review student exit tickets. 
 * Prepare for next lesson / hand off to next volunteer in rotation.
-
-
-
