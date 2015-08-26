@@ -76,12 +76,12 @@ Our HTML code should look something like this:
   </body>
 </html>
 ```
-Please note the link where the Bootstrap CSS file is located. Another website is hosting this file for us. This is convenient because we don't have to download the file and store it in our own project.
+Please note the link where the **Bootstrap** CSS file is located. Another website is hosting this file for us. This is convenient because we don't have to download the file and store it in our own project.
 
 ####Adding a Button
 
-Let's take a look at adding a single element to our page using Bootstrap. We would like to add a button.  
-To add the button, we need to find the `class` name Bootstrap has given it. So if we navigate to the button section of [getbootstrap.com/css](getbootstrap.com/css), we will notice Bootstrap has provided me with a line of code that we can put in my HTML page to have a stylish button. 
+Let's take a look at adding a single element to our page using **Bootstrap**. We would like to add a button.  
+To add the button, we need to find the `class` name **Bootstrap** has given it. So if we navigate to the button section of [getbootstrap.com/css](getbootstrap.com/css), we will notice **Bootstrap** has provided me with a line of code that we can put in my HTML page to have a stylish button. 
 
 Our HTML code should look something like this:
 
