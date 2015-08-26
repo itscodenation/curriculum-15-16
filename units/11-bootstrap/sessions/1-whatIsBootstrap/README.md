@@ -43,7 +43,7 @@ Students will be able to use the basics of Bootstrap's CSS offerings.
 
 ### Opening
 
-Today, we will learn about **Bootstrap**. This is important because **Bootstrap** lets us create simple and clean-looking web pages without spending a lot of time. It connects to what we've previously learned because we will able to use CSS class attributes written by others to style our pages.
+Today, we will learn about **Bootstrap**. This is important because **Bootstrap** lets us create simple and clean-looking web pages without spending a lot of time. It connects to what we've previously learned because we will able to use CSS `class` attributes written by others to style our pages.
 
 What's CSS? How is it different than HTML? What's a CSS `class`? How about `id`? When do we use one versus the other?
 
