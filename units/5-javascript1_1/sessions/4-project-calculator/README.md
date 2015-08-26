@@ -1,4 +1,4 @@
-# Project 2: Calculator
+# Project #2: Calculator
 
 ![image](http://i.imgur.com/hbZ3reC.jpg)
 
