@@ -19,7 +19,7 @@ Your Manager has laid out the following requirements for the project:
 By the end of this project the employee will be able to...
 
 * Obtain a Client ID by registering their application with SoundCloud
-* Initializa their application using SC.initialize
+* Initialize their application using SC.initialize
 * Get information from an API using SC.get
 * Use jQuery to append text to an HTML page
 
@@ -43,7 +43,7 @@ By the end of this project the employee will be able to...
 
 You are not given any Starter Code for this project. However, your manager has provided you with some useful direction to complete this project. Follow the step-by-step instructions below. 
 
-Although these directions do not provide all the answers for this project they do provide you with the guidance you will need to make this project.
+Although these directions do not provide all the answers for this project, they do provide you with the guidance you will need to make this project.
 
 ###1) Create a GitHub repo and C9 workspace for this project
 This should have already been completed during the [Do Now](doNow.md).
@@ -84,7 +84,7 @@ You are finally ready to start placing text in the form of API references in you
 ####Bonus) 
 Your Manager has offered a stipend of $500 for each of the bonus requirements listed below:  
 
-* Display information about the user next to information about the track. Use the [SoundCloud Developers Guide](developers.soundcloud.com/docs/api/guide) for this documentation.
+* Display information about the user next to information about the track. Use the [SoundCloud Developers Guide](developers.soundcloud.com/docs/api/guide) for this documentation
 * Stream a song matching the genre selected. Use the [SoundCloud Developers Guide](developers.soundcloud.com/docs/api/guide) for this documentation.  
 
 ***
