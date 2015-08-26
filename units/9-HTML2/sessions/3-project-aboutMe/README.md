@@ -4,7 +4,7 @@
 
 ##Overview
 
-This project involves the students creating a 4-page website about themselves. Students will style these pages using a common styles heet.
+This project involves the students creating a 4-page website about themselves. Students will style these pages using a common style sheet.
  
 ##Before Class
 
