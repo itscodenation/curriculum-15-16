@@ -83,7 +83,7 @@ Encourage students to take this task even further by adding images and more styl
 
 #### Exit Ticket
 
-Give the Exit Ticket.
+Give the [Exit Ticket](assessments/exit_ticket.md).
 
 ###Closing
 Today you learned about how to use the `<div>` tag, with `id` and `class` attributes. Why is this important? How is `id` different than `class`? Why would you choose to use `class` instead of `id`? 
