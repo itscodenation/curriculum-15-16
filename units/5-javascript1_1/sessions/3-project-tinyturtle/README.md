@@ -131,7 +131,7 @@ Students are encouraged to take a lcose look at the Tiny Turtle Library and see 
 ---
 ---
 ---
-# More Information on Tiny Turtle
+##### More Information on Tiny Turtle
 
 **TinyTurtle** is a minimalist [Turtle Graphics][] implementation using
 the [Canvas element][], consisting of about 60 lines of JavaScript code.
@@ -144,7 +144,7 @@ not need any JavaScript experience.
 The implementation is kept as minimal as possible so that learners are
 encouraged to view its source, understand it, and build upon it.
 
-### Basic Usage
+##### Basic Usage
 
 For absolute beginners, the `TinyTurtle` constructor can be applied to
 the `window` object so that learners don't need to worry about lots
@@ -177,7 +177,7 @@ box(70);
 </script>
 ```
 
-### Instantiation and Chaining
+##### Instantiation and Chaining
 
 The constructor can also be instantiated to allow for
 multiple turtles to co-exist on a page, while also avoiding pollution
@@ -200,7 +200,7 @@ t.box(90).left(10).box(80).left(10).box(70);
 This hopefully allows learners to start doing interesting things in an
 incremental way.
 
-### CoffeeScript
+##### CoffeeScript
 
 The `TinyTurtle` class can also be extended in [CoffeeScript][], if one
 wishes to teach (or learn) it as an alternative to JavaScript. For 
@@ -223,7 +223,7 @@ t.left 10
 t.box 70
 ```
 
-### API
+##### API
 
 The `TinyTurtle` constructor takes only one optional argument, which is
 the [HTMLCanvasElement][] to draw on. If not present, the first canvas
@@ -272,7 +272,7 @@ the canvas.
 
 Put the pen down, so that movements by the turtle draw a path on the canvas.
 
-### Properties
+##### Properties
 
 **penStyle** (read/write)
 
@@ -306,12 +306,12 @@ properties.
 The string `up` or `down` indicating the current state of the turtle's
 pen.
 
-### Supported Browsers
+##### Supported Browsers
 
 This code has been tested on Internet Explorer 10,
 Safari 6 (desktop and iOS), Chrome 30, Opera 17, and Firefox 24.
 
-### License
+##### License
 
 Public Domain [CC0 1.0 Universal][cczero].
 
