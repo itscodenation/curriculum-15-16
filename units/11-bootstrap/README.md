@@ -1,7 +1,7 @@
 #Unit 11 - Bootstrap
 
 ##Synopsis
-This unit focuses on the styling of websites using the BootStrap framework. The student will pull from the Bootstrap framework to design websites that are medorn and responsive. 
+This unit focuses on the styling of websites using the Bootstrap framework. The student will pull from the Bootstrap framework to design websites that are modern and responsive. 
  
 ##Sessions
 
