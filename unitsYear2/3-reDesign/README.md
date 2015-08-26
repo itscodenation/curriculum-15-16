@@ -6,7 +6,7 @@
 Begin this session by completing the [Do Now](doNow.md) activity.
 
 ##Scope
-Every website on the internet was designed and wireframed by a developer of a team of developers. The website for the company you are at is no exception. Your manager has tasked you to Re-Brand the company's homepage. They believe the current homepage is dated and it is time for a new look. You have been given 1 week to complete this rebranding project.
+Every website on the internet was designed and wireframed by a team of developers. The website for the company you are at is no exception. Your manager has tasked you to re-brand the company's homepage. They believe the current homepage is dated and it is time for a new look. You have been given 1 week to complete this rebranding project.
 
 ##Project Criteria
 Your Manager has laid out the following requirements for the project: 
@@ -23,7 +23,7 @@ By the end of this project the employee will be able to...
 
 * Create and push a GitHub repository
 * Wireframe a webpage
-* Use link and implement several bootstrap components in your site
+ z* Use and implement several bootstrap components in your site
 
 ##References/Tools
 * [What is a wireframe?](https://en.wikipedia.org/wiki/Website_wireframe)
@@ -44,22 +44,22 @@ There is no Starter Code for this project. Before beginning to write code you mu
 
 ###1) Wireframe
 1. You may choose to wireframe this site with pen and paper or with a free online wireframing tool.
-2. Your wireframe must be approved by an instructor before moving onto step 2.
+2. Your wireframe must be approved by an instructor before moving on to step 2.
 
 ###2) Create a GitHub Repo
-Before you begin writing the code for this project one member of the group must first create a new repository in GitHub.   
+Before you begin writing the code for this project, one member of the group must first create a new repository in GitHub.   
 For information on how to create a new GitHub Repository see [this resource](https://help.github.com/articles/create-a-repo/).
 
 ###3) Clone your new repo into a Cloud9 account workspace
 1. Copy the "clone URL" from your new repository
 2. In your Cloud9 dashboard click on the "Create a New Workspace" button and select "Clone from URL"
-3. Give this workspace an name that is appropriate and be sure it is set to public.
+3. Give this workspace a name that is appropriate and be sure it is set to public
 4. Insert the clone URL from this repo and select a custom template
 
 Once the workspace has been processed check to be sure it is up to date by running ` git status ` in the terminal. You should receive a messege telling you that your branch is up to date.   
 ![Imgur](http://i.imgur.com/RKdsduL.png)
 
-**NOTE: It is common practice to push you changes to your GitHub repository often. It is recommended you make a push after every major change. Through the course of completing this project you should make 7-10 pushes to GitHub. Your manager will be grading you on this.**
+**NOTE: It is common practice to push your changes to your GitHub repository often. It is recommended you make a push after every major change. Through the course of completing this project you should make 7-10 pushes to GitHub. Your manager will be grading you on this.**
 
 To push to GitHub run the following commands in your terminal:  
 `git status`  
@@ -70,22 +70,22 @@ To push to GitHub run the following commands in your terminal:
 ###4) Share your Cloud9 workspace with your partner
 You and your partner can work on the code for this project at the same time using the collaboration feature in CLoud9.
 
-In order to set this up click on the "Share" Button in the top-right hand corner of your workspace
+In order to set this up click on the "Share" button in the top right-hand corner of your workspace.
 
 ###Bonus) 
 Your Manager has offered a stipend a $500 for each of the bonus requirements listed below: 
 
-* Add CSS to this project using Bootstrap. Give it it's own theme
+* Add CSS to this project using Bootstrap. Give your project it's own theme
 * Create a game with more variety in throwing opitons. Example: [Rock-Paper-Scissors-Lizard-Spock](http://en.wikipedia.org/wiki/Rock-paper-scissors-lizard-Spock) 
 ***
 
 ##Grading Criteria
-Your manager will be grading your capibility on this project based on [this rubric](assessment.md)
+Your manager will be grading your capability on this project based on [this rubric](assessment.md).
 
 ##How to Submit
-The final code for this project must be pushed back up to your repo on GitHub. **Then share the link to their repo at bit.ly/ScriptEdProjects**
+The final code for this project must be pushed back up to your repo on GitHub. **Then share the link to the repo at bit.ly/ScriptEdProjects**
 
-To push to GitHub run the following commands in your terminal:  
+To push to GitHub, run the following commands in your terminal:  
 `git status`  
 `git add .`  
 `git commit -m "example comment"`  
