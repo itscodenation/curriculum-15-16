@@ -6,18 +6,18 @@
 
 ### Daily Objective
 
-Students will be able to use the basic (create, read, update) commands in the terminal. 
+Students will be able to use the basic (create, read, update) commands in the **terminal**. 
 
 ### Key Points
 
-* A terminal is a way to talk to a computer using commands.
-* Commands specify the action you want the computer to do for you.
-* Folders can contain folders and/or files. Taken in total, this forms a file hierarchy.
+* A **terminal** is a way to talk to a computer using **commands**.
+* **Commands** specify the action you want the computer to do for you.
+* Folders can contain folders and/or files. Taken in total, this forms a **file hierarchy** or **directory structure**.
 
 ### Assessment
 
 1. [Exit Ticket](assessments/exit_ticket.md).
-2. Students will show progress toward reaching the objective based on their performance on the exit-ticket quiz.
+2. Students will show progress toward reaching the objective based on their performance on the Exit Ticket.
 
 ### Vocabulary
 
@@ -29,7 +29,6 @@ Students will be able to use the basic (create, read, update) commands in the te
 
 ### References
 
-
 * [Presentation Slides](https://docs.google.com/presentation/d/1B1waYai67ysg7eqhc9Mm1O6fG7XO_WIPkCZxOiwyhj4/edit?usp=sharing)
 * http://lifehacker.com/5633909/who-needs-a-mouse-learn-to-use-the-command-line-for-almost-anything
 
@@ -38,21 +37,21 @@ Students will be able to use the basic (create, read, update) commands in the te
 ### Do Now
 
 1. Attendance: Teacher takes student attendance.
-2. Students are logging into their Cloud 9 account and creating the file structure on slide one of the [Presentation Slides](https://docs.google.com/presentation/d/1B1waYai67ysg7eqhc9Mm1O6fG7XO_WIPkCZxOiwyhj4/edit?usp=sharing).
+2. Students are logging into their Cloud 9 account and creating the **file structure** on slide one of the [Presentation Slides](https://docs.google.com/presentation/d/1B1waYai67ysg7eqhc9Mm1O6fG7XO_WIPkCZxOiwyhj4/edit?usp=sharing).
 
 ### Opening
 
-Today, we will learn about the command line. This is important because the command line enables us to work in an environment without a visual interface. Before computers had the fancy interface or GUIs you are use to they were just terminals. 
+Today, we will learn about the **command line**. This is important because the **command line** enables us to work in an environment without a **graphical user interface** (or GUI) . Before we had the fancy interface or GUIs that you are use to seeing, there were just **terminals**. 
 
 What are files? What are folders? How do I view them in Windows? How about Mac? How do I go about copying a file? How about a folder? When I copy a folder, what happens to everything inside of it? How about if I want to rename a file? And delete a file?
 
-When we perform any of the above operations in Windows or Mac, the operating system is translating our actions into command lines. Let's take a deeper look.
+When we perform any of the above operations in Windows or Mac, the operating system is translating our actions into **command lines**. Let's take a deeper look.
 
 ### Introduction to New Material ("I Do")
 
 #### Basics
 
-The **terminal** is a place where we talk to a computer. In the terminal, we issue **commands** to the computer. These commands are instructions that we would like the computer to do for us. Typically, if the command was executed successfully, the computer will not respond with anything.
+The **terminal** is a place where we talk to a computer. In the **terminal**, we issue **commands** to the computer. These **commands** are instructions that we would like the computer to do for us. Typically, if the **command** was executed successfully, the computer will not respond with anything.
 
 The Basics are covered in slides 2-6 of the [Presentation Slides](https://docs.google.com/presentation/d/1B1waYai67ysg7eqhc9Mm1O6fG7XO_WIPkCZxOiwyhj4/edit?usp=sharing).
 
@@ -67,7 +66,7 @@ Let's focus on the blue text. It says:
 ```
 /home/ubuntu/workspace
 ```
-This is the current **directory** (or path) that I am in. A directory is a way to locate a file or folder. In this case, I am in the "workspace" folder which is inside the "ubuntu" folder which is inside the "home" folder. 
+This is the current **directory** (or path) that I am in. A **directory** is a way to locate a file or folder. In this case, I am in the "workspace" folder which is inside the "ubuntu" folder which is inside the "home" folder. 
 
 #### Running a Command
 
@@ -78,11 +77,11 @@ dopeboy@demo:/home/ubuntu/workspace $ pwd
 /home/ubuntu/workspace
 dopeboy@demo:/home/ubuntu/workspace $ 
 ```
-This command instructed the computer to print the directory that I am in (which is same thing as the text in green). After it finished printing it out, it made a new line in anticipation of my next command.
+This **command** instructed the computer to print the **directory** that I am in (which is same thing as the text in green). After it finished printing it out, it made a new line in anticipation of my next command.
 
 #### List Files and Folders
 
-How do we find all the files and folders in the directory we are in?
+How do we find all the files and folders in the **directory** we are in?
 
 ```
 dopeboy@demo:/home/ubuntu/workspace $ ls
@@ -111,7 +110,7 @@ Notice how the copied file now appears in the file structure on in the top-left 
 
 ### Guided Practice ("We Do")
 
-Let's take some time to complete the file directory you created in the Do Now. What we would like to do is take the original file structure on the left and turn it into the file structure on the right. The only catch is you cannot use a mouse.
+Let's take some time to complete the **file directory** you created in the Do Now. What we would like to do is take the original **file structure** on the left and turn it into the **file structure** on the right. The only catch is you cannot use a mouse.
 **This activity can be found on slide 7 of the [Presentation Slides](https://docs.google.com/presentation/d/1B1waYai67ysg7eqhc9Mm1O6fG7XO_WIPkCZxOiwyhj4/edit?usp=sharing).** 
 
 ![Imgur](http://i.imgur.com/3o2ThUY.png)
@@ -129,7 +128,7 @@ Give [exit ticket](assessments/exit_ticket.md).
 
 ### Closing
 
-Today, you learned about the command line. This is important because the command line lets us talk to the computer in a defined and quick way. Also, the command line has not changed in decades and shows no signs of changing in the future.
+Today, you learned about the **command line**. This is important because the **command line** lets us talk to the computer in a defined and quick way. Also, the **command line** has not changed in decades and shows no signs of changing in the future.
 
 
 ###How to Submit
@@ -142,6 +141,6 @@ There is no homework for this lesson. However, it is at the discretion of the te
 
 ## After Class
 
-* Check the exit tickets. 
+* Check the Exit Tickets. 
 * Prepare for next lesson / hand off to next volunteer in rotation.
 
