@@ -1,4 +1,4 @@
-# Project: About Who?
+# Project #2: About Who?
 
 ![image](http://i.imgur.com/UfBwSzcl.jpg)
 
