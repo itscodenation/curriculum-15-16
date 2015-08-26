@@ -33,7 +33,7 @@ Students will show progress toward reaching the objective based on their perform
 ### References
 
 * [Variable Slides](https://docs.google.com/presentation/d/1CAMz_T9qWWL6GSNx70ZtxwLm-AAN0sBgPaQMDtJ3ZD0/edit#slide=id.g11014a258_073)
-* [Variable Exit Ticket](homework/), Should be printed out before class
+* [Homework](homework/), Should be printed out before class
 * Other Resources: http://www.mathsisfun.com/operation-order-pemdas.html, http://www.w3schools.com/js/js_variables.asp, http://www.w3schools.com/js/js_datatypes.asp, http://www.w3schools.com/js/js_functions.asp, http://www.w3schools.com/js/js_comments.asp
 
 ## During Class
