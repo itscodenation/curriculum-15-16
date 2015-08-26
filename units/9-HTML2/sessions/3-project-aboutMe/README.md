@@ -4,7 +4,7 @@
 
 ##Overview
 
-This project involves the students creating a 4-page website about themselves. Students will style these pages using a common stylesheet.
+This project involves the students creating a 4-page website about themselves. Students will style these pages using a common styles heet.
  
 ##Before Class
 
@@ -39,12 +39,12 @@ What is a personal site? What are some advantages to having your own personal si
 
 ###Introduction to New Material ("I Do")
 
-Today you are going to bild a 4 page site about yourself. You are welcome to use the site you created in the last two lessons to get yourself started (Cloud 9 workspace called "link-practice").
+Today, you are going to build a 4-page site about yourself. You are welcome to use the site you created in the last two lessons to get yourself started (Cloud 9 workspace called "link-practice").
 
 Your website must have:
 
 * A homepage (can also be your "About Me")
-* Three other relevant pages. Suggestions include: photos, contact me, projects/portfolio, etc. 
+* At least 3 other relevant pages (Suggestions include: photos, contact me, projects/portfolio, etc.) 
 
 
 ####Wireframing
@@ -57,7 +57,7 @@ Before you start coding, identify the list of steps you need to do to finish thi
 ###Independent Practice ("You Do")
 It's build time! Students will work alone on this project. The teacher's role will be to walk around the room helping students with any questions they have. Students are encouraged to reference previous lessons.
 
-##Closing
+###Closing
 Select students to present their work to the class.
 
 ###Check for Understanding
@@ -71,3 +71,8 @@ To push to GitHub run the following commands in your terminal:
 `git add .`  
 `git commit -m "example comment"`  
 `git push origin master`
+
+## After Class
+
+
+* Prepare for next lesson / hand off to next volunteer in rotation.
