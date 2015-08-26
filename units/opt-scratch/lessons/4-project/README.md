@@ -71,6 +71,3 @@ Teachers will grade this project for completion and correctness.
 ###How to Submit Project
 * The students must export this project as a Gist: File > Export as Gist
 * The teacher must ask students to share the link to their project at [bit.ly/ScriptEdProjects](https://bit.ly/ScriptEdProjects).
-
-## After Class
-* Prepare for next lesson / hand off to next volunteer in rotation.
