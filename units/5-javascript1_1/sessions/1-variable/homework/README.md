@@ -1,4 +1,4 @@
-# Variable Exit Ticket
+# Variables Homework
 
 ## Instructions
 
