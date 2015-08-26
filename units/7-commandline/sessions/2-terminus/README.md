@@ -48,7 +48,7 @@ Today, we are going to fortify our terminal skills by playing a video game. This
 
 
 ### Introduction to New Material ("I Do")
-The lead teacher will bring up the [Terminus Game](http://www.mprat.org/Terminus/) for the whole class to see. Read, or have a student read the directions on the first screen.
+The lead teacher will bring up the [Terminus Game](http://www.mprat.org/Terminus/) for the whole class to see. Read, or have a student read, the directions on the first screen.
 
 ### Guided Practice ("We Do")
 Walk through the first 2-3 commands with the whole class so they can get a feel for how this game is played.
