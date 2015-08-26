@@ -1,16 +1,16 @@
-Project #1: Tiny Turtle
-==========
+#Project #1: Tiny Turtle
+
 ![image](http://i.imgur.com/dFYyMbH.png)
 
-## Before class
-The teacher should become familiar with the Tiny Turle library and how to create functions within it.
+## Before Class
+The teacher should become familiar with the Tiny Turtle library and how to create functions within it.
 
 
 ### Objective
 
 Students will able to call and create functions in JavaScript.
 
-### Key points
+### Key Points
 
 * We use functions so that we do not have to rewrite code over again.
 * A function is a block of code that performs a task. To use a function, you must call it. 
@@ -26,13 +26,11 @@ Students will show progress toward reaching the objective based on their ability
 * Algorithm
 * Library
 * Call
-* Open/close curly brace
+* Open/close curly braces
 * Parameter
 * Console
 * Debug
 * Canvas Tag 
-
-
 
 ### Resources
 
@@ -41,21 +39,21 @@ Students will show progress toward reaching the objective based on their ability
 * [Global Objects Reference:](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects)
 * [Tiny Turtle Library .js file](http://toolness.github.io/tiny-turtle/tiny-turtle.js)
 
-## During class
+## During Class
 
-### Do-now
+### Do Now
 
 1. Volunteer takes attendance. [Procedure found here](https://docs.google.com/document/d/19IIhqykr70vj7wnqyJYuQNTkd9GX56Xgl3omD42IcMk/edit).
-2. On paper: Write step by step directions of how to walk in a square. Remember to be very specific.
+2. On paper: Write step by step directions for how to walk in a square. Remember to be very specific.
 
 ### Opening
 
-Today we will use Javascript to create functions. Functions are used to package large amounts of code into a simple line.  
+Today, we will use Javascript to create functions. Functions are used to package large amounts of code into a simple line.  
 
 JavaScript functions are similar to the functions you us in math class in that they save time by storing a lot of information.
 
-### Introduction of new material ("I do")
-Tiny Turtle is a library which allows us to quickly visualize JavaScript functions. Our code will be written in a .js file while the visualizations will appear in the console. The teacher should show a finished model of Tiny Turle moving about the console without allowing students enough time to fully study the code.
+### Introduction to New Material ("I Do")
+Tiny Turtle is a library which allows us to quickly visualize JavaScript functions. Our code will be written in a .js file, while the visualizations will appear in the console. The teacher should show a finished model of Tiny Turtle moving about the console without allowing students enough time to fully study the code.
 
 Tiny Turtle is a **library**, so we will need to link to the file in our HTML. Let's create that script tag now.
 
@@ -65,7 +63,7 @@ Tiny Turtle is a **library**, so we will need to link to the file in our HTML. L
   </script>
 </body>
 ```
-Encourage students to open the library link in a seperate tab to explore the 50 line library.
+Encourage students to open the library link in a separate tab to explore the 50 line library.
 
 We are also going to need to give our Tiny Turtle a stage to move around on. We are going to do this using the canvas tag.
 
@@ -79,7 +77,7 @@ We are also going to need to give our Tiny Turtle a stage to move around on. We 
 ```
 Can someone please tell me what the purpose of the canvas tag is? Can someone else tell was the purpose of the script tag is?
 
-### Guided practice ("We do")
+### Guided Practice ("We Do")
 The first line of JavaScript we need to write will tell the Tiny Turtle to move inside the canvas:
 
 ```
@@ -107,7 +105,7 @@ Next we are going to show which direction the turtle is pointing and turn it 90 
 
 Now that you have moved the Tiny Turtle, Let's try and make it move in a square. From here the teacher may work with the students on creating this square or the teacher may elect to allow students to solve on their own. 
 
-### Independent practice ("You do")
+### Independent Practice ("You Do")
 Great! The Tiny Turtle can now move in a square but there is only one problem. This code is too long. In order to clean this code up we are going to create a **function.** 
 
 1. On line two create the function`function square (length);{}`
@@ -116,23 +114,24 @@ Great! The Tiny Turtle can now move in a square but there is only one problem. T
 4. Now that you have one square written, create art by using various rotations and creating functions for all sorts of shapes. you may use the [Tiny Turtle Tutorial](http://toolness.github.io/tiny-turtle/tutorial/) as a reference.
 
 
-
 ### Closing
 
 A function stores information. In the example of the square function, how were we able to save time and confusion by using the function?
 
-#### Homework
+### Homework
 Students are encouraged to take a lcose look at the Tiny Turtle Library and see if they can manipulate any part of it.
 
 
-## After class
+## After Class
 
 * Prepare for next lesson / hand off to next teacher in rotation.
 
 
 
-
-## More Information on Tiny Tutle
+---
+---
+---
+# More Information on Tiny Turtle
 
 **TinyTurtle** is a minimalist [Turtle Graphics][] implementation using
 the [Canvas element][], consisting of about 60 lines of JavaScript code.
@@ -145,7 +144,7 @@ not need any JavaScript experience.
 The implementation is kept as minimal as possible so that learners are
 encouraged to view its source, understand it, and build upon it.
 
-## Basic Usage
+### Basic Usage
 
 For absolute beginners, the `TinyTurtle` constructor can be applied to
 the `window` object so that learners don't need to worry about lots
@@ -178,7 +177,7 @@ box(70);
 </script>
 ```
 
-## Instantiation and Chaining
+### Instantiation and Chaining
 
 The constructor can also be instantiated to allow for
 multiple turtles to co-exist on a page, while also avoiding pollution
@@ -201,7 +200,7 @@ t.box(90).left(10).box(80).left(10).box(70);
 This hopefully allows learners to start doing interesting things in an
 incremental way.
 
-## CoffeeScript
+### CoffeeScript
 
 The `TinyTurtle` class can also be extended in [CoffeeScript][], if one
 wishes to teach (or learn) it as an alternative to JavaScript. For 
@@ -224,7 +223,7 @@ t.left 10
 t.box 70
 ```
 
-## API
+### API
 
 The `TinyTurtle` constructor takes only one optional argument, which is
 the [HTMLCanvasElement][] to draw on. If not present, the first canvas
@@ -307,12 +306,12 @@ properties.
 The string `up` or `down` indicating the current state of the turtle's
 pen.
 
-## Supported Browsers
+### Supported Browsers
 
 This code has been tested on Internet Explorer 10,
 Safari 6 (desktop and iOS), Chrome 30, Opera 17, and Firefox 24.
 
-## License
+### License
 
 Public Domain [CC0 1.0 Universal][cczero].
 
@@ -326,3 +325,6 @@ Public Domain [CC0 1.0 Universal][cczero].
   [HSLA]: http://www.w3.org/TR/css3-color/#hsla-color
   [CSS color name]: http://www.w3.org/TR/css3-color/#svg-color
   [cczero]: http://creativecommons.org/publicdomain/zero/1.0/
+
+
+
