@@ -16,9 +16,8 @@ Students will be able to use the basic (create, read, update) commands in the te
 
 ### Assessment
 
-1. Complete the [exit-ticket](assessments/exit_ticket.md).
-
-Students will show progress toward reaching the objective based on their performance on the exit-ticket quiz.
+1. [Exit Ticket](assessments/exit_ticket.md).
+2. Students will show progress toward reaching the objective based on their performance on the exit-ticket quiz.
 
 ### Vocabulary
 
