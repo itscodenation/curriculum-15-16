@@ -41,7 +41,7 @@ Students will be able to use the basic (create, read, update) commands in the **
 
 ### Opening
 
-Today, we will learn about the **command line**. This is important because the **command line** enables us to work in an environment without a **graphical user interface** (or GUI) . Before we had the fancy interface or GUIs that you are use to seeing, there were just **terminals**. 
+Today, we will learn about the **command line**. This is important because the **command line** enables us to work in an environment without a **graphical user interface** (or GUI) . Before we had the fancy interface or **GUIs** that you are use to seeing, there were just **terminals**. 
 
 What are files? What are folders? How do I view them in Windows? How about Mac? How do I go about copying a file? How about a folder? When I copy a folder, what happens to everything inside of it? How about if I want to rename a file? And delete a file?
 
