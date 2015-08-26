@@ -1,4 +1,4 @@
-#Project: CSS ScriptEd Garden
+#Project #1: CSS ScriptEd Garden
 
 ![image](http://i.imgur.com/5g0Chms.png)
 
