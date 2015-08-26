@@ -3,13 +3,13 @@
 ##Synopsis
 This unit starts with an introduction to strings. After becoming comfortable with strings students are creating their own MadLibs game. After mastering strings, students are introduced to conditional statements. ONce the student learns coditions they are about to start interacting with the user based on questions they can answer.
 
-##Sessions
+##Lessons
 
 1. [Strings](sessions/1-string)  
-2. [Project #1: MadLibs](sessions/2-project-madlibs)
+2. [Project #1: Mad Libs](sessions/2-project-madlibs)
 3. [Conditionals: If/Else](sessions/3-conditionals)
 4. [Conditionals: Or/And](sessions/4-conditionals)  
-   [Project #2: Grading app](sessions/5-project-grading)
+5. [Project #2: Grading App](sessions/5-project-grading)
 
 ##Standards
 
