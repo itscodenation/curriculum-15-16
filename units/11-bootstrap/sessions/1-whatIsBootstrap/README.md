@@ -55,7 +55,7 @@ What's CSS? How is it different than HTML? What's a CSS `class`? How about `id`?
 
 Think of **Bootstrap**, or all coding libraries, as a reference table. Someone has already written the code or provided a formula, but it is up to you to use the information properly.
 
-For this unit, we will only look at the CSS aspects of Bootstrap.
+For this unit, we will only look at the CSS aspects of **Bootstrap**.
 
 ####Installation
 
