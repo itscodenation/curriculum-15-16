@@ -2,8 +2,8 @@
 
 Open both of the websites below in different tabs of your browser:  
 
-* nytimes.com
-* gilt.com 
+* [nytimes.com](nytimes.com)
+* [gilt.com](gilt.com) 
 
 Drag the size of your broswer window to be very small. See how the website changes as the page gets smaller.
 
