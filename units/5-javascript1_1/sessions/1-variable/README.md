@@ -212,7 +212,7 @@ Write one variable that is named "character" and is set to the string "Shrek." W
 
 ### Exit Ticket
 
-Give [exit-ticket quiz](question/).
+Give [exit-ticket quiz](question.md).
 
 
 #### Homework
