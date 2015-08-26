@@ -3,7 +3,7 @@
 ##Synopsis
 This unit starts with an introduction to variables. Students will learn how to create, instantiate, and edit variables. Next they will learn how to call and create functions. They will also be exposed to functions helpful for debugging. They will learn how to generate a random number. 
 
-##Sessions
+##Lessons
 
 1. [Variables](sessions/1-variable)
 2. [Functions](sessions/2-function)
