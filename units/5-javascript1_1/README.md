@@ -7,8 +7,8 @@ This unit starts with an introduction to variables. Students will learn how to c
 
 1. [Variables](sessions/1-variable)
 2. [Functions](sessions/2-function)
-3. [Project: Tiny Turtle](sessions/3-project-tinyturtle)
-4. [Project: Calculator](sessions/4-project-calculator)
+3. [Project #1: Tiny Turtle](sessions/3-project-tinyturtle)
+4. [Project #2: Calculator](sessions/4-project-calculator)
 
 ##Standards
 
