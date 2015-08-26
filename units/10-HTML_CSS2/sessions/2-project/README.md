@@ -16,8 +16,8 @@
 
 ### Key Points
 
-* The border radius creates circles, ovals, bullet or egg shapes.
-* You need to define attributes to make a <div> or border visible.
+* The border radius creates circles, ovals, bullet, or egg shapes.
+* You need to define attributes to make a `<div>` or border visible.
 * Radial gradients radiate outward in all directions, from a central point.
 
 
