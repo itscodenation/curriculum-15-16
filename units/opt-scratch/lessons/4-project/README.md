@@ -66,7 +66,8 @@ Reflect on this project with a discussion. What was challenging, what was easy, 
 ###Check for Understanding
 Teachers will grade this project for completion and correctness.
 
-###How to Submit
-The teacher must ask students to share the link to their project on your school's [Project Submission Form.](https://docs.google.com/a/scripted.org/spreadsheets/d/1kaVH9hmkDCbBul19583UMPxl6IJ3-4pHgBQ2BU6TKDk/edit#gid=0)
+###How to Submit Project
+* The students must export this project as a Gist: File > Export as Gist
+* The teacher must ask students to share the link to their project at [bit.ly/ScriptEdProjects](https://bit.ly/ScriptEdProjects).
 
 Also remind students to add a link to their project on their About Me page.
