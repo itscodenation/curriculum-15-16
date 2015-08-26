@@ -212,12 +212,17 @@ Write one variable that is named "character" and is set to the string "Shrek." W
 
 ### Exit Ticket
 
-Give paper exit-ticket to assess student learning:
-[Variable Exit Ticket](homework/)
+Give [exit-ticket quiz](question.md).
 
-[Exit Ticket Solution (private)](https://github.com/ScriptEdcurriculum/solutions/tree/master/units/5-javascript/lessons/1-variable/homework/solution_code)
 
-They should take this home for homework if they do not finish.  This will be due next lesson.
+#### Homework
+
+[Link to homework](homework/)
+
+[Link to homework solution (private)](https://github.com/ScriptEdcurriculum/solutions/tree/master/units/5-javascript/lessons/2-function/homework/solution_code)
+
+Remind students when homework is due and how it will be collected.
+
 
 ### Closing
 
