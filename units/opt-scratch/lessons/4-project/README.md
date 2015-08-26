@@ -12,7 +12,7 @@ This project involves creating a Madlibs program in Scratch that also includes a
 
 Students should only start this project after they have completed the other lessons in the unit.
 
-### Starter code
+### Starter Code
 Students can begin with a blank canvas on scratch.mit.edu
 
 ###References
