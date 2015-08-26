@@ -6,7 +6,7 @@
 
 ###Teacher Preparation
 * A further understanding of Scratch. Teacher should be familiar with control, sensing and data blocks.
-* * The teacher should create a two variable MadLibs program with a logic condition before entering the classroom.  *This will be the final project that students do in the next lesson.
+* The teacher should create a two variable MadLibs program with a logic condition before entering the classroom.  **This will be the final project that students do in the next lesson.**
 
 
 ### Daily Objective
