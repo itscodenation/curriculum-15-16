@@ -6,10 +6,10 @@ This unit starts with an introduction to strings. After becoming comfortable wit
 ##Sessions
 
 1. [Strings](sessions/1-string)  
-2. [Project: MadLibs](sessions/2-project-madlibs)
+2. [Project #1: MadLibs](sessions/2-project-madlibs)
 3. [Conditionals: If/Else](sessions/3-conditionals)
 4. [Conditionals: Or/And](sessions/4-conditionals)  
-   [Project: Grading app](sessions/5-project-grading)
+   [Project #2: Grading app](sessions/5-project-grading)
 
 ##Standards
 
