@@ -2,13 +2,13 @@
 
 ![image](http://i.imgur.com/xwrZiJd.jpg)
 
-## Before class
+## Before Class
 
 ### Objective
 
 Students will able to create, instantiate, and edit variables in JavaScript.
 
-### Key points
+### Key Points
 
 * JavaScript is a programming language that we can run in our browser.
 * Variables are like boxes; they store something.
@@ -18,10 +18,7 @@ Students will able to create, instantiate, and edit variables in JavaScript.
 
 ### Assessment
 
-1. Write do-now based off of [assessments from previous lesson]().
-2. Write exit-ticket based off [assessments from current lesson]().
-
-Students will show progress toward reaching the objective based on their performance on the exit-ticket quiz.
+Students will show progress toward reaching the objective based on their performance on the exit ticket quiz.
 
 ### Vocabulary
 
@@ -35,31 +32,34 @@ Students will show progress toward reaching the objective based on their perform
 
 ### References
 
-* https://docs.google.com/presentation/d/1CAMz_T9qWWL6GSNx70ZtxwLm-AAN0sBgPaQMDtJ3ZD0/edit#slide=id.g11014a258_073
-* http://www.mathsisfun.com/operation-order-pemdas.html
+* [Variable Slides](https://docs.google.com/presentation/d/1CAMz_T9qWWL6GSNx70ZtxwLm-AAN0sBgPaQMDtJ3ZD0/edit#slide=id.g11014a258_073)
+* http://www.mathsisfun.com/operation-order-pemdas.html 
 * http://www.w3schools.com/js/js_variables.asp
 * http://www.w3schools.com/js/js_datatypes.asp
 * http://www.w3schools.com/js/js_functions.asp
 * http://www.w3schools.com/js/js_comments.asp
 
-## During class
+## During Class
 
-### Do-now
+### Do Now
 
 1. Volunteer takes attendance. [Procedure found here](https://docs.google.com/document/d/19IIhqykr70vj7wnqyJYuQNTkd9GX56Xgl3omD42IcMk/edit).
-2. Return graded do-now and exit ticket from previous class
+2. Do a recall activity to remind students about what variables are and how they are used. 
 
 ### Opening
 
-Today we will learn about variables in JavaScript. This is important because we can use variables to store things that we can later on look up. It connects to what we've previously learned because we will be able to, eventually, write JavaScript code that interacts with the HTML & CSS we have written before.
+Today we will learn about variables in JavaScript. This is important because we can use variables to store things that we can later on look up. It connects to what we've previously learned because we will be able to, eventually, write JavaScript code that interacts with the HTML & CSS that we have written before.
 
-What is a programming language? Give me some examples. Remind me what a browser is. JavaScript is also a programming language and we can run it in our browser.
+What is a programming language? Can someone give me some examples? Remind me what a browser is. 
+
+JavaScript is also a programming language and we can run it in our browser.
 
 What is a box? Why do we put things in a box? Can we take things out of the box once we've put stuff in it? 
 
-### Introduction of new material ("I do")
+### Introduction to New Material ("I Do")
 
-####Instantiate, print and change a variable
+Use the Google slides (see references above) to introduce the following material:
+#####Instantiate, Print and Change a Variable
 
 **Variables** in JavaScript are like boxes in real life. All variables have a **name** and a **value**.
 
@@ -87,7 +87,7 @@ console.log(singer);
 
 This code prints out ``"Ariana Grande"`` to the console. 
 
-####Arithmetic operations
+#####Arithmetic Operations
 
 Once we've stored something into a variable, we can do things with it. Suppose we have a variable that stored a number:
 
@@ -129,7 +129,7 @@ console.log(age)
 
 now gives us 24.
 
-#####Order of operations
+######Order of Operations
 
 Remember PEMDAS:
 
@@ -142,7 +142,7 @@ Remember PEMDAS:
 
 These are the same order of operations you follow in math class. See link in references for more.
 
-#####Increment
+######Increment
 
 It's your birthday today. You were 16 yesterday and now you are 17 today. Let's represent this in JavaScript:
 
@@ -161,7 +161,7 @@ console.log(todayAge);
 
 This first line from above is equivalent to the second line from earlier. We can similarly use the ``--`` or **decrement** operator to decrease the value of a variable by 1.
 
-####Types
+######Types
 
 Every variable in JavaScript has a type. So far, we have seen two types: strings (which have quotes around them) and numbers. We can use the ``typeof`` function to print the type. 
 
@@ -193,7 +193,7 @@ console.log(typeof(age));
 
 prints out ``string`` because we put quotes around 22. This tells JavaScript to treat the value as a string.
 
-### Guided practice ("We do")
+### Guided Practice ("We Do")
 
 Write one variable that is named "modeOfTransit" and is set to the string "bicycle." Write another variable that is named "numberOfWheels" and set it to the number 2.
 
@@ -203,7 +203,7 @@ Write one variable that is named "modeOfTransit" and is set to the string "bicyc
 4. How do I multiply the value of the numberOfWheels variable by 2? 
 5. How do I decrease the numberOfWheels variable by 1 without using the subtract operator?
 
-### Independent practice ("You do")
+### Independent Practice ("You Do")
 
 Write one variable that is named "character" and is set to the string "Shrek." Write another variable that is named "heightInFeet" and set it to the number 6.
 
@@ -213,29 +213,21 @@ Write one variable that is named "character" and is set to the string "Shrek." W
 4. Divide the value of the heightInFeet variable by 2.
 5. Increase the character variable by 1 without using the addition operator.
 
-#### Exit ticket
+### Exit Ticket
 
-Give exit-ticket quiz.
+Give paper exit-ticket to assess student learning:
+[Variable Exit Ticket](homework/)
+
+[Exit Ticket Solution (private)](https://github.com/ScriptEdcurriculum/solutions/tree/master/units/5-javascript/lessons/1-variable/homework/solution_code)
+
+They should take this home for homework if they do not finish.  This will be due next lesson.
 
 ### Closing
 
-Today you learned about variables in JavaScript and JavaScript itself. This is important because JavaScript is a programming language that we will eventually use to interact with HTML & CSS. Variables are important because they let us store values that we can manipulate later on. Next, we will learn about functions.
+Today you learned about variables in JavaScript and JavaScript itself. This is important because JavaScript is a programming language that we will eventually use to interact with HTML & CSS. Variables are important because they let us store values that we can manipulate later on. Next lesson, we will learn about functions.
 
-#### Homework
 
-[Link to homework](homework/)
+## After Class
 
-[Link to homework solution (private)](https://github.com/ScriptEdcurriculum/solutions/tree/master/units/5-javascript/lessons/1-variable/homework/solution_code)
-
-Remind students when homework is due and how it will be collected.
-
-## After class
-
-* Grade do-now & exit-ticket. Record in class spreadsheet.
+* Review student exit tickets. 
 * Prepare for next lesson / hand off to next volunteer in rotation.
-
-
-
-
-
-
