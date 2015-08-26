@@ -1,10 +1,10 @@
 #[Do Now] Project 4  - SoundCloud API
 
-The do now activity for this session is to create the html page below in a new GitHub repo.
+The do now activity for this lesson is to create the html page below in a new GitHub repo.
 
 **Step one:** Create a new GitHub repo called SoundCloud_API
 
-**Step two:** Create a new workspace in Cloud9 using that repo.
+**Step two:** Create a new workspace in Cloud9 using that repo
 
 **Step three:** Create the html page below in a file called ```index.html```
 
