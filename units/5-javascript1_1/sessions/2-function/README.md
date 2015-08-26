@@ -45,7 +45,7 @@ Students will show progress toward reaching the objective based on their perform
 ### Do Now
 
 1. Volunteer takes attendance. [Procedure found here](https://docs.google.com/document/d/19IIhqykr70vj7wnqyJYuQNTkd9GX56Xgl3omD42IcMk/edit).
-2. Return exit tickets from previous class
+2. Return exit tickets from previous class.
 3. Recap learning regarding variables from previous lesson.
 
 ### Opening
