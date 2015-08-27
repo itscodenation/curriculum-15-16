@@ -2,29 +2,29 @@
 
 ![Imgur](http://i.imgur.com/26CB2kvm.png)
 
-## Before class
+## Before Class
 
-### Objective
+###Daily Objective
 
-Students will be able to create interaction within their site using jQuery events/handlers.
+Students will be able to create interaction within their site using jQuery **event handlers**.
 
 ### Key points
 
-* A handler/event is used to execute a body of code after an event has occured. A common kind of handler is a click handler. 
+* An **event handler** is used to execute a body of code after an event has occured. A common kind of handler is a **`click` handler**. 
 
 ### Assessment
 
-1. Write do-now based off of [assessments from previous lesson](assessments/do_now.md).
-2. Write exit-ticket based off [assessments from current lesson](assessments/exit_ticket.md).
-
-Students will show progress toward reaching the objective based on their performance on the exit-ticket.
+1. [Do Now](assessments/do_now.md)
+2. [Exit Ticket](assessments/exit_ticket.md)
+3. Students will show progress toward reaching the objective based on their performance on the Exit Ticket.
 
 ### Vocabulary
 
-* Handler
-* click
-* hover
-* mouseover
+* event handler
+* `click` handler
+* `hover`handler
+* `mouseover` handler
+* `scroll` handler
 
 ### References
 
@@ -34,27 +34,27 @@ Students will show progress toward reaching the objective based on their perform
 * http://www.w3schools.com/jquery/jquery_dom_add.asp
 * http://www.w3schools.com/jquery/jquery_css.asp
 
-## During class
+## During Class
 
-### Do-now
+### Do Now
 
-1. Attendance: Teacher takes student attendance at www.kinvolved.com
-2. Return graded do-now and exit ticket from previous class
+1. Attendance: 
+2. Return reviewed Do Now and Exit Ticket from previous class.
 3. [Do Now](assessments/do_now.md) activity
 
 ### Opening
 
-Yesterday we used jQuery to create a simple page. Today we are going to use jQuery to create page interaction. Can somebody name some ways in which you interact with a webpage?
+Yesterday, we used jQuery to create a simple page. Today, we are going to use jQuery to create page interaction. Can somebody name some ways in which you interact with a webpage? [click, scroll, etc.]
 
 
-### Introduction of new material ("I do")
+### Introduction to New Material ("I Do")
 #### Handlers
 
-A **handler** is a piece of code that runs after an event has occured. Example of events include a key press on a keyboard and the scroll on a mouse. 
+An **event handler** is a piece of code that runs after an event has occured. Example of events include a key press on a keyboard and the scroll on a mouse. 
 
-##### Click handler
+#### `Click` Handler
 
-A common kind of handler is a mouse click handler which runs after the mouse has been clicked over a certain element. Let's suppose we had HTML code like so:
+A common kind of **handler** is a **`click` handler** which runs after the mouse has been clicked over a certain element. Let's suppose we had HTML code like so:
 
 ```
 <html>
@@ -64,50 +64,50 @@ A common kind of handler is a mouse click handler which runs after the mouse has
   </body>
 </html>
 ```
-Clicking on the button will not do anything. Let's add a click handler to change that:
+Clicking on the button will not do anything. Let's add a **click handler** to change that:
 
 ```
 $(".btn").click(function()
 {
-  alert("Yay! You clicked me");
+  alert("Yay! You clicked me.");
 });
 ```
 
-Clicking on the button will now trigger a pop-up window (or alert) with the following text: "Yay! You clicked me"
+Clicking on the button will now trigger a pop-up window (or alert) with the following text: "Yay! You clicked me."
 
-### Guided practice ("We do")
+### Guided Practice ("We Do")
 
-Now we're going to practice jQuery handlers together. Let's open the Cloud9 workspace jQurey-practice together.
+Now we're going to practice jQuery **handlers** together. Let's open the Cloud9 workspace "jQurey-practice" together.
 
-Using a click handler, make the image on the page change to a different image when clicked.
+Using a **`click` handler**, make the image on the page change to a different image when clicked.
 
 
-### Independent practice ("You do")
+### Independent Practice ("You do")
 
-Create a new page in your workspace called day2.html
+Create a new page in your workspace called `day2.html`.
 
-1. Using html place 1 button, an image and some text on your site.
-2. Place a click handler on the button that displays an alert box when clicked. 
-3. Use a mouseover event to change the image when someone hovers their mouse over the image.  
+1. Using HTML, place a button, an image, and some text on your site.
+2. Place a **click handler** on the button that displays an alert box when clicked. 
+3. Use a **`mouseover` handler** to change the image when someone hovers their mouse over the image.  
 
-Bonus: Use a scroll event to change the text when someone scrolls over the image.
+**Bonus:** Use a **`scroll` handler** to change the text when someone scrolls over the image.
 
-**Note: Tags from the index page may need to be changed or added in order to not affect the layout og day2.html** 
+**Note:** Tags from the index page may need to be changed or added in order to not affect the layout og day2.html
 	
 
-#### Exit ticket
+### Exit Ticket
 
-Give exit-ticket quiz.
+Give the [Exit Ticket](assessments/exit_ticket.md).
 
 ### Closing
 
-Today you learned about jQuery. This is important because jQuery enables us to dynamically interact with our HTML and CSS. Next, we will learn about interacting with jQuery project.
+Today, you learned about jQuery. This is important because jQuery enables us to dynamically interact with our HTML and CSS. Next, we will learn about interacting with jQuery project.
 
-#### Homework
+### Homework
 
 There is no homework for today's session.
 
-## After class
+## After Class
 
-* Grade do-now & exit-ticket.
+* Review Do Now & Exit Ticket.
 * Prepare for next lesson / hand off to next volunteer in rotation.
