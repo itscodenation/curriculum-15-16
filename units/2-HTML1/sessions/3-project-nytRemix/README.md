@@ -1,17 +1,10 @@
-# Project: New York Time Remix
+# Project: New York Times Remix
 
 ![Image](http://i.imgur.com/toR2Csq.png)
 
-This project will be created in the process of completing [lesson 2](https://github.com/ScriptEdcurriculum/curriculum2015/tree/master/units/14-javascript2_2/lessons/2-hashes) of this unit.
+This project will be created in the process of completing [lesson 2](https://github.com/ScriptEdcurriculum/curriculum2015/tree/master/units/2-HTML1/sessions/2-devTools) of this unit.
 
-The final work product should be a webpage with a simple form and submit button. 
-
-Once the user types in a Country name the following information should display:
-
-* Capital
-* National Animal
-* National Language
-* Population 
+The final work product should be a New York Times article that has been edited using the browser Developer tools.
 
 ##Scope
 
