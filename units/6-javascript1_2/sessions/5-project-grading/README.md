@@ -1,4 +1,4 @@
-# Grading App
+# Project #2: Grading App
 
 ![Imgur](http://i.imgur.com/NOJFDtBl.jpg)
 
