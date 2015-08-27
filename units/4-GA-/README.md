@@ -8,7 +8,7 @@
 * Pay close attention to the JS like buttons in this project. They will not function outside of the General Assembly site.
 * **This project will take students several sessions to complete, working at their own pace.**  All lessons during the period of this project should have a Do Now Activity, Opening, and Closing in addition to the large amount of student work time provided.  Teachers should plan out these lesson parts.  
 
-### Daily Objective
+### Objective
 
 * Students will be able to create a webpage that includes a header section, several styles and JavaScript buttons while working in the General Assembly tutorial environment. 
 
