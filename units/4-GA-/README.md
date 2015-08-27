@@ -6,6 +6,7 @@
 ###Teacher Preparation
 * The teacher should become familiar with dash.ga.co project 2. Walking through this project should take an experienced HTML user 20-30 minutes. 
 * Pay close attention to the JS like buttons in this project. They will not function outside of the General Assembly site.
+* **This project will take students several sessions to complete, working at their own pace.**  All lessons during the period of this project should have a Do Now Activity, Opening, and Closing in addition to the large amount of student work time provided.  Teachers should plan out these lesson parts.  
 
 ### Daily Objective
 
