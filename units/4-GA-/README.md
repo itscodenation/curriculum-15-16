@@ -1,4 +1,4 @@
-##Headers, Styles and Buttons  
+##HTML, CSS, & jQuery Project  
 ![image](http://i.imgur.com/73WZUvo.png)
 
 ## Before Class
