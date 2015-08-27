@@ -34,7 +34,7 @@ Students will show progress toward reaching the objective based on their perform
 ### Do Now
 
 1. Volunteer takes attendance. [Procedure found here](https://docs.google.com/document/d/19IIhqykr70vj7wnqyJYuQNTkd9GX56Xgl3omD42IcMk/edit).
-3. [Do Now](assessments/do_now.md)
+2. Students should complete the [Do Now](assessments/do_now.md) activity.
 
 ### Opening
 
