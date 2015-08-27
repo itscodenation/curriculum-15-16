@@ -7,8 +7,8 @@ This unit starts with an introduction to strings. After becoming comfortable wit
 
 1. [Strings](sessions/1-string)  
 2. [Project #1: Mad Libs](sessions/2-project-madlibs)
-3. [Conditionals: If/Else](sessions/3-conditionals)
-4. [Conditionals: Or/And](sessions/4-conditionals)  
+3. [Conditionals: If/Else](sessions/3-conditional)
+4. [Conditionals: Or/And](sessions/4-conditional)  
 5. [Project #2: Grading App](sessions/5-project-grading)
 
 ##Standards
