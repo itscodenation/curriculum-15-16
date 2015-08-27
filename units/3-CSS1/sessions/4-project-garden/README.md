@@ -7,8 +7,7 @@
 
 ###Teacher Preparation 
 * Familiarize yourself with [CSS Zen Garden](http://www.csszengarden.com/).
-* Decide on how to best distribute [starter code](starter-code) to students.
-
+* Prepare to provide students with [starter code](http://jsbin.com/yiyihe/edit?html)
 
 ### Prerequisites
 Students should only start this project after they have completed the other lessons in the unit.
@@ -33,7 +32,18 @@ Introduce the [CSS Zen Garden](http://www.csszengarden.com/). Explain that as de
 
 
 ###Introduction to New Material ("I Do")
-Walk students through the process of accessing the starter code and pasting it into the appropriate fields on [JSBin](http://jsbin.com). Review some of the styling tags they have learned in the previous lessons. Emphasize that they must keep the text and images since this project is based on design and ***not*** content.
+
+Walk students through the process of accessing the starter code and cloning it into their own account.
+
+1. Students must logon to [JSBin](http://jsbin.com) 
+2. Students will access the starter code by visiting [http://bit.ly/csszgse](http://bit.ly/csszgse)
+3. Students will select File > Clone to save the code into their own account. 
+4. Students will then be allowed to edit the file once they have successfully cloned the starter code
+
+***Teacher Note**: If a student accidentally messes with the starter code you can find a backup copy at [starter-code](/starter-code)
+
+
+Review some of the styling tags they have learned in the previous lessons. Emphasize that they must keep the text and images since this project is based on design and ***not*** content.
 
 ###Independent Practice ("You Do")
 It's build time!  Students will work alone on this project. The teacher's role will be to walk around the room helping students with any questions they have. Students are encouraged to look at previous lessons for reference.
