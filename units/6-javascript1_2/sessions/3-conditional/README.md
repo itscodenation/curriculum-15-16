@@ -1,4 +1,4 @@
-#Lesson 3 - Conditionals
+#Lesson 3 - Conditionals (If/Else)
 
 ![image](http://i.imgur.com/ZRo5Z6j.jpg)
 
