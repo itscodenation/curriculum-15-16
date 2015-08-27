@@ -1,41 +1,31 @@
-#Lesson 2 - Your First Webpage (Continued)
-![image](http://i.imgur.com/eqnjBR6.png)
+#Lesson 2 - Developer Tools
+![Imgur](http://i.imgur.com/k8gDQsq.png)
 
 ## Before Class
-###Teacher Preparation
-* Make sure the school’s computers have a basic text editor. **We will be using a text editor only for today’s lesson.** 
-* If using a Mac, make sure TextEdit preferences are set to plain text, **NOT rich text.** 
 
+### Objective
 
-### Daily Objective
-
-* Students will be able to explain the structure of an HTML webpage.
-* Students will be able to create a webpage that contains a head and a body.
+* Students will be able to open and explore the Chrome developer tools with precision.
 
 ### Key Points
 
 * A webpage is a text document running in a browser.
-* Programs/robots do not assume anything.
-* HTML (Hyper Text Mark-Up Language) gives your webpage structure. 
-* FILO! (First In Last Out) FILO is the structure for tags on any HTML page.
+* All code online can be seen by any user
 
 ### Assessment
 
-1. Informal assessment of student involvement during activity.
-2. Final webpage sent to volunteers for review.
+1. Students will be assesed on their performance on the do now and exit task.
 
 
 ### Vocabulary
 
 * Webpage
-* HTML
-* Tags
-* File Extension
+* Developer Tools
+
 
 ### References
 
-* <http://info.cern.ch/hypertext/WWW/TheProject.html>
-* [Google presentation slides](https://docs.google.com/presentation/d/1D0GY8XNuDX4X8ulAKQXft8lp8DRfbynBaP6bAyIg2z8/edit?usp=sharing)
+* https://developer.chrome.com/devtools
 
 ## During Class
 
@@ -43,37 +33,33 @@
 ### Do Now
 
 1. Volunteer takes attendance. [Procedure found here](https://docs.google.com/document/d/19IIhqykr70vj7wnqyJYuQNTkd9GX56Xgl3omD42IcMk/edit).
-2. Starter question to students on the board: What is FILO and why is it important? 
+2. Do Now question to students on the board:   
+**There are two errors in the HTML page below. What are they and how can you fix them?** This question should be answered on paper.
 
+![Imgur](http://i.imgur.com/9te8ql9.png)
 
 
 ### Opening
 
-“Does anyone want to answer the starter question?” 
+“Does anyone want to answer the Do Now?” 
 
-Students should answer the question and recall from the previous lesson that FILO stands for First In Last Out and refers to tag structure on any HTML page. 
+Invite a student up to the board to point out the errors.
 
 ### Introduction to New Material (“I Do”)
 
-Before starting this section, ask students to close their laptops. Provide a very brief lecture on the head tag. There are 2 slides in the Google Presentation to use (see references).
+Explain to the students how to access the developer tools in their browser. Bring up a website (preferably an article based site that is gender neutral - i.e. about.com, bbc.co.uk, etc.). Showcase how you can use the developer tools to edit and personalize features on a site that is only viewable on your local machine. If using chrome be sure to point out the magnifying tool to easily locate the text on a page. 
 
+### Guided Practice (“We Do”)
+With the same webpage from the I Do still open ask for student volunteers to come up to the front of the room and try to make their own edit to the page.
+
+Allow 2-3 students to come up and make changes.
+
+After changes have been made, demonstrate that simply reloading the page will undo all edits.
 
 ### Independent Practice ("You Do")
-
-Ask students to return to the document they previously made in the last class (they should have it in their email from having submitted it) and change the webpage firstpage.html to include a title (seen below).
-
-![Image](http://i.imgur.com/rCcTWU7.png)
-
-**Extension:** ask students to experiment with h1- h6 and several paragraphs.
-
-### Introduction to New Material #2 (“I Do”)
-
-Explain to the students how to access the console on their browsers. Bring up a website (preferably an article based site that is gender neutral - i.e. about.com, bbc.co.uk, etc.). Showcase how using the console you can edit and personalize features on a site that is only viewable on your local machine. If using chrome be sure to point out the magnifying tool to easily locate the text on a page. 
-
-
-### Independent Practice #2 ("You Do")
-
-Ask students to visit nytimes.com and choose an article. Using the console, ask them to edit the page to be a story about themselves. 
+"For out next project you will be remixing an article on the NY Times to be about yourself."
+ 
+Ask students to visit nytimes.com and choose an article. Using the developer tools, students should edit a story to be about themselves. 
 
 ![Image](http://i.imgur.com/toR2Csq.png)
 
@@ -81,9 +67,13 @@ Ask students to visit nytimes.com and choose an article. Using the console, ask 
 **Extension:** Ask students to experiment with other sites they use frequently.
 
 
-### Closing/Homework
-Wrap up the day with a quick recap on everything that was covered. Ask students to share their article by taking a screenshot and showcasing to the front. 
+### Closing/Exit Task
+Wrap up the day with a quick recap on everything that was covered. 
 
+Ask students to show off their work by taking a screenshot and bringing it up on the front screen.
+
+## How to Submit
+Students should take a Screenshot of this project and hold on to it any way they feel is necessary. 
 
 ## After Class
 * Take a quick look at each project from today. Students who were not able to create the page should be asked to recreate it, with teacher’s help, next class.
