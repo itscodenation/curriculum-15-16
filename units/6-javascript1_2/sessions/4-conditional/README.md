@@ -2,23 +2,20 @@
 
 ![Imgur](http://i.imgur.com/ooLA9O6.png)
 
-## Before class
+## Before Class
 
-### Objective
+### Daily Objective
 
 Students will be able to use booleans, conditionals, and logical operators.
 
-### Key points
+### Key Points
 
 * Logical operators let us test for complex conditions.
 * We can put conditionals inside other conditionals; this is called nesting.
 
 ### Assessment
 
-1. [Do now](assessments/do_now) activity
-2. Write exit-ticket based off [assessments from current lesson](assessments/).
-
-Students will show progress toward reaching the objective based on their performance on the exit-ticket quiz.
+Students will show progress toward reaching the objective based on their performance on the exit ticket.
 
 ### Vocabulary
 
@@ -32,28 +29,27 @@ Students will show progress toward reaching the objective based on their perform
 * http://www.w3schools.com/js/js_if_else.asp
 * http://www.w3ctutorial.com/js-basic/js-comparisons
 
-## During class
+## During Class
 
-### Do-now
+### Do Now
 
-1. Attendance
-2. Return graded do-now and exit ticket from previous class
-3. [Do now](assessments/do_now) riddle
+1. Volunteer takes attendance. [Procedure found here](https://docs.google.com/document/d/19IIhqykr70vj7wnqyJYuQNTkd9GX56Xgl3omD42IcMk/edit).
+3. [Do Now](assessments/do_now.md)
 
 ### Opening
 
-Last class we discovered how to use operators to compare two things. But what if we want to compare things with multiple conditional?
+Last class we discovered how to use operators to compare two things. But what if we want to compare things with multiple conditionals?
 
 Example: **If** it is raining **and** you don't have an umbrella, then you will get wet.
 
 What other sentances did you come up with in the do now?
 
-### Introduction of new material ("I do")
+### Introduction to New Material ("I Do")
 To see the full list of comparison operators, go [here](http://www.w3schools.com/js/js_comparisons.asp).
 
-####Conditionals with logical operators
+#####Conditionals with Logical Operators
 
-#####Logical NOT (``!``)
+######Logical NOT (``!``)
 
 Suppose we have two variables and we want to check that they do not equal each other. We can do this:
 
@@ -76,7 +72,7 @@ if (x != y)
 
 Both `if` statements are equivalent.
 
-#####Logical AND (``&&``)
+######Logical AND (``&&``)
 
 What if we want to test for more complex conditions in our `if` statements? Consider the following example:
 
@@ -98,7 +94,7 @@ else if (tail == "Yes" && color == "Brown")
 
 Let's start at line 5. Here, we are testing for both conditions to be true. The `&&` **logical operator** stands for "and." In order for the body of the `if` statement to run, both conditions must be true. That is, the user must have entered "Yes" and then "Green" in order for `You are Rex, the dinosaur` to print. If this doesn't happen, the same rules apply to the proceeding `else if` statement.
 
-#####Logical OR (``||``)
+######Logical OR (``||``)
 
 Similarly, we can use the ``||`` logical operator to act as an "or." Consider the following example:
 
@@ -120,7 +116,7 @@ else
 
 Let's break this down line-by-line. On line four, if either `hat` is equal to "Yes" *or* `boots` is equal to "Yes", the body of the `if` statement will run. Suppose the user enters in "No" to both questions. In this case, the `if` condition is false. Therefore, we would see ``I don't know who you are`` get printed.
 
-#### Nested conditionals
+#### Nested Conditionals
 
 We can put `if` statements inside other `if` statements. This is called **nesting**. Here's an example:
 
@@ -164,7 +160,7 @@ else if (gender == "Female")
 ```
 Here, we first ask the user's gender. Based on the gender, we ask different questions. If the user is a male, we ask them about the size of their tuxedo because only men wear tuxedos. However, if they are female, we ask them about the color of their dress because only women wear dresses. 
 
-### Guided practice ("We do")
+### Guided Practice ("We Do")
 
 Write two boolean variables and initialize them to `false`. Name the variables "woody" and "buzz."
 
@@ -177,30 +173,26 @@ Write two boolean variables and initialize them to `false`. Name the variables "
 7. Print out "I am Andy's favorite" if both `woody` and `buzz` are true.
 8. Suppose you're building a website for Ken, Barbie, & Big Baby. You want to find out who of those three is using your website. We first need to ask them whether they are an adult. If they are an adult, we need to ask them their gender. Write code that does this and prints out who they are.
 
-### Independent practice ("You do")
+### Independent Practice ("You Do")
 
 1. Open a new JS Bin file.
-2. Create a quick statement that prompts the user two separate questions. "How old are you?" and "Do you have a driver's license"
-3. If the user is 16 or older and has a drivers license then tell them to go drive a car. If not, tell them they better not drive a car.
+2. Create a quick statement that prompts the user two separate questions. "How old are you?" and "Do you have a driver's license".
+3. If the user is 16 or older and has a driver's license, then tell them to go drive a car. If not, tell them they better not drive a car.
 
-Before leaving remember to save snapshot and export as gist when you are done.
-#### Exit ticket
+Before leaving, remember to save snapshot and export as gist when you are done.
 
-Give exit-ticket quiz.
 
 ### Closing
 
-Today you learned how to use the and, or and nested functions of conditionals. Next we are going to make a program that uses these properties. 
+Today you learned how to use the and, or, and nested functions of conditionals. Next, we are going to make a program that uses these properties. 
 
 #### Homework
 
-[Link to homework](homework/)
-
-[Link to homework solution (private)]()
+[Link to homework](homework.md/)
 
 Remind students when homework is due and how it will be collected.
 
-## After class
+## After Class
 
-* Grade do-now & exit-ticket. Record in class spreadsheet.
+* Review Do Now and Homework. 
 * Prepare for next lesson / hand off to next volunteer in rotation.
