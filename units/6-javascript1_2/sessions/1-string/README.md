@@ -2,13 +2,13 @@
 
 ![image](http://i.imgur.com/e0rn7sJ.jpg)
 
-## Before class
+## Before Class
 
 ### Objective
 
 Students will be able to create, initialize, access, manipulate, compare, and cast strings.
 
-### Key points
+### Key Points
 
 * Strings are made up of multiple characters. A set of characters "strung" together make a string.
 * Existing functions can be used to manipulate strings.
@@ -18,10 +18,7 @@ Students will be able to create, initialize, access, manipulate, compare, and ca
 
 ### Assessment
 
-1. [Do-now](assessments/do_now)
-2. Write exit-ticket based off [assessments from current lesson](assessments/).
-
-Students will show progress toward reaching the objective based on their performance on the exit-ticket quiz.
+Students will show progress toward reaching the objective based on their performance on the exit ticket.
 
 ### Vocabulary
 
@@ -39,13 +36,12 @@ Students will show progress toward reaching the objective based on their perform
 * http://www.w3schools.com/js/js_strings.asp
 * http://www.w3schools.com/js/js_string_methods.asp
 
-## During class
+## During Class
 
-### Do-now
+### Do Now
 
-1. Attendance
-2. Return graded do-now and exit ticket from previous class
-3. [Do-now](assessments/do_now) activity
+1. Volunteer takes attendance. [Procedure found here](https://docs.google.com/document/d/19IIhqykr70vj7wnqyJYuQNTkd9GX56Xgl3omD42IcMk/edit).
+2. [Do Now](assessments/do_now.md) Activity
 
 ### Opening
 
@@ -60,9 +56,9 @@ One of these variables is a string and the other is a number. Can you tell which
 
 Someone give me an example of a word. Any word. What is a word made up of? How can I change this word? How can I add more to the word?
 
-### Introduction of new material ("I do")
+### Introduction to New Material ("I Do")
 
-####Create, initialize, and access a string
+####Create, Initialize, and Access a String
 
 ```
 var buzz = "To infinity, and beyond!";
@@ -78,9 +74,9 @@ console.log(buzz);
 
 This prints out `To infinity, and beyond!` to the console.
 
-####String manipulation
+####String Manipulation
 
-#####String length
+#####String Length
 
 Suppose we want to find the length of our string. We can:
 
@@ -103,7 +99,7 @@ console.log(otherDory);
 
 The `replace()` function takes in two parameters: a string to replace and the string to replace with. It searches in the original string for the first parameter. It then replaces it with the second parameter. The above prints `Hey, look! Turtles!`.
 
-#####Concatenate (join)
+#####Concatenate (Join)
 
 Suppose you want to join two strings together. We can:
 
@@ -117,7 +113,7 @@ console.log("You know what you gotta do? " + " Just keep swimming");
 This prints `You know what you gotta do? Just keep swimming`
 
 
-### Guided practice ("We do")
+### Guided Practice ("We Do")
 
 Now we're going to work with strings together. 
 
@@ -130,19 +126,19 @@ Now we're going to work with strings together.
 
 
 
-### Independent practice ("You do")
+### Independent Practice ("You Do")
 
 Learn your user:
-In this activity you are going to use an `prompt` function to ask the user to type in information about themself.
+In this activity you are going to use a `prompt` function to ask the user to type in information about themself.
 ![Imgur](http://i.imgur.com/p639sLYm.png)
 
-You are going to prompt the user three times to ask for their Name, age and gender. After which you are going to combine all of that information into a string. An example would be..
+You are going to prompt the user three times to ask for their name, age and gender. After which you are going to combine all of that information into a string. An example would be..
 
 `Hi Crush! You are 150 years old male.` 
 
-#### Exit ticket
+#### Exit Ticket
 
-Give exit-ticket quiz.
+Give [exit ticket](assessments/exit_ticket.md).
 
 ### Closing
 
@@ -156,7 +152,7 @@ Today you learned about strings. This is important because strings are used to s
 
 Remind students when homework is due and how it will be collected.
 
-## After class
+## After Class
 
-* Grade do-now & exit-ticket. Record in class spreadsheet.
+* Review student Do Now and Exit Tickets.
 * Prepare for next lesson / hand off to next volunteer in rotation.
