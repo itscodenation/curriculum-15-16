@@ -75,6 +75,9 @@ All students will create a page with the following criteria:
 
 During this time teachers will circulate to help students with technical issues. If a majority of the class is struggling with the same issue you may consider demonstrating the solution on the board.
 
+####Extension
+If students complete this project early they are encouraged to add a list to their page. Students should be directed to Google "How to make a list in HTML" to do this.
+
 ## Closing
 “Today we created a HTML webpage with multiple tags. Would anyone like to share what they have done and explain how they did it?”
 
