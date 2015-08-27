@@ -1,4 +1,4 @@
-#Lesson 5 - Images and Basic Styles 
+#Lesson 4 - Images and Basic Styles 
 ![image](http://i.imgur.com/LnFsXHH.png)
 
 ## Before class
