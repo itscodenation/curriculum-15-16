@@ -188,7 +188,7 @@ Today you learned how to use the and, or, and nested functions of conditionals. 
 
 #### Homework
 
-[Link to homework](homework.md/)
+[Link to homework](assessments/homework.md)
 
 Remind students when homework is due and how it will be collected.
 
