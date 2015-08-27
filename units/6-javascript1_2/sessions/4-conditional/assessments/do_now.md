@@ -1,10 +1,10 @@
-On a piece of paper, create two sentances. One sentance will use the following words atleast once:
+On a piece of paper, create two sentences. One sentence will use the following words at least once:
 
 * If
 * And
 * [then] or [else]
 
-The second sentance will use the folloing words atleast once:
+The second sentence will use the following words at least once:
 
 * If
 * Or
