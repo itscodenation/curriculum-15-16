@@ -6,11 +6,10 @@ This unit focuses on the styling of websites using CSS. Through several learning
 
 ##Lessons
 
-1. [HTML Layout](sessions/1-firstpage)
-2. [Headers, Styles and Buttons](sessions/2-firstpage)
-3. [Wireframing](sessions/3-wireframing)
-4. [Project: CSS ScriptEd Garden](sessions/4-project-garden)
-5. [Project: About Who?](sessions/5-project-who)
+1. [What is CSS?](sessions/1-style)
+2. [Wireframing](sessions/2-wireframing)
+3. [Project: CSS ScriptEd Garden](sessions/3-project-garden)
+4. [Project: About Who?](sessions/4-project-who)
 
 
 ##Standards
