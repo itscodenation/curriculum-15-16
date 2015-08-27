@@ -40,7 +40,7 @@ Walk students through the process of accessing the starter code and cloning it i
 3. Students will select File > Clone to save the code into their own account. 
 4. Students will then be allowed to edit the file once they have successfully cloned the starter code
 
-***Teacher Note**: If a student accidentally messes with the starter code you can find a backup copy at [starter-code](/starter-code)
+***Teacher Note**: If a student accidentally messes with the starter code you can find a backup copy at [starter-code](starter-code)
 
 
 Review some of the styling tags they have learned in the previous lessons. Emphasize that they must keep the text and images since this project is based on design and ***not*** content.
