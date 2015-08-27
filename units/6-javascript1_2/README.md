@@ -1,7 +1,7 @@
 #Unit 6 - JavaScript 1.2
 
 ##Synopsis
-This unit starts with an introduction to strings. After becoming comfortable with strings students are creating their own MadLibs game. After mastering strings, students are introduced to conditional statements. ONce the student learns coditions they are about to start interacting with the user based on questions they can answer.
+This unit starts with an introduction to strings. After becoming comfortable with strings, students then create their own Mad Libs game. After mastering strings, students learn about conditional statements. Once students learn conditions, they start interacting with the user based on questions that users answer.
 
 ##Lessons
 
