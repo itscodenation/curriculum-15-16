@@ -1,4 +1,4 @@
-#Lesson 5 - Images
+#Lesson 4 - Images
 ![image](http://i.imgur.com/LnFsXHH.png)
 
 ## Before class
