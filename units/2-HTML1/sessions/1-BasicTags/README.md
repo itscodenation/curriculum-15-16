@@ -3,9 +3,8 @@
 
 ## Before Class
 ###Teacher Preparation
-For this lesson it is preferred to write and run all html in a basic text editor. If your classroom uses chromebooks then this can be completed in JS Bin.
+For this lesson it is preferred to write and run all html in a basic text editor (TextEdit or WordPad). If your classroom uses chromebooks then this can be completed in JS Bin.
 
-* Make sure the school’s computers have a basic text editor. **We will be using a text editor for only 2 lessons.** 
 * If using a Mac, make sure TextEdit preferences are set to plain text **NOT rich text.** 
 
 
