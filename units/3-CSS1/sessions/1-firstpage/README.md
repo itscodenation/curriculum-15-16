@@ -9,7 +9,7 @@
 
 ###Objective
 
-* Students will be able to add simple styles to their webpage using the style tag. 
+* Students will be able to add simple styles to their webpage in JS Bin
 
 
 ### Key points
