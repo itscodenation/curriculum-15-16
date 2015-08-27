@@ -7,9 +7,9 @@ This unit introduces students to the fundamentals of web design using HTML. It a
 
 1. [Your First Webpage: Basic Tags](sessions/1-BasicTags)
 2. [Developer Tools](sessions/2-devTools)  
-3. [Project: NYT Remix](sessions/3-project-nytRemix)
+3. [Project #1: NYT Remix](sessions/3-project-nytRemix)
 4. [Images](sessions/4-image)
-5. [Project: Images](sessions/5-project-image)
+5. [Project #2: Images](sessions/5-project-image)
 
 #Standards
 
