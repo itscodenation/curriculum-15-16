@@ -28,7 +28,7 @@ Select students to present their work to the class.
 ###Check for Understanding
 Teachers should keep track of student success while they are presenting to the class based on [this rubric](https://docs.google.com/spreadsheets/d/1rSyrqf3E3knsAu-G7bdrI9JrSC5eOpuADYrTD8H4Kfg/edit?usp=sharing).
 
-###How to Submit
+###How to Submit (can take 5+ minutes)
 After the students have created this page they must save this page properly by completing the directions found in [this presentation](https://docs.google.com/presentation/d/1uBzV_Ai6KtdSYoNc4izqnihwMvqzSp8sXmX6uF5PNGY/edit?usp=sharing)
 
 Students must then share their **Gist URL** at bit.ly/ScriptEdProjects
