@@ -1,4 +1,4 @@
-#Lesson 4 - More Conditionals! 
+#Lesson 4 - Conditionals (Or/And) 
 
 ![Imgur](http://i.imgur.com/ooLA9O6.png)
 
