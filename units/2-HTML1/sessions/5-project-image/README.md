@@ -1,90 +1,34 @@
-#Lesson 5 - Images and Basic Styles 
+#Project 2 - Images  
 ![image](http://i.imgur.com/LnFsXHH.png)
 
-## Before class
+This project will be created in the process of completing [lesson 4](https://github.com/ScriptEdcurriculum/curriculum2015/tree/master/units/2-HTML1/sessions/4-image) of this unit.
 
-###Objective
+The final work product should be a site with two images and text.
 
-* Students will be able to create a webpage that includes two images.
+##Scope
 
-### Key points
+The focus of this project is to have the students learn how to add images to a webpage.
 
-* An img tag is used to add a photo to your HTML site. 
+### Starter code
+
+There is no starter code for this project.
+
 
 ### Assessment
 
-1. Review each student’s webpage after class 
-2. Students will be assessed by their performance on the Do Now and Exit Task
+1. Student's websites will be assessed based on [this rubric](https://docs.google.com/spreadsheets/d/1rSyrqf3E3knsAu-G7bdrI9JrSC5eOpuADYrTD8H4Kfg/edit?usp=sharing).
+ 
+###Build Time
+Students will work alone on this project. The teacher's role will be to walk around the room helping students with any questions they have. Students are encouraged to look at previous lessons for reference.
 
 
-### Vocabulary
+##Closing
+Select students to present their work to the class.
 
-* img tag
-* src
-* Self closing tag
+###Check for Understanding
+Teachers should keep track of student success while they are presenting to the class based on [this rubric](https://docs.google.com/spreadsheets/d/1rSyrqf3E3knsAu-G7bdrI9JrSC5eOpuADYrTD8H4Kfg/edit?usp=sharing).
 
-
-###References
-
-* [JSBin](jsbin.com)
-* http://www.w3schools.com/tags/tag_img.asp
-* [How to Save in JS Bin](https://docs.google.com/presentation/d/1uBzV_Ai6KtdSYoNc4izqnihwMvqzSp8sXmX6uF5PNGY/edit?usp=sharing)
-
-
-## During class
-
-### Do-now
-
-1. Volunteer takes attendance. [Procedure found here](https://docs.google.com/document/d/19IIhqykr70vj7wnqyJYuQNTkd9GX56Xgl3omD42IcMk/edit).
-2. Do Now activity is posted for students on the board:  
-**open the developer tools on your school's homepage. By searching around the HTML code try to figure out what tag is used to place an image on a site.**
-
-## Opening
-
-* Discuss the Do Now with the class. See if anyone figured out that the img tag stands for image. 
-
-## Introduction of new material (“I Do”)
-
-**Ask students to close computer screens** so they can give all their attention to the lecture.  
-Today we are going to work in JS Bin to add images to an HTML webpage.
-
-We do this using the img tag. The image tag is unlike other tags we worked with in the past because it is a self closing tag. 
-
-The lead teacher should then live-code placing a ScriptEd image on a page in JS Bin.
-
-```
-<img src = "http://i.imgur.com/8KnVLzU.png">
-```
-
-
-## Guided Practice (“We Do”)
-
-Have students open a new bin in JS Bin. Ensure that they are logged in with their GitHub so they can properly save their work.
-
-"Now I want all of you to make the same page I did on the board a moment ago."
-
+###How to Submit
 After the students have created this page they must save this page properly by completing the directions found in [this presentation](https://docs.google.com/presentation/d/1uBzV_Ai6KtdSYoNc4izqnihwMvqzSp8sXmX6uF5PNGY/edit?usp=sharing)
 
-## Independent practice ("You do")
-
-All students will create a page with the following criteria:
-
-* A title
-* A heading
-* 2 pictures, both with text under them.
-
-During this time teachers will circulate to help students with technical issues. If a majority of the class is struggling with the same issue you may consider demonstrating the solution on the board.
-
-## Closing
-“Today we created a HTML webpage with multiple tags. Would anyone like to share what they have done and explain how they did it?”
-
-Encorage students to share their work on the board.
-
-## Check for understanding (Can take 5+ minutes)
-Students must share their **Gist URL** at bit.ly/ScriptEdProjects
-
- 
-## After Class
-* Take a quick look at each webpage project from today. Students who were not able to create the page should be asked to recreate it, with teacher’s help, next class.
-* Prepare for next lesson / hand off to next volunteer in rotation.
-
+Students must then share their **Gist URL** at bit.ly/ScriptEdProjects
