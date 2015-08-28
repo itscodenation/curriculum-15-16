@@ -69,10 +69,7 @@ Go around the room and have students share their name, grade, and a fun fact abo
 
 Re-ask the Do Now question: Who is smarter, a human or a computer?  
 
-Students should then be broken up into groups of 3-4 to form their own opinions for 2-3 minutes.   
-
-
-Teacher should regroup whole class after groups have had a chance to speak. “So what does everyone think? Who is smarter?” At this time a small debate should stir up in the class. Teacher should direct conversation to end with a claim that resembles the idea of “Computers are better at some stuff, but they can’t think for themselves.”
+At this time a small debate should stir up in the class. Teacher should direct conversation to end with a claim that resembles the idea of “Computers are better at some stuff, but they can’t think for themselves.”
 
 
 ### Guided Practice (“We Do”)
