@@ -43,6 +43,8 @@ Students will be able to demonstrate the ability to use computing thought proces
 
 1. Volunteer takes attendance. [Procedure found here](https://docs.google.com/document/d/19IIhqykr70vj7wnqyJYuQNTkd9GX56Xgl3omD42IcMk/edit).
 2. Introduce yourself to every student.
+3. Students are writing down their answer to the Do Now question:  
+**Who is smarter, a human or a computer?**
 
 ### Opening
 
@@ -65,7 +67,7 @@ Go around the room and have students share their name, grade, and a fun fact abo
 
 ### Introduction to New Material (“I Do”)
 
-Ask overarching question: Who is smarter, a human or a computer?  
+Re-ask the Do Now question: Who is smarter, a human or a computer?  
 
 Students should then be broken up into groups of 3-4 to form their own opinions for 2-3 minutes.   
 
