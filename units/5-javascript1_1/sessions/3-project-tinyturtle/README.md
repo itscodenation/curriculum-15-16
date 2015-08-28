@@ -63,7 +63,6 @@ Tiny Turtle is a **library**, so we will need to link to the file in our HTML. L
   </script>
 </body>
 ```
-Encourage students to open the library link in a separate tab to explore the 50 line library.
 
 We are also going to need to give our Tiny Turtle a stage to move around on. We are going to do this using the canvas tag.
 
@@ -113,10 +112,16 @@ Great! The Tiny Turtle can now move in a square but there is only one problem. T
 3. After the curly brackets are closed call on the square function like so `square(40);{}`
 4. Now that you have one square written, create art by using various rotations and creating functions for all sorts of shapes. you may use the [Tiny Turtle Tutorial](http://toolness.github.io/tiny-turtle/tutorial/) as a reference.
 
+Extention: Encourage students to open the library link in a separate tab to explore the 50 line library. Students can copy and make edits to the library.
 
 ### Closing
 
 A function stores information. In the example of the square function, how were we able to save time and confusion by using the function?
+
+### How to Submit
+Students must share their **Gist URL** at bit.ly/ScriptEdProjects
+
+For directions on how to create a Gist students may follow [this presentation](https://docs.google.com/presentation/d/1uBzV_Ai6KtdSYoNc4izqnihwMvqzSp8sXmX6uF5PNGY/edit?usp=sharing).
 
 ### Homework
 Students are encouraged to take a close look at the Tiny Turtle Library and see if they can manipulate any part of it.
