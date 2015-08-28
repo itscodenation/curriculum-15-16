@@ -7,7 +7,7 @@
 
 ###Teacher Preparation 
 * Familiarize yourself with [CSS Zen Garden](http://www.csszengarden.com/).
-* Prepare to provide students with [starter code](http://jsbin.com/yiyihe/edit?html)
+* Prepare to provide students with [starter code](http://jsbin.com/yiyihe/edit?html).
 
 ### Prerequisites
 Students should only start this project after they have completed the other lessons in the unit.
