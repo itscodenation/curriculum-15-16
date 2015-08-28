@@ -121,7 +121,7 @@ A function stores information. In the example of the square function, how were w
 ### How to Submit
 Students must share their **Gist URL** at bit.ly/ScriptEdProjects
 
-For directions on how to create a Gist students may follow [this presentation](https://docs.google.com/presentation/d/1uBzV_Ai6KtdSYoNc4izqnihwMvqzSp8sXmX6uF5PNGY/edit?usp=sharing).
+For directions on how to create a Gist, students may follow [this presentation](https://docs.google.com/presentation/d/1uBzV_Ai6KtdSYoNc4izqnihwMvqzSp8sXmX6uF5PNGY/edit?usp=sharing).
 
 ### Homework
 Students are encouraged to take a close look at the Tiny Turtle Library and see if they can manipulate any part of it.
