@@ -137,7 +137,7 @@ Create a GitHub repository called "loops" and clone it to a new Cloud9 workspace
 
 ### Exit Ticket
 
-Give the Exit Ticket.
+Give the [Exit Ticket](assessments/exit_ticket.md).
 
 ### Closing
 
