@@ -1,4 +1,4 @@
-#Session 1 - Your First Webpage
+#Session 1 - Your First Webpage: Basic Tags
 ![image](http://i.imgur.com/eqnjBR6.png)
 
 ## Before Class
