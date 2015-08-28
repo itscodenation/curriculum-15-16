@@ -37,7 +37,7 @@ Webpage, HTML, Tags, Browser, Developer Tools
 
 ###Opening
 
-Review vocabulary terms.  Remind students about the NYT project that was begun last lesson.  Remind students of the project expectations.  All students choose an article on NY Times and ,using the developer tools, they should edit a story to be about themselves.  Ensure students know how to ask for help throughout this project.
+Review vocabulary terms.  Remind students about the NYT project that was begun last lesson.  Remind students of the project expectations.  All students choose an article on NY Times and, using the developer tools, they should edit a story to be about themselves.  Ensure students know how to ask for help throughout this project.
 
 ###Independent Practice ("You Do")
 
