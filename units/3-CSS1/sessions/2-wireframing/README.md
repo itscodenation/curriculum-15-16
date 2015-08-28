@@ -1,4 +1,4 @@
-#Lesson 3 - Wireframing
+#Lesson 2 - Wireframing
 ![image](http://i.imgur.com/8tf2JrV.jpg)
 
 ## Before Class
