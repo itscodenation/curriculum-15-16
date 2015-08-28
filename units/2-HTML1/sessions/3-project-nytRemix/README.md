@@ -24,7 +24,7 @@ Students should save their code by copying it into a JS Bin file.
 
 ### Assessment
 
-1. Student's websites will be assessed based on the first two rows (HTML, Page Content) of the [ScriptEd Foundations Rubic](https://docs.google.com/spreadsheets/d/1xinwHFPJFaeDlvJt-O_xwQe3GAEwhAEbUtVgnmtwWho/edit?usp=sharing).
+Student's websites will be assessed based on the first two rows (HTML, Page Content) of the [ScriptEd Foundations Rubic](https://docs.google.com/spreadsheets/d/1xinwHFPJFaeDlvJt-O_xwQe3GAEwhAEbUtVgnmtwWho/edit?usp=sharing).
  
 ##During Class
 
