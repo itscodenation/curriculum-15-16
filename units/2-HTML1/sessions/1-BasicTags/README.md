@@ -3,9 +3,9 @@
 
 ## Before Class
 ###Teacher Preparation
-For this lesson it is preferred to write and run all html in a basic text editor (TextEdit or WordPad). If your classroom uses chromebooks then this can be completed in JS Bin.
+For this lesson, it is preferred for students to write and run all HTML in a basic text editor (TextEdit or WordPad). If your classroom uses Chromebooks, then this can be completed in JS Bin.
 
-* If using a Mac, make sure TextEdit preferences are set to plain text **NOT rich text.** 
+* If using a Mac, make sure TextEdit preferences are set to plain text, **NOT rich text.** 
 
 
 ### Objective
@@ -18,12 +18,9 @@ For this lesson it is preferred to write and run all html in a basic text editor
 * A webpage is a text document running in a browser.
 * Programs/robots require specific instructions.
 * HTML (Hyper Text Mark-Up Language) gives your webpage structure. 
-* FILO! (First In Last Out) FILO is the structure for tags on any HTML page.
+* FILO (First In Last Out) is the structure for tags on any HTML page.
 
 ### Assessment
-
-1. Complete the Do Now (located in slide 2 of the [Presentation Slides](https://docs.google.com/presentation/d/1D0GY8XNuDX4X8ulAKQXft8lp8DRfbynBaP6bAyIg2z8/edit?usp=sharing)). 
-2. Assessment of work completed during class.
 
 Students will show progress toward reaching the objective based on their performance on the Do Now and Exit Ticket.
 
@@ -48,14 +45,13 @@ Students will show progress toward reaching the objective based on their perform
 2.  Place the Do Now on the board. The Do Now can be found in slide 2 of the [Presentation Slides](https://docs.google.com/presentation/d/1D0GY8XNuDX4X8ulAKQXft8lp8DRfbynBaP6bAyIg2z8/edit?usp=sharing)
 
 
-
 ### Opening
 
 Discuss the answer to the Do Now with the class (slide 3 of the [Presentation Slides](https://docs.google.com/presentation/d/1D0GY8XNuDX4X8ulAKQXft8lp8DRfbynBaP6bAyIg2z8/edit?usp=sharing)). 
 
 Students should eventually arrive at the fact that HTML is a language used to create webpages.
 
-## Introduction to New Material (“I Do”)
+### Introduction to New Material (“I Do”)
 #####Slides 4-7
 All webpages are made up of HTML. Think about it like this... Your speak in english but Webpages speak in HTML.
 
@@ -67,14 +63,14 @@ All webpages are made up of HTML. Think about it like this... Your speak in engl
 #####Slide 8
 The teacher should lead the class in a live coding session in which everyone creates the webpage on slide 8.
 
-Be sure to have the studentsrun the page in the browswer before moving on to the You Do.
+Be sure to have the students run the page in the browser before moving on to independent practice.
 
 ### Independent Practice ("You Do")
 #####Slides 8-9
 Pages have a head and a body just like you and me. They cannot over lap!
 The head of the page contains all data outside of the browser window.
 
-Students will then create the webpage on slide 9
+Students will then create the webpage on slide 9.
 
 ### Closing/Homework
 #####Slide 10
