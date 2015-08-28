@@ -63,7 +63,7 @@ Have students open a new bin in JS Bin. Ensure that they are logged in with thei
 
 "Now I want all of you to make the same page I did on the board a moment ago."
 
-After the students have created this page, they must save this page properly by completing the directions found in [this presentation](https://docs.google.com/presentation/d/1uBzV_Ai6KtdSYoNc4izqnihwMvqzSp8sXmX6uF5PNGY/edit?usp=sharing)
+After the students have created this page, they must save this page properly by completing the directions found in [this presentation](https://docs.google.com/presentation/d/1uBzV_Ai6KtdSYoNc4izqnihwMvqzSp8sXmX6uF5PNGY/edit?usp=sharing).
 
 ## Independent Practice ("You Do")
 
@@ -75,17 +75,14 @@ All students will create a page with the following criteria:
 
 During this time, teachers will circulate to help students with technical issues. If a majority of the class is struggling with the same issue you may consider demonstrating the solution on the board.
 
-####Extension
-If students complete this project early, they are encouraged to add a list to their page. Students should be directed to Google "How to make a list in HTML" to do this.
-
 ## Closing
 “Today we created a HTML webpage with multiple tags. Would anyone like to share what they have done and explain how they did it?”
 
 Encorage students to share their work on the board.
 
-## Check for Understanding 
+##How to Submit
 
-This process can take 5+ minutes given that it will be new for students:
+This process can take 5+ minutes, given that it will be new for students:
 
 Students must share their **Gist URL** at bit.ly/ScriptEdProjects
 
