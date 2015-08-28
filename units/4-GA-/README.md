@@ -1,15 +1,13 @@
-#Unit 3 - Cascading Style Sheets
+#Unit 4 - HTML, CSS & jQuery
 
 ##Synopsis
-This unit focuses on the styling of websites using CSS. Through several learning conventions, students will become comfortable with designing a website that includes multiple pages, all styled with an external style sheet.    
+This unit uses a step-by-step walkthough produced by General Assembly. In this walkthough students are provided with directions to create a mock blog site. This walkthrough incorporates aspects of HTML, CSS and jQuery.
 
 
 ##Lessons
 
-1. [What is CSS?](sessions/1-style)
-2. [Wireframing](sessions/2-wireframing)
-3. [Project: CSS ScriptEd Garden](sessions/3-project-garden)
-4. [Project: About Who?](sessions/4-project-who)
+1. [GA Dash](sessions/1-walkthrough)
+
 
 
 ##Standards
@@ -22,11 +20,9 @@ Demonstrate command of the conventions of standard English grammar and usage whe
 
 [CCSS.ELA-LITERACY.L.9-10.1.A](http://www.corestandards.org/ELA-Literacy/L/9-10/1/a/)  
 
-Use parallel structure.
+Using parallel structure.
 
-[CCSS.ELA-LITERACY.L.9-10.1.B](http://www.corestandards.org/ELA-Literacy/L/9-10/1/b/)  
 
-Use various types of phrases (noun, verb, adjectival, adverbial, participial, prepositional, absolute) and clauses (independent, dependent; noun, relative, adverbial) to convey specific meanings and add variety and interest to writing or presentations.
 
 ####CSTA Standards
 
@@ -34,4 +30,6 @@ Use various types of phrases (noun, verb, adjectival, adverbial, participial, pr
 
 **CT.L2-04** Evaluate ways that different algorithms may be used to solve the same problem. 
 
+**CPP.L2-05 I** - Event-Driven Behavior
+1. Student	can	use	"onclick"	events	to	trigger	JavaScript	behavior	from	user	interaction.
 
