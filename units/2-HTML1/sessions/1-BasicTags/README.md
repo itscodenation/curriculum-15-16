@@ -22,7 +22,7 @@ For this lesson, it is preferred for students to write and run all HTML in a bas
 
 ### Assessment
 
-Students will show progress toward reaching the objective based on their performance on the Do Now and Exit Ticket.
+Students will show progress toward reaching the objective based on their performance on the Do Now and independent practice activity.
 
 
 ### Vocabulary
