@@ -10,11 +10,11 @@
 ### Key Points
 
 * A webpage is a text document running in a browser.
-* All code online can be seen by any user
+* All code online can be seen by any user.
 
 ### Assessment
 
-1. Students will be assesed on their performance on the do now and exit task.
+1. Students will be assesed on their performance on the Do Now and Exit Task.
 
 
 ### Vocabulary
@@ -25,7 +25,7 @@
 
 ### References
 
-* https://developer.chrome.com/devtools
+* [Chrome DevTools](https://developer.chrome.com/devtools)
 
 ## During Class
 
@@ -33,11 +33,13 @@
 ### Do Now
 
 1. Volunteer takes attendance. [Procedure found here](https://docs.google.com/document/d/19IIhqykr70vj7wnqyJYuQNTkd9GX56Xgl3omD42IcMk/edit).
-2. Do Now question to students on the board:   
-**There are two errors in the HTML page below. What are they and how can you fix them?** This question should be answered on paper.
+2. Pose Do Now question to students, by projecting it onto the board: 
+  
+**There are two errors in the HTML page below. What are they and how can you fix them?** 
 
 ![Imgur](http://i.imgur.com/9te8ql9.png)
 
+This question should be answered on paper.
 
 ### Opening
 
@@ -50,14 +52,14 @@ Invite a student up to the board to point out the errors.
 Explain to the students how to access the developer tools in their browser. Bring up a website (preferably an article based site that is gender neutral - i.e. about.com, bbc.co.uk, etc.). Showcase how you can use the developer tools to edit and personalize features on a site that is only viewable on your local machine. If using chrome be sure to point out the magnifying tool to easily locate the text on a page. 
 
 ### Guided Practice (“We Do”)
-With the same webpage from the I Do still open ask for student volunteers to come up to the front of the room and try to make their own edit to the page.
+With the same webpage from the 'Introduction to New Material' still open, ask for student volunteers to come up to the front of the room and try to make their own edit to the page.
 
 Allow 2-3 students to come up and make changes.
 
 After changes have been made, demonstrate that simply reloading the page will undo all edits.
 
 ### Independent Practice ("You Do")
-"For out next project you will be remixing an article on the NY Times to be about yourself."
+"For our next project, you will be remixing an article on the NY Times to be about yourself."
  
 Ask students to visit nytimes.com and choose an article. Using the developer tools, students should edit a story to be about themselves. 
 
@@ -69,12 +71,3 @@ Ask students to visit nytimes.com and choose an article. Using the developer too
 
 ### Closing/Exit Task
 Wrap up the day with a quick recap on everything that was covered. 
-
-Ask students to show off their work by taking a screenshot and bringing it up on the front screen.
-
-## How to Submit
-Students should take a Screenshot of this project and hold on to it any way they feel is necessary. 
-
-## After Class
-* Take a quick look at each project from today. Students who were not able to create the page should be asked to recreate it, with teacher’s help, next class.
-* Prepare for next lesson / hand off to next volunteer in rotation.
