@@ -10,7 +10,6 @@ Students will able to create, instantiate, and edit variables in JavaScript.
 
 ### Key Points
 
-* JavaScript is a programming language that we can run in our browser.
 * Variables are like boxes; they store something.
 * Variables have a name and a value.
 * We can perform various operations on variables.
@@ -22,13 +21,10 @@ Students will show progress toward reaching the objective based on their perform
 
 ### Vocabulary
 
-* JavaScript
 * Variable
 * Instantiate
 * Assign
 * Increment / Decrement
-* Arithmetic operation
-* Type
 
 ### References
 
@@ -47,16 +43,13 @@ Students will show progress toward reaching the objective based on their perform
 
 Today we will learn about variables in JavaScript. This is important because we can use variables to store things that we can later on look up. It connects to what we've previously learned because we will be able to, eventually, write JavaScript code that interacts with the HTML & CSS that we have written before.
 
-What is a programming language? Can someone give me some examples? Remind me what a browser is. 
-
-JavaScript is also a programming language and we can run it in our browser.
-
-What is a box? Why do we put things in a box? Can we take things out of the box once we've put stuff in it? 
+What is a box? Why do we put things in a box? Can we take things out of the box once we've put stuff in it?
 
 ### Introduction to New Material ("I Do")
 
 Use the Google slides (see references above) to introduce the following material:
-#####Instantiate, Print and Change a Variable
+
+##### Instantiate, Print and Change a Variable
 
 **Variables** in JavaScript are like boxes in real life. All variables have a **name** and a **value**.
 
@@ -126,19 +119,6 @@ console.log(age)
 
 now gives us 24.
 
-######Order of Operations
-
-Remember PEMDAS:
-
-1. Parenthesis
-2. Exponent
-3. Multiplication
-4. Divison
-5. Addition
-6. Subtraction
-
-These are the same order of operations you follow in math class. See link in references for more.
-
 ######Increment
 
 It's your birthday today. You were 16 yesterday and now you are 17 today. Let's represent this in JavaScript:
@@ -157,38 +137,6 @@ console.log(todayAge);
 ```
 
 This first line from above is equivalent to the second line from earlier. We can similarly use the ``--`` or **decrement** operator to decrease the value of a variable by 1.
-
-######Types
-
-Every variable in JavaScript has a type. So far, we have seen two types: strings (which have quotes around them) and numbers. We can use the ``typeof`` function to print the type. 
-
-```
-var name = "Justin Bieber";
-var age = 22;
-console.log(typeof(name));
-console.log(typeof(age));
-```
-
-prints out 
-
-```
-string
-number
-```
-
-Suppose we instead had the following:
-
-```
-var age = "22";
-```
-
-What type is the above variable? 
-
-```
-console.log(typeof(age));
-```
-
-prints out ``string`` because we put quotes around 22. This tells JavaScript to treat the value as a string.
 
 ### Guided Practice ("We Do")
 
