@@ -11,6 +11,12 @@ This unit introduces students to the fundamentals of web design using HTML. It a
 4. [Images](sessions/4-image)
 5. [Project #2: Images](sessions/5-project-image)
 
+##Codecademy Resources
+
+1. [HTML Basics](http://www.codecademy.com/courses/web-beginner-en-HZA3b/0/1?curriculum_id=50579fb998b470000202dc8b) - teaches the tags covered in this unit
+2. [Build Your Own Webpage](https://www.codecademy.com/courses/web-beginner-en-LceTK/0/1?curriculum_id=50579fb998b470000202dc8b) - re-inforces HTML learned thus far
+
+
 #Standards
 
 ###English Standards

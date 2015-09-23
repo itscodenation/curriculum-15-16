@@ -11,6 +11,12 @@ This unit starts with an introduction to strings. After becoming comfortable wit
 4. [Conditionals: Or/And](sessions/4-conditional)  
 5. [Project #2: Grading App](sessions/5-project-grading)
 
+
+##Codecademy Resources
+
+1. [Javascript substrings](https://www.codecademy.com/courses/getting-started-v2/3/5?curriculum_id=506324b3a7dffd00020bf661) - exercises 22 and 23 cover substrings
+2. [Javascript: Make your computer think!](https://www.codecademy.com/courses/getting-started-v2/2/1?curriculum_id=506324b3a7dffd00020bf661) - exercises 12-17 cover conditionals
+
 ##Standards
 
 ####CPP.L2-05 I - Strings

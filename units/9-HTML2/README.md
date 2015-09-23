@@ -9,6 +9,12 @@ This unit introduces linking pages, creating relative links, images, and creatin
 2. [Style and Script](sessions/2-styleScript)  
    [Project: About Me](sessions/3-project-aboutMe)
 
+##Codecademy Resources
+
+1. [HTML Basics II, exercises 1-6](http://www.codecademy.com/courses/web-beginner-en-y2Yjd/0/1?curriculum_id=50579fb998b470000202dc8b) - teaches HTML lists
+2. [HTML Basics III](http://www.codecademy.com/courses/web-beginner-en-f8mcL/0/1?curriculum_id=50579fb998b470000202dc8b) - introduces `<div>`, `<table>`, and `<span>`
+3. [HTML and CSS Projects](https://www.codecademy.com/en/courses/html-css-prj) - open-ended HTML and CSS practice projects in increasing order of difficulty.
+
 ##Standards
 
 ###English Standards

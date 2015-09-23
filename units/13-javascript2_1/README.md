@@ -11,6 +11,12 @@ This unit introduces arrays and loops to our students. Students will learn how t
 4. [Arrays](sessions/4-array)  
    [Project: Color Changer](sessions/5-project-colorChanger)
 
+##Codecademy Resources
+
+1. [Introduction to While Loops in Javascript](https://www.codecademy.com/courses/javascript-beginner-en-ASGIv/0/1?curriculum_id=506324b3a7dffd00020bf661)
+2.[Introduction to For Loops in Javascript](https://www.codecademy.com/courses/javascript-beginner-en-NhsaT/0/1?curriculum_id=506324b3a7dffd00020bf661)
+3.[Arrays and Loops](https://www.codecademy.com/courses/javascript-beginner-en-NhsaT/2/1?curriculum_id=502d635ceda910000200293b#!/exercises/0) - exercises 9-13
+
 ##Standards
 
 ###CPP.L2-05 I - Arrays

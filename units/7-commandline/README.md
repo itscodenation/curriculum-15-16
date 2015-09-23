@@ -7,6 +7,10 @@ This unit introduces the basic CRUD (create, read, update, delete) commands in t
 1. [Command Line Basics](sessions/1-commandline)
 2. [Terminus Game](sessions/2-terminus)
 
+##Codecademy Resources
+
+1. [Learn the Command Line](https://www.codecademy.com/courses/learn-the-command-line) - Navigation and Manipulation units cover `cd`, `ls`, `mkdir`, `pwd`, `touch`, `cp`, and `mv`
+
 ##Standards
 
 ####Math Standards

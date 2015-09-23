@@ -10,6 +10,10 @@ This unit starts with an introduction to variables. Students will learn how to c
 3. [Project #1: Tiny Turtle](sessions/3-project-tinyturtle)
 4. [Project #2: Calculator](sessions/4-project-calculator)
 
+##Codecademy Resources
+
+1. [Javascript - Getting Started with Programming](https://www.codecademy.com/courses/javascript-beginner-en-6LzGd/0/1?curriculum_id=506324b3a7dffd00020bf661) - covers introduction to basic types and variables.
+
 ##Standards
 
 ####CPP.L2-05 I - Variables
