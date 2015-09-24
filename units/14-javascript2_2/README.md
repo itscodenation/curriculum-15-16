@@ -11,6 +11,7 @@ This unit introduces hashes. Students will learn how to initialize, store, and r
    [Project: Address Book](sessions/4-projectaddressBook)
 
 ##Codecademy Resources
+The following CodeCademy lessons correspond and will help student understand  the concepts in this unit. The teacher may choose to assign these lessons if they would like.
 
 1. [Introduction to Objects, exercises 6-12](https://www.codecademy.com/courses/spencer-sandbox/1/1?curriculum_id=506324b3a7dffd00020bf661)
 
