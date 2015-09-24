@@ -11,6 +11,7 @@ This unit focuses on the styling of websites using CSS. Through several learning
 4. [Project: About Who?](sessions/4-project-who)
 
 ##Codecademy Resources
+The following CodeCademy lessons correspond and will help student understanding of he concepts in this unit. The teacher may choose to assign these lessons if they would like.
 
 1. [CSS: An Overview](http://www.codecademy.com/courses/web-beginner-en-TlhFi/0/1?curriculum_id=50579fb998b470000202dc8b)
 2. [Design a Button For Your Website](http://www.codecademy.com/courses/web-beginner-en-UuBLw/0/1?curriculum_id=50579fb998b470000202dc8b) - build a button by styling divs and links
