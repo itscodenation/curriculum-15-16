@@ -13,6 +13,7 @@ This unit starts with an introduction to strings. After becoming comfortable wit
 
 
 ##Codecademy Resources
+The following CodeCademy lessons correspond and will help student understand  the concepts in this unit. The teacher may choose to assign these lessons if they would like.
 
 1. [Javascript substrings](https://www.codecademy.com/courses/getting-started-v2/3/5?curriculum_id=506324b3a7dffd00020bf661) - exercises 22 and 23 cover substrings
 2. [Javascript: Make your computer think!](https://www.codecademy.com/courses/getting-started-v2/2/1?curriculum_id=506324b3a7dffd00020bf661) - exercises 12-17 cover conditionals
