@@ -11,6 +11,7 @@ This unit makes an introduction to jQuery. Students will learn about selectors a
    [Project: The Facebook Wall](https://github.com/ScriptEdcurriculum/facebook_wall)
 
 ##Codecademy Resources
+The following CodeCademy lessons correspond and will help student understand  the concepts in this unit. The teacher may choose to assign these lessons if they would like.
 
 1. [Introduction to jQuery](https://www.codecademy.com/courses/web-beginner-en-bay3D/0/1?curriculum_id=50a3fad8c7a770b5fd0007a1)
 2. [jQuery - Modifying HTML Elements](https://www.codecademy.com/courses/web-beginner-en-v6phg/0/1?curriculum_id=50a3fad8c7a770b5fd0007a1)
