@@ -10,6 +10,7 @@ This unit delves into `<div>` tags, `id`, `class`, float, transitions, and anima
 2. [CSS Zen Garden](https://github.com/ScriptEdcurriculum/ZenGardenUnit10)
 
 ##Codecademy Resources
+The following CodeCademy lessons correspond and will help student understand  the concepts in this unit. The teacher may choose to assign these lessons if they would like.
 
 1. [HTML Basics III](http://www.codecademy.com/courses/web-beginner-en-f8mcL/0/1?curriculum_id=50579fb998b470000202dc8b) - introduces `<div>`, `<table>`, and `<span>`
 2. [CSS Positioning, exercises 13-25](http://www.codecademy.com/courses/web-beginner-en-6merh/2/1?curriculum_id=50579fb998b470000202dc8b) - covers CSS positioning, including `float` and `clear` properties as well as `static`, `absolute`, and `relative` positioning
