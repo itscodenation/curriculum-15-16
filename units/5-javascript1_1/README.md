@@ -11,6 +11,7 @@ This unit starts with an introduction to variables. Students will learn how to c
 4. [Project #2: Calculator](sessions/4-project-calculator)
 
 ##Codecademy Resources
+The following CodeCademy lessons correspond and will help student understand  the concepts in this unit. The teacher may choose to assign these lessons if they would like.
 
 1. [Javascript - Getting Started with Programming](https://www.codecademy.com/courses/javascript-beginner-en-6LzGd/0/1?curriculum_id=506324b3a7dffd00020bf661) - covers introduction to basic types and variables.
 
