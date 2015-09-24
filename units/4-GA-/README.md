@@ -8,7 +8,9 @@ This unit uses a step-by-step walkthough produced by General Assembly. In this w
 
 1. [GA Dash](sessions/1-walkthrough)
 
+##Codecademy Resources
 
+1. [Make an Interactive Website](https://www.codecademy.com/en/skills/make-an-interactive-website) - introduces Javascript and jQuery. Specifically, [this lesson](https://www.codecademy.com/en/skills/make-an-interactive-website/topics/jquery-events/jquery-user-events) covers event handlers.
 
 ##Standards
 

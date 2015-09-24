@@ -10,6 +10,11 @@ This unit introduces hashes. Students will learn how to initialize, store, and r
    [Project: Around the World](sessions/3-project-aroundTheWorld)  
    [Project: Address Book](sessions/4-projectaddressBook)
 
+##Codecademy Resources
+
+1. [Introduction to Objects, exercises 6-12](https://www.codecademy.com/courses/spencer-sandbox/1/1?curriculum_id=506324b3a7dffd00020bf661)
+
+
 ##Standards
 
 ###CPP.L3A-08 I 

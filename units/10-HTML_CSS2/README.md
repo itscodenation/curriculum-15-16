@@ -9,6 +9,12 @@ This unit delves into `<div>` tags, `id`, `class`, float, transitions, and anima
 2. [CSS Robot Project](sessons/2-project)
 2. [CSS Zen Garden](https://github.com/ScriptEdcurriculum/ZenGardenUnit10)
 
+##Codecademy Resources
+
+1. [HTML Basics III](http://www.codecademy.com/courses/web-beginner-en-f8mcL/0/1?curriculum_id=50579fb998b470000202dc8b) - introduces `<div>`, `<table>`, and `<span>`
+2. [CSS Positioning, exercises 13-25](http://www.codecademy.com/courses/web-beginner-en-6merh/2/1?curriculum_id=50579fb998b470000202dc8b) - covers CSS positioning, including `float` and `clear` properties as well as `static`, `absolute`, and `relative` positioning
+3. [Build a Resume](http://www.codecademy.com/courses/web-beginner-en-9x6JW-WnAFv/0/1?curriculum_id=50579fb998b470000202dc8b) - use CSS knowledge so far to build a resume
+
 ####English Standards
 
 [CCSS.ELA-LITERACY.L9-10.1](http://www.corestandards.org/ELA-Literacy/L/9-10/1/)
