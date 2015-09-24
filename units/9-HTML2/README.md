@@ -10,6 +10,7 @@ This unit introduces linking pages, creating relative links, images, and creatin
    [Project: About Me](sessions/3-project-aboutMe)
 
 ##Codecademy Resources
+The following CodeCademy lessons correspond and will help student understand  the concepts in this unit. The teacher may choose to assign these lessons if they would like.
 
 1. [HTML Basics II, exercises 1-6](http://www.codecademy.com/courses/web-beginner-en-y2Yjd/0/1?curriculum_id=50579fb998b470000202dc8b) - teaches HTML lists
 2. [HTML Basics III](http://www.codecademy.com/courses/web-beginner-en-f8mcL/0/1?curriculum_id=50579fb998b470000202dc8b) - introduces `<div>`, `<table>`, and `<span>`
