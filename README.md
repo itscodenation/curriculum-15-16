@@ -40,7 +40,7 @@ Students in the advanced course will be completing their final projects using Cl
 | Unit  | Sessions | Skills | Project | API | 
 |-------|:-------:|------|--------------|---------|
 | [1. Scavenger Hunt](unitsYear2/1-JShunt)| 1-2 | Variables, Functions, Strings, Conditionals, Loops, jQuery | Scavenger hunt of many short programs (<10 lines each) | N/A |
-| [2. Rock, Paper, Scissors](https://github.com/ScriptEdcurriculum/rockPaperScissors_Adv)| 2 | Math.random, jQuery, conditionals | A fully fonctional game (user vs. bot) | N/A
+| [2. Rock, Paper, Scissors](https://github.com/ScriptEdcurriculum/rockPaperScissors_Adv)| 2 | Math.random, jQuery, conditionals | A fully functional game (user vs. bot) | N/A
 | [3. Website ReBranding](unitsYear2/3-reDesign)| 2 | Wireframing, Bootstrap, Pair programming | Redesign a company homepage | N/A
 | [4. SoundCloud API Project](unitsYear2/4-soundcloudAPI)| 1-2 | APIs | A site that displays relevant song information based by genre | [SoundCloud](https://developers.soundcloud.com/docs/api/guide)
 | [5. Instagram API Project](https://github.com/ScriptEdcurriculum/instagramAPI_Adv) | 2-3 | APIs | A site that searches instagram for images tagged with key words entered by the user | [Instagram](https://instagram.com/developer/) | 
