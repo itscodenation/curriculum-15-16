@@ -101,7 +101,7 @@ Students must push their code to their GitHub repo using the following commands 
 `git commit -m "example comment"`  
 `git push origin master`
 
-This project does not yet have to be share with the instructors.
+This project does not yet have to be share with the instructors. It will soon be shared in a future lesson.
 
 ###Homework
 Students who are not complete with their site by the end of class should complete it at home for homework. 

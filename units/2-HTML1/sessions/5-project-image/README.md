@@ -51,4 +51,5 @@ Select students to present their work to the class.
 ###How to Submit 
 This process can take 5+ minutes, given that its still new for students:
 
-Students must share their **Gist URL** at bit.ly/ScriptEdProjects
+Students must submit their **Gist URL** at the project submission link found in the header of the Daily Session Document.
+

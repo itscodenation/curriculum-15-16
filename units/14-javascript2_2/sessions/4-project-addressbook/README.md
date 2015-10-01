@@ -75,5 +75,5 @@ Students must push all final code to their GitHub repository. To push changes in
 `git add .`  
 `git commit -m "example comment"`  
 `git push origin master`  
- 
-**Students will then share the link to their repo at bit.ly/ScriptEdProjects**
+
+Students will then share the link to their repo at the project submission link found in the header of the Daily Session Document.

@@ -84,7 +84,7 @@ Encorage students to share their work on the board.
 
 This process can take 5+ minutes, given that it will be new for students:
 
-Students must share their **Gist URL** at bit.ly/ScriptEdProjects
+Students must submit their **Gist URL** at the project submission link found in the header of the Daily Session Document.
 
  
 ## After Class

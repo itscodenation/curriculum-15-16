@@ -64,7 +64,7 @@ Select students to present their work to the class.
 Teachers should keep track of student success while they are presenting to the class.
 
 ###How to Submit
-Students must push all final code to their GitHub repository. Students will then share the link to their repo at [bit.ly/ScriptEdProjects](https://docs.google.com/a/scripted.org/forms/d/15gUqwz36Vy4C-6-rTeKFo88Tmq0e5vZ3ZKjXAhE5v7Y/viewform?fbzx=-5506744927335389465)
+Students must push all final code to their GitHub repository. Students will then share the link to their repo at the project submission link found in the header of the Daily Session Document.
 
 To push to GitHub run the following commands in your terminal:  
 `git status`  
