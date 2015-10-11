@@ -42,7 +42,7 @@
 “Today we will be learning how to use a technique called wireframing to convey a visual idea of what you intend to build. You already started to do this a moment ago. This is important because wireframes help you know what you need to build -- you can’t build an app if you don’t know what it’s going to look like.” 
 
 ### Introduction to New Material (“I Do”)
-Lead instructor will display the wireframe for [YouTube](https://wireframe.cc/84C5gA), and have students guess which website it is a wireframe for. Ask them how they knew.
+Lead instructor will display the wireframes for YouTube ([mobile](https://wireframe.cc/84C5gA) and [desktop](https://wireframe.cc/LyQAxg)), and have students guess which website it is a wireframe for. Ask them how they knew.
 
 Explain that a wireframe is a tool that is used by lots of people who are involved with app creation -- developers, coders, designers, business analysts are a few people who might use a wireframe. Feel free to elaborate on how you use wireframesand how they have been useful to you.
 
