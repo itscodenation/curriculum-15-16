@@ -22,7 +22,7 @@ Create a personal portfolio site that includes all projects you have ever made. 
 * Try adding some CSS animations to your project.
 
 ##How to Submit
-The final code for this project must be pushed back up to your repo on GitHub. **Then share the link to your repo at bit.ly/ScriptEdProjects**
+The final code for this project must be pushed back up to your repo on GitHub. **Then share the link to your repo at the project submission link found in the header of the Daily Session Document (bit.ly/ScriptEd).**  
 
 To push to GitHub run the following commands in your terminal:  
 `git status`  
