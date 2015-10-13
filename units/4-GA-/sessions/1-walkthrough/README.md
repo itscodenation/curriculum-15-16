@@ -83,6 +83,6 @@ Leave about 5 minutes at the end of class for there to be a discussion about wha
 Students who are not complete with the tutorial and/or the worksheet by the end of class should complete it at home for homework.
  
 ## After Class
-* Teachers must reveiw student tutorial worksheets. It is crucial to provide this feedback so that students will see the value of their work.
+* Teachers must review student tutorial worksheets. It is crucial to provide this feedback so that students will see the value of their work.
 
 * Prepare for next lesson / hand off to next volunteer in rotation.
