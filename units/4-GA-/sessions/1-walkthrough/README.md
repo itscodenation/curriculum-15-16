@@ -59,7 +59,7 @@ On the screen, open up the General Assembly site and provide a quick explanation
 
 ### Guided Practice (“We Do”)
 
-Walk through the first 4-5 slides with he students on the board to show how the tutorial tells you what to type BUT also becomes less helpful as the tutorial progresses. Be sure to also point out the importance of answering the questions on the worksheet as you complete the tutorial.
+Walk through the first 4-5 slides with the students on the board to show how the tutorial tells you what to type BUT also becomes less helpful as the tutorial progresses. Be sure to also point out the importance of answering the questions on the worksheet as you complete the tutorial.
 
 ### Independent Practice ("You Do")
 
