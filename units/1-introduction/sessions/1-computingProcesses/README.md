@@ -4,7 +4,7 @@
 
 ## Before Class
 ###Teacher Preparation
-* Must have copies of [syllabus](https://www.dropbox.com/s/maienun209adcy7/ScriptEd%20Year%201%20Syllabus.docx?dl=0) printed.
+* Must have copies of [syllabus](https://drive.google.com/file/d/0B2338t7VZqsoRy1pLWJyZ3gyb2M/view?usp=sharing) printed.
 * Two blank pieces of paper ready to be either taped or tacked to the back wall.
 
 
@@ -34,7 +34,7 @@ Students will be able to demonstrate the ability to use computing thought proces
 
 ### References
 
-* [Syllabus](https://www.dropbox.com/s/maienun209adcy7/ScriptEd%20Year%201%20Syllabus.docx?dl=0)
+* [Syllabus](https://drive.google.com/file/d/0B2338t7VZqsoRy1pLWJyZ3gyb2M/view?usp=sharing)
 
 
 ## During Class
