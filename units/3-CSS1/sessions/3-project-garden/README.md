@@ -7,7 +7,7 @@
 
 ###Teacher Preparation 
 * Familiarize yourself with [CSS Zen Garden](http://www.csszengarden.com/).
-* Prepare to provide students with [starter code](http://jsbin.com/yiyihe/edit?html).
+* Prepare to provide students with [starter code](http://jsbin.com/ruqujodove/edit).
 
 ### Prerequisites
 Students should only start this project after they have completed the other lessons in the unit.
@@ -36,7 +36,7 @@ Introduce the [CSS Zen Garden](http://www.csszengarden.com/). Explain that as de
 Walk students through the process of accessing the starter code and cloning it into their own account.
 
 1. Students must logon to [JSBin](http://jsbin.com) 
-2. Students will access the starter code by visiting [http://bit.ly/csszgse](http://bit.ly/csszgse)
+2. Students will access the starter code by visiting [http://jsbin.com/ruqujodove](http://jsbin.com/ruqujodove)
 3. Students will select File > Clone to save the code into their own account. 
 4. Students will then be allowed to edit the file once they have successfully cloned the starter code
 
