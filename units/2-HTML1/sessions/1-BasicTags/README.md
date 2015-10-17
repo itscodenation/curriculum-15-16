@@ -57,7 +57,7 @@ All webpages are made up of HTML. Think about it like this... Your speak in engl
 
  HTML pages are made of of tags. Every opening tag has a closing tag. 
  
- FILO (First In Last Out) is a term used to describe how tags can fall inside of other tage. (reference the analogy with parenthesis in math class).
+ FILO (First In Last Out) is a term used to describe how tags can fall inside of other tags. (reference the analogy with parenthesis in math class).
 
 ### Guided Practice (“We Do”)
 #####Slide 8
