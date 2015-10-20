@@ -8,7 +8,7 @@ Year 1
 ===================
 While completing the units below, the students are working towards becoming extremely qualified at all the skills found in the [ScriptEd Foundations Rubric](https://docs.google.com/a/scripted.org/spreadsheets/d/1i21YAD2TBEn7nYeii5VH_7smUjCV13cvX2qgbhEkeZk/edit#gid=1132597865).
 
-| Unit  | Lessons | Topics/Skills | Project 1 | Project 2 |
+| Unit  | Sessions | Topics/Skills | Project 1 | Project 2 |
 |-------|:-------:|------|--------------|--------------|
 | [**0. ScriptEd**](units/0-Infosession/)| 1 | Routines and Expectations | N/A| N/A|
 | [**1. Intro to CS**](units/1-introduction/)| 1 | Computational thinking | N/A| N/A|
