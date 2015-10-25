@@ -25,7 +25,7 @@
 
 ### References
 
-* [Chrome DevTools](https://developer.chrome.com/devtools)
+* [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools)
 
 ## During Class
 
