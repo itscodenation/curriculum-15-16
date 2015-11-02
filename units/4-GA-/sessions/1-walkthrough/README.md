@@ -70,13 +70,6 @@ During this time teachers will circulate to help students with technical issues.
 **Note:** This is a long period of time for a teenager to be completing a single task. Some may need an occasional break from time-to-time. Feel free to have a quick off-topic conversation with a student if you see them struggling to focus.
 
 ### Closing
-After completing sections 1, 2 & 3 students should begin working on the Activity at the bottom of the Walkthrough worksheet; which reads: 
-
-![Image](http://i.imgur.com/tZmFR5b.png)
-
-Although students can get started now, this will be the topic of next class so students should not get too carried away as of right now.
-
-### Check for Understanding
 Leave about 5 minutes at the end of class for there to be a discussion about what was learned today by completing a tutorial on General Assembly.
 
 ###Homework
