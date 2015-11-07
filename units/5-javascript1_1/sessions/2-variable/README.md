@@ -1,4 +1,4 @@
-#Lesson 1 - Variables
+#Lesson 2 - Variables
 
 ![image](http://i.imgur.com/xwrZiJd.jpg)
 
@@ -6,14 +6,15 @@
 
 ### Objective
 
-Students will able to create, instantiate, and edit variables in JavaScript.
+Students will able to create variables, assign values to them, and use them in
+expressions.
 
 ### Key Points
 
-* Variables are like boxes; they store something.
+* Variables allow us to remember a **value** by giving it a name.
 * Variables have a name and a value.
-* We can perform various operations on variables.
-* Each variable has a type.
+* The name of a variable, *without quotes*, is an **expression** whose
+  **value** is the value of the variable.
 
 ### Assessment
 
@@ -22,13 +23,12 @@ Students will show progress toward reaching the objective based on their perform
 ### Vocabulary
 
 * Variable
-* Instantiate
+* Declare
 * Assign
 * Increment / Decrement
 
 ### References
 
-* [Variable Slides](https://docs.google.com/presentation/d/1CAMz_T9qWWL6GSNx70ZtxwLm-AAN0sBgPaQMDtJ3ZD0/edit#slide=id.g11014a258_073)
 * [Homework](homework/), Should be printed out before class
 * Other Resources: http://www.mathsisfun.com/operation-order-pemdas.html, http://www.w3schools.com/js/js_variables.asp, http://www.w3schools.com/js/js_datatypes.asp, http://www.w3schools.com/js/js_functions.asp, http://www.w3schools.com/js/js_comments.asp
 
@@ -37,126 +37,135 @@ Students will show progress toward reaching the objective based on their perform
 ### Do Now
 
 1. Volunteer takes attendance. [Procedure found here](https://docs.google.com/document/d/19IIhqykr70vj7wnqyJYuQNTkd9GX56Xgl3omD42IcMk/edit).
-2. Do a recall activity to remind students about what variables are and how they are used. 
+2. Do a recall activity to remind students about what variables are and how they are used.
 
 ### Opening
 
-Today we will learn about variables in JavaScript. This is important because we can use variables to store things that we can later on look up. It connects to what we've previously learned because we will be able to, eventually, write JavaScript code that interacts with the HTML & CSS that we have written before.
+Cold call a student volunteer. Tell the volunteer, “I need you to help me
+remember something. The password is ‘wombat’”.
 
-What is a box? Why do we put things in a box? Can we take things out of the box once we've put stuff in it?
+After pausing for a moment, ask the student, “what is the password?”. The
+baffled student should reply, “wombat”.
+
+Thank the student, then tell them, “the secret code is 2468”. Again, after a
+pause, ask them to recite the secret code. Thank them for answering correctly.
+
+Then ask again for the password, and again for the secret code. Point out that
+you gave the volunteer two different pieces of information, and you’re able to
+recall the right one by invoking the *name* you gave to that information:
+“password” or “secret code”.
+
+We can do this when we’re programming, too. In JavaScript, we can create
+*variables* to remember a piece of information, which we can later refer to by
+name.
 
 ### Introduction to New Material ("I Do")
 
-Use the Google slides (see references above) to introduce the following material:
+#### Declaring and assigning variables
 
-##### Instantiate, Print and Change a Variable
+Tell the students you’re going to tell them how to create a new variable in
+JavaScript, and to get ready to take notes. Then, on the board, write a
+variable declaration, one step at a time:
 
-**Variables** in JavaScript are like boxes in real life. All variables have a **name** and a **value**.
+* **The `var` keyword**: Explain that, any time we are *creating* a new
+  variable, we start by writing the word `var`. This is a special word that
+  JavaScript knows means we want to create a new variable.
+* **The name of the variable**: Write down “password” to tie the lesson back
+  in to the intro. Explain that every variable has a name, and we can use that
+  name to retrieve the piece of information that the variable is remembering
+  for us.
+* **The `=` sign**: Explain that, after the variable name, we always write an
+  equals sign.
+* **The value of the variable**: Explain that, after the equals sign, we can
+  write *any expression*. The value of that expression will become the value
+  remembered by the variable.
 
-```
-var singer = "Justin Bieber";
-```
+Take a moment to give some definitions:
 
-This is an example of one variable that has a name called ``singer`` and a value called ``"Justin Bieber"``. We could say it is **instantiated** to the value ``"Justin Bieber"``. Notice the ``var`` keyword too; this is how we tell JavaScript we are making a new variable. Also notice the semi-colon at the end of the line; this is how we tell JavaScript we are done with a line of code. Finally, notice the quotes around the word Justin Bieber. These quotes tell JavaScript that this thing is a String.
+* A **variable** is a name given to a value, so that it can be stored for
+  later use.
+* To **declare** a variable is to make a new variable.
+* We **assign** a value to a variable.
 
-Suppose we want to print the value of the variable:
+Go back to your example and point out that we are both **declaring** the
+variable and **assigning** it a value, all at the same time. Emphasize that we
+only have to **declare** the variable once, but we can **assign** it different
+values at different times.
 
-```
-console.log(singer);
-```
+Write an example where we assign a different value to the variable; point out
+that this time, we don’t use the `var` keyword.
 
-This line prints ``"Justin Bieber`` to the console using the ``log()`` function. We'll explore both the console and functions later on in this unit. For now, pass in any variable you create into the console.log() function to print it out..
+#### Using a variable
 
-Suppose our favorite singer is Ariana Grande, not Justin Bieber. We could change the value of the variable:
+Write a value-expression T-Chart on the board, like the one from the previous
+lesson.
 
+In the left column, write `password`, without quotes. Ask a student to guess what the right value is.
 
-```
-singer = "Ariana Grande";
-console.log(singer);
-```
+Explain that once we declare a variable, the name of that variable *is an
+expression* that produces the value stored in the variable.
 
-This code prints out ``"Ariana Grande"`` to the console. 
-
-#####Arithmetic Operations
-
-Once we've stored something into a variable, we can do things with it. Suppose we have a variable that stored a number:
-
-```
-var age = 10;
-```
-
-Suppose we want to add two years to this age. We could use the `+` or addition operator:
-
-```
-age = age + 2;
-```
-
-Let's read this right to left. We're taking the number 2 and then adding it to the variable ``age``. We're then setting the result of that addition to the variable ``age``. So if we did:
-
-```
-console.log(age);
-```
-
-We would see ``12`` get printed out. We can similarly use the ``-`` (subtraction), ``/`` (division), and ``*`` (multiplication) operators. 
-
-Suppose we want to double the age to 24. We could
-
-```
-age = age * 2;
-
-OR
-
-age = age + age;
-```
-
-Let's talk about the second suggestion. Again, right to left: take the variable ``age`` (which is currently set to 12) and add it to ``age`` again (also set to 12). The result of the addition is 24 which then gets stored in the variable ``age``.  
-
-So 
-
-```
-console.log(age)
-```
-
-now gives us 24.
-
-######Increment
-
-It's your birthday today. You were 16 yesterday and now you are 17 today. Let's represent this in JavaScript:
-
-```
-var yesterdayAge = 16;
-var todayAge = yesterdayAge + 1;
-console.log(todayAge);
-```
-
-This prints out ``17`` like we expect. But line two took forever to write. Let's shorten it by using the **increment** operator. 
-
-```
-todayAge = yesterdayAge++;
-console.log(todayAge);
-```
-
-This first line from above is equivalent to the second line from earlier. We can similarly use the ``--`` or **decrement** operator to decrease the value of a variable by 1.
+Write a few more complex expressions that use the `password` variable, e.g.
+`password + "!"`, `password + password`, etc. Have the students help you fill
+in the values.
 
 ### Guided Practice ("We Do")
 
-Write one variable that is named "modeOfTransit" and is set to the string "bicycle." Write another variable that is named "numberOfWheels" and set it to the number 2.
+This takes the same form as the We Do from the previous lesson, with the
+instructor leading the students in typing expressions into the JSBin console,
+observing the value they produce, and then writing down each one in a T-chart.
 
-1. How do I print out the values of both variables?
-2. How do I change the value of the modeOfTransit variable to "tricycle"?
-3. How do I change the value of the numberOfWheels variable to 3?
-4. How do I multiply the value of the numberOfWheels variable by 2? 
-5. How do I decrease the numberOfWheels variable by 1 without using the subtract operator?
+* `var artist = "Drake"`
+  Point out that the JSBin console prints `undefined`, which just means “no
+  value here”. Compare that to the beginning of class when you asked the
+  student to remember the password; the student had no particular *answer* to
+  that request; they simply did as you asked.
+  Prompt the students for the **name** of the variable and the **value** of the
+  variable.
+* `var age = 27`
+  Ask the students for the name and value of this variable. As a refresher, ask
+  what **type** the value has.
+* `artist`
+  Emphasize that the name of the `artist` variable **is an expression**. Point
+  out that it produces the value that we assigned to the `artist` variable.
+* `age`
+  Emphasize that each variable remembers the value we assigned it.
+* `"age"`
+  Ask the students why this produced a different value. If necessary, reinforce
+  the effect of quotation marks and the difference between string literals and
+  variable names.
+* `"Hotline Bling is a song by " + artist`
+  Reinforce that you can use a variable name as part of a larger expression.
+* `age + 2`
+* `age`
+  Point out that even though we typed `age + 2` in the previous step, we
+  haven’t changed the value of the `age` variable. It’s still 27.
+* `age = 40`
+  Emphasize that there is no `var` here! Since we’re assigning a *new* value to
+  an *old* variable, we don’t write `var`.
+* `age`
+  Point out that the expression `age` produces the *last* value that we
+  assigned to that variable. The previous value, 27, has now been forgotten.
+* `var currentYear = 2015`
+  Point out that variable names can’t contain spaces, so when we want to make a
+  variable whose name is more than one word, we capitalize all the words but
+  the first one. Write a couple of other examples on the board.
+* `currentYear - age`
+  Point out that we are now using two different variables in one expression
+* `age = age + 1`
+  Emphasize that, after the equals sign, we can write *any expression we want*.
+  We can even write an expression that includes the name of the variable we’re
+  assigning a new value to!
+* `age`
+  Point out that, since we have now **assigned** a new value to `age`, that
+  value has replaced the previous value.
 
 ### Independent Practice ("You Do")
 
-Write one variable that is named "character" and is set to the string "Shrek." Write another variable that is named "heightInFeet" and set it to the number 6.
-
-1. Print out the values of both variables.
-2. Change the value of the character variable to "Fiona".
-3. Change the value of the heightInFeet variable to 5.
-4. Divide the value of the heightInFeet variable by 2.
-5. Increase the character variable by 1 without using the addition operator.
+* Write an expression that produces **half the value of age**.
+* Write a statement that assigns `age` a value **one less** than it was before.
+  * There are actually three ways to do this in JavaScript. Can you use Google
+    to figure out all three?
 
 ### Exit Ticket
 
@@ -179,5 +188,5 @@ Today you learned about variables in JavaScript and JavaScript itself. This is i
 
 ## After Class
 
-* Review student exit tickets. 
+* Review student exit tickets.
 * Prepare for next lesson / hand off to next volunteer in rotation.
