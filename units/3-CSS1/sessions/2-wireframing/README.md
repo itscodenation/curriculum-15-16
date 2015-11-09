@@ -44,7 +44,7 @@
 ### Introduction to New Material (“I Do”)
 Lead instructor will display the wireframe for [YouTube](https://wireframe.cc/LyQAxg), and have students guess which website it is a wireframe for. Ask them how they knew.
 
-Explain that a wireframe is a tool that is used by lots of people who are involved with app creation -- developers, coders, designers, business analysts are a few people who might use a wireframe. Feel free to elaborate on how you use wireframesand how they have been useful to you.
+Explain that a wireframe is a tool that is used by lots of people who are involved with app creation -- developers, coders, designers, business analysts are a few people who might use a wireframe. Feel free to elaborate on how you use wireframes and how they have been useful to you.
 
 
 ### Guided Practice (“We Do”)
