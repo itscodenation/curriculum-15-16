@@ -72,13 +72,6 @@ You and your partner can work on the code for this project at the same time usin
 
 In order to set this up click on the "Share" button in the top right-hand corner of your workspace.
 
-###Bonus) 
-Your Manager has offered a stipend a $500 for each of the bonus requirements listed below: 
-
-* Add CSS to this project using Bootstrap. Give your project it's own theme
-* Create a game with more variety in throwing opitons. Example: [Rock-Paper-Scissors-Lizard-Spock](http://en.wikipedia.org/wiki/Rock-paper-scissors-lizard-Spock) 
-***
-
 ##Grading Criteria
 Your manager will be grading your capability on this project based on [this rubric](assessment.md).
 
