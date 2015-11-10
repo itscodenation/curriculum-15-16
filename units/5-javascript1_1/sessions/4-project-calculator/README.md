@@ -13,7 +13,8 @@ Students should only start this project after they have completed the other less
 
 ### Starter Code
 
-See [here](starter_code/) for code and [here](https://rawgit.com/ScriptEdcurriculum/curriculum/master/units/5-javascript/lessons/4-project/starter_code/index.html) to view.
+See [here](starter_code/) for code and [here](https://rawgit.com/ScriptEdcurriculum/curriculum/master/units/5-javascript/lessons/4-project/starter_code/index.html) to view.  
+See [here](http://jsbin.com/kezopi/1/edit?html,js,output) for JS Bin environment.
 
 ### Solution Code
 
@@ -38,7 +39,7 @@ For 10+11, what are the operands? What's the operator? And what's the result?
 ###Introduction to New Material ("I Do")
 You are going to build the guts of a two-operand, integer calculator. You will be given some starter code. Instructions:
 
-You are to modify `js/guts.js`. You will add the following functions to it:
+You are to modify/add the functions we need to make this entire calculator functional. These functions will be added below line 135 in the JavaScript file. **Students should not manipulate code above line 135** You will add the following functions:
 
 ```
 multiply(x,y);
@@ -67,14 +68,16 @@ Additional guidelines:
 3. Successfully solve your favorite function. Make sure it works before moving on to others.
 
 ###Independent Practice ("You Do")
-It's build time! Students will work alone on this project. The teacher's role will be to walk around the room helping students with any questions they have. Students are encouraged to look at previous lessons for reference.
+It's build time! Students should clone the environment found at [http://jsbin.com/kezopi/1/edit?html,js,output](http://jsbin.com/kezopi/1/edit?html,js,output). Students should only change code below line 135 unless they are working on an extension activity
+
+Students will work alone on this project. The teacher's role will be to walk around the room helping students with any questions they have. Students are encouraged to look at previous lessons for reference.
 
 ###Extension Activities
 Students who complete the project early may attempt to improve their project by including the following:  
 
 * Added CSS for visual customization
-* A factorial function
-* A quadratic formula function
+* Add a factorial button to the calculator.
+* A quadratic formula button to the calculator.
 
 ###Closing
 Select students to present their work to the class.
