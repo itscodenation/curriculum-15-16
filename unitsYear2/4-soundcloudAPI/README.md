@@ -25,7 +25,7 @@ By the end of this project the employee will be able to...
 
 ##References/Tools
 * [Script Tag](http://javascript.crockford.com/script.html)
-* [SoundCloud Developers Guide](developers.soundcloud.com/docs/api/guide)
+* [SoundCloud Developers Guide](http://web.archive.org/web/20150701150357/http://developers.soundcloud.com/docs)
 * [HTTP Method explained](http://www.w3schools.com/tags/ref_httpmethods.asp)
 
  
@@ -51,7 +51,7 @@ This should have already been completed during the [Do Now](doNow.md).
 **Before moving on to step two, ensure your HTML is correct by having an instructor confirm you are ready to move on.** 
 
 ###2) Obtain a Client ID
-In order to use a company's API you must request access and have them send you an API key. SoundCloud asks you to do this by registering your app on the [SoundCloud Developers Guide](developers.soundcloud.com/docs/api/guide) page.
+In order to use a company's API you must request access and have them send you an API key. SoundCloud asks you to do this by registering your app on the [SoundCloud Developers Guide](http://web.archive.org/web/20150701150357/http://developers.soundcloud.com/docs) page.
 
 Sign in or create a SoundCloud account to receive you Client ID. After your Client ID has been emailed to you use ```SC.initialize``` to begin using the SoundCloud API.
 
@@ -72,19 +72,19 @@ Now that you have stored the value of the user input it is time to use it with t
 Now that you have initialized the document and you are ready to interpret user input from the html file you are now ready to call the SoundCloud API to **get** data.  
 
 Call on the SC.get function to get tracks by the genre selected by the userInput.  
-If you are having an issue with this check out the [Basic Use](https://developers.soundcloud.com/docs/api/sdks#basic) section of the SoundCloud API Documentation. Also see the documentation on the SC.get method [here](https://developers.soundcloud.com/docs/api/sdks#methods).    
+If you are having an issue with this check out the [Basic Use](http://web.archive.org/web/20150701150357/http://developers.soundcloud.com/docs) section of the SoundCloud API Documentation. Also see the documentation on the SC.get method [here](http://web.archive.org/web/20150701150357/http://developers.soundcloud.com/docs).    
 
 
 After the SC.get function has been created you must use the .each function of jQuery to then append text within the results id.
 
 
 ###6) Display content
-You are finally ready to start placing text in the form of API references in your HTML page! Use the [SoundCloud API reference](https://developers.soundcloud.com/docs/api/reference#tracks) to do this. The example completed code uses track, genre and permalink_url but you may choose any three properties to display on your page for each song. 
+You are finally ready to start placing text in the form of API references in your HTML page! Use the [SoundCloud API reference](http://web.archive.org/web/20150701150406/https://developers.soundcloud.com/docs/api/reference#tracks) to do this. The example completed code uses track, genre and permalink_url but you may choose any three properties to display on your page for each song. 
 
 ####Bonus) 
 Your Manager has offered a stipend of $500 for each of the bonus requirements listed below:  
 
-* Display information about the user next to information about the track. Use the [SoundCloud Developers Guide](developers.soundcloud.com/docs/api/guide) for this documentation
+* Display information about the user next to information about the track. Use the [SoundCloud Developers Guide](http://web.archive.org/web/20150701150402/https://developers.soundcloud.com/) for this documentation
 * Stream a song matching the genre selected. Use the [SoundCloud Developers Guide](developers.soundcloud.com/docs/api/guide) for this documentation.  
 
 ***
