@@ -17,7 +17,7 @@ See [here](starter_code/) for code and [here](https://rawgit.com/ScriptEdcurricu
 
 ### Solution code
 
-See [here](https://github.com/ScriptEdcurriculum/solutions2015/tree/master/14-javascript2_2/lessons/4-project) for code (private).
+See [here](https://github.com/ScriptEdcurriculum/solutions2015/tree/master/year1/14-javascript2_2/project-addressBook) for code (private).
 
 
 ##During Class
