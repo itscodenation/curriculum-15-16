@@ -57,8 +57,8 @@ Sign in or create a SoundCloud account to receive you Client ID. After your Clie
 
 
 ###3) Ready the Document
-Now that you have initialized the yourwebapp it is time to "ready" the document. For information on how to do this, research the [jQuery ready function](learn.jquery.com/using-jquery-core/document-ready/).  
-*Hint: all of the remaining code for this project will fall inside of this ready function.*
+Now that you have initialized the yourwebapp it is time to "ready" the document. For information on how to do this, research the [jQuery ready function](https://api.jquery.com/ready/).  
+*Hint: all of the remaining code for this project will fall inside of this .ready function.*
 
 
 ###4) Interpret User Input
