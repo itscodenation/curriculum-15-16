@@ -71,7 +71,7 @@ In order to achieve this declare a variable called ```searchButton``` equal to t
 Now that you have stored the value of the user input it is time to use it with the SoundCloud API.  
 Now that you have initialized the document and you are ready to interpret user input from the html file you are now ready to call the SoundCloud API to **get** data.  
 
-Call on the SC.get function to get tracks by the genre selected by the userInput.  
+Call on the SC.get function to get tracks by the genre selected by the userChoice.  
 If you are having an issue with this check out the [Basic Use](http://web.archive.org/web/20150701150357/http://developers.soundcloud.com/docs) section of the SoundCloud API Documentation. Also see the documentation on the SC.get method [here](http://web.archive.org/web/20150701150357/http://developers.soundcloud.com/docs).    
 
 
