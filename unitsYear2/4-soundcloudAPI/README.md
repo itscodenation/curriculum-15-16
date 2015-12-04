@@ -64,7 +64,7 @@ Now that you have initialized the yourwebapp it is time to "ready" the document.
 ###4) Interpret User Input
 Now that the document is ready you must store the user's response in a variable.  
 
-In order to achieve this set a variable equal to the id of your button. Then use the ```.click``` function to set the **value**  of the user input to a new variable called ```userChoice```.     
+In order to achieve this declare a variable called ```searchButton``` equal to the id of your button (hint: this should have the same name). Then use the ```.click``` function to set the **value**  of the user input to a new variable called ```userChoice```.     
 *Hint: this can be accomplished in 3 lines of code. before moving on to step 5 check this code is working by logging userChoice to the console.*  
 
 ###5) SC.get
