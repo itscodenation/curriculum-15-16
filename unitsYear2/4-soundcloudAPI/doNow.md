@@ -13,10 +13,11 @@ The do now activity for this lesson is to create the html page below in a new Gi
 This webpage must also include the following:  
 
 * Three ```script``` tags linked to the following:
- 	1. jQuery
- 	2. [SoundCloud's JavaScript SDK](developers.soundcloud.com/blog/introducing-javascript-sdk-version-2)  
- 	3. Your ```script.js``` file
- 	  		
+ ```
+         <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+        <script src="https://connect.soundcloud.com/sdk.js"></script>
+        <script src="script.js"></script>
+ 	``` 
 * Your input field must be assigned the id "genreSearch"
 * Your button must be assigned the id "searchButton"
 * Below the button must be an empty unordered list with the id "results"
