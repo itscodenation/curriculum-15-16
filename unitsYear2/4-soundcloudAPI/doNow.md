@@ -12,10 +12,11 @@ The do now activity for this lesson is to create the html page below in a new Gi
 
 This webpage must also include the following:  
 
-* Three ```script``` tags linked to the following:
+* Three ```script``` tags linked to the following:  
+
  ```
-         <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
-        <script src="https://connect.soundcloud.com/sdk.js"></script>
+         <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>  
+        <script src="https://connect.soundcloud.com/sdk.js"></script>  
         <script src="script.js"></script>
  	``` 
 * Your input field must be assigned the id "genreSearch"
