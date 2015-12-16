@@ -47,7 +47,7 @@ At this point the teacher should demonstrate a working model of the [solution co
 
 ##### 1. Clone the Starter Code
 
-Open the Starter code link [here](http://jsbin.com/vucobo/edit?html,js,output).
+Open the Starter code link [here](http://jsbin.com/wutibe/edit?html,js,output).
 
 Once you are looking at the code, go to File > Clone to create a new workspace for yourself.  
 ![Imgur](http://i.imgur.com/Wt5iMBpm.png)
