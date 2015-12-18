@@ -29,7 +29,7 @@ Students will show progress toward reaching the objective based on their perform
 
 ### References
 
-* [Presentation Slides](https://docs.google.com/presentation/d/1B1waYai67ysg7eqhc9Mm1O6fG7XO_WIPkCZxOiwyhj4/edit?usp=sharing)
+* [Presentation Slides](https://docs.google.com/presentation/d/1p4eYiboXUIy4Wr-h5bmcq-haaXe2WHby16Vc2xLfWK0/edit#slide=id.gc63b2358e_0_105)
 
 ## During class
 
@@ -77,7 +77,7 @@ At this point the students do not know how to push their code from Cloud 9 back 
 
 #### Exit ticket
 
-Give exit ticket. Slide 7 of the [Presentation Slides](https://docs.google.com/presentation/d/1B1waYai67ysg7eqhc9Mm1O6fG7XO_WIPkCZxOiwyhj4/edit?usp=sharing)
+Give exit ticket. Slide 7 of the [Presentation Slides](https://docs.google.com/presentation/d/1p4eYiboXUIy4Wr-h5bmcq-haaXe2WHby16Vc2xLfWK0/edit#slide=id.gc63b2358e_0_105)
 
 ### Closing
 
