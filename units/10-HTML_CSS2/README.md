@@ -6,7 +6,7 @@ This unit delves into `<div>` tags, `id`, `class`, float, transitions, and anima
 ##Lessons
 
 1. [Divs, IDs, and Classes](sessions/1-divIdClass)
-2. [CSS Robot Project](sessons/2-project)
+2. [CSS Robot Project](sessions/2-project)
 2. [CSS Zen Garden](https://github.com/ScriptEdcurriculum/ZenGardenUnit10)
 
 ##Codecademy Resources
