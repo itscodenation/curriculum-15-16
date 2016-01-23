@@ -11,7 +11,7 @@ Students will be able to create, initialize, access, manipulate, and iterate thr
 ### Key points
 
 * Objects, like arrays, are used to store data.
-* Unlike arrays, objects represent an unordered list through key-value pairs.
+* Unlike arrays, objects represent a set of properties through key-value pairs.
 
 
 ### Assessment
@@ -54,7 +54,7 @@ Correct! To print the **value** of the **key** dog you can use...
 ```
 console.log(animalSounds["dog"]);
 ``` 
-Let's add another key-value pair to this object. The new Pair will be bird and chirp. Your code should now look like this:
+Let's add another property to this object. The new Pair will be bird and chirp. Your code should now look like this:
 
 ```
 var animalSounds = {"cow": "Moo", "cat": "Meow", "dog": "Woof" "Bird", "chirp"};
@@ -82,7 +82,7 @@ console.log(birdSounds["swan"]);
 
 Here, the `bird` key has a value that is an object. So we first unload that object into its own variable. Then we access it like any other object.
 
-Think about why we used an object inside an object here. We could have just added two more key-value pairs to the `animalSounds` object. But we didn't because we want to use the keys in that object to represent *types* of animals, not specific kinds.
+Think about why we used an object inside an object here. We could have just added two more properties to the `animalSounds` object. But we didn't because we want to use the properties in that object to represent *types* of animals, not specific kinds.
 
 ### Guided practice ("We do")
 

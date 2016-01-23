@@ -41,7 +41,7 @@ Modify `js/guts.js` and create a function called `addContacts()`. This function 
 
 * The key of the object must be your contact's name in string form.
 * The value of the object must be another object. 
-	* This second object must contain three key-value pairs. The keys must be called: location, picture, and email. The values for each of these keys will be a string.
+	* This second object must contain three properties. The properties must be called: location, picture, and email. The values for each of these properties will be a string.
 
 Populate this object with 5 contacts. For the picture value, supply a link to the picture in the form of a string. Use image hosting services such as [imgur](http://imgur.com) if you need to.
 
@@ -49,7 +49,7 @@ Populate this object with 5 contacts. For the picture value, supply a link to th
 
 Modify `js/guts.js` and create a function called `searchContacts(contacts, query)`. This function will take in two parameters: `contacts` which is an object containing the contacts from `addContacts()` and `query` which is the search query of the user. Use `console.log()` to verify that these statements are true.
 
-This function should return an object containing all the contacts that match the user's search query. You should check the query against every key-value pair. In other words, the user should be able to search for a contact by name, location, or email.
+This function should return an object containing all the contacts that match the user's search query. You should check the query against every property. In other words, the user should be able to search for a contact by name, location, or email.
 
 ###Brainstorming
 Before you start coding, identify the list of steps you need to do to finish this project. Here's a start:

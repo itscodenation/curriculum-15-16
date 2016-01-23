@@ -22,7 +22,7 @@ Students will show progress toward reaching the objective based on their perform
 ### Vocabulary
 
 * Curly brace
-* Key-value pair
+* Property (name and value)
 * For-in loop
 
 ### References
@@ -53,9 +53,9 @@ Lets say I want to specify the capital of each of the countries listed in the ar
 var animalSounds = {cow: "Moo", cat: "Meow", dog: "Woof"};
 ```
 
-Let's break this down right to left. Note the **open curly brace** (`{`) and **close curly brace** (`}`). These braces specify the beginning and end of the object. This particular object has three **key-value** pairs. Note that each key-value pair is separated by a comma. We then take this object and store in a variable called `animalSounds`.
+Let's break this down right to left. Note the **open curly brace** (`{`) and **close curly brace** (`}`). These braces specify the beginning and end of the object. This particular object has three **properties**. Note that each property has a **name** and a **value**, which are separated by a colon; each name-value pair is separated by a comma. We then take this object and store in a variable called `animalSounds`.
 
-Let's talk about the key-value pairs more. In this object, `cow`, `cat`, and `dog` represent keys. `"Moo"`, `"Meow"`, and `"Woof"` represent those keys' respective values. These values happen to be strings.
+Let's talk about the properties more. In this object, `cow`, `cat`, and `dog` represent property names. `"Moo"`, `"Meow"`, and `"Woof"` represent those properties' respective values. These values happen to be strings.
 
 ####Access and print an element of an object
 
@@ -82,7 +82,7 @@ console.log(console.log(animalSounds["cow"]);
 This prints out `Moo`. 
 
 
-####Change the value of a key-value pair in an object
+####Change the value of a property in an object
 
 Let's change `cat`'s value:
 
@@ -93,7 +93,7 @@ console.log(animalSounds["cat"]);
 
 This prints out `Purr`.
 
-####Add a key-value pair to the object
+####Add a property to the object
 
 What if we want to add another animal-sound pair to our object? We can:
 
@@ -117,7 +117,7 @@ for (key in animalSounds)
 }
 ```
 
-This is an example of a **for-in** loop. It will print each key-value pair in the object. The above prints:
+This is an example of a **for-in** loop. It will print the name and value of each property in the object. The above prints:
 
 ```
 key: cow, value: Moo
@@ -125,9 +125,9 @@ key: cat, value: Meow
 key: dog, value: Woof
 ```
 
-####Remove key-value pair
+####Remove a property
 
-What if we want to remove a key-value pair from our cash? We can:
+What if we want to remove a property from our object? We can:
 
 ```
 var animalSounds = {cow: "Moo", cat: "Meow", dog: "Woof"};
@@ -159,7 +159,7 @@ var worldCapitals = {"United States": "Washington D.C.", "United Kingdom": "Lond
 1. How do I print out China's capital?
 2. How do I change the United States' capital?
 3. How do I add one country-capital pair to the object?
-4. How do I remove Bangladesh's key-value pair?
+4. How do I remove Bangladesh's property?
 5. How do I print each capital in our object without having to access each one individually?
 
 ### Independent practice ("You do")
