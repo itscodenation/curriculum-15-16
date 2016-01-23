@@ -15,7 +15,7 @@ Once the user types in a Country name the following information should display:
 
 ##Scope
 
-The focus of this project is to create a simple webpage that uses jQuery and a hash to print out information of a country based on a user's request.
+The focus of this project is to create a simple webpage that uses jQuery and an object to print out information of a country based on a user's request.
 
 
 ##Before Class
