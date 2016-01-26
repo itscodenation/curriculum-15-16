@@ -1,12 +1,12 @@
-#Unit 14 - Hashes
+#Unit 14 - Objects
 
 ##Synopsis
-This unit introduces hashes. Students will learn how to initialize, store, and read from hashes. They will also learn how to access and manipulate individual elements of a hash. Finally, they will leverage their knowledge of loops to iterate through hashes.
+This unit introduces objects. Students will learn how to initialize, store, and read from objects. They will also learn how to access and manipulate individual properties of an object. Finally, they will leverage their knowledge of loops to iterate through objects.
 
 ##Sessions
 
-1. [Hashes](sessions/1-hash)
-2. [Hashes Inside Hashes](sessions/2-hashes)  
+1. [Objects](sessions/1-hash)
+2. [Objects Inside Objects](sessions/2-hashes)  
    [Project: Around the World](sessions/3-project-aroundTheWorld)  
    [Project: Address Book](sessions/4-projectaddressBook)
 
@@ -19,4 +19,4 @@ The following CodeCademy lessons correspond and will help student understand  th
 ##Standards
 
 ###CPP.L3A-08 I 
-1. Student can explain the executive process in a has by differentiating from key-value pairs.
+1. Student can explain the executive process in an object by differentiating from key-value pairs.

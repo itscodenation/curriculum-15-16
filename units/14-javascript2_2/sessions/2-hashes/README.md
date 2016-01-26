@@ -1,4 +1,4 @@
-#Lesson 2 - Hash-ception (hashes inside of hashes)
+#Lesson 2 - Object-ception (objects inside of objects)
 
 ![image](http://i.imgur.com/FWOuXvf.jpg)
 
@@ -6,12 +6,12 @@
 
 ### Objective
 
-Students will be able to create, initialize, access, manipulate, and iterate through hashes.
+Students will be able to create, initialize, access, manipulate, and iterate through objects.
 
 ### Key points
 
-* Hashes, like arrays, are used to store data.
-* Unlike arrays, hashes represent an unordered list through key-value pairs.
+* Objects, like arrays, are used to store data.
+* Unlike arrays, objects represent a set of properties through key-value pairs.
 
 
 ### Assessment
@@ -22,7 +22,7 @@ Students will show progress toward reaching the objective based on their perform
 
 ### Vocabulary
 
-* Hash hierarchy
+* Nested objects
 
 ### References
 
@@ -38,13 +38,13 @@ Students will show progress toward reaching the objective based on their perform
 
 ### Opening
 
-Last time we met we learned about hashes. Can someone tell me what a hash is and what they do?
+Last time we met we learned about objects. Can someone tell me what an object is and what they do?
 
 **Note: in JavaScript some people will refer to this as a hash and others will call it an object.**
 
 ### Introduction of new material ("I do")
 
-Let's refresh our memories here a bit. If I have the hash below How can I print the sound a dog makes to the console?
+Let's refresh our memories here a bit. If I have the object below How can I print the sound a dog makes to the console?
 
 ```
 var animalSounds = {"cow": "Moo", "cat": "Meow", "dog": "Woof"};
@@ -54,17 +54,17 @@ Correct! To print the **value** of the **key** dog you can use...
 ```
 console.log(animalSounds["dog"]);
 ``` 
-Let's add another key-value pair to this hash. The new Pair will be bird and chirp. Your code should now look like this:
+Let's add another property to this object. The new Pair will be bird and chirp. Your code should now look like this:
 
 ```
 var animalSounds = {"cow": "Moo", "cat": "Meow", "dog": "Woof" "Bird", "chirp"};
 ```
 
-####Hash in a hash
+####Object in an object
 
 But wait! Not all birds make the same noise. Is there a way we can specify the type of bird?
  
-Like Matryoshka dolls (see picture at top), we can store hashes inside of other hashes:
+Like Matryoshka dolls (see picture at top), we can store objects inside of other objects:
 
 ```
 var animalSounds = 
@@ -80,15 +80,15 @@ var birdSounds = animalSounds["bird"]
 console.log(birdSounds["swan"]); 
 ```
 
-Here, the `bird` key has a value that is a hash. So we first unload that hash into its own variable. Then we access it like any other hash.
+Here, the `bird` key has a value that is an object. So we first unload that object into its own variable. Then we access it like any other object.
 
-Think about why we used a hash inside a hash here. We could have just added two more key-value pairs to the `animalSounds` hash. But we didn't because we want to use the keys in that hash to represent *types* of animals, not specific kinds.
+Think about why we used an object inside an object here. We could have just added two more properties to the `animalSounds` object. But we didn't because we want to use the properties in that object to represent *types* of animals, not specific kinds.
 
 ### Guided practice ("We do")
 
 Now lets take a look at your project from last session. Right now the user can type in a country and see the capital.
 
-Lets make this more interesting by adding the following information to each country using hashes inside the hash you have made.
+Lets make this more interesting by adding the following information to each country using objects inside the object you have made.
 
 Along with the capital also list:
 
@@ -106,7 +106,7 @@ Give exit-ticket quiz.
 
 ### Closing
 
-Today you learned about placing hashes inside of hashes. This is especially useful when it is necessary to display multiple points about a single item.
+Today you learned about placing objects inside of objects. This is especially useful when it is necessary to display multiple points about a single item.
 
 #### Homework
 

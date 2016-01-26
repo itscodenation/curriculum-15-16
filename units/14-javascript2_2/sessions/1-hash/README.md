@@ -1,4 +1,4 @@
-#Lesson 1 - Hashes
+#Lesson 1 - Objects
 
 ![Imgur](http://i.imgur.com/Yugqw7pm.jpg)
 
@@ -6,13 +6,12 @@
 
 ### Objective
 
-Students will be able to create, initialize, access, manipulate, and iterate through hashes.
+Students will be able to create, initialize, access, manipulate, and iterate through objects.
 
 ### Key points
 
-* Hashes, like arrays, are used to store data.
-* Unlike arrays, hashes represent an unordered list through key-value pairs.
-
+* Objects, like arrays, are used to store data.
+* Unlike arrays, objects represent a mapping of property names to values through key-value pairs.
 
 ### Assessment
 
@@ -23,7 +22,7 @@ Students will show progress toward reaching the objective based on their perform
 ### Vocabulary
 
 * Curly brace
-* Key-value pair
+* Property (name and value)
 * For-in loop
 
 ### References
@@ -40,33 +39,33 @@ Students will show progress toward reaching the objective based on their perform
 
 ### Opening
 
-Today we will learn about hashes. This is important because hashes are a tool that programmers use to store a large set of unordered data. It connects to what we've previously learned because we will be able to perform array like operations with hashes. 
+Today we will learn about objects. This is important because objects are a tool that programmers use to store a large set of unordered data. It connects to what we've previously learned because we will be able to perform array like operations with objects. 
 
-Lets say I want to specify the capital of each of the countries listed in the array you made for the Do Now. How can I do that? You can do that using a hash.
+Lets say I want to specify the capital of each of the countries listed in the array you made for the Do Now. How can I do that? You can do that using an object.
 
 **Note: in JavaScript some people will refer to this as a hash and others will call it an object.**
 
 ### Introduction of new material ("I do")
 
-####Create and initialize a hash
+####Create and initialize an object
 
 ```
-var animalSounds = {"cow": "Moo", "cat": "Meow", "dog": "Woof"};
+var animalSounds = {cow: "Moo", cat: "Meow", dog: "Woof"};
 ```
 
-Let's break this down right to left. Note the **open curly brace** (`{`) and **close curly brace** (`}`). These braces specify the beginning and end of the hash. This particular hash has three **key-value** pairs. Note that each key-value pair is separated by a comma. We then take this hash and store in a variable called `animalSounds`.
+Let's break this down right to left. Note the **open curly brace** (`{`) and **close curly brace** (`}`). These braces specify the beginning and end of the object. This particular object has three **properties**. Note that each property has a **name** and a **value**, which are separated by a colon; each name-value pair is separated by a comma. We then take this object and store in a variable called `animalSounds`.
 
-Let's talk about the key-value pairs more. In this hash, `cow`, `cat`, and `dog` represent keys. `"Moo"`, `"Meow"`, and `"Woof"` represent those keys' respective values. These values happen to be strings.
+Let's talk about the properties more. In this object, `cow`, `cat`, and `dog` represent property names. `"Moo"`, `"Meow"`, and `"Woof"` represent those properties' respective values. These values happen to be strings.
 
-####Access and print an element of a hash
+####Access and print an element of an object
 
 ```
 console.log(animalSounds["cat"]);
 ```
 
-This prints out `Meow`. Here, `cat` is the key. Whereas with arrays we use indices to access elements, with hashes we use keys.
+This prints out `Meow`. Here, `cat` is the key. Whereas with arrays we use indices to access elements, with objects we use keys.
 
-What if we want to access and print the value corresponding to the `dog` key of our hash?
+What if we want to access and print the value corresponding to the `dog` key of our object?
 
 ```
 console.log(animalSounds["dog"]);
@@ -83,7 +82,7 @@ console.log(console.log(animalSounds["cow"]);
 This prints out `Moo`. 
 
 
-####Change the value of a key-value pair in a hash
+####Change the value of a property in an object
 
 Let's change `cat`'s value:
 
@@ -94,9 +93,9 @@ console.log(animalSounds["cat"]);
 
 This prints out `Purr`.
 
-####Add a key-value pair to the hash
+####Add a property to the object
 
-What if we want to add another animal-sound pair to our hash? We can:
+What if we want to add another animal-sound pair to our object? We can:
 
 ```
 animalSounds["snake"] = "Hiss";
@@ -107,10 +106,10 @@ This prints out `Hiss`.
 
 ####Iterate
 
-What if we want to print every element in our hash? We can:
+What if we want to print every element in our object? We can:
 
 ```
-var animalSounds = {"cow": "Moo", "cat": "Meow", "dog": "Woof"};
+var animalSounds = {cow: "Moo", cat: "Meow", dog: "Woof"};
 
 for (key in animalSounds) 
 { 
@@ -118,7 +117,7 @@ for (key in animalSounds)
 }
 ```
 
-This is an example of a **for-in** loop. It will print each key-value pair in the hash. The above prints:
+This is an example of a **for-in** loop. It will print the name and value of each property in the object. The above prints:
 
 ```
 key: cow, value: Moo
@@ -126,12 +125,12 @@ key: cat, value: Meow
 key: dog, value: Woof
 ```
 
-####Remove key-value pair
+####Remove a property
 
-What if we want to remove a key-value pair from our cash? We can:
+What if we want to remove a property from our object? We can:
 
 ```
-var animalSounds = {"cow": "Moo", "cat": "Meow", "dog": "Woof"};
+var animalSounds = {cow: "Moo", cat: "Meow", dog: "Woof"};
 
 delete animalSounds["dog"];
 
@@ -151,19 +150,21 @@ key: cat, value: Meow
 
 ### Guided practice ("We do")
 
-Now we're going to work with hashes together. Find the capitals to each of the countries you used in the Do Now. 
+Now we're going to work with objects together. Find the capitals to each of the countries you used in the Do Now. 
 
-``var worldCapitals = {"United States" : "Washington D.C.", "United Kingdom": "London", "China" : "Beijing", "Bangladesh" : "Dhaka"}``
+```javascript
+var worldCapitals = {"United States": "Washington D.C.", "United Kingdom": "London", "China": "Beijing", "Bangladesh": "Dhaka"}
+```
 
 1. How do I print out China's capital?
 2. How do I change the United States' capital?
-3. How do I add one country-capital pair to the hash?
-4. How do I remove Bangladesh's key-value pair?
-5. How do I print each capital in our hash without having to access each one individually?
+3. How do I add one country-capital pair to the object?
+4. How do I remove Bangladesh's property?
+5. How do I print each capital in our object without having to access each one individually?
 
 ### Independent practice ("You do")
 
-Create a new GitHub repo called Hash-unit and clone a Cloud9 repo with the same name.
+Create a new GitHub repo called Object-unit and clone a Cloud9 repo with the same name.
 
 Create a page that displays the capital of country typed in by the user on a simple HTML page. This can be done either through an alert box or a form on your HTML page.
 
@@ -173,7 +174,7 @@ Give exit-ticket quiz.
 
 ### Closing
 
-Today you learned about hashes. This is important because hashes are used to represent unordered list and connect items through key-value pairs. 
+Today you learned about objects. This is important because objects are used to represent unordered list and connect items through key-value pairs. 
 
 #### Homework
 
