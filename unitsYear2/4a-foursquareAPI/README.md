@@ -23,7 +23,7 @@ By the end of this project the employee will be able to...
 
 ##References/Tools
 * [Script Tag](http://javascript.crockford.com/script.html)
-* [SoundCloud Developers Guide](http://web.archive.org/web/20150701150357/http://developers.soundcloud.com/docs)
+* [Foursquare API Developers Guide](https://developer.foursquare.com/)
 * [HTTP Method explained](http://www.w3schools.com/tags/ref_httpmethods.asp)
 
  
