@@ -43,6 +43,7 @@ Students in the advanced course will be completing their final projects using Cl
 | [2. Rock, Paper, Scissors](https://github.com/ScriptEdcurriculum/rockPaperScissors_Adv)| 2 | Math.random, jQuery, conditionals | A fully functional game (user vs. bot) | N/A
 | [3. Website ReBranding](unitsYear2/3-reDesign)| 2 | Wireframing, Bootstrap, Pair programming | Redesign a company homepage | N/A
 | [4. SoundCloud API Project](unitsYear2/4-soundcloudAPI)| 1-2 | APIs | A site that displays relevant song information based by genre | [SoundCloud](https://developers.soundcloud.com/docs/api/guide)
+| [4a. Foursquare API Project](unitsYear2/4a-foursquareAPI)| 1-2 | APIs | A site that displays pizza places near the user | [Foursquare](https://developer.foursquare.com/)
 | [5. Instagram API Project](https://github.com/ScriptEdcurriculum/instagramAPI_Adv) | 2-3 | APIs | A site that searches instagram for images tagged with key words entered by the user | [Instagram](https://instagram.com/developer/) | 
 | [6. Giphy API](unitsYear2/6-giphyAPI) | 2-3 | APIs | A site that searches Giphy for images tagged with key words entered by the user | [Giphy](https://github.com/Giphy/GiphyAPI)
 | [7.jQuery Battle ](unitsYear2/7-jqueryBattle) | 1 | jQuery, Collision Detection, Key Binding | Game that uses keybindings to move character | N/A
