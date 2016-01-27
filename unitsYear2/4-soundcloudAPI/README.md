@@ -1,6 +1,8 @@
 #Project 4 - Soundcloud API
 ![Imgur](http://i.imgur.com/2kSeDCY.png)
 
+**Message from ScriptEd: This project uses code that is out of date as a result of updates made to Soundcloud's API in November 2015. It is recommended to teach this same lesson using the [Foursquare API](../4a-foursquareAPI) project.**
+
 ##Do Now 
 Begin this session by completing the [Do Now](doNow.md) activity.
 
