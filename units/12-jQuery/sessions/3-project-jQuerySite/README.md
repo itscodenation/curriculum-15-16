@@ -2,7 +2,7 @@
 
 ##Overview
 
-The jQuery site will be created in the process of completing the Independent Practice ("You Do") sections of [Lesson 1](1-selectors/README.md) & [Lesson 2](2-events/README.md) of this unit. The focus of this project is to create a website using almost entirely jQuery code. There will be some basic HTML code for jQuery interaction but that is all.
+The jQuery site will be created in the process of completing the Independent Practice ("You Do") sections of [Lesson 1](../1-selectors/README.md) & [Lesson 2](../2-events/README.md) of this unit. The focus of this project is to create a website using almost entirely jQuery code. There will be some basic HTML code for jQuery interaction but that is all.
  
 ##Before Class
 
