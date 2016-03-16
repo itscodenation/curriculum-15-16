@@ -7,7 +7,7 @@ This unit introduces arrays and loops to our students. Students will learn how t
 
 1. [While Loops](sessions/1-while)
 2. [For Loops](sessions/2-for)  
-   [Project: 99 bottles Project](sessions/3-project-project-99bottles)
+   [Project: 99 bottles Project](https://github.com/ScriptEdcurriculum/curriculum2015/tree/master/units/13-javascript2_1/sessions/3-project-99bottles)
 4. [Arrays](sessions/4-array)  
    [Project: Color Changer](sessions/5-project-colorChanger)
 
