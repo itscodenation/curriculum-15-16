@@ -8,7 +8,7 @@ This unit introduces objects. Students will learn how to initialize, store, and 
 1. [Objects](sessions/1-hash)
 2. [Objects Inside Objects](sessions/2-hashes)  
    [Project: Around the World](sessions/3-project-aroundTheWorld)  
-   [Project: Address Book](sessions/4-projectaddressBook)
+   [Project: Address Book](https://github.com/ScriptEdcurriculum/addressBook)
 
 ##Codecademy Resources
 The following CodeCademy lessons correspond and will help student understand  the concepts in this unit. The teacher may choose to assign these lessons if they would like.

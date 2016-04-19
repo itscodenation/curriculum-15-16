@@ -26,7 +26,7 @@ While completing the units below, the students are working towards becoming extr
 | [**11. Bootstrap**](units/11-bootstrap)| 3 | CDN, wireframing, grid system | [Fictional Character Website](units/11-bootstrap/sessions/project-character) | N/A |
 | [**12. jQuery**](units/12-jQuery)| 4 | Selectors, Attributes, Handlers | [The jQuery Site](units/12-jQuery/sessions/3-project-jQuerySite) | [Facebook Wall](https://github.com/Bijesse/facebook_wall)|
 | [**13. JavaScript 2.1**](units/13-javascript2_1)| 5 | Arrays, Loops | [99 Bottles](units/13-javascript2_1/sessions/3-project-99bottles) | [Color Changer](units/13-javascript2_1/sessions/5-project-colorChanger)|
-| [**14. JavaScript 2.2**](units/14-javascript2_2)| 4 | Objects (hashes) | [Around the World](units/14-javascript2_2/sessions/3-project-aroundTheWorld) | [Address Book](units/14-javascript2_2/sessions/4-project-addressbook)|
+| [**14. JavaScript 2.2**](units/14-javascript2_2)| 4 | Objects (hashes) | [Around the World](units/14-javascript2_2/sessions/3-project-aroundTheWorld) | [Address Book](https://github.com/ScriptEdcurriculum/addressBook)|
 
 
   
